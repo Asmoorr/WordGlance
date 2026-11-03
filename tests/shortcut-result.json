@@ -1,0 +1,6 @@
+﻿{
+  "Hotkey": "Ctrl+Alt+Win+W",
+  "Mechanism": "RegisterHotKey",
+  "ShortcutHotkey": "",
+  "ListenerPID": 27272
+}

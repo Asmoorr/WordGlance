@@ -1,0 +1,18 @@
+﻿[
+  {
+    "Name": "WordGlance — горячая клавиша Cambridge",
+    "State": "Running",
+    "LastResult": 267009,
+    "Delay": "PT20S",
+    "Description": "Запускает скрытый постоянный обработчик Ctrl+Alt+Win+W в сеансе пользователя. По нажатию открывает текущее слово WordGlance в Cambridge Dictionary. Журнал: logs/hotkey.log.",
+    "Arguments": "-NoLogo -NoProfile -NonInteractive -WindowStyle Hidden -ExecutionPolicy Bypass -File \"C:\\Programming\\2026\\WordGlance\\Hotkey-Listener.ps1\""
+  },
+  {
+    "Name": "WordGlance — слова и глазки в фоне",
+    "State": "Running",
+    "LastResult": 267009,
+    "Delay": "PT5S",
+    "Description": "Запускает WordGlance скрыто при входе Artem в Windows. Отдаёт локальную HTML-страницу для Windhawk, меняет слово каждые 4 часа и глазки по времени суток. Без браузера и консольного окна. Журнал: C:\\Programming\\2026\\WordGlance\\logs\\background.log.",
+    "Arguments": "-NoLogo -NoProfile -NonInteractive -WindowStyle Hidden -ExecutionPolicy Bypass -File \"C:\\Programming\\2026\\WordGlance\\Start-Background.ps1\""
+  }
+]

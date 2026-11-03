@@ -1,0 +1,1718 @@
+[
+  [
+    "actor",
+    "актёр",
+    "He's a famous actor from Spain.",
+    "A1"
+  ],
+  [
+    "actress",
+    "актриса",
+    "The actress won an award for her role.",
+    "A1"
+  ],
+  [
+    "art",
+    "искусство",
+    "She studied art at university.",
+    "A1"
+  ],
+  [
+    "artist",
+    "художник, артист",
+    "The artist painted the whole wall.",
+    "A1"
+  ],
+  [
+    "band",
+    "музыкальная группа",
+    "The band played until midnight.",
+    "A1"
+  ],
+  [
+    "cinema",
+    "кино, кинотеатр",
+    "We went to the cinema last night.",
+    "A1"
+  ],
+  [
+    "concert",
+    "концерт",
+    "The concert was completely sold out.",
+    "A1"
+  ],
+  [
+    "dance",
+    "танец; танцевать",
+    "They danced all night at the wedding.",
+    "A1"
+  ],
+  [
+    "dancer",
+    "танцор",
+    "She's a professional ballet dancer.",
+    "A1"
+  ],
+  [
+    "draw",
+    "рисовать",
+    "He loves to draw pictures of animals.",
+    "A1"
+  ],
+  [
+    "famous",
+    "знаменитый",
+    "The singer became famous overnight.",
+    "A1"
+  ],
+  [
+    "festival",
+    "фестиваль",
+    "We went to a music festival last summer.",
+    "A1"
+  ],
+  [
+    "film",
+    "фильм",
+    "The film received great reviews.",
+    "A1"
+  ],
+  [
+    "guitar",
+    "гитара",
+    "He taught himself to play the guitar.",
+    "A1"
+  ],
+  [
+    "movie",
+    "фильм (амер.)",
+    "Let's watch a movie tonight.",
+    "A1"
+  ],
+  [
+    "museum",
+    "музей",
+    "The museum has a huge collection of paintings.",
+    "A1"
+  ],
+  [
+    "music",
+    "музыка",
+    "She listens to music while she works.",
+    "A1"
+  ],
+  [
+    "paint",
+    "красить, рисовать; краска",
+    "He painted the fence bright blue.",
+    "A1"
+  ],
+  [
+    "painting",
+    "картина, живопись",
+    "The painting sold for a huge amount of money.",
+    "A1"
+  ],
+  [
+    "piano",
+    "пианино",
+    "She's been playing the piano since she was six.",
+    "A1"
+  ],
+  [
+    "singer",
+    "певец",
+    "The singer performed two new songs.",
+    "A1"
+  ],
+  [
+    "song",
+    "песня",
+    "This is my favourite song.",
+    "A1"
+  ],
+  [
+    "story",
+    "история, рассказ",
+    "She told us a story about her childhood.",
+    "A1"
+  ],
+  [
+    "theatre",
+    "театр",
+    "We booked tickets for the theatre.",
+    "A1"
+  ],
+  [
+    "writer",
+    "писатель",
+    "He's a well-known writer of children's books.",
+    "A1"
+  ],
+  [
+    "author",
+    "автор",
+    "The author signed copies of her new novel.",
+    "A2"
+  ],
+  [
+    "cartoon",
+    "мультфильм",
+    "The children watched cartoons on Saturday morning.",
+    "A2"
+  ],
+  [
+    "celebrity",
+    "знаменитость",
+    "A celebrity was spotted at the restaurant.",
+    "A2"
+  ],
+  [
+    "comedy",
+    "комедия",
+    "It's a light comedy, perfect for a weekend film.",
+    "A2"
+  ],
+  [
+    "director",
+    "режиссёр",
+    "The director won an award for the film.",
+    "A2"
+  ],
+  [
+    "drama",
+    "драма",
+    "The school put on a drama for parents' evening.",
+    "A2"
+  ],
+  [
+    "drawing",
+    "рисунок",
+    "She showed me a drawing of her house.",
+    "A2"
+  ],
+  [
+    "film",
+    "снимать (фильм)",
+    "They filmed the whole concert.",
+    "A2"
+  ],
+  [
+    "gallery",
+    "галерея",
+    "The gallery is showing modern art this month.",
+    "A2"
+  ],
+  [
+    "instrument",
+    "музыкальный инструмент",
+    "What instrument do you play?",
+    "A2"
+  ],
+  [
+    "musician",
+    "музыкант",
+    "He's a talented jazz musician.",
+    "A2"
+  ],
+  [
+    "novel",
+    "роман (книга)",
+    "She's writing her first novel.",
+    "A2"
+  ],
+  [
+    "review",
+    "рецензия; рецензировать",
+    "The critics gave the film a great review.",
+    "A2"
+  ],
+  [
+    "tradition",
+    "традиция",
+    "It's a tradition to eat fish on Fridays.",
+    "A2"
+  ],
+  [
+    "traditional",
+    "традиционный",
+    "They wore traditional costumes for the festival.",
+    "A2"
+  ],
+  [
+    "album",
+    "альбом (музыкальный)",
+    "The band released a new album last week.",
+    "B1"
+  ],
+  [
+    "documentary",
+    "документальный фильм",
+    "We watched a documentary about the ocean.",
+    "B1"
+  ],
+  [
+    "entertainment",
+    "развлечение",
+    "The cruise offers plenty of entertainment.",
+    "B1"
+  ],
+  [
+    "exhibition",
+    "выставка",
+    "The gallery is hosting a photography exhibition.",
+    "B1"
+  ],
+  [
+    "plot",
+    "сюжет",
+    "The plot of the film was quite confusing.",
+    "B1"
+  ],
+  [
+    "poem",
+    "стихотворение",
+    "She wrote a poem for her sister's wedding.",
+    "B1"
+  ],
+  [
+    "poetry",
+    "поэзия",
+    "He's always loved reading poetry.",
+    "B1"
+  ],
+  [
+    "producer",
+    "продюсер",
+    "The producer worked on several big films.",
+    "B1"
+  ],
+  [
+    "script",
+    "сценарий",
+    "The actors rehearsed with the script.",
+    "B1"
+  ],
+  [
+    "sculpture",
+    "скульптура",
+    "There's a huge sculpture in the town square.",
+    "B1"
+  ],
+  [
+    "critic",
+    "критик",
+    "The film critic gave it five stars.",
+    "B2"
+  ],
+  [
+    "genre",
+    "жанр",
+    "Science fiction is my favourite genre.",
+    "B2"
+  ],
+  [
+    "rhythm",
+    "ритм",
+    "The song has a really catchy rhythm.",
+    "B2"
+  ],
+  [
+    "animation",
+    "анимация, мультипликация",
+    "The studio is known for its animation films.",
+    "B2"
+  ],
+  [
+    "ballet",
+    "балет",
+    "She's been taking ballet lessons since she was five.",
+    "B2"
+  ],
+  [
+    "choir",
+    "хор",
+    "He sings in the school choir.",
+    "B2"
+  ],
+  [
+    "comic",
+    "комичный; комикс",
+    "He collects comics from the 1990s.",
+    "B2"
+  ],
+  [
+    "composer",
+    "композитор",
+    "The composer wrote the music for the film.",
+    "B2"
+  ],
+  [
+    "fame",
+    "слава, известность",
+    "The band achieved fame after their first album.",
+    "B2"
+  ],
+  [
+    "lyric",
+    "текст песни, лирика",
+    "The lyrics of the song are very emotional.",
+    "B2"
+  ],
+  [
+    "opera",
+    "опера",
+    "They went to see an opera in Vienna.",
+    "B2"
+  ],
+  [
+    "orchestra",
+    "оркестр",
+    "The orchestra performed a piece by Beethoven.",
+    "B2"
+  ],
+  [
+    "tragedy",
+    "трагедия",
+    "The play is a classic Greek tragedy.",
+    "B2"
+  ],
+  [
+    "melody",
+    "мелодия",
+    "The melody stayed in my head all day.",
+    "C1"
+  ],
+  [
+    "single",
+    "сингл (короткая песня, пластинка)",
+    "The band released a new single this week.",
+    "A2"
+  ],
+  [
+    "character",
+    "персонаж",
+    "My favourite character in the film is the detective.",
+    "A2"
+  ],
+  [
+    "taste",
+    "вкус (эстетические предпочтения)",
+    "She has excellent taste in music.",
+    "A2"
+  ],
+  [
+    "rock (music)",
+    "рок (музыка)",
+    "He's a huge fan of classic rock.",
+    "A2"
+  ],
+  [
+    "star",
+    "сниматься в главной роли",
+    "The film stars two famous actors.",
+    "A2"
+  ],
+  [
+    "star",
+    "звезда (знаменитость)",
+    "She became a Hollywood star in the 1990s.",
+    "A1"
+  ],
+  [
+    "adaptation",
+    "экранизация, адаптация (произведения)",
+    "The film is an adaptation of a classic novel.",
+    "C1"
+  ],
+  [
+    "aesthetic",
+    "эстетический",
+    "The design has a very modern aesthetic feel.",
+    "C1"
+  ],
+  [
+    "applaud",
+    "аплодировать",
+    "The audience applauded loudly at the end.",
+    "C1"
+  ],
+  [
+    "authentic",
+    "подлинный, аутентичный",
+    "The restaurant serves authentic Italian food.",
+    "C1"
+  ],
+  [
+    "backdrop",
+    "фон, задник (сцены)",
+    "The mountains made a stunning backdrop for the photo.",
+    "C1"
+  ],
+  [
+    "bass",
+    "бас (муз. инструмент/голос)",
+    "He plays bass in a jazz band.",
+    "C1"
+  ],
+  [
+    "biography",
+    "биография",
+    "She wrote a biography of a famous painter.",
+    "C1"
+  ],
+  [
+    "bow",
+    "кланяться; поклон",
+    "The actors bowed as the audience applauded.",
+    "C1"
+  ],
+  [
+    "canvas",
+    "холст (для живописи)",
+    "The artist worked on a huge canvas.",
+    "C1"
+  ],
+  [
+    "anchor",
+    "ведущий (программы новостей)",
+    "The news anchor introduced the next story.",
+    "C1"
+  ],
+  [
+    "carve",
+    "вырезать (по дереву/камню)",
+    "He carved a small bird from a piece of wood.",
+    "C1"
+  ],
+  [
+    "composition",
+    "композиция, состав",
+    "The composer wrote the composition in just a week.",
+    "C1"
+  ],
+  [
+    "craft",
+    "искусно создавать, мастерить",
+    "The artist crafted the sculpture by hand.",
+    "C1"
+  ],
+  [
+    "creator",
+    "создатель, автор",
+    "She's the creator of a popular children's show.",
+    "C1"
+  ],
+  [
+    "critique",
+    "критика, рецензия",
+    "The teacher gave a detailed critique of the essay.",
+    "C1"
+  ],
+  [
+    "debut",
+    "дебют",
+    "The band's debut album was a huge success.",
+    "C1"
+  ],
+  [
+    "depict",
+    "изображать",
+    "The painting depicts a busy market scene.",
+    "C1"
+  ],
+  [
+    "dub",
+    "дублировать (фильм)",
+    "The film was dubbed into several languages.",
+    "C1"
+  ],
+  [
+    "duo",
+    "дуэт, пара (исполнителей)",
+    "The comedy duo performed at the festival.",
+    "C1"
+  ],
+  [
+    "exclusive",
+    "эксклюзивный",
+    "The magazine got an exclusive interview with the star.",
+    "C1"
+  ],
+  [
+    "film-maker",
+    "кинорежиссёр",
+    "The film-maker spent years working on the documentary.",
+    "C1"
+  ],
+  [
+    "footage",
+    "видеозапись, кадры",
+    "The news showed footage from the concert.",
+    "C1"
+  ],
+  [
+    "heritage",
+    "наследие",
+    "The town is proud of its cultural heritage.",
+    "C1"
+  ],
+  [
+    "imagery",
+    "образность, образы",
+    "The poem is full of vivid imagery.",
+    "C1"
+  ],
+  [
+    "inspiration",
+    "вдохновение",
+    "The mountains were her main inspiration for the painting.",
+    "C1"
+  ],
+  [
+    "harmony",
+    "гармония (муз.)",
+    "The singers performed in perfect harmony.",
+    "C1"
+  ],
+  [
+    "instrumental",
+    "инструментальный (о музыке)",
+    "The album includes several instrumental tracks.",
+    "C1"
+  ],
+  [
+    "legendary",
+    "легендарный",
+    "He's a legendary figure in rock music.",
+    "C1"
+  ],
+  [
+    "magical",
+    "волшебный",
+    "The film has a magical, dreamlike quality.",
+    "C1"
+  ],
+  [
+    "mainstream",
+    "мейнстрим, массовая культура",
+    "The band moved away from mainstream pop music.",
+    "C1"
+  ],
+  [
+    "manuscript",
+    "рукопись",
+    "The publisher rejected her first manuscript.",
+    "C1"
+  ],
+  [
+    "medieval",
+    "средневековый",
+    "The castle dates back to medieval times.",
+    "C1"
+  ],
+  [
+    "memoir",
+    "мемуары",
+    "She's writing a memoir about her career.",
+    "C1"
+  ],
+  [
+    "patron",
+    "меценат, покровитель",
+    "The gallery relies on wealthy patrons for funding.",
+    "C1"
+  ],
+  [
+    "pop",
+    "поп-музыка; лопаться",
+    "The colours in the painting really pop.",
+    "C1"
+  ],
+  [
+    "mask",
+    "маска (карнавальная, театральная)",
+    "The dancers wore elaborate masks.",
+    "C1"
+  ],
+  [
+    "portray",
+    "изображать, играть роль (в фильме)",
+    "The actor portrays a young doctor in the series.",
+    "C1"
+  ],
+  [
+    "quest",
+    "поиск, странствие (сюжетное)",
+    "The story follows a hero's quest for treasure.",
+    "C1"
+  ],
+  [
+    "restoration",
+    "реставрация",
+    "The painting underwent careful restoration.",
+    "C1"
+  ],
+  [
+    "revival",
+    "возрождение",
+    "There's been a revival of interest in vinyl records.",
+    "C1"
+  ],
+  [
+    "ritual",
+    "ритуал",
+    "The wedding included several traditional rituals.",
+    "C1"
+  ],
+  [
+    "serial",
+    "сериал; серийный",
+    "The story was published as a weekly serial.",
+    "C1"
+  ],
+  [
+    "sketch",
+    "набросок, эскиз",
+    "She made a quick sketch of the building.",
+    "C1"
+  ],
+  [
+    "solo",
+    "сольный; соло",
+    "He released his first solo album this year.",
+    "C1"
+  ],
+  [
+    "spectacle",
+    "зрелище",
+    "The opening ceremony was a huge spectacle.",
+    "C1"
+  ],
+  [
+    "spell",
+    "заклинание",
+    "In the story, the witch casts a spell.",
+    "C1"
+  ],
+  [
+    "spotlight",
+    "центр внимания; прожектор",
+    "The award put her firmly in the spotlight.",
+    "C1"
+  ],
+  [
+    "symbolic",
+    "символический",
+    "The white dove is symbolic of peace.",
+    "C1"
+  ],
+  [
+    "theatrical",
+    "театральный",
+    "The show has a very theatrical style.",
+    "C1"
+  ],
+  [
+    "thought-provoking",
+    "заставляющий задуматься",
+    "It's a thought-provoking film about identity.",
+    "C1"
+  ],
+  [
+    "trailer",
+    "трейлер (фильма)",
+    "We watched the trailer before the film started.",
+    "C1"
+  ],
+  [
+    "tribute",
+    "дань уважения",
+    "The concert was a tribute to the late singer.",
+    "C1"
+  ],
+  [
+    "trio",
+    "трио",
+    "The jazz trio played until midnight.",
+    "C1"
+  ],
+  [
+    "twist",
+    "неожиданный поворот (сюжета)",
+    "The film's ending has a surprising twist.",
+    "C1"
+  ],
+  [
+    "verse",
+    "стих, строфа",
+    "She read the final verse of the poem aloud.",
+    "C1"
+  ],
+  [
+    "weave",
+    "ткать",
+    "The story weaves together several different plots.",
+    "C1"
+  ],
+  [
+    "rock",
+    "качать; рок-музыка",
+    "The whole stadium was rocking during the final song.",
+    "C1"
+  ],
+  [
+    "premier",
+    "премьера (фильма)",
+    "Fans queued for hours before the premiere.",
+    "C1"
+  ],
+  [
+    "artistic",
+    "художественный",
+    "She has always had an artistic talent.",
+    "B2"
+  ],
+  [
+    "cast",
+    "актёрский состав",
+    "The film has an impressive cast of actors.",
+    "B2"
+  ],
+  [
+    "classic",
+    "классика; классический",
+    "It's a classic novel that everyone should read.",
+    "B2"
+  ],
+  [
+    "contemporary",
+    "современный",
+    "The gallery focuses on contemporary art.",
+    "B2"
+  ],
+  [
+    "creation",
+    "создание, творение",
+    "The dish was the chef's own creation.",
+    "B2"
+  ],
+  [
+    "edition",
+    "издание (книги)",
+    "This is a limited edition of the book.",
+    "B2"
+  ],
+  [
+    "host",
+    "вести (программу), принимать (гостей)",
+    "She hosts a popular radio show.",
+    "B2"
+  ],
+  [
+    "humorous",
+    "юмористический",
+    "He gave a humorous speech at the wedding.",
+    "B2"
+  ],
+  [
+    "medium",
+    "средство, канал (коммуникации)",
+    "Film is a powerful medium for storytelling.",
+    "B2"
+  ],
+  [
+    "model",
+    "быть моделью, демонстрировать (одежду)",
+    "She used to model for a fashion magazine.",
+    "B2"
+  ],
+  [
+    "mysterious",
+    "загадочный",
+    "The novel has a mysterious ending.",
+    "B2"
+  ],
+  [
+    "popularity",
+    "популярность",
+    "The show grew in popularity over the years.",
+    "B2"
+  ],
+  [
+    "print",
+    "печать, гравюра",
+    "She bought a print of a famous painting.",
+    "B2"
+  ],
+  [
+    "stage",
+    "ставить (спектакль)",
+    "The theatre is staging a new production this month.",
+    "B2"
+  ],
+  [
+    "tale",
+    "сказка, рассказ",
+    "He told us an old folk tale.",
+    "B2"
+  ],
+  [
+    "tune",
+    "мелодия",
+    "She hummed a familiar tune.",
+    "B2"
+  ],
+  [
+    "venue",
+    "место проведения (мероприятия)",
+    "The concert venue was fully booked.",
+    "B2"
+  ],
+  [
+    "visual",
+    "визуальный",
+    "The film has stunning visual effects.",
+    "B2"
+  ],
+  [
+    "abstract",
+    "абстрактный",
+    "The gallery displayed several abstract paintings.",
+    "B2"
+  ],
+  [
+    "artwork",
+    "произведение искусства",
+    "The museum has some incredible artwork.",
+    "B2"
+  ],
+  [
+    "balloon",
+    "воздушный шар(ик)",
+    "Coloured balloons decorated the party room.",
+    "B2"
+  ],
+  [
+    "clip",
+    "видеоклип, отрывок",
+    "They watched a short clip from the film.",
+    "B2"
+  ],
+  [
+    "collector",
+    "коллекционер",
+    "He's a keen collector of vintage records.",
+    "B2"
+  ],
+  [
+    "compose",
+    "сочинять (музыку)",
+    "She composed the music for the film.",
+    "B2"
+  ],
+  [
+    "craft",
+    "ремесло",
+    "Pottery is an ancient craft.",
+    "B2"
+  ],
+  [
+    "creativity",
+    "творчество, креативность",
+    "The workshop encourages creativity in children.",
+    "B2"
+  ],
+  [
+    "entertaining",
+    "развлекательный, занимательный",
+    "It was a lively and entertaining show.",
+    "B2"
+  ],
+  [
+    "exhibit",
+    "экспонат; выставлять",
+    "The museum exhibited paintings from the 1800s.",
+    "B2"
+  ],
+  [
+    "fantasy",
+    "фэнтези; фантазия",
+    "The book is set in a fantasy world.",
+    "B2"
+  ],
+  [
+    "firework",
+    "фейерверк",
+    "They watched the fireworks over the river.",
+    "B2"
+  ],
+  [
+    "gaming",
+    "видеоигры, геймерство",
+    "He's really into competitive gaming.",
+    "B2"
+  ],
+  [
+    "gig",
+    "концерт, выступление",
+    "We went to see the band's gig last night.",
+    "B2"
+  ],
+  [
+    "exposure",
+    "известность, освещение в СМИ",
+    "The film gave the young actor a lot of exposure.",
+    "B2"
+  ],
+  [
+    "icon",
+    "икона стиля, культовая фигура",
+    "She became a fashion icon in the 1990s.",
+    "B2"
+  ],
+  [
+    "ink",
+    "чернила",
+    "The artist used black ink for the drawing.",
+    "B2"
+  ],
+  [
+    "interval",
+    "антракт",
+    "We bought ice cream during the interval.",
+    "B2"
+  ],
+  [
+    "legend",
+    "легенда",
+    "According to legend, the castle is haunted.",
+    "B2"
+  ],
+  [
+    "literary",
+    "литературный",
+    "She won a major literary award.",
+    "B2"
+  ],
+  [
+    "monster",
+    "монстр, чудовище",
+    "The film features a terrifying sea monster.",
+    "B2"
+  ],
+  [
+    "myth",
+    "миф",
+    "The film is based on an ancient Greek myth.",
+    "B2"
+  ],
+  [
+    "novelist",
+    "писатель (романист)",
+    "She's a bestselling novelist.",
+    "B2"
+  ],
+  [
+    "parade",
+    "парад",
+    "Thousands watched the carnival parade.",
+    "B2"
+  ],
+  [
+    "publishing",
+    "издательское дело",
+    "He works in the publishing industry.",
+    "B2"
+  ],
+  [
+    "punk",
+    "панк",
+    "The band plays classic 1970s punk.",
+    "B2"
+  ],
+  [
+    "rating",
+    "рейтинг (фильма, шоу)",
+    "The film got a high rating from critics.",
+    "B2"
+  ],
+  [
+    "restore",
+    "реставрировать",
+    "Experts restored the old painting carefully.",
+    "B2"
+  ],
+  [
+    "romance",
+    "роман, романтика",
+    "The film is a romantic comedy set in Paris.",
+    "B2"
+  ],
+  [
+    "screening",
+    "показ (фильма)",
+    "There's a special screening of the film tonight.",
+    "B2"
+  ],
+  [
+    "rate",
+    "оценивать (фильм, книгу)",
+    "Critics rated the film very highly.",
+    "B2"
+  ],
+  [
+    "pick",
+    "медиатор (гитарный)",
+    "She strummed the guitar with a plastic pick.",
+    "B2"
+  ],
+  [
+    "act",
+    "акт (пьесы), номер",
+    "The play is divided into three acts.",
+    "B1"
+  ],
+  [
+    "celebration",
+    "празднование",
+    "The wedding celebration lasted all weekend.",
+    "B1"
+  ],
+  [
+    "ceremony",
+    "церемония",
+    "They held a small ceremony to open the gallery.",
+    "B1"
+  ],
+  [
+    "chapter",
+    "глава (книги)",
+    "This chapter focuses on the author's early life.",
+    "B1"
+  ],
+  [
+    "collection",
+    "коллекция",
+    "The museum has a large collection of ancient coins.",
+    "B1"
+  ],
+  [
+    "costume",
+    "костюм (театральный)",
+    "The actors wore elaborate costumes.",
+    "B1"
+  ],
+  [
+    "cover",
+    "обложка (книги)",
+    "The album cover shows a photo of the band.",
+    "B1"
+  ],
+  [
+    "custom",
+    "обычай",
+    "It's a local custom to remove your shoes indoors.",
+    "B1"
+  ],
+  [
+    "direct",
+    "режиссировать",
+    "She directed her first film at the age of 25.",
+    "B1"
+  ],
+  [
+    "drum",
+    "барабан",
+    "He learned to play the drums as a child.",
+    "B1"
+  ],
+  [
+    "entertain",
+    "развлекать",
+    "The comedian entertained the crowd for an hour.",
+    "B1"
+  ],
+  [
+    "atmosphere",
+    "атмосфера, настроение (места)",
+    "The restaurant has a warm, cosy atmosphere.",
+    "B1"
+  ],
+  [
+    "episode",
+    "эпизод, серия",
+    "Have you watched the latest episode?",
+    "B1"
+  ],
+  [
+    "feature",
+    "быть основной темой, показывать (в фильме)",
+    "The film features several well-known actors.",
+    "B1"
+  ],
+  [
+    "folk",
+    "фолк (музыка); народный",
+    "She plays traditional folk music.",
+    "B1"
+  ],
+  [
+    "following",
+    "последователи, фанаты",
+    "The band has a huge following online.",
+    "B1"
+  ],
+  [
+    "ghost",
+    "привидение",
+    "The old house is said to be full of ghosts.",
+    "B1"
+  ],
+  [
+    "historic",
+    "исторический (знаменательный)",
+    "It was a historic moment for the city.",
+    "B1"
+  ],
+  [
+    "historical",
+    "исторический (относящийся к истории)",
+    "The film is based on historical events.",
+    "B1"
+  ],
+  [
+    "horror",
+    "ужас; фильм ужасов",
+    "She loves watching horror films.",
+    "B1"
+  ],
+  [
+    "host",
+    "ведущий (шоу); хозяин",
+    "The show's host welcomed the guests warmly.",
+    "B1"
+  ],
+  [
+    "imaginary",
+    "воображаемый",
+    "As a child, she had an imaginary friend.",
+    "B1"
+  ],
+  [
+    "literature",
+    "литература",
+    "He's studying English literature at university.",
+    "B1"
+  ],
+  [
+    "live",
+    "в прямом эфире, вживую",
+    "The concert was broadcast live on the radio.",
+    "B1"
+  ],
+  [
+    "magic",
+    "магия; волшебный",
+    "The children watched the magic show in wonder.",
+    "B1"
+  ],
+  [
+    "musical",
+    "мюзикл",
+    "We saw a fantastic musical in the West End.",
+    "B1"
+  ],
+  [
+    "mystery",
+    "тайна, детектив",
+    "She writes murder mystery novels.",
+    "B1"
+  ],
+  [
+    "narrative",
+    "повествование; повествовательный",
+    "The film has a complex narrative structure.",
+    "B1"
+  ],
+  [
+    "old-fashioned",
+    "старомодный",
+    "The furniture in the house looked old-fashioned.",
+    "B1"
+  ],
+  [
+    "original",
+    "оригинал (произведения)",
+    "The remake is nowhere near as good as the original.",
+    "B1"
+  ],
+  [
+    "performance",
+    "выступление, представление",
+    "The audience gave a standing ovation after the performance.",
+    "B1"
+  ],
+  [
+    "photographer",
+    "фотограф",
+    "She works as a wedding photographer.",
+    "B1"
+  ],
+  [
+    "photography",
+    "фотография (искусство)",
+    "He studied photography at art college.",
+    "B1"
+  ],
+  [
+    "poet",
+    "поэт",
+    "The poet read some of her latest work aloud.",
+    "B1"
+  ],
+  [
+    "portrait",
+    "портрет",
+    "The gallery has a famous portrait of the queen.",
+    "B1"
+  ],
+  [
+    "printing",
+    "книгопечатание",
+    "The invention of printing changed the world.",
+    "B1"
+  ],
+  [
+    "release",
+    "выпускать (альбом, фильм); выпуск",
+    "The band will release their new album in June.",
+    "B1"
+  ],
+  [
+    "repeat",
+    "повтор (телепередачи)",
+    "It's just a repeat of last week's episode.",
+    "B1"
+  ],
+  [
+    "setting",
+    "место действия (фильма, книги)",
+    "The film's setting is a small fishing village.",
+    "B1"
+  ],
+  [
+    "statue",
+    "статуя",
+    "There's a statue of the poet in the square.",
+    "B1"
+  ],
+  [
+    "string",
+    "струна",
+    "One of the guitar's strings snapped.",
+    "B1"
+  ],
+  [
+    "studio",
+    "студия",
+    "The band recorded the album in a small studio.",
+    "B1"
+  ],
+  [
+    "talent",
+    "талант",
+    "She has a real talent for painting.",
+    "B1"
+  ],
+  [
+    "talented",
+    "талантливый",
+    "He's a talented young musician.",
+    "B1"
+  ],
+  [
+    "theme",
+    "тема (произведения)",
+    "The novel explores the theme of loss.",
+    "B1"
+  ],
+  [
+    "tape",
+    "кассета (аудио)",
+    "He still has old cassette tapes from the 90s.",
+    "B1"
+  ],
+  [
+    "trend",
+    "тренд, мода",
+    "Bright colours are a big trend this year.",
+    "B1"
+  ],
+  [
+    "version",
+    "версия (истории, песни)",
+    "This is a modern version of an old folk tale.",
+    "B1"
+  ],
+  [
+    "CD",
+    "компакт-диск",
+    "She still has a big collection of CDs.",
+    "A1"
+  ],
+  [
+    "dancing",
+    "танцы",
+    "They went dancing every Friday night.",
+    "A1"
+  ],
+  [
+    "design",
+    "дизайн; проектировать",
+    "She works as a graphic design student.",
+    "A1"
+  ],
+  [
+    "DVD",
+    "DVD-диск",
+    "We watched an old DVD from the shelf.",
+    "A1"
+  ],
+  [
+    "event",
+    "событие, мероприятие",
+    "The charity is organising a big event next month.",
+    "A1"
+  ],
+  [
+    "camera",
+    "кинокамера",
+    "The film crew used three different cameras.",
+    "A1"
+  ],
+  [
+    "card",
+    "открытка",
+    "She sent her friend a birthday card.",
+    "A1"
+  ],
+  [
+    "chart",
+    "хит-парад",
+    "The song reached number one in the charts.",
+    "A1"
+  ],
+  [
+    "model",
+    "модель (фотомодель)",
+    "She works as a fashion model in Milan.",
+    "A1"
+  ],
+  [
+    "modern",
+    "современный",
+    "The gallery focuses on modern art.",
+    "A1"
+  ],
+  [
+    "photo",
+    "фото",
+    "He took a photo of the sunset.",
+    "A1"
+  ],
+  [
+    "photograph",
+    "фотография",
+    "She keeps an old photograph of her grandparents.",
+    "A1"
+  ],
+  [
+    "picture",
+    "картина, изображение",
+    "There's a beautiful picture on the wall.",
+    "A1"
+  ],
+  [
+    "present",
+    "подарок",
+    "She gave him a present for his birthday.",
+    "A1"
+  ],
+  [
+    "programme",
+    "программа (телепередача)",
+    "There's a good programme on TV tonight.",
+    "A1"
+  ],
+  [
+    "show",
+    "шоу, представление",
+    "We booked tickets for the evening show.",
+    "A1"
+  ],
+  [
+    "sing",
+    "петь",
+    "She sings in the school choir.",
+    "A1"
+  ],
+  [
+    "television",
+    "телевидение",
+    "He works in television production.",
+    "A1"
+  ],
+  [
+    "title",
+    "название (книги, фильма)",
+    "What's the title of the book?",
+    "A1"
+  ],
+  [
+    "TV",
+    "телевизор",
+    "They watched TV all evening.",
+    "A1"
+  ],
+  [
+    "video",
+    "видео",
+    "She uploaded a funny video online.",
+    "A1"
+  ],
+  [
+    "watch",
+    "смотреть (телевизор)",
+    "They watched a film together on Friday night.",
+    "A1"
+  ],
+  [
+    "style",
+    "стиль (художественный)",
+    "The artist has a very distinctive style.",
+    "A1"
+  ],
+  [
+    "act",
+    "играть роль, действовать",
+    "He wants to act in films one day.",
+    "A2"
+  ],
+  [
+    "ancient",
+    "древний",
+    "The museum has some ancient Roman coins.",
+    "A2"
+  ],
+  [
+    "architecture",
+    "архитектура",
+    "The city is famous for its beautiful architecture.",
+    "A2"
+  ],
+  [
+    "audience",
+    "аудитория, зрители",
+    "The audience clapped loudly at the end.",
+    "A2"
+  ],
+  [
+    "award",
+    "награда, премия",
+    "She won an award for her performance.",
+    "A2"
+  ],
+  [
+    "celebrate",
+    "праздновать",
+    "They celebrated the film's success with a party.",
+    "A2"
+  ],
+  [
+    "classical",
+    "классический",
+    "He loves listening to classical music.",
+    "A2"
+  ],
+  [
+    "collect",
+    "коллекционировать",
+    "She collects vintage postcards.",
+    "A2"
+  ],
+  [
+    "crowd",
+    "толпа",
+    "A huge crowd gathered for the concert.",
+    "A2"
+  ],
+  [
+    "designer",
+    "дизайнер",
+    "The dress was made by a famous designer.",
+    "A2"
+  ],
+  [
+    "detective",
+    "детектив (персонаж, жанр)",
+    "The film follows a detective solving a murder.",
+    "A2"
+  ],
+  [
+    "ending",
+    "концовка (фильма, книги)",
+    "The film has a really surprising ending.",
+    "A2"
+  ],
+  [
+    "board",
+    "игровое поле (настольная игра)",
+    "They spent the evening playing a board game.",
+    "A2"
+  ],
+  [
+    "feature",
+    "особенность, черта (фильма)",
+    "The film's best feature is its soundtrack.",
+    "A2"
+  ],
+  [
+    "fiction",
+    "художественная литература",
+    "She mainly reads science fiction.",
+    "A2"
+  ],
+  [
+    "gift",
+    "подарок",
+    "She wrapped the gift carefully.",
+    "A2"
+  ],
+  [
+    "hero",
+    "герой (произведения)",
+    "The main hero of the story is a young girl.",
+    "A2"
+  ],
+  [
+    "image",
+    "образ, имидж",
+    "The brand has a very strong image.",
+    "A2"
+  ],
+  [
+    "jazz",
+    "джаз",
+    "He plays jazz piano in a local bar.",
+    "A2"
+  ],
+  [
+    "hit",
+    "хит (песня)",
+    "The song became a massive hit that summer.",
+    "A2"
+  ],
+  [
+    "joke",
+    "анекдот",
+    "She told a funny joke at dinner.",
+    "A2"
+  ],
+  [
+    "musical",
+    "музыкальный",
+    "She comes from a very musical family.",
+    "A2"
+  ],
+  [
+    "painter",
+    "художник",
+    "The painter worked on the mural for months.",
+    "A2"
+  ],
+  [
+    "perform",
+    "выступать, исполнять",
+    "The band performed live at the festival.",
+    "A2"
+  ],
+  [
+    "photograph",
+    "фотографировать",
+    "He loves to photograph old buildings.",
+    "A2"
+  ],
+  [
+    "pop",
+    "поп-музыка; популярный",
+    "She's a huge fan of pop music.",
+    "A2"
+  ],
+  [
+    "poster",
+    "постер, плакат",
+    "There's a film poster on his bedroom wall.",
+    "A2"
+  ],
+  [
+    "record",
+    "пластинка, запись; записывать (музыку)",
+    "They recorded the album in just two weeks.",
+    "A2"
+  ],
+  [
+    "recording",
+    "запись (аудио/видео)",
+    "The recording quality was excellent.",
+    "A2"
+  ],
+  [
+    "role",
+    "роль (в фильме)",
+    "She played the lead role in the film.",
+    "A2"
+  ],
+  [
+    "scene",
+    "сцена (фильма)",
+    "That's my favourite scene in the whole film.",
+    "A2"
+  ],
+  [
+    "prize",
+    "приз (в шоу, конкурсе)",
+    "He won first prize at the art competition.",
+    "A2"
+  ],
+  [
+    "series",
+    "сериал",
+    "We binge-watched the whole series in a weekend.",
+    "A2"
+  ],
+  [
+    "singing",
+    "пение",
+    "Her singing impressed the judges.",
+    "A2"
+  ],
+  [
+    "stage",
+    "сцена (театральная)",
+    "The actors walked onto the stage.",
+    "A2"
+  ],
+  [
+    "toy",
+    "игрушка",
+    "The children played with their new toys.",
+    "A2"
+  ],
+  [
+    "voice",
+    "певческий голос",
+    "She has a beautiful singing voice.",
+    "A2"
+  ]
+]

@@ -1,0 +1,1052 @@
+[
+  [
+    "call",
+    "звонить; звонок",
+    "She gave me a call last night.",
+    "A1"
+  ],
+  [
+    "conversation",
+    "разговор",
+    "We had a long conversation about the future.",
+    "A1"
+  ],
+  [
+    "discuss",
+    "обсуждать",
+    "Let's discuss this over lunch.",
+    "A1"
+  ],
+  [
+    "email",
+    "электронное письмо; отправлять по почте",
+    "I'll email you the details later.",
+    "A1"
+  ],
+  [
+    "information",
+    "информация",
+    "You can find more information on our website.",
+    "A1"
+  ],
+  [
+    "language",
+    "язык (речь)",
+    "She speaks four languages fluently.",
+    "A1"
+  ],
+  [
+    "letter",
+    "письмо",
+    "He wrote a letter to his old friend.",
+    "A1"
+  ],
+  [
+    "magazine",
+    "журнал",
+    "She reads a fashion magazine every month.",
+    "A1"
+  ],
+  [
+    "message",
+    "сообщение",
+    "He left a message on my phone.",
+    "A1"
+  ],
+  [
+    "newspaper",
+    "газета",
+    "My dad reads the newspaper every morning.",
+    "A1"
+  ],
+  [
+    "sentence",
+    "предложение (грамматическое)",
+    "Can you translate this sentence for me?",
+    "A1"
+  ],
+  [
+    "speak",
+    "говорить",
+    "Do you speak English?",
+    "A1"
+  ],
+  [
+    "talk",
+    "разговаривать",
+    "We need to talk about the schedule.",
+    "A1"
+  ],
+  [
+    "telephone",
+    "телефон; звонить по телефону",
+    "She telephoned to say she'd be late.",
+    "A1"
+  ],
+  [
+    "text",
+    "сообщение (SMS)",
+    "I sent him a quick text.",
+    "A1"
+  ],
+  [
+    "word",
+    "слово",
+    "I don't understand this word.",
+    "A1"
+  ],
+  [
+    "chat",
+    "болтать, общаться; болтовня",
+    "They had a quick chat before the meeting.",
+    "A2"
+  ],
+  [
+    "communicate",
+    "общаться",
+    "It's hard to communicate without a common language.",
+    "A2"
+  ],
+  [
+    "discussion",
+    "обсуждение",
+    "The discussion lasted almost two hours.",
+    "A2"
+  ],
+  [
+    "express",
+    "выражать",
+    "She found it hard to express her feelings.",
+    "A2"
+  ],
+  [
+    "expression",
+    "выражение",
+    "That's a common expression in English.",
+    "A2"
+  ],
+  [
+    "journalist",
+    "журналист",
+    "The journalist asked some difficult questions.",
+    "A2"
+  ],
+  [
+    "media",
+    "СМИ, медиа",
+    "The story was covered widely in the media.",
+    "A2"
+  ],
+  [
+    "publish",
+    "публиковать",
+    "The author will publish her new book next year.",
+    "A2"
+  ],
+  [
+    "speech",
+    "речь, выступление",
+    "He gave a moving speech at the wedding.",
+    "A2"
+  ],
+  [
+    "talk",
+    "разговор, беседа",
+    "We had a serious talk about money.",
+    "A2"
+  ],
+  [
+    "text",
+    "писать сообщение (SMS)",
+    "Text me when you arrive.",
+    "A2"
+  ],
+  [
+    "announce",
+    "объявлять",
+    "They announced the winners at the ceremony.",
+    "B1"
+  ],
+  [
+    "announcement",
+    "объявление",
+    "There was an announcement about the delay.",
+    "B1"
+  ],
+  [
+    "communication",
+    "общение, коммуникация",
+    "Good communication is key in any relationship.",
+    "B1"
+  ],
+  [
+    "contact",
+    "контакт; связываться",
+    "Please contact us if you have any questions.",
+    "B1"
+  ],
+  [
+    "editor",
+    "редактор",
+    "The editor made several changes to the article.",
+    "B1"
+  ],
+  [
+    "signal",
+    "сигнал; сигнализировать",
+    "There's no phone signal up here in the mountains.",
+    "B1"
+  ],
+  [
+    "translate",
+    "переводить",
+    "Can you translate this into Russian?",
+    "B1"
+  ],
+  [
+    "translation",
+    "перевод",
+    "The translation of the poem lost some of its meaning.",
+    "B1"
+  ],
+  [
+    "broadcast",
+    "транслировать; трансляция",
+    "The match will be broadcast live tonight.",
+    "B2"
+  ],
+  [
+    "inform",
+    "информировать",
+    "Please inform us of any changes.",
+    "B2"
+  ],
+  [
+    "publication",
+    "публикация",
+    "The magazine is a well-known publication.",
+    "B2"
+  ],
+  [
+    "journalism",
+    "журналистика",
+    "She studied journalism at university.",
+    "B2"
+  ],
+  [
+    "wave",
+    "махать (рукой)",
+    "She waved goodbye from the window.",
+    "B1"
+  ],
+  [
+    "address",
+    "обращаться (к кому-л.); рассматривать (вопрос)",
+    "The speech addressed several important issues.",
+    "B2"
+  ],
+  [
+    "share",
+    "делиться (чем-л.)",
+    "She shared her notes with the whole class.",
+    "A1"
+  ],
+  [
+    "account",
+    "рассказ, отчёт о событиях",
+    "He gave a detailed account of what happened.",
+    "B1"
+  ],
+  [
+    "anonymous",
+    "анонимный",
+    "The donation was made by an anonymous donor.",
+    "C1"
+  ],
+  [
+    "archive",
+    "архив",
+    "The old letters are kept in the family archive.",
+    "C1"
+  ],
+  [
+    "articulate",
+    "чётко выражать (мысли)",
+    "She struggled to articulate exactly how she felt.",
+    "C1"
+  ],
+  [
+    "banner",
+    "баннер, транспарант",
+    "Protesters carried banners through the city centre.",
+    "C1"
+  ],
+  [
+    "circulate",
+    "распространять(ся) (информацию)",
+    "The rumour began to circulate around the office.",
+    "C1"
+  ],
+  [
+    "columnist",
+    "обозреватель, колумнист",
+    "The columnist writes about politics every week.",
+    "C1"
+  ],
+  [
+    "commentary",
+    "комментарий",
+    "The match had live commentary on the radio.",
+    "C1"
+  ],
+  [
+    "commentator",
+    "комментатор",
+    "The commentator explained the rules to viewers.",
+    "C1"
+  ],
+  [
+    "confirmation",
+    "подтверждение",
+    "We're still waiting for confirmation of the booking.",
+    "C1"
+  ],
+  [
+    "congratulate",
+    "поздравлять",
+    "I want to congratulate you on your new job.",
+    "C1"
+  ],
+  [
+    "contributor",
+    "автор (статьи), участник",
+    "She's a regular contributor to the magazine.",
+    "C1"
+  ],
+  [
+    "correspond",
+    "переписываться; соответствовать",
+    "They corresponded by letter for many years.",
+    "C1"
+  ],
+  [
+    "correspondence",
+    "переписка",
+    "All correspondence should be sent to this address.",
+    "C1"
+  ],
+  [
+    "correspondent",
+    "корреспондент",
+    "The BBC correspondent reported live from the scene.",
+    "C1"
+  ],
+  [
+    "circulation",
+    "тираж (издания)",
+    "The newspaper's circulation has fallen in recent years.",
+    "C1"
+  ],
+  [
+    "cutting",
+    "вырезка (из газеты)",
+    "She kept a cutting from the newspaper article.",
+    "C1"
+  ],
+  [
+    "disclose",
+    "раскрывать (информацию)",
+    "The company refused to disclose its profits.",
+    "C1"
+  ],
+  [
+    "disclosure",
+    "раскрытие (информации)",
+    "The report demanded full financial disclosure.",
+    "C1"
+  ],
+  [
+    "discourse",
+    "дискурс, рассуждение",
+    "The book examines political discourse in the media.",
+    "C1"
+  ],
+  [
+    "enquire",
+    "осведомляться, спрашивать",
+    "I'd like to enquire about the price of the tickets.",
+    "C1"
+  ],
+  [
+    "hint",
+    "намёк; намекать",
+    "She dropped a hint about the surprise party.",
+    "C1"
+  ],
+  [
+    "identification",
+    "удостоверение личности; идентификация",
+    "You'll need photo identification to enter the building.",
+    "C1"
+  ],
+  [
+    "leak",
+    "утечка (информации); просачиваться",
+    "Details of the plan leaked to the press.",
+    "C1"
+  ],
+  [
+    "hail",
+    "приветствовать, окликать (такси)",
+    "He hailed a taxi outside the station.",
+    "C1"
+  ],
+  [
+    "layout",
+    "вёрстка, макет (страницы)",
+    "The magazine's layout was redesigned this year.",
+    "C1"
+  ],
+  [
+    "misleading",
+    "вводящий в заблуждение",
+    "The advert was criticised for being misleading.",
+    "C1"
+  ],
+  [
+    "newsletter",
+    "рассылка, информационный бюллетень",
+    "Sign up for our monthly newsletter.",
+    "C1"
+  ],
+  [
+    "nod",
+    "кивать",
+    "She nodded to show she understood.",
+    "C1"
+  ],
+  [
+    "notify",
+    "уведомлять",
+    "Please notify us if your address changes.",
+    "C1"
+  ],
+  [
+    "oral",
+    "устный (экзамен, доклад)",
+    "The course includes an oral exam.",
+    "C1"
+  ],
+  [
+    "query",
+    "вопрос, запрос",
+    "Please email us if you have any query.",
+    "C1"
+  ],
+  [
+    "recount",
+    "пересказывать",
+    "He recounted the whole story in detail.",
+    "C1"
+  ],
+  [
+    "reminder",
+    "напоминание",
+    "This is a friendly reminder about tomorrow's meeting.",
+    "C1"
+  ],
+  [
+    "rhetoric",
+    "риторика",
+    "The speech was full of empty political rhetoric.",
+    "C1"
+  ],
+  [
+    "rumour",
+    "слух",
+    "There's a rumour that the shop is closing down.",
+    "C1"
+  ],
+  [
+    "subscriber",
+    "подписчик",
+    "The channel has over a million subscribers.",
+    "C1"
+  ],
+  [
+    "subscription",
+    "подписка",
+    "She cancelled her magazine subscription.",
+    "C1"
+  ],
+  [
+    "verbal",
+    "устный, словесный",
+    "They made a verbal agreement over the phone.",
+    "C1"
+  ],
+  [
+    "vocal",
+    "громко высказывающийся",
+    "He's been very vocal about the changes.",
+    "C1"
+  ],
+  [
+    "yell",
+    "кричать, орать",
+    "She yelled his name across the street.",
+    "C1"
+  ],
+  [
+    "edit",
+    "редактировать",
+    "She edited the article before it was published.",
+    "B2"
+  ],
+  [
+    "feed",
+    "лента (новостей)",
+    "He scrolled through his social media feed.",
+    "B2"
+  ],
+  [
+    "interpret",
+    "интерпретировать, переводить (устно)",
+    "She works as an interpreter at conferences.",
+    "B2"
+  ],
+  [
+    "interrupt",
+    "прерывать",
+    "Sorry to interrupt, but there's a call for you.",
+    "B2"
+  ],
+  [
+    "issue",
+    "выпускать, издавать (заявление)",
+    "The company issued a statement about the delay.",
+    "B2"
+  ],
+  [
+    "latest",
+    "последние новости",
+    "Have you heard the latest about the merger?",
+    "B2"
+  ],
+  [
+    "remark",
+    "замечание; замечать",
+    "He made a remark about the weather.",
+    "B2"
+  ],
+  [
+    "reveal",
+    "раскрывать, обнаруживать",
+    "The report revealed some surprising facts.",
+    "B2"
+  ],
+  [
+    "tone",
+    "тон (голоса, письма)",
+    "She spoke in a calm, gentle tone.",
+    "B2"
+  ],
+  [
+    "whisper",
+    "шептать; шёпот",
+    "She whispered the answer to her friend.",
+    "B2"
+  ],
+  [
+    "accent",
+    "акцент (произношение)",
+    "He speaks English with a strong French accent.",
+    "B2"
+  ],
+  [
+    "apology",
+    "извинение",
+    "He offered a sincere apology for being late.",
+    "B2"
+  ],
+  [
+    "attachment",
+    "вложение (в письме)",
+    "She sent the report as an email attachment.",
+    "B2"
+  ],
+  [
+    "broadcaster",
+    "вещательная компания",
+    "The broadcaster covered the election all night.",
+    "B2"
+  ],
+  [
+    "clarify",
+    "разъяснять, уточнять",
+    "Could you clarify what you mean by that?",
+    "B2"
+  ],
+  [
+    "convey",
+    "передавать (мысль, информацию)",
+    "The letter conveyed her deep gratitude.",
+    "B2"
+  ],
+  [
+    "coverage",
+    "освещение (в СМИ)",
+    "The event got a lot of media coverage.",
+    "B2"
+  ],
+  [
+    "editorial",
+    "редакционный; передовая статья",
+    "The newspaper published an editorial about the election.",
+    "B2"
+  ],
+  [
+    "envelope",
+    "конверт",
+    "She sealed the letter in an envelope.",
+    "B2"
+  ],
+  [
+    "forum",
+    "форум",
+    "He posted a question on an online forum.",
+    "B2"
+  ],
+  [
+    "gesture",
+    "жест",
+    "He made a friendly gesture with his hand.",
+    "B2"
+  ],
+  [
+    "info",
+    "информация (разг.)",
+    "Check the website for more info.",
+    "B2"
+  ],
+  [
+    "leaflet",
+    "листовка, буклет",
+    "They handed out leaflets about the new gym.",
+    "B2"
+  ],
+  [
+    "receiver",
+    "приёмник, телефонная трубка",
+    "She picked up the receiver and dialled the number.",
+    "B2"
+  ],
+  [
+    "reporting",
+    "освещение (в новостях)",
+    "The channel is known for its honest reporting.",
+    "B2"
+  ],
+  [
+    "tag",
+    "тег, отметка; отмечать (в соцсети)",
+    "She tagged her friends in the photo.",
+    "B2"
+  ],
+  [
+    "ad",
+    "реклама, объявление",
+    "There's an ad for the new phone on TV.",
+    "B1"
+  ],
+  [
+    "apologize",
+    "извиняться",
+    "He apologized for being late.",
+    "B1"
+  ],
+  [
+    "attach",
+    "прикреплять (файл)",
+    "Please attach your CV to the email.",
+    "B1"
+  ],
+  [
+    "channel",
+    "канал (телевизионный)",
+    "She changed the channel to watch the news.",
+    "B1"
+  ],
+  [
+    "comment",
+    "комментировать",
+    "Feel free to comment below the post.",
+    "B1"
+  ],
+  [
+    "confirm",
+    "подтверждать",
+    "Can you confirm the meeting time by email?",
+    "B1"
+  ],
+  [
+    "content",
+    "содержание, контент",
+    "The website has lots of useful content.",
+    "B1"
+  ],
+  [
+    "headline",
+    "заголовок (новости)",
+    "The story made headlines around the world.",
+    "B1"
+  ],
+  [
+    "highlight",
+    "подчёркивать, выделять",
+    "She highlighted the key points in yellow.",
+    "B1"
+  ],
+  [
+    "like (find sb/sth pleasant)",
+    "лайк (в соцсети)",
+    "The post got hundreds of likes.",
+    "B1"
+  ],
+  [
+    "exchange",
+    "обмен мнениями/информацией",
+    "They had a brief exchange before the meeting.",
+    "B1"
+  ],
+  [
+    "mention",
+    "упоминание; упоминать",
+    "There was no mention of the delay in the email.",
+    "B1"
+  ],
+  [
+    "persuade",
+    "убеждать, уговаривать",
+    "She tried to persuade him to come along.",
+    "B1"
+  ],
+  [
+    "press",
+    "пресса, СМИ",
+    "The story was covered widely in the press.",
+    "B1"
+  ],
+  [
+    "quotation",
+    "цитата",
+    "She began the essay with a quotation.",
+    "B1"
+  ],
+  [
+    "quote",
+    "цитировать; цитата",
+    "Can I quote you on that?",
+    "B1"
+  ],
+  [
+    "request",
+    "запрашивать, просить",
+    "He requested more information about the course.",
+    "B1"
+  ],
+  [
+    "spoken",
+    "устный, разговорный",
+    "Her spoken English is excellent.",
+    "B1"
+  ],
+  [
+    "state",
+    "заявлять, констатировать",
+    "The report clearly states the results.",
+    "B1"
+  ],
+  [
+    "viewer",
+    "зритель",
+    "Millions of viewers watched the final.",
+    "B1"
+  ],
+  [
+    "article",
+    "статья",
+    "She wrote an article about climate change.",
+    "A1"
+  ],
+  [
+    "ask",
+    "спрашивать, просить",
+    "Can I ask you a question?",
+    "A1"
+  ],
+  [
+    "blog",
+    "блог",
+    "She writes a food blog in her free time.",
+    "A1"
+  ],
+  [
+    "dear",
+    "уважаемый, дорогой (в письме)",
+    "The letter began with 'Dear Sir or Madam'.",
+    "A1"
+  ],
+  [
+    "describe",
+    "описывать",
+    "Can you describe what happened?",
+    "A1"
+  ],
+  [
+    "description",
+    "описание",
+    "The witness gave a detailed description.",
+    "A1"
+  ],
+  [
+    "dialogue",
+    "диалог",
+    "The film has some very natural dialogue.",
+    "A1"
+  ],
+  [
+    "explain",
+    "объяснять",
+    "Let me explain how it works.",
+    "A1"
+  ],
+  [
+    "follow",
+    "подписываться (в соцсети); следовать",
+    "She follows several artists on social media.",
+    "A1"
+  ],
+  [
+    "introduce",
+    "представлять (знакомить)",
+    "Let me introduce you to my colleague.",
+    "A1"
+  ],
+  [
+    "listen",
+    "слушать",
+    "Please listen carefully to the instructions.",
+    "A1"
+  ],
+  [
+    "line",
+    "телефонная линия",
+    "The line was busy when I called.",
+    "A1"
+  ],
+  [
+    "news",
+    "новости",
+    "Have you seen the news this morning?",
+    "A1"
+  ],
+  [
+    "note",
+    "записка, заметка",
+    "She left a note on the fridge.",
+    "A1"
+  ],
+  [
+    "post",
+    "публиковать (пост); почта",
+    "He posted a photo from his holiday.",
+    "A1"
+  ],
+  [
+    "radio",
+    "радио",
+    "She listens to the radio while cooking.",
+    "A1"
+  ],
+  [
+    "repeat",
+    "повторять",
+    "Could you repeat that, please?",
+    "A1"
+  ],
+  [
+    "say",
+    "говорить, сказать",
+    "What did she say about the meeting?",
+    "A1"
+  ],
+  [
+    "send",
+    "отправлять",
+    "I'll send you the file this afternoon.",
+    "A1"
+  ],
+  [
+    "statement",
+    "заявление",
+    "The company released a short statement.",
+    "A1"
+  ],
+  [
+    "tell",
+    "рассказывать, говорить",
+    "Tell me what happened.",
+    "A1"
+  ],
+  [
+    "thank",
+    "благодарить",
+    "I want to thank everyone for their help.",
+    "A1"
+  ],
+  [
+    "write",
+    "писать",
+    "She's writing a letter to her grandmother.",
+    "A1"
+  ],
+  [
+    "column",
+    "колонка (в газете)",
+    "He writes a weekly column for the newspaper.",
+    "A2"
+  ],
+  [
+    "comment",
+    "комментарий",
+    "She left a kind comment on the post.",
+    "A2"
+  ],
+  [
+    "advertisement",
+    "реклама (объявление в СМИ)",
+    "There was an advertisement for the film on TV.",
+    "A2"
+  ],
+  [
+    "explanation",
+    "объяснение",
+    "He gave a simple explanation of the rules.",
+    "A2"
+  ],
+  [
+    "greet",
+    "приветствовать",
+    "She greeted us warmly at the door.",
+    "A2"
+  ],
+  [
+    "invitation",
+    "приглашение",
+    "We received an invitation to the wedding.",
+    "A2"
+  ],
+  [
+    "invite",
+    "приглашать",
+    "They invited us to their new house.",
+    "A2"
+  ],
+  [
+    "listener",
+    "слушатель",
+    "The radio show has millions of listeners.",
+    "A2"
+  ],
+  [
+    "introduction",
+    "представление (знакомство)",
+    "After a quick introduction, the meeting began.",
+    "A2"
+  ],
+  [
+    "mail",
+    "почта; отправлять по почте",
+    "I'll mail you the documents tomorrow.",
+    "A2"
+  ],
+  [
+    "mention",
+    "упоминать",
+    "She didn't mention the accident to anyone.",
+    "A2"
+  ],
+  [
+    "profile",
+    "профиль (в соцсети)",
+    "He updated his profile picture.",
+    "A2"
+  ],
+  [
+    "reply",
+    "ответ; отвечать",
+    "She hasn't replied to my email yet.",
+    "A2"
+  ],
+  [
+    "report",
+    "сообщать, докладывать",
+    "Witnesses reported hearing a loud noise.",
+    "A2"
+  ],
+  [
+    "reporter",
+    "репортёр",
+    "A reporter asked the minister several questions.",
+    "A2"
+  ],
+  [
+    "request",
+    "запрос, просьба",
+    "The company received a request for a refund.",
+    "A2"
+  ],
+  [
+    "respond",
+    "отвечать, реагировать",
+    "He didn't respond to my message.",
+    "A2"
+  ],
+  [
+    "response",
+    "ответ, реакция",
+    "There was no response from the company.",
+    "A2"
+  ],
+  [
+    "ring",
+    "звонить (по телефону)",
+    "The phone rang twice before she answered.",
+    "A2"
+  ],
+  [
+    "shout",
+    "кричать; крик",
+    "He shouted for help from the water.",
+    "A2"
+  ],
+  [
+    "speaker",
+    "докладчик, оратор",
+    "The main speaker at the conference was excellent.",
+    "A2"
+  ],
+  [
+    "stamp",
+    "почтовая марка",
+    "She stuck a stamp on the envelope.",
+    "A2"
+  ],
+  [
+    "voice",
+    "голос",
+    "I could hear his voice from the next room.",
+    "A2"
+  ]
+]

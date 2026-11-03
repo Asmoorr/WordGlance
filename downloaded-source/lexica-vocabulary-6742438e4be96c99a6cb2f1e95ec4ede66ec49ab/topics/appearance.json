@@ -1,0 +1,776 @@
+[
+  [
+    "beautiful",
+    "красивый",
+    "She has beautiful long hair.",
+    "A1"
+  ],
+  [
+    "blonde",
+    "светловолосый, блондинистый",
+    "Her sister is blonde with blue eyes.",
+    "A1"
+  ],
+  [
+    "fat",
+    "толстый, полный",
+    "The cat got quite fat over the winter.",
+    "A1"
+  ],
+  [
+    "grey",
+    "седой, серый",
+    "His hair has turned grey recently.",
+    "A1"
+  ],
+  [
+    "hair",
+    "волосы",
+    "She has long, dark hair.",
+    "A1"
+  ],
+  [
+    "pretty",
+    "симпатичный, хорошенький",
+    "What a pretty little girl!",
+    "A1"
+  ],
+  [
+    "short",
+    "низкий (о росте), короткий",
+    "He's quite short compared to his brother.",
+    "A1"
+  ],
+  [
+    "tall",
+    "высокий (о росте)",
+    "She is the tallest person in her class.",
+    "A1"
+  ],
+  [
+    "appearance",
+    "внешность, внешний вид",
+    "He changed his appearance completely.",
+    "A2"
+  ],
+  [
+    "attractive",
+    "привлекательный",
+    "I find her smile very attractive.",
+    "A2"
+  ],
+  [
+    "curly",
+    "кудрявый",
+    "His curly hair is hard to comb.",
+    "A2"
+  ],
+  [
+    "fair",
+    "светлый (о волосах/коже)",
+    "She has fair skin and light hair.",
+    "A2"
+  ],
+  [
+    "fat",
+    "жир",
+    "This cheese has a low fat content.",
+    "A2"
+  ],
+  [
+    "figure",
+    "фигура (телосложение)",
+    "She keeps a slim figure by exercising daily.",
+    "A2"
+  ],
+  [
+    "height",
+    "рост, высота",
+    "What's your height, roughly?",
+    "A2"
+  ],
+  [
+    "skin",
+    "кожа",
+    "Her skin is very sensitive to the sun.",
+    "A2"
+  ],
+  [
+    "smile",
+    "улыбаться; улыбка",
+    "He smiled and waved at us.",
+    "A2"
+  ],
+  [
+    "straight",
+    "прямой (о волосах)",
+    "Her hair is naturally straight.",
+    "A2"
+  ],
+  [
+    "thin",
+    "худой, тонкий",
+    "He looked thin after being ill.",
+    "A2"
+  ],
+  [
+    "wave",
+    "волна (о волосах)",
+    "Her hair falls in soft waves.",
+    "A2"
+  ],
+  [
+    "weight",
+    "вес",
+    "He's trying to lose weight before summer.",
+    "A2"
+  ],
+  [
+    "beauty",
+    "красота",
+    "The model was famous for her beauty.",
+    "B1"
+  ],
+  [
+    "ugly",
+    "некрасивый, уродливый",
+    "He has an ugly scar on his arm.",
+    "B1"
+  ],
+  [
+    "plain",
+    "простой, неброский",
+    "She wore a plain grey dress.",
+    "B2"
+  ],
+  [
+    "gorgeous",
+    "великолепный, потрясающий",
+    "You look absolutely gorgeous tonight.",
+    "B2"
+  ],
+  [
+    "match",
+    "сочетаться, подходить (напр. по цвету)",
+    "Does this scarf match my jacket?",
+    "A1"
+  ],
+  [
+    "bare",
+    "голый, обнажённый",
+    "He walked across the sand with bare feet.",
+    "C1"
+  ],
+  [
+    "fit",
+    "подходящий по размеру (об одежде)",
+    "The jacket was a perfect fit.",
+    "C1"
+  ],
+  [
+    "strand",
+    "прядь (волос)",
+    "A strand of hair fell across her face.",
+    "C1"
+  ],
+  [
+    "strip",
+    "раздеваться",
+    "He stripped off his wet clothes.",
+    "C1"
+  ],
+  [
+    "top",
+    "верх (одежды)",
+    "She wore a blue top with white trousers.",
+    "C1"
+  ],
+  [
+    "heel",
+    "каблук; пятка",
+    "She wore high heels to the party.",
+    "B2"
+  ],
+  [
+    "loose",
+    "свободный, мешковатый (об одежде)",
+    "He prefers loose, comfortable clothes.",
+    "B2"
+  ],
+  [
+    "matching",
+    "подходящий, сочетающийся",
+    "They wore matching outfits for the photo.",
+    "B2"
+  ],
+  [
+    "neat",
+    "опрятный, аккуратный",
+    "His hair was always neat and tidy.",
+    "B2"
+  ],
+  [
+    "pose",
+    "позировать",
+    "The models posed for the photographer.",
+    "B2"
+  ],
+  [
+    "shade",
+    "оттенок (цвета)",
+    "She chose a darker shade of lipstick.",
+    "B2"
+  ],
+  [
+    "silk",
+    "шёлк",
+    "The dress was made of pure silk.",
+    "B2"
+  ],
+  [
+    "tear",
+    "дыра, разрыв (на ткани); рвать(ся)",
+    "There's a small tear in his jacket sleeve.",
+    "B2"
+  ],
+  [
+    "casual",
+    "повседневный (об одежде)",
+    "She wore casual clothes for the weekend trip.",
+    "B2"
+  ],
+  [
+    "colourful",
+    "яркий, красочный",
+    "He was wearing a colourful shirt.",
+    "B2"
+  ],
+  [
+    "cute",
+    "милый, симпатичный",
+    "The baby looked so cute in her new outfit.",
+    "B2"
+  ],
+  [
+    "elegant",
+    "элегантный",
+    "She looked elegant in her long black dress.",
+    "B2"
+  ],
+  [
+    "fabric",
+    "ткань",
+    "The curtains are made from a soft, light fabric.",
+    "B2"
+  ],
+  [
+    "golden",
+    "золотистый",
+    "Her hair had a lovely golden colour.",
+    "B2"
+  ],
+  [
+    "make-up",
+    "макияж",
+    "She doesn't usually wear much make-up.",
+    "B2"
+  ],
+  [
+    "naked",
+    "обнажённый, голый",
+    "The statue shows a naked figure.",
+    "B2"
+  ],
+  [
+    "outfit",
+    "наряд, комплект одежды",
+    "She bought a new outfit for the interview.",
+    "B2"
+  ],
+  [
+    "sexy",
+    "сексуальный, привлекательный",
+    "She wore a sexy red dress to the party.",
+    "B2"
+  ],
+  [
+    "cap",
+    "кепка",
+    "He wore a baseball cap to keep the sun off.",
+    "B1"
+  ],
+  [
+    "coloured",
+    "цветной",
+    "She wore a brightly coloured scarf.",
+    "B1"
+  ],
+  [
+    "cotton",
+    "хлопок",
+    "The shirt is made of pure cotton.",
+    "B1"
+  ],
+  [
+    "cream",
+    "кремовый (цвет)",
+    "She painted the walls a soft cream colour.",
+    "B1"
+  ],
+  [
+    "diamond",
+    "бриллиант",
+    "The ring had a small diamond in the centre.",
+    "B1"
+  ],
+  [
+    "dressed",
+    "одетый",
+    "She was smartly dressed for the interview.",
+    "B1"
+  ],
+  [
+    "cut",
+    "стрижка",
+    "She got a short new haircut.",
+    "B1"
+  ],
+  [
+    "fashionable",
+    "модный",
+    "It's the most fashionable coat this winter.",
+    "B1"
+  ],
+  [
+    "glove",
+    "перчатка",
+    "She pulled on a pair of warm gloves.",
+    "B1"
+  ],
+  [
+    "leather",
+    "кожа (материал)",
+    "He bought a pair of leather boots.",
+    "B1"
+  ],
+  [
+    "lip",
+    "губа",
+    "She had a small cut on her lip.",
+    "B1"
+  ],
+  [
+    "label",
+    "этикетка (на одежде)",
+    "Check the label to see what it's made of.",
+    "B1"
+  ],
+  [
+    "medium",
+    "средний (о размере)",
+    "I'd like a medium-sized coffee, please.",
+    "B1"
+  ],
+  [
+    "nail",
+    "ноготь",
+    "She painted her nails bright red.",
+    "B1"
+  ],
+  [
+    "pale",
+    "бледный",
+    "He looked pale after the long journey.",
+    "B1"
+  ],
+  [
+    "powder",
+    "пудра",
+    "She applied a light powder before leaving.",
+    "B1"
+  ],
+  [
+    "ring",
+    "кольцо",
+    "He proposed with a beautiful ring.",
+    "B1"
+  ],
+  [
+    "shiny",
+    "блестящий",
+    "Her shoes were bright and shiny.",
+    "B1"
+  ],
+  [
+    "tight",
+    "узкий, обтягивающий",
+    "These jeans are a bit too tight.",
+    "B1"
+  ],
+  [
+    "underwear",
+    "нижнее бельё",
+    "She packed some clean underwear for the trip.",
+    "B1"
+  ],
+  [
+    "wool",
+    "шерсть",
+    "The jumper is made of soft wool.",
+    "B1"
+  ],
+  [
+    "smart",
+    "элегантный, нарядный",
+    "He looked very smart in his new suit.",
+    "B1"
+  ],
+  [
+    "spot",
+    "пятно, прыщик (на коже)",
+    "She had a small spot on her chin.",
+    "B1"
+  ],
+  [
+    "bag",
+    "сумка",
+    "She always carries a large bag.",
+    "A1"
+  ],
+  [
+    "black",
+    "чёрный",
+    "She wore a smart black dress.",
+    "A1"
+  ],
+  [
+    "blue",
+    "синий, голубой",
+    "He has bright blue eyes.",
+    "A1"
+  ],
+  [
+    "boot",
+    "ботинок, сапог",
+    "She pulled on her winter boots.",
+    "A1"
+  ],
+  [
+    "brown",
+    "коричневый",
+    "He has short brown hair.",
+    "A1"
+  ],
+  [
+    "clothes",
+    "одежда",
+    "She packed some warm clothes for the trip.",
+    "A1"
+  ],
+  [
+    "coat",
+    "пальто",
+    "Put your coat on, it's cold outside.",
+    "A1"
+  ],
+  [
+    "colour",
+    "цвет",
+    "What colour is your new car?",
+    "A1"
+  ],
+  [
+    "cut",
+    "стричь(ся)",
+    "She cut her hair short for summer.",
+    "A1"
+  ],
+  [
+    "dress",
+    "платье; одевать(ся)",
+    "She wore a beautiful blue dress.",
+    "A1"
+  ],
+  [
+    "face",
+    "лицо",
+    "He had a big smile on his face.",
+    "A1"
+  ],
+  [
+    "dark",
+    "тёмный (о волосах, коже)",
+    "He has dark, curly hair.",
+    "A1"
+  ],
+  [
+    "hat",
+    "шляпа",
+    "She wore a big hat to keep the sun off.",
+    "A1"
+  ],
+  [
+    "jacket",
+    "куртка",
+    "He grabbed his jacket before leaving.",
+    "A1"
+  ],
+  [
+    "jeans",
+    "джинсы",
+    "She wore jeans and a t-shirt.",
+    "A1"
+  ],
+  [
+    "pink",
+    "розовый",
+    "She was wearing a bright pink top.",
+    "A1"
+  ],
+  [
+    "purple",
+    "фиолетовый",
+    "The dress came in purple and blue.",
+    "A1"
+  ],
+  [
+    "red",
+    "красный",
+    "She was wearing a red scarf.",
+    "A1"
+  ],
+  [
+    "style",
+    "стиль",
+    "He has a very casual style.",
+    "A1"
+  ],
+  [
+    "sweater",
+    "свитер",
+    "She put on a warm sweater.",
+    "A1"
+  ],
+  [
+    "wear",
+    "носить (одежду)",
+    "What are you going to wear to the party?",
+    "A1"
+  ],
+  [
+    "white",
+    "белый",
+    "He wore a plain white shirt.",
+    "A1"
+  ],
+  [
+    "yellow",
+    "жёлтый",
+    "She had a bright yellow raincoat.",
+    "A1"
+  ],
+  [
+    "watch",
+    "наручные часы",
+    "His watch stopped working last week.",
+    "A1"
+  ],
+  [
+    "button",
+    "пуговица",
+    "One of the buttons on his shirt is missing.",
+    "A2"
+  ],
+  [
+    "clothing",
+    "одежда",
+    "The shop sells second-hand clothing.",
+    "A2"
+  ],
+  [
+    "dry",
+    "сухой (о волосах, коже); сушить",
+    "Her skin gets very dry in winter.",
+    "A2"
+  ],
+  [
+    "fashion",
+    "мода",
+    "She's always up to date with the latest fashion.",
+    "A2"
+  ],
+  [
+    "formal",
+    "официальный, формальный (об одежде)",
+    "He wore a formal suit to the interview.",
+    "A2"
+  ],
+  [
+    "gold",
+    "золото; золотой",
+    "She wore a small gold necklace.",
+    "A2"
+  ],
+  [
+    "jewellery",
+    "украшения, ювелирные изделия",
+    "She keeps her jewellery in a small box.",
+    "A2"
+  ],
+  [
+    "light (not heavy)",
+    "лёгкий (об одежде)",
+    "This jacket is light enough for spring.",
+    "A2"
+  ],
+  [
+    "material",
+    "материал, ткань",
+    "The dress is made of a soft, silky material.",
+    "A2"
+  ],
+  [
+    "pattern",
+    "узор",
+    "The dress has a floral pattern.",
+    "A2"
+  ],
+  [
+    "silver",
+    "серебро; серебряный",
+    "She wore silver earrings to the party.",
+    "A2"
+  ],
+  [
+    "size",
+    "размер (одежды)",
+    "What size shoes do you take?",
+    "A2"
+  ],
+  [
+    "suit",
+    "костюм",
+    "He wore a dark suit to the wedding.",
+    "A2"
+  ],
+  [
+    "thick",
+    "густой (о волосах)",
+    "She has thick, curly hair.",
+    "A2"
+  ],
+  [
+    "top",
+    "топ (одежда)",
+    "She bought a new top for the party.",
+    "A2"
+  ],
+  [
+    "uniform",
+    "униформа, форма",
+    "Students must wear the school uniform.",
+    "A2"
+  ],
+  [
+    "trainer",
+    "кроссовок",
+    "He always wears trainers to the gym.",
+    "A2"
+  ],
+  [
+    "green",
+    "зелёный",
+    "She was wearing a green dress.",
+    "A1"
+  ],
+  [
+    "look",
+    "выглядеть",
+    "She looks tired today.",
+    "A1"
+  ],
+  [
+    "pair",
+    "пара (обуви и т.п.)",
+    "He bought a new pair of shoes.",
+    "A1"
+  ],
+  [
+    "shirt",
+    "рубашка",
+    "He wore a white shirt to the interview.",
+    "A1"
+  ],
+  [
+    "shoe",
+    "туфля, ботинок",
+    "One of my shoes is missing.",
+    "A1"
+  ],
+  [
+    "skirt",
+    "юбка",
+    "She wore a long black skirt.",
+    "A1"
+  ],
+  [
+    "trousers",
+    "брюки",
+    "He needs new trousers for work.",
+    "A1"
+  ],
+  [
+    "T-shirt",
+    "футболка",
+    "He was wearing a plain white T-shirt.",
+    "A1"
+  ],
+  [
+    "belt",
+    "ремень",
+    "He wore a leather belt with his trousers.",
+    "A2"
+  ],
+  [
+    "brush",
+    "расчёска; расчёсывать",
+    "She brushed her hair before leaving.",
+    "A2"
+  ],
+  [
+    "look",
+    "внешний вид",
+    "She has a very stylish look.",
+    "A2"
+  ],
+  [
+    "pants",
+    "трусы (брит.) / брюки (амер.)",
+    "He packed a few pairs of pants for the trip.",
+    "A2"
+  ],
+  [
+    "pocket",
+    "карман",
+    "He put his keys in his coat pocket.",
+    "A2"
+  ],
+  [
+    "sock",
+    "носок",
+    "One of his socks had a hole in it.",
+    "A2"
+  ],
+  [
+    "soft",
+    "мягкий (о ткани)",
+    "The blanket felt soft against her skin.",
+    "A2"
+  ],
+  [
+    "tie",
+    "галстук",
+    "He tied his shoelaces before the race.",
+    "A2"
+  ]
+]

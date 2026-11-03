@@ -1,0 +1,3908 @@
+[
+  [
+    "bank (money)",
+    "банк",
+    "She works as a manager at a local bank.",
+    "A1"
+  ],
+  [
+    "business",
+    "бизнес, дело",
+    "He started his own business two years ago.",
+    "A1"
+  ],
+  [
+    "buy",
+    "покупать",
+    "They plan to buy a new car next month.",
+    "A1"
+  ],
+  [
+    "career",
+    "карьера",
+    "She's building a career in marketing.",
+    "A1"
+  ],
+  [
+    "cheap",
+    "дешёвый",
+    "This laptop was surprisingly cheap.",
+    "A1"
+  ],
+  [
+    "company",
+    "компания",
+    "He works for a large software company.",
+    "A1"
+  ],
+  [
+    "cost",
+    "стоимость; стоить",
+    "The repair will cost about a hundred pounds.",
+    "A1"
+  ],
+  [
+    "customer",
+    "клиент, покупатель",
+    "The customer complained about the delivery time.",
+    "A1"
+  ],
+  [
+    "expensive",
+    "дорогой",
+    "That restaurant is too expensive for us.",
+    "A1"
+  ],
+  [
+    "interview",
+    "собеседование; интервьюировать",
+    "She has a job interview tomorrow morning.",
+    "A1"
+  ],
+  [
+    "job",
+    "работа, должность",
+    "He got a new job at a bank.",
+    "A1"
+  ],
+  [
+    "market",
+    "рынок",
+    "The company entered the Asian market last year.",
+    "A1"
+  ],
+  [
+    "meeting",
+    "встреча, совещание",
+    "We have a team meeting at ten o'clock.",
+    "A1"
+  ],
+  [
+    "money",
+    "деньги",
+    "They spent a lot of money on the new office.",
+    "A1"
+  ],
+  [
+    "office",
+    "офис",
+    "She works in a small office downtown.",
+    "A1"
+  ],
+  [
+    "pay",
+    "платить",
+    "You can pay by card or cash.",
+    "A1"
+  ],
+  [
+    "price",
+    "цена",
+    "The price of oil rose sharply last month.",
+    "A1"
+  ],
+  [
+    "product",
+    "продукт, товар",
+    "The company launched a new product this week.",
+    "A1"
+  ],
+  [
+    "project",
+    "проект",
+    "We're working on a new project together.",
+    "A1"
+  ],
+  [
+    "sell",
+    "продавать",
+    "They sell handmade furniture online.",
+    "A1"
+  ],
+  [
+    "work",
+    "работать; работа",
+    "She works from home three days a week.",
+    "A1"
+  ],
+  [
+    "apply",
+    "подавать заявку/резюме",
+    "He applied for a job at the hospital.",
+    "A2"
+  ],
+  [
+    "boss",
+    "начальник",
+    "Her boss asked her to finish the report today.",
+    "A2"
+  ],
+  [
+    "cash",
+    "наличные деньги",
+    "I only have a little cash on me.",
+    "A2"
+  ],
+  [
+    "deal",
+    "иметь дело (с чем-л.)",
+    "This department deals with customer complaints.",
+    "A2"
+  ],
+  [
+    "department",
+    "отдел",
+    "She transferred to the sales department.",
+    "A2"
+  ],
+  [
+    "employ",
+    "нанимать (на работу)",
+    "The factory employs about two hundred people.",
+    "A2"
+  ],
+  [
+    "employee",
+    "сотрудник",
+    "Every employee got a small bonus this year.",
+    "A2"
+  ],
+  [
+    "employer",
+    "работодатель",
+    "Her employer offered her a promotion.",
+    "A2"
+  ],
+  [
+    "factory",
+    "фабрика, завод",
+    "The factory produces car parts.",
+    "A2"
+  ],
+  [
+    "industry",
+    "промышленность, отрасль",
+    "The tourism industry suffered during the pandemic.",
+    "A2"
+  ],
+  [
+    "manager",
+    "менеджер, управляющий",
+    "The manager approved our holiday requests.",
+    "A2"
+  ],
+  [
+    "pay",
+    "зарплата, оплата",
+    "The pay is good, but the hours are long.",
+    "A2"
+  ],
+  [
+    "professional",
+    "профессиональный",
+    "She gave a very professional presentation.",
+    "A2"
+  ],
+  [
+    "salary",
+    "зарплата (оклад)",
+    "He negotiated a higher salary for the new role.",
+    "A2"
+  ],
+  [
+    "task",
+    "задача",
+    "Her first task was to update the database.",
+    "A2"
+  ],
+  [
+    "account",
+    "счёт (банковский)",
+    "He transferred the money to his savings account.",
+    "B1"
+  ],
+  [
+    "agreement",
+    "соглашение, договор",
+    "Both companies signed the agreement yesterday.",
+    "B1"
+  ],
+  [
+    "application",
+    "заявление, заявка",
+    "I sent my application for the marketing role.",
+    "B1"
+  ],
+  [
+    "branch",
+    "филиал, отделение",
+    "The bank has a branch near the station.",
+    "B1"
+  ],
+  [
+    "cheap",
+    "дёшево",
+    "You can travel quite cheap if you book early.",
+    "B1"
+  ],
+  [
+    "client",
+    "клиент",
+    "She met with an important client this morning.",
+    "B1"
+  ],
+  [
+    "commercial",
+    "коммерческий; реклама (на ТВ)",
+    "They showed a funny commercial during the match.",
+    "B1"
+  ],
+  [
+    "consumer",
+    "потребитель",
+    "Consumer demand for electric cars is growing.",
+    "B1"
+  ],
+  [
+    "currency",
+    "валюта",
+    "You'll need to exchange your currency at the airport.",
+    "B1"
+  ],
+  [
+    "deal",
+    "сделка",
+    "They signed a deal worth millions of pounds.",
+    "B1"
+  ],
+  [
+    "economic",
+    "экономический",
+    "The economic situation improved this year.",
+    "B1"
+  ],
+  [
+    "economy",
+    "экономика",
+    "The country's economy is growing steadily.",
+    "B1"
+  ],
+  [
+    "employment",
+    "занятость, трудоустройство",
+    "The programme helps young people find employment.",
+    "B1"
+  ],
+  [
+    "export",
+    "экспорт; экспортировать",
+    "The country exports a lot of coffee.",
+    "B1"
+  ],
+  [
+    "financial",
+    "финансовый",
+    "They're facing financial difficulties this year.",
+    "B1"
+  ],
+  [
+    "import",
+    "импорт; импортировать",
+    "The country imports most of its oil.",
+    "B1"
+  ],
+  [
+    "invest",
+    "инвестировать",
+    "She decided to invest in the stock market.",
+    "B1"
+  ],
+  [
+    "loss",
+    "убыток, потеря",
+    "The company reported a loss last quarter.",
+    "B1"
+  ],
+  [
+    "market",
+    "продвигать на рынке, рекламировать",
+    "They market the product mainly to young people.",
+    "B1"
+  ],
+  [
+    "marketing",
+    "маркетинг",
+    "She works in marketing for a tech company.",
+    "B1"
+  ],
+  [
+    "profession",
+    "профессия",
+    "Teaching is a very demanding profession.",
+    "B1"
+  ],
+  [
+    "profit",
+    "прибыль",
+    "The business made a big profit this year.",
+    "B1"
+  ],
+  [
+    "retire",
+    "уходить на пенсию",
+    "He plans to retire at sixty-five.",
+    "B1"
+  ],
+  [
+    "share",
+    "акция; доля",
+    "She bought shares in a technology company.",
+    "B1"
+  ],
+  [
+    "spending",
+    "расходы, траты",
+    "The government cut public spending this year.",
+    "B1"
+  ],
+  [
+    "staff",
+    "персонал, штат",
+    "The hotel has a friendly, helpful staff.",
+    "B1"
+  ],
+  [
+    "supply",
+    "поставка; поставлять",
+    "The factory supplies parts to car makers.",
+    "B1"
+  ],
+  [
+    "tax",
+    "налог; облагать налогом",
+    "They increased tax on cigarettes and alcohol.",
+    "B1"
+  ],
+  [
+    "trade",
+    "торговля; торговать",
+    "The two countries trade mostly in oil and gas.",
+    "B1"
+  ],
+  [
+    "unemployed",
+    "безработный",
+    "He's been unemployed since the factory closed.",
+    "B1"
+  ],
+  [
+    "unemployment",
+    "безработица",
+    "Unemployment rose sharply during the recession.",
+    "B1"
+  ],
+  [
+    "agenda",
+    "повестка дня",
+    "The budget is the first item on the agenda.",
+    "B2"
+  ],
+  [
+    "budget",
+    "бюджет",
+    "We need to stick to our budget this month.",
+    "B2"
+  ],
+  [
+    "committee",
+    "комитет",
+    "The committee will decide next week.",
+    "B2"
+  ],
+  [
+    "contract",
+    "контракт; заключать контракт",
+    "She signed a two-year contract with the firm.",
+    "B2"
+  ],
+  [
+    "debt",
+    "долг",
+    "The company is trying to pay off its debt.",
+    "B2"
+  ],
+  [
+    "demand",
+    "спрос; требовать",
+    "Demand for the new phone was very high.",
+    "B2"
+  ],
+  [
+    "expense",
+    "расход, затрата",
+    "Travel is a big expense for the company.",
+    "B2"
+  ],
+  [
+    "finance",
+    "финансы; финансировать",
+    "The project was financed by a local bank.",
+    "B2"
+  ],
+  [
+    "firm",
+    "фирма",
+    "She works for a law firm in the city.",
+    "B2"
+  ],
+  [
+    "income",
+    "доход",
+    "Their household income increased this year.",
+    "B2"
+  ],
+  [
+    "insurance",
+    "страхование, страховка",
+    "You should get travel insurance before the trip.",
+    "B2"
+  ],
+  [
+    "investment",
+    "инвестиция",
+    "The new factory was a big investment.",
+    "B2"
+  ],
+  [
+    "loan",
+    "кредит, займ",
+    "They took out a loan to expand the business.",
+    "B2"
+  ],
+  [
+    "price",
+    "назначать цену, оценивать",
+    "The product is priced too high for most buyers.",
+    "B2"
+  ],
+  [
+    "professional",
+    "профессионал",
+    "She's a real professional in her field.",
+    "B2"
+  ],
+  [
+    "project",
+    "прогнозировать, планировать",
+    "Sales are projected to rise next year.",
+    "B2"
+  ],
+  [
+    "stock",
+    "акции; запас (товара)",
+    "The store is out of stock of that item.",
+    "B2"
+  ],
+  [
+    "wage",
+    "зарплата (почасовая/недельная)",
+    "The minimum wage went up this year.",
+    "B2"
+  ],
+  [
+    "accountant",
+    "бухгалтер",
+    "Our accountant checks the numbers every month.",
+    "B2"
+  ],
+  [
+    "asset",
+    "актив, ценность",
+    "The building is one of the company's main assets.",
+    "B2"
+  ],
+  [
+    "corporation",
+    "корпорация",
+    "He works for a huge multinational corporation.",
+    "B2"
+  ],
+  [
+    "deadline",
+    "крайний срок",
+    "We have a tight deadline for this project.",
+    "B2"
+  ],
+  [
+    "economics",
+    "экономика (наука)",
+    "She's studying economics at university.",
+    "B2"
+  ],
+  [
+    "economist",
+    "экономист",
+    "The economist predicted a slow recovery.",
+    "B2"
+  ],
+  [
+    "entrepreneur",
+    "предприниматель",
+    "She's a young entrepreneur running her own startup.",
+    "B2"
+  ],
+  [
+    "headquarters",
+    "штаб-квартира",
+    "The company's headquarters is in London.",
+    "B2"
+  ],
+  [
+    "inflation",
+    "инфляция",
+    "Inflation has made everyday goods more expensive.",
+    "B2"
+  ],
+  [
+    "input",
+    "вклад, вводимые ресурсы",
+    "We need input from every department for this plan.",
+    "B2"
+  ],
+  [
+    "investor",
+    "инвестор",
+    "The startup found a new investor this year.",
+    "B2"
+  ],
+  [
+    "negotiate",
+    "вести переговоры",
+    "They negotiated a lower price for the flat.",
+    "B2"
+  ],
+  [
+    "negotiation",
+    "переговоры",
+    "The negotiation lasted several hours.",
+    "B2"
+  ],
+  [
+    "output",
+    "выпуск, объём производства",
+    "The factory increased its output this year.",
+    "B2"
+  ],
+  [
+    "promotion",
+    "повышение (по службе); продвижение",
+    "She got a promotion after two years at the company.",
+    "B2"
+  ],
+  [
+    "recession",
+    "экономический спад, рецессия",
+    "Many businesses closed during the recession.",
+    "B2"
+  ],
+  [
+    "recruit",
+    "нанимать (сотрудника); новобранец",
+    "The company is recruiting new graduates this month.",
+    "B2"
+  ],
+  [
+    "recruitment",
+    "набор персонала",
+    "The recruitment process took several weeks.",
+    "B2"
+  ],
+  [
+    "retirement",
+    "выход на пенсию",
+    "He's looking forward to his retirement next year.",
+    "B2"
+  ],
+  [
+    "revenue",
+    "выручка, доход (компании)",
+    "The company's revenue grew by ten percent.",
+    "B2"
+  ],
+  [
+    "trading",
+    "торговля, трейдинг",
+    "Online trading has become very popular.",
+    "B2"
+  ],
+  [
+    "workforce",
+    "рабочая сила",
+    "The company has a workforce of over five hundred.",
+    "B2"
+  ],
+  [
+    "workplace",
+    "рабочее место",
+    "They want to create a more relaxed workplace.",
+    "B2"
+  ],
+  [
+    "audit",
+    "аудит, проверка",
+    "The company passed its annual audit.",
+    "C1"
+  ],
+  [
+    "commerce",
+    "торговля, коммерция",
+    "The city is an important centre of commerce.",
+    "C1"
+  ],
+  [
+    "franchise",
+    "франшиза",
+    "He bought a franchise of a famous coffee chain.",
+    "C1"
+  ],
+  [
+    "productivity",
+    "производительность",
+    "The new system improved productivity a lot.",
+    "C1"
+  ],
+  [
+    "shareholder",
+    "акционер",
+    "Shareholders will vote on the decision next week.",
+    "C1"
+  ],
+  [
+    "transaction",
+    "транзакция, сделка",
+    "The bank confirmed the transaction immediately.",
+    "C1"
+  ],
+  [
+    "turnover",
+    "оборот (компании); текучесть кадров",
+    "The company had a turnover of two million last year.",
+    "C1"
+  ],
+  [
+    "chair",
+    "председательствовать, вести (собрание)",
+    "She was asked to chair the meeting.",
+    "B2"
+  ],
+  [
+    "bill",
+    "выставлять счёт",
+    "The lawyer bills clients by the hour.",
+    "B2"
+  ],
+  [
+    "ship",
+    "отправлять, отгружать (товар)",
+    "The company ships orders within two days.",
+    "B2"
+  ],
+  [
+    "figure",
+    "цифра, показатель",
+    "The sales figures were higher than expected.",
+    "A2"
+  ],
+  [
+    "capital",
+    "капитал (финансы)",
+    "The startup needs more capital to grow.",
+    "A1"
+  ],
+  [
+    "resource",
+    "ресурс (человеческий, финансовый)",
+    "The HR department manages company resources.",
+    "B1"
+  ],
+  [
+    "network",
+    "нетворкинг, деловые связи",
+    "He built a strong network of business contacts.",
+    "A2"
+  ],
+  [
+    "run",
+    "управлять, руководить (бизнесом)",
+    "She runs a small bakery in town.",
+    "A1"
+  ],
+  [
+    "absence",
+    "отсутствие (на работе)",
+    "His absence from work was noticed immediately.",
+    "C1"
+  ],
+  [
+    "absent",
+    "отсутствующий",
+    "Three employees were absent on Monday.",
+    "C1"
+  ],
+  [
+    "accumulate",
+    "накапливать",
+    "The company accumulated a lot of debt last year.",
+    "C1"
+  ],
+  [
+    "accumulation",
+    "накопление",
+    "The accumulation of unpaid invoices worried the manager.",
+    "C1"
+  ],
+  [
+    "acquisition",
+    "приобретение (компании)",
+    "The acquisition of the smaller firm doubled their staff.",
+    "C1"
+  ],
+  [
+    "adjustment",
+    "корректировка",
+    "We need to make some adjustments to the budget.",
+    "C1"
+  ],
+  [
+    "administer",
+    "управлять, администрировать",
+    "She administers the company's payroll system.",
+    "C1"
+  ],
+  [
+    "administrative",
+    "административный",
+    "He handles all the administrative tasks in the office.",
+    "C1"
+  ],
+  [
+    "administrator",
+    "администратор",
+    "The school hired a new administrator this year.",
+    "C1"
+  ],
+  [
+    "align",
+    "согласовывать, выравнивать",
+    "We need to align our goals with the new strategy.",
+    "C1"
+  ],
+  [
+    "alignment",
+    "согласованность, выравнивание",
+    "There's good alignment between the two departments now.",
+    "C1"
+  ],
+  [
+    "allocate",
+    "выделять (ресурсы)",
+    "The manager allocated more staff to the project.",
+    "C1"
+  ],
+  [
+    "allocation",
+    "распределение (ресурсов)",
+    "The allocation of funds was decided at the meeting.",
+    "C1"
+  ],
+  [
+    "allowance",
+    "пособие, надбавка",
+    "Employees receive a monthly travel allowance.",
+    "C1"
+  ],
+  [
+    "applicable",
+    "применимый",
+    "This policy is applicable to all full-time staff.",
+    "C1"
+  ],
+  [
+    "appoint",
+    "назначать (на должность)",
+    "The board appointed a new chief executive.",
+    "C1"
+  ],
+  [
+    "assemble",
+    "собирать(ся)",
+    "Workers assemble the parts on the production line.",
+    "C1"
+  ],
+  [
+    "assurance",
+    "гарантия, заверение",
+    "The supplier gave assurance that the goods would arrive on time.",
+    "C1"
+  ],
+  [
+    "authorize",
+    "уполномочивать, санкционировать",
+    "Only the manager can authorize refunds.",
+    "C1"
+  ],
+  [
+    "availability",
+    "доступность, наличие",
+    "Please check the availability of the product before ordering.",
+    "C1"
+  ],
+  [
+    "backing",
+    "поддержка (финансовая)",
+    "The project has strong financial backing from investors.",
+    "C1"
+  ],
+  [
+    "barrel",
+    "баррель, бочка",
+    "The price of oil rose to eighty dollars a barrel.",
+    "C1"
+  ],
+  [
+    "benchmark",
+    "эталон, ориентир",
+    "The company set a new benchmark for customer service.",
+    "C1"
+  ],
+  [
+    "beneficiary",
+    "выгодоприобретатель, бенефициар",
+    "She's the main beneficiary of the company pension.",
+    "C1"
+  ],
+  [
+    "bonus",
+    "бонус, премия",
+    "Staff received a bonus for reaching their targets.",
+    "C1"
+  ],
+  [
+    "boom",
+    "бум (экономический)",
+    "The tech industry saw a huge boom in the 1990s.",
+    "C1"
+  ],
+  [
+    "breakdown",
+    "разбивка (данных); поломка",
+    "The report gives a breakdown of monthly expenses.",
+    "C1"
+  ],
+  [
+    "buck",
+    "доллар (разг.)",
+    "The product only costs a few bucks to make.",
+    "C1"
+  ],
+  [
+    "bulk",
+    "оптовая партия; основная часть",
+    "They buy their supplies in bulk to save money.",
+    "C1"
+  ],
+  [
+    "capability",
+    "возможность, способность",
+    "The company invested in new manufacturing capability.",
+    "C1"
+  ],
+  [
+    "assembly",
+    "сборка (производственная)",
+    "The car passes through several stages of assembly.",
+    "C1"
+  ],
+  [
+    "catalogue",
+    "каталог",
+    "You can order goods from our online catalogue.",
+    "C1"
+  ],
+  [
+    "charter",
+    "устав, хартия",
+    "The company charter sets out its main goals.",
+    "C1"
+  ],
+  [
+    "closure",
+    "закрытие (предприятия)",
+    "The factory closure led to hundreds of job losses.",
+    "C1"
+  ],
+  [
+    "collaborate",
+    "сотрудничать",
+    "The two companies agreed to collaborate on the project.",
+    "C1"
+  ],
+  [
+    "collaboration",
+    "сотрудничество",
+    "The new product was developed in collaboration with a university.",
+    "C1"
+  ],
+  [
+    "commence",
+    "начинать(ся)",
+    "Work on the new office will commence next month.",
+    "C1"
+  ],
+  [
+    "commodity",
+    "товар (сырьевой)",
+    "Coffee is an important export commodity for the country.",
+    "C1"
+  ],
+  [
+    "compensate",
+    "компенсировать",
+    "The airline compensated passengers for the delay.",
+    "C1"
+  ],
+  [
+    "compensation",
+    "компенсация",
+    "She received compensation after the accident at work.",
+    "C1"
+  ],
+  [
+    "competence",
+    "компетентность",
+    "The training improved staff competence significantly.",
+    "C1"
+  ],
+  [
+    "competent",
+    "компетентный",
+    "He's a competent manager with years of experience.",
+    "C1"
+  ],
+  [
+    "compliance",
+    "соответствие (нормам), комплаенс",
+    "The factory was checked for compliance with safety rules.",
+    "C1"
+  ],
+  [
+    "comply",
+    "соответствовать, соблюдать (правила)",
+    "All staff must comply with the new dress code.",
+    "C1"
+  ],
+  [
+    "consolidate",
+    "консолидировать, укреплять",
+    "The bank plans to consolidate its branches.",
+    "C1"
+  ],
+  [
+    "constraint",
+    "ограничение",
+    "Budget constraints delayed the new project.",
+    "C1"
+  ],
+  [
+    "consultation",
+    "консультация",
+    "The company held a consultation with staff about the changes.",
+    "C1"
+  ],
+  [
+    "contractor",
+    "подрядчик",
+    "They hired a contractor to renovate the office.",
+    "C1"
+  ],
+  [
+    "cooperate",
+    "сотрудничать",
+    "The two firms agreed to cooperate on marketing.",
+    "C1"
+  ],
+  [
+    "cooperative",
+    "готовый к сотрудничеству",
+    "The staff were very cooperative during the changes.",
+    "C1"
+  ],
+  [
+    "coordinate",
+    "координировать",
+    "She coordinates the schedules for the whole team.",
+    "C1"
+  ],
+  [
+    "coordination",
+    "координация",
+    "Good coordination between departments saved time.",
+    "C1"
+  ],
+  [
+    "coordinator",
+    "координатор",
+    "He works as an events coordinator.",
+    "C1"
+  ],
+  [
+    "copyright",
+    "авторское право",
+    "The company owns the copyright to the design.",
+    "C1"
+  ],
+  [
+    "costly",
+    "дорогостоящий",
+    "The delay proved to be a costly mistake.",
+    "C1"
+  ],
+  [
+    "counterpart",
+    "коллега (в другой организации), аналог",
+    "She met with her counterpart from the other office.",
+    "C1"
+  ],
+  [
+    "decision-making",
+    "принятие решений",
+    "Staff are now more involved in decision-making.",
+    "C1"
+  ],
+  [
+    "deficit",
+    "дефицит (бюджета)",
+    "The company reported a budget deficit this year.",
+    "C1"
+  ],
+  [
+    "default",
+    "дефолт (неплатёж)",
+    "The bank warned about the risk of default.",
+    "C1"
+  ],
+  [
+    "deposit",
+    "вносить (депозит)",
+    "Please deposit the cheque at the bank.",
+    "C1"
+  ],
+  [
+    "designate",
+    "назначать, обозначать",
+    "She was designated as the team leader.",
+    "C1"
+  ],
+  [
+    "dismissal",
+    "увольнение",
+    "His dismissal came as a shock to everyone.",
+    "C1"
+  ],
+  [
+    "disrupt",
+    "нарушать (работу, порядок)",
+    "The strike disrupted deliveries for a week.",
+    "C1"
+  ],
+  [
+    "disruption",
+    "срыв, нарушение (работы)",
+    "The new system caused some disruption at first.",
+    "C1"
+  ],
+  [
+    "documentation",
+    "документация",
+    "You'll need to submit all the required documentation.",
+    "C1"
+  ],
+  [
+    "earnings",
+    "заработок, доходы",
+    "The company's earnings increased last quarter.",
+    "C1"
+  ],
+  [
+    "effectiveness",
+    "эффективность",
+    "They measured the effectiveness of the new training.",
+    "C1"
+  ],
+  [
+    "efficiency",
+    "эффективность, продуктивность",
+    "The new machines improved production efficiency.",
+    "C1"
+  ],
+  [
+    "eligible",
+    "имеющий право (на что-л.)",
+    "Employees are eligible for a bonus after one year.",
+    "C1"
+  ],
+  [
+    "enterprise",
+    "предприятие",
+    "The government supports small local enterprises.",
+    "C1"
+  ],
+  [
+    "expenditure",
+    "расходы",
+    "Public expenditure on education increased this year.",
+    "C1"
+  ],
+  [
+    "expire",
+    "истекать (о сроке)",
+    "His contract expires at the end of the month.",
+    "C1"
+  ],
+  [
+    "facilitate",
+    "способствовать, содействовать",
+    "The new software facilitates faster communication.",
+    "C1"
+  ],
+  [
+    "fine",
+    "штраф; штрафовать",
+    "The company was fined for breaking safety rules.",
+    "C1"
+  ],
+  [
+    "dip",
+    "снижаться (ненадолго)",
+    "Sales dipped slightly in the winter months.",
+    "C1"
+  ],
+  [
+    "discharge",
+    "увольнять, освобождать (от обязанностей)",
+    "He was discharged from his duties after the review.",
+    "C1"
+  ],
+  [
+    "embark",
+    "приступать (к делу)",
+    "The company is embarking on a major expansion.",
+    "C1"
+  ],
+  [
+    "endorse",
+    "рекламировать (продукт), поддерживать (бренд)",
+    "The athlete was paid to endorse the brand.",
+    "C1"
+  ],
+  [
+    "establishment",
+    "учреждение, заведение",
+    "The restaurant is a well-known local establishment.",
+    "C1"
+  ],
+  [
+    "execute",
+    "исполнять, выполнять",
+    "The team executed the plan perfectly.",
+    "C1"
+  ],
+  [
+    "execution",
+    "выполнение, исполнение",
+    "The execution of the project took longer than expected.",
+    "C1"
+  ],
+  [
+    "flexibility",
+    "гибкость",
+    "The job offers a lot of flexibility with hours.",
+    "C1"
+  ],
+  [
+    "flourish",
+    "процветать",
+    "The business flourished after the new manager arrived.",
+    "C1"
+  ],
+  [
+    "forge",
+    "подделывать (документы)",
+    "He was caught trying to forge company documents.",
+    "C1"
+  ],
+  [
+    "fundraising",
+    "сбор средств",
+    "The charity organised a fundraising event.",
+    "C1"
+  ],
+  [
+    "gross",
+    "валовой (доход)",
+    "Her gross salary is higher than her take-home pay.",
+    "C1"
+  ],
+  [
+    "halt",
+    "останавливать(ся); остановка",
+    "Production came to a halt after the accident.",
+    "C1"
+  ],
+  [
+    "handling",
+    "обращение, работа (с чем-л.)",
+    "The delivery fee includes handling costs.",
+    "C1"
+  ],
+  [
+    "hierarchy",
+    "иерархия",
+    "The company has a clear management hierarchy.",
+    "C1"
+  ],
+  [
+    "implementation",
+    "внедрение, реализация",
+    "The implementation of the new system took months.",
+    "C1"
+  ],
+  [
+    "incur",
+    "нести (расходы, убытки)",
+    "Late payments will incur an extra fee.",
+    "C1"
+  ],
+  [
+    "indicator",
+    "показатель",
+    "Sales figures are a key indicator of business health.",
+    "C1"
+  ],
+  [
+    "initiate",
+    "инициировать, начинать",
+    "The manager initiated a review of the process.",
+    "C1"
+  ],
+  [
+    "insider",
+    "инсайдер",
+    "The report was based on information from an insider.",
+    "C1"
+  ],
+  [
+    "inspect",
+    "инспектировать, проверять",
+    "Officials inspect the factory every year.",
+    "C1"
+  ],
+  [
+    "inspection",
+    "инспекция, проверка",
+    "The building passed its safety inspection.",
+    "C1"
+  ],
+  [
+    "institutional",
+    "институциональный",
+    "The bank attracts a lot of institutional investors.",
+    "C1"
+  ],
+  [
+    "integrated",
+    "интегрированный",
+    "The company uses an integrated software system.",
+    "C1"
+  ],
+  [
+    "integration",
+    "интеграция",
+    "The integration of the two teams went smoothly.",
+    "C1"
+  ],
+  [
+    "interim",
+    "временный, промежуточный",
+    "She was named interim manager until a replacement is found.",
+    "C1"
+  ],
+  [
+    "large-scale",
+    "крупномасштабный",
+    "The company launched a large-scale marketing campaign.",
+    "C1"
+  ],
+  [
+    "liable",
+    "ответственный (юридически)",
+    "The company is liable for any damage caused.",
+    "C1"
+  ],
+  [
+    "license",
+    "лицензировать",
+    "The software is licensed for use by ten employees.",
+    "C1"
+  ],
+  [
+    "listing",
+    "листинг, список",
+    "The company's shares had their first listing on the stock exchange.",
+    "C1"
+  ],
+  [
+    "machinery",
+    "оборудование, техника",
+    "The factory bought new machinery this year.",
+    "C1"
+  ],
+  [
+    "mandatory",
+    "обязательный",
+    "Safety training is mandatory for all new staff.",
+    "C1"
+  ],
+  [
+    "marginal",
+    "незначительный, маргинальный",
+    "The change had only a marginal effect on profits.",
+    "C1"
+  ],
+  [
+    "marketplace",
+    "рынок (место торговли)",
+    "The company competes in a crowded marketplace.",
+    "C1"
+  ],
+  [
+    "maximize",
+    "максимизировать",
+    "They redesigned the shop to maximize sales.",
+    "C1"
+  ],
+  [
+    "memo",
+    "служебная записка",
+    "The manager sent a memo about the new policy.",
+    "C1"
+  ],
+  [
+    "merchant",
+    "торговец",
+    "The merchant sold goods from all over the world.",
+    "C1"
+  ],
+  [
+    "merge",
+    "сливаться (о компаниях)",
+    "The two banks decided to merge last year.",
+    "C1"
+  ],
+  [
+    "merger",
+    "слияние (компаний)",
+    "The merger created one of the largest firms in the industry.",
+    "C1"
+  ],
+  [
+    "mill",
+    "фабрика, мельница",
+    "The old cotton mill closed down years ago.",
+    "C1"
+  ],
+  [
+    "mining",
+    "горнодобывающая промышленность",
+    "The town's economy depends heavily on mining.",
+    "C1"
+  ],
+  [
+    "monopoly",
+    "монополия",
+    "The company held a monopoly on the local market.",
+    "C1"
+  ],
+  [
+    "net",
+    "чистый (о прибыли, весе)",
+    "The company reported a net profit of two million.",
+    "C1"
+  ],
+  [
+    "niche",
+    "ниша (рыночная)",
+    "The startup found a profitable niche in the market.",
+    "C1"
+  ],
+  [
+    "non-profit",
+    "некоммерческий",
+    "She works for a non-profit organisation.",
+    "C1"
+  ],
+  [
+    "offering",
+    "предложение (товара/услуги)",
+    "The company expanded its product offering this year.",
+    "C1"
+  ],
+  [
+    "operational",
+    "операционный, действующий",
+    "The new factory became operational last month.",
+    "C1"
+  ],
+  [
+    "organizational",
+    "организационный",
+    "The company went through major organizational changes.",
+    "C1"
+  ],
+  [
+    "outlet",
+    "точка продаж; выход (для энергии)",
+    "The brand has retail outlets all over the country.",
+    "C1"
+  ],
+  [
+    "oversee",
+    "контролировать, курировать",
+    "She oversees the entire production process.",
+    "C1"
+  ],
+  [
+    "personnel",
+    "персонал, кадры",
+    "The company hired more personnel this year.",
+    "C1"
+  ],
+  [
+    "plunge",
+    "резко падать (о цене)",
+    "The company's shares plunged after the announcement.",
+    "C1"
+  ],
+  [
+    "portfolio",
+    "портфель (инвестиционный, документов)",
+    "He manages a large investment portfolio.",
+    "C1"
+  ],
+  [
+    "mature",
+    "созревать (о вкладе, облигации)",
+    "The savings bond matures in five years.",
+    "C1"
+  ],
+  [
+    "postpone",
+    "откладывать (мероприятие)",
+    "The meeting was postponed until next week.",
+    "C1"
+  ],
+  [
+    "predecessor",
+    "предшественник",
+    "The new manager changed several of her predecessor's policies.",
+    "C1"
+  ],
+  [
+    "preliminary",
+    "предварительный",
+    "The preliminary results look promising.",
+    "C1"
+  ],
+  [
+    "premium",
+    "страховой взнос; премиальный",
+    "Insurance premiums went up this year.",
+    "C1"
+  ],
+  [
+    "preside",
+    "председательствовать",
+    "The CEO presided over the annual meeting.",
+    "C1"
+  ],
+  [
+    "privatization",
+    "приватизация",
+    "The privatization of the railway caused controversy.",
+    "C1"
+  ],
+  [
+    "proceeds",
+    "выручка, доход (от продажи)",
+    "The proceeds from the sale went to charity.",
+    "C1"
+  ],
+  [
+    "productive",
+    "продуктивный",
+    "The team had a very productive week.",
+    "C1"
+  ],
+  [
+    "profitable",
+    "прибыльный",
+    "The new branch quickly became profitable.",
+    "C1"
+  ],
+  [
+    "projection",
+    "прогноз, проекция",
+    "Sales projections for next year look strong.",
+    "C1"
+  ],
+  [
+    "proposition",
+    "предложение (деловое)",
+    "The investors considered the business proposition carefully.",
+    "C1"
+  ],
+  [
+    "prospective",
+    "потенциальный, будущий",
+    "Prospective employees must complete an interview.",
+    "C1"
+  ],
+  [
+    "prosperity",
+    "процветание",
+    "The region enjoyed years of economic prosperity.",
+    "C1"
+  ],
+  [
+    "quota",
+    "квота",
+    "Sales staff have a monthly quota to meet.",
+    "C1"
+  ],
+  [
+    "recipient",
+    "получатель",
+    "She was the recipient of an award for innovation.",
+    "C1"
+  ],
+  [
+    "regulator",
+    "регулирующий орган",
+    "The regulator fined the bank for breaking the rules.",
+    "C1"
+  ],
+  [
+    "regulatory",
+    "регулирующий",
+    "The company must meet strict regulatory standards.",
+    "C1"
+  ],
+  [
+    "renew",
+    "продлевать (контракт)",
+    "They renewed the contract for another year.",
+    "C1"
+  ],
+  [
+    "replacement",
+    "замена",
+    "They're still looking for a replacement manager.",
+    "C1"
+  ],
+  [
+    "resignation",
+    "отставка, увольнение по собственному желанию",
+    "She handed in her resignation last week.",
+    "C1"
+  ],
+  [
+    "resume",
+    "возобновлять",
+    "Production will resume once repairs are finished.",
+    "C1"
+  ],
+  [
+    "sack",
+    "увольнять (разг.)",
+    "He was sacked after missing several deadlines.",
+    "C1"
+  ],
+  [
+    "scope",
+    "сфера охвата, масштаб",
+    "The scope of the project grew larger than planned.",
+    "C1"
+  ],
+  [
+    "seal",
+    "печать; скреплять",
+    "They sealed the deal with a handshake.",
+    "C1"
+  ],
+  [
+    "segment",
+    "сегмент",
+    "The company targets a younger customer segment.",
+    "C1"
+  ],
+  [
+    "set-up",
+    "устройство, организация (системы)",
+    "The office has a very modern set-up.",
+    "C1"
+  ],
+  [
+    "shrink",
+    "сокращаться, уменьшаться",
+    "The market has shrunk over the past few years.",
+    "C1"
+  ],
+  [
+    "slash",
+    "резко сокращать (цены)",
+    "The company slashed prices during the sale.",
+    "C1"
+  ],
+  [
+    "slot",
+    "слот, временной интервал",
+    "There's a free slot at ten o'clock for the meeting.",
+    "C1"
+  ],
+  [
+    "soar",
+    "резко расти (о ценах)",
+    "Demand for the product soared after the advert.",
+    "C1"
+  ],
+  [
+    "stabilize",
+    "стабилизировать",
+    "The company managed to stabilize its finances.",
+    "C1"
+  ],
+  [
+    "stake",
+    "доля (в бизнесе); ставка",
+    "The investor bought a large stake in the company.",
+    "C1"
+  ],
+  [
+    "stimulus",
+    "стимул",
+    "The bonus acted as a stimulus for better performance.",
+    "C1"
+  ],
+  [
+    "strategic",
+    "стратегический",
+    "They made a strategic decision to enter a new market.",
+    "C1"
+  ],
+  [
+    "submission",
+    "подача (заявки); подчинение",
+    "The deadline for submission is Friday.",
+    "C1"
+  ],
+  [
+    "subsidy",
+    "субсидия",
+    "Farmers receive a government subsidy.",
+    "C1"
+  ],
+  [
+    "substantial",
+    "существенный, значительный",
+    "The company made a substantial profit this year.",
+    "C1"
+  ],
+  [
+    "succession",
+    "преемственность, череда",
+    "The family business has a clear succession plan.",
+    "C1"
+  ],
+  [
+    "successor",
+    "преемник",
+    "She trained her successor before retiring.",
+    "C1"
+  ],
+  [
+    "superior",
+    "вышестоящий, старший (по должности)",
+    "He reported the problem to his superior.",
+    "C1"
+  ],
+  [
+    "supervise",
+    "контролировать, руководить",
+    "She supervises a team of ten people.",
+    "C1"
+  ],
+  [
+    "supervision",
+    "надзор, руководство",
+    "New staff work under close supervision at first.",
+    "C1"
+  ],
+  [
+    "supervisor",
+    "руководитель, начальник",
+    "Speak to your supervisor if you have any questions.",
+    "C1"
+  ],
+  [
+    "surge",
+    "резкий рост, всплеск",
+    "There was a surge in online sales last month.",
+    "C1"
+  ],
+  [
+    "surplus",
+    "излишек, профицит",
+    "The company had a small surplus at the end of the year.",
+    "C1"
+  ],
+  [
+    "suspension",
+    "отстранение (от работы)",
+    "His suspension from work lasted two weeks.",
+    "C1"
+  ],
+  [
+    "taxpayer",
+    "налогоплательщик",
+    "The project was funded by taxpayers' money.",
+    "C1"
+  ],
+  [
+    "tenure",
+    "срок пребывания в должности",
+    "She has had a long tenure as company director.",
+    "C1"
+  ],
+  [
+    "terminate",
+    "прекращать, расторгать (контракт)",
+    "The company terminated his contract early.",
+    "C1"
+  ],
+  [
+    "thrive",
+    "процветать",
+    "Small businesses can thrive with the right support.",
+    "C1"
+  ],
+  [
+    "tighten",
+    "ужесточать (правила)",
+    "The bank tightened its lending rules.",
+    "C1"
+  ],
+  [
+    "total",
+    "составлять в сумме",
+    "The costs totalled almost ten thousand pounds.",
+    "C1"
+  ],
+  [
+    "trademark",
+    "товарный знак",
+    "The logo is a registered trademark.",
+    "C1"
+  ],
+  [
+    "trustee",
+    "попечитель, доверенное лицо",
+    "She serves as a trustee for the charity.",
+    "C1"
+  ],
+  [
+    "unveil",
+    "представлять, анонсировать",
+    "The company will unveil its new product next week.",
+    "C1"
+  ],
+  [
+    "utilize",
+    "использовать, задействовать",
+    "The factory utilizes solar power to cut costs.",
+    "C1"
+  ],
+  [
+    "venture",
+    "предприятие, начинание; рисковать",
+    "They launched a new business venture together.",
+    "C1"
+  ],
+  [
+    "viable",
+    "жизнеспособный",
+    "The plan needs to be financially viable.",
+    "C1"
+  ],
+  [
+    "warehouse",
+    "склад",
+    "The goods are stored in a large warehouse.",
+    "C1"
+  ],
+  [
+    "withdrawal",
+    "снятие денег; вывод (войск)",
+    "The bank charges a fee for early withdrawal.",
+    "C1"
+  ],
+  [
+    "yield",
+    "доходность; приносить (доход)",
+    "The investment yields a steady annual return.",
+    "C1"
+  ],
+  [
+    "principal",
+    "основная сумма (долга)",
+    "The loan repayment covers both interest and principal.",
+    "C1"
+  ],
+  [
+    "acquire",
+    "приобретать",
+    "The firm acquired a smaller competitor last year.",
+    "B2"
+  ],
+  [
+    "administration",
+    "администрация, управление",
+    "She works in the university's administration office.",
+    "B2"
+  ],
+  [
+    "agency",
+    "агентство",
+    "He got the job through a recruitment agency.",
+    "B2"
+  ],
+  [
+    "amount",
+    "составлять (сумму)",
+    "The total cost amounts to nearly a thousand pounds.",
+    "B2"
+  ],
+  [
+    "annual",
+    "ежегодный",
+    "The company holds its annual meeting in March.",
+    "B2"
+  ],
+  [
+    "approval",
+    "одобрение",
+    "The project still needs approval from head office.",
+    "B2"
+  ],
+  [
+    "approve",
+    "одобрять",
+    "The board approved the new budget.",
+    "B2"
+  ],
+  [
+    "assess",
+    "оценивать",
+    "Managers assess staff performance every year.",
+    "B2"
+  ],
+  [
+    "assessment",
+    "оценка",
+    "The company carried out a risk assessment.",
+    "B2"
+  ],
+  [
+    "associate",
+    "ассоциировать; коллега",
+    "She's now a senior associate at the law firm.",
+    "B2"
+  ],
+  [
+    "association",
+    "ассоциация, объединение",
+    "He's a member of the local business association.",
+    "B2"
+  ],
+  [
+    "bond",
+    "облигация; связь",
+    "The company raised money by issuing bonds.",
+    "B2"
+  ],
+  [
+    "capacity",
+    "вместимость, мощность",
+    "The factory is running at full capacity.",
+    "B2"
+  ],
+  [
+    "chain",
+    "сеть (магазинов); цепь",
+    "The company operates a chain of coffee shops.",
+    "B2"
+  ],
+  [
+    "chairman",
+    "председатель",
+    "The chairman opened the meeting with a short speech.",
+    "B2"
+  ],
+  [
+    "chief",
+    "главный; начальник",
+    "She was recently promoted to chief financial officer.",
+    "B2"
+  ],
+  [
+    "commission",
+    "комиссия; комиссионные",
+    "Sales staff earn a commission on every sale.",
+    "B2"
+  ],
+  [
+    "conduct",
+    "проводить (исследование); поведение",
+    "The company conducted a survey among its customers.",
+    "B2"
+  ],
+  [
+    "contribute",
+    "вносить вклад",
+    "Every department contributes to the annual report.",
+    "B2"
+  ],
+  [
+    "contribution",
+    "вклад",
+    "Her contribution to the project was significant.",
+    "B2"
+  ],
+  [
+    "corporate",
+    "корпоративный",
+    "The company has a strict corporate dress code.",
+    "B2"
+  ],
+  [
+    "credit",
+    "приписывать заслугу; зачислять",
+    "The bonus was credited to her account this week.",
+    "B2"
+  ],
+  [
+    "crisis",
+    "кризис",
+    "The company survived the financial crisis of 2008.",
+    "B2"
+  ],
+  [
+    "decline",
+    "спад; снижаться; отклонять",
+    "Sales have declined steadily since last year.",
+    "B2"
+  ],
+  [
+    "decrease",
+    "уменьшение; уменьшаться",
+    "There was a slight decrease in profits this quarter.",
+    "B2"
+  ],
+  [
+    "delivery",
+    "доставка",
+    "The delivery is expected within three working days.",
+    "B2"
+  ],
+  [
+    "discount",
+    "скидка",
+    "The store discounted all winter clothing by half.",
+    "B2"
+  ],
+  [
+    "dismiss",
+    "увольнять; отвергать (идею)",
+    "He was dismissed after breaking company rules.",
+    "B2"
+  ],
+  [
+    "distribute",
+    "распространять, распределять",
+    "The company distributes its products worldwide.",
+    "B2"
+  ],
+  [
+    "distribution",
+    "распространение, распределение",
+    "The firm improved its distribution network.",
+    "B2"
+  ],
+  [
+    "division",
+    "подразделение; деление",
+    "She heads the marketing division.",
+    "B2"
+  ],
+  [
+    "document",
+    "документировать",
+    "All decisions must be documented for the audit.",
+    "B2"
+  ],
+  [
+    "draft",
+    "черновик, проект (документа)",
+    "She drafted the proposal before the meeting.",
+    "B2"
+  ],
+  [
+    "efficient",
+    "эффективный",
+    "The new software makes the process more efficient.",
+    "B2"
+  ],
+  [
+    "enquiry",
+    "запрос",
+    "We received several enquiries about the job.",
+    "B2"
+  ],
+  [
+    "establish",
+    "учреждать, основывать",
+    "The company was established over fifty years ago.",
+    "B2"
+  ],
+  [
+    "estimate",
+    "оценка; оценивать (стоимость)",
+    "The builder gave us an estimate for the repairs.",
+    "B2"
+  ],
+  [
+    "executive",
+    "руководитель; исполнительный",
+    "She's a senior executive at a major bank.",
+    "B2"
+  ],
+  [
+    "fee",
+    "плата, гонорар",
+    "There's a small fee for using the service.",
+    "B2"
+  ],
+  [
+    "feedback",
+    "обратная связь",
+    "Customers left positive feedback about the new product.",
+    "B2"
+  ],
+  [
+    "file",
+    "подавать (заявление, иск)",
+    "He filed a complaint with HR about the incident.",
+    "B2"
+  ],
+  [
+    "flexible",
+    "гибкий",
+    "The company offers flexible working hours.",
+    "B2"
+  ],
+  [
+    "fortune",
+    "состояние (богатство)",
+    "She made a fortune in the property business.",
+    "B2"
+  ],
+  [
+    "found",
+    "основывать (компанию)",
+    "The company was founded by two university friends.",
+    "B2"
+  ],
+  [
+    "fund",
+    "фонд; финансировать",
+    "The startup was funded by a group of investors.",
+    "B2"
+  ],
+  [
+    "funding",
+    "финансирование",
+    "The project received extra funding this year.",
+    "B2"
+  ],
+  [
+    "gain",
+    "получать, приобретать; выгода",
+    "The company gained a large share of the market.",
+    "B2"
+  ],
+  [
+    "generate",
+    "генерировать, создавать (доход)",
+    "The app generates a healthy monthly income.",
+    "B2"
+  ],
+  [
+    "grant",
+    "грант; предоставлять",
+    "The government granted the company a licence.",
+    "B2"
+  ],
+  [
+    "guarantee",
+    "гарантия; гарантировать",
+    "The product comes with a two-year guarantee.",
+    "B2"
+  ],
+  [
+    "hire",
+    "найм, прокат",
+    "She was the company's first hire this year.",
+    "B2"
+  ],
+  [
+    "industrial",
+    "промышленный",
+    "The town has a large industrial estate.",
+    "B2"
+  ],
+  [
+    "initiative",
+    "инициатива",
+    "The company launched a new recycling initiative.",
+    "B2"
+  ],
+  [
+    "junior",
+    "младший (по должности)",
+    "He started as a junior accountant.",
+    "B2"
+  ],
+  [
+    "labour",
+    "труд, рабочая сила",
+    "The factory relies on cheap labour.",
+    "B2"
+  ],
+  [
+    "launch",
+    "запуск (продукта); запускать",
+    "They plan to launch the product next spring.",
+    "B2"
+  ],
+  [
+    "leadership",
+    "руководство, лидерство",
+    "Under her leadership, sales doubled.",
+    "B2"
+  ],
+  [
+    "leave",
+    "отпуск (по работе)",
+    "She's currently on maternity leave.",
+    "B2"
+  ],
+  [
+    "load",
+    "нагрузка; загружать",
+    "The team has a heavy workload this month.",
+    "B2"
+  ],
+  [
+    "long-term",
+    "долгосрочный",
+    "The company is focused on long-term growth.",
+    "B2"
+  ],
+  [
+    "maintain",
+    "поддерживать, содержать",
+    "It's important to maintain good relationships with clients.",
+    "B2"
+  ],
+  [
+    "make",
+    "марка (продукта)",
+    "They only sell one make of car.",
+    "B2"
+  ],
+  [
+    "means",
+    "средства (доход)",
+    "The company doesn't have the means to expand right now.",
+    "B2"
+  ],
+  [
+    "mission",
+    "миссия, задача",
+    "The company's mission is to reduce plastic waste.",
+    "B2"
+  ],
+  [
+    "objective",
+    "цель, задача",
+    "The main objective this year is to cut costs.",
+    "B2"
+  ],
+  [
+    "opening",
+    "вакансия, открытая позиция",
+    "There's a job opening in the marketing team.",
+    "B2"
+  ],
+  [
+    "operate",
+    "работать, функционировать (о бизнесе)",
+    "The business operates in over twenty countries.",
+    "B2"
+  ],
+  [
+    "owe",
+    "быть должным (деньги)",
+    "The company still owes money to several suppliers.",
+    "B2"
+  ],
+  [
+    "package",
+    "пакет (услуг, мер)",
+    "The bank offers a special package for students.",
+    "B2"
+  ],
+  [
+    "panel",
+    "группа экспертов, панель",
+    "A panel of experts reviewed the applications.",
+    "B2"
+  ],
+  [
+    "pension",
+    "пенсия",
+    "The company offers a good pension scheme.",
+    "B2"
+  ],
+  [
+    "permanent",
+    "постоянный (о работе)",
+    "After six months, she was offered a permanent contract.",
+    "B2"
+  ],
+  [
+    "progress",
+    "продвигаться, прогрессировать",
+    "He progressed quickly through the ranks.",
+    "B2"
+  ],
+  [
+    "proposal",
+    "предложение (деловое)",
+    "The board rejected the proposal.",
+    "B2"
+  ],
+  [
+    "propose",
+    "предлагать",
+    "She proposed a new marketing strategy.",
+    "B2"
+  ],
+  [
+    "prospect",
+    "перспектива",
+    "Job prospects in this industry look good.",
+    "B2"
+  ],
+  [
+    "purchase",
+    "покупка; покупать",
+    "The company made a large purchase of new equipment.",
+    "B2"
+  ],
+  [
+    "reduction",
+    "сокращение, снижение",
+    "The firm announced a reduction in staff.",
+    "B2"
+  ],
+  [
+    "requirement",
+    "требование",
+    "Two years of experience is a requirement for the role.",
+    "B2"
+  ],
+  [
+    "saving",
+    "сбережение, экономия",
+    "The new system led to big savings for the company.",
+    "B2"
+  ],
+  [
+    "schedule",
+    "планировать, составлять расписание",
+    "The meeting was scheduled for Monday morning.",
+    "B2"
+  ],
+  [
+    "scheme",
+    "схема, программа",
+    "The company runs a bonus scheme for top performers.",
+    "B2"
+  ],
+  [
+    "sector",
+    "сектор (экономики)",
+    "She works in the retail sector.",
+    "B2"
+  ],
+  [
+    "specialist",
+    "узкоспециализированный",
+    "She's hired as a marketing specialist.",
+    "B2"
+  ],
+  [
+    "split",
+    "разделять(ся); раскол",
+    "The company split into two separate divisions.",
+    "B2"
+  ],
+  [
+    "sponsor",
+    "спонсор; спонсировать",
+    "A local bank sponsors the youth football league.",
+    "B2"
+  ],
+  [
+    "strike",
+    "забастовка; бастовать",
+    "Workers went on strike over pay.",
+    "B2"
+  ],
+  [
+    "submit",
+    "подавать (заявку, документы)",
+    "Please submit your application by Friday.",
+    "B2"
+  ],
+  [
+    "sum",
+    "сумма (денег)",
+    "They agreed on a sum of ten thousand pounds.",
+    "B2"
+  ],
+  [
+    "survey",
+    "проводить опрос",
+    "The company surveyed its customers about the new app.",
+    "B2"
+  ],
+  [
+    "target",
+    "нацеливаться, устанавливать целевой показатель",
+    "The campaign targets young professionals.",
+    "B2"
+  ],
+  [
+    "temporary",
+    "временный",
+    "She took a temporary job over the summer.",
+    "B2"
+  ],
+  [
+    "value",
+    "оценивать (стоимость)",
+    "The house was valued at half a million pounds.",
+    "B2"
+  ],
+  [
+    "wealthy",
+    "богатый, состоятельный",
+    "The company was founded by a wealthy businessman.",
+    "B2"
+  ],
+  [
+    "affordable",
+    "доступный по цене",
+    "The startup offers affordable software for small firms.",
+    "B2"
+  ],
+  [
+    "analyst",
+    "аналитик",
+    "A financial analyst reviewed the company's accounts.",
+    "B2"
+  ],
+  [
+    "applicant",
+    "соискатель, кандидат",
+    "Over a hundred applicants applied for the job.",
+    "B2"
+  ],
+  [
+    "assign",
+    "назначать, поручать",
+    "She was assigned to manage the new project.",
+    "B2"
+  ],
+  [
+    "assistance",
+    "помощь, содействие",
+    "The bank offers financial assistance to small businesses.",
+    "B2"
+  ],
+  [
+    "auction",
+    "аукцион",
+    "The old office furniture was sold at auction.",
+    "B2"
+  ],
+  [
+    "badge",
+    "значок, бейдж",
+    "All staff must wear an ID badge at work.",
+    "B2"
+  ],
+  [
+    "bargain",
+    "выгодная сделка",
+    "She got a real bargain on the new laptop.",
+    "B2"
+  ],
+  [
+    "bid",
+    "заявка (на тендере); предлагать цену",
+    "The company placed a bid for the new contract.",
+    "B2"
+  ],
+  [
+    "boost",
+    "повышать, стимулировать",
+    "The advert gave sales a real boost.",
+    "B2"
+  ],
+  [
+    "clerk",
+    "клерк, служащий",
+    "He worked as a clerk in a law firm.",
+    "B2"
+  ],
+  [
+    "completion",
+    "завершение",
+    "The building work is nearing completion.",
+    "B2"
+  ],
+  [
+    "consult",
+    "консультироваться",
+    "Always consult a lawyer before signing a contract.",
+    "B2"
+  ],
+  [
+    "consultant",
+    "консультант",
+    "The company hired a consultant to review their finances.",
+    "B2"
+  ],
+  [
+    "consumption",
+    "потребление",
+    "Energy consumption dropped after the changes.",
+    "B2"
+  ],
+  [
+    "convention",
+    "конференция, съезд",
+    "She attended a business convention in New York.",
+    "B2"
+  ],
+  [
+    "dealer",
+    "дилер, торговец",
+    "He bought the car from a local dealer.",
+    "B2"
+  ],
+  [
+    "deposit",
+    "депозит, задаток",
+    "You need to pay a deposit to reserve the flat.",
+    "B2"
+  ],
+  [
+    "donation",
+    "пожертвование",
+    "The company made a generous donation to the charity.",
+    "B2"
+  ],
+  [
+    "equip",
+    "оснащать, оборудовать",
+    "The office was equipped with new computers.",
+    "B2"
+  ],
+  [
+    "exceed",
+    "превышать",
+    "Sales exceeded expectations this quarter.",
+    "B2"
+  ],
+  [
+    "expansion",
+    "расширение (бизнеса)",
+    "The company is planning a major expansion overseas.",
+    "B2"
+  ],
+  [
+    "expertise",
+    "экспертиза, компетентность",
+    "They hired her for her technical expertise.",
+    "B2"
+  ],
+  [
+    "firefighter",
+    "пожарный",
+    "The firefighter rescued the family from the burning house.",
+    "B2"
+  ],
+  [
+    "foundation",
+    "фонд (организация); основание",
+    "The charity foundation supports local schools.",
+    "B2"
+  ],
+  [
+    "founder",
+    "основатель",
+    "The founder started the company in her garage.",
+    "B2"
+  ],
+  [
+    "framework",
+    "структура, каркас (напр. правовая)",
+    "The team developed a new legal framework.",
+    "B2"
+  ],
+  [
+    "full-time",
+    "полная занятость",
+    "She works full-time as a nurse.",
+    "B2"
+  ],
+  [
+    "globalization",
+    "глобализация",
+    "Globalization has changed how companies do business.",
+    "B2"
+  ],
+  [
+    "guideline",
+    "руководящий принцип, рекомендация",
+    "Follow the company guidelines when writing reports.",
+    "B2"
+  ],
+  [
+    "implement",
+    "внедрять, осуществлять",
+    "The firm plans to implement the new policy next month.",
+    "B2"
+  ],
+  [
+    "forecast",
+    "прогноз (продаж, экономики)",
+    "The sales forecast looks positive for next year.",
+    "B2"
+  ],
+  [
+    "incentive",
+    "стимул, поощрение",
+    "The company offers incentives for meeting targets.",
+    "B2"
+  ],
+  [
+    "incorporate",
+    "включать (в состав), объединять",
+    "The new features have been incorporated into the app.",
+    "B2"
+  ],
+  [
+    "infrastructure",
+    "инфраструктура",
+    "The country needs to invest in better infrastructure.",
+    "B2"
+  ],
+  [
+    "inspector",
+    "инспектор",
+    "A health and safety inspector visited the factory.",
+    "B2"
+  ],
+  [
+    "logo",
+    "логотип",
+    "The company redesigned its logo last year.",
+    "B2"
+  ],
+  [
+    "manufacture",
+    "производить (товары)",
+    "The factory manufactures car parts.",
+    "B2"
+  ],
+  [
+    "manufacturing",
+    "производство",
+    "The region relies heavily on manufacturing jobs.",
+    "B2"
+  ],
+  [
+    "margin",
+    "маржа, прибыль; поле (страницы)",
+    "The company works on a very small profit margin.",
+    "B2"
+  ],
+  [
+    "mechanic",
+    "механик",
+    "The mechanic fixed the car within an hour.",
+    "B2"
+  ],
+  [
+    "miner",
+    "шахтёр",
+    "Many miners lost their jobs when the mine closed.",
+    "B2"
+  ],
+  [
+    "monthly",
+    "ежемесячный",
+    "She pays her rent monthly.",
+    "B2"
+  ],
+  [
+    "occupation",
+    "род занятий, профессия",
+    "Please state your occupation on the form.",
+    "B2"
+  ],
+  [
+    "operator",
+    "оператор",
+    "The phone was answered by a call centre operator.",
+    "B2"
+  ],
+  [
+    "joint",
+    "совместный (напр. joint venture)",
+    "The two companies formed a joint venture.",
+    "B2"
+  ],
+  [
+    "ownership",
+    "владение, собственность",
+    "The business changed ownership last year.",
+    "B2"
+  ],
+  [
+    "partnership",
+    "партнёрство",
+    "The two firms entered into a partnership.",
+    "B2"
+  ],
+  [
+    "part-time",
+    "неполная занятость",
+    "She works part-time while studying.",
+    "B2"
+  ],
+  [
+    "placement",
+    "стажировка, трудоустройство",
+    "He did a work placement at a local newspaper.",
+    "B2"
+  ],
+  [
+    "publicity",
+    "реклама, публичность",
+    "The launch got a lot of publicity in the press.",
+    "B2"
+  ],
+  [
+    "registration",
+    "регистрация",
+    "Business registration takes about a week.",
+    "B2"
+  ],
+  [
+    "resign",
+    "увольняться, уходить в отставку",
+    "She resigned from her position last month.",
+    "B2"
+  ],
+  [
+    "retail",
+    "розничная торговля",
+    "He works in retail management.",
+    "B2"
+  ],
+  [
+    "shortage",
+    "нехватка, дефицит",
+    "There's a shortage of skilled workers in the industry.",
+    "B2"
+  ],
+  [
+    "short-term",
+    "краткосрочный",
+    "They offered her a short-term contract.",
+    "B2"
+  ],
+  [
+    "signature",
+    "подпись",
+    "The contract needs your signature by Friday.",
+    "B2"
+  ],
+  [
+    "skilled",
+    "квалифицированный",
+    "The factory needs more skilled workers.",
+    "B2"
+  ],
+  [
+    "slogan",
+    "слоган, лозунг",
+    "The company came up with a catchy new slogan.",
+    "B2"
+  ],
+  [
+    "specialize",
+    "специализироваться",
+    "The firm specializes in software development.",
+    "B2"
+  ],
+  [
+    "sponsorship",
+    "спонсорство",
+    "The team relies on sponsorship from local businesses.",
+    "B2"
+  ],
+  [
+    "stall",
+    "прилавок, ларёк",
+    "She runs a small stall at the weekend market.",
+    "B2"
+  ],
+  [
+    "suspend",
+    "приостанавливать, отстранять",
+    "He was suspended from work pending an investigation.",
+    "B2"
+  ],
+  [
+    "terms",
+    "условия (договора)",
+    "Make sure you read the terms of the contract.",
+    "B2"
+  ],
+  [
+    "undertake",
+    "предпринимать, брать на себя",
+    "The company undertook a full review of its policies.",
+    "B2"
+  ],
+  [
+    "voluntary",
+    "добровольный",
+    "She does voluntary work at the local shelter.",
+    "B2"
+  ],
+  [
+    "withdraw",
+    "снимать (деньги); отзывать",
+    "The company withdrew its offer at the last minute.",
+    "B2"
+  ],
+  [
+    "secure",
+    "обеспечивать, добиваться (сделки); надёжный",
+    "The company secured funding from two investors.",
+    "B2"
+  ],
+  [
+    "senior",
+    "старший (по должности)",
+    "She was promoted to a senior management role.",
+    "B2"
+  ],
+  [
+    "lower",
+    "снижать (цены, ставки)",
+    "The shop lowered its prices for the sale.",
+    "B2"
+  ],
+  [
+    "specify",
+    "уточнять, указывать",
+    "Please specify your preferred delivery date.",
+    "B2"
+  ],
+  [
+    "select",
+    "отбирать",
+    "Select a payment method to continue.",
+    "B2"
+  ],
+  [
+    "selection",
+    "отбор, выбор",
+    "The company held a careful selection process for new staff.",
+    "B2"
+  ],
+  [
+    "structure",
+    "структурировать (сделку)",
+    "The deal was structured to reduce tax.",
+    "B2"
+  ],
+  [
+    "back",
+    "поддерживать финансово, спонсировать",
+    "Investors agreed to back the new project.",
+    "B2"
+  ],
+  [
+    "afford",
+    "позволить себе (по деньгам)",
+    "The company can't afford to hire more staff yet.",
+    "B1"
+  ],
+  [
+    "agent",
+    "агент",
+    "She works as a travel agent.",
+    "B1"
+  ],
+  [
+    "appointment",
+    "встреча, назначенное время",
+    "He has an appointment with a client at noon.",
+    "B1"
+  ],
+  [
+    "assist",
+    "помогать, содействовать",
+    "The new software assists staff with scheduling.",
+    "B1"
+  ],
+  [
+    "balance",
+    "баланс (счёта); балансировать",
+    "Check your account balance online.",
+    "B1"
+  ],
+  [
+    "base",
+    "база, основа; базировать",
+    "The company's base salary is quite competitive.",
+    "B1"
+  ],
+  [
+    "benefit",
+    "приносить пользу",
+    "Both companies benefited from the merger.",
+    "B1"
+  ],
+  [
+    "brand",
+    "бренд, марка",
+    "It's one of the most trusted brands in the industry.",
+    "B1"
+  ],
+  [
+    "bubble",
+    "пузырь (экономический)",
+    "Analysts warned of a housing bubble.",
+    "B1"
+  ],
+  [
+    "candidate",
+    "кандидат",
+    "We interviewed five candidates for the role.",
+    "B1"
+  ],
+  [
+    "chain",
+    "сеть (магазинов)",
+    "She works for a large hotel chain.",
+    "B1"
+  ],
+  [
+    "charge",
+    "плата; взимать плату",
+    "There's a small charge for delivery.",
+    "B1"
+  ],
+  [
+    "clause",
+    "пункт, условие (договора)",
+    "There's a cancellation clause in the contract.",
+    "B1"
+  ],
+  [
+    "coin",
+    "монета",
+    "The vending machine only takes coins.",
+    "B1"
+  ],
+  [
+    "complaint",
+    "жалоба",
+    "The company received several complaints about the delay.",
+    "B1"
+  ],
+  [
+    "damage",
+    "ущерб; повреждать",
+    "The storm caused a lot of damage to the warehouse.",
+    "B1"
+  ],
+  [
+    "deliver",
+    "доставлять",
+    "The company delivers to over fifty countries.",
+    "B1"
+  ],
+  [
+    "development",
+    "развитие",
+    "The firm invests heavily in product development.",
+    "B1"
+  ],
+  [
+    "discount",
+    "скидка",
+    "Staff get a discount on all products.",
+    "B1"
+  ],
+  [
+    "donate",
+    "жертвовать (деньги)",
+    "The company donates a percentage of profits to charity.",
+    "B1"
+  ],
+  [
+    "drop",
+    "падение (цен); падать",
+    "There was a sharp drop in sales last month.",
+    "B1"
+  ],
+  [
+    "duty",
+    "обязанность, долг",
+    "It's part of her duty to check the accounts.",
+    "B1"
+  ],
+  [
+    "competitor",
+    "конкурент (компания)",
+    "The company keeps a close eye on its competitors.",
+    "B1"
+  ],
+  [
+    "competitive",
+    "конкурентоспособный",
+    "They offer very competitive prices.",
+    "B1"
+  ],
+  [
+    "exchange",
+    "обмен (валюты); обменивать",
+    "The bank offers a good exchange rate.",
+    "B1"
+  ],
+  [
+    "expand",
+    "расширяться (о бизнесе)",
+    "The business plans to expand into Asia.",
+    "B1"
+  ],
+  [
+    "experienced",
+    "опытный",
+    "They're looking for an experienced accountant.",
+    "B1"
+  ],
+  [
+    "fire",
+    "увольнять",
+    "He was fired after missing several deadlines.",
+    "B1"
+  ],
+  [
+    "flow",
+    "денежный поток; течь",
+    "The company had trouble managing its cash flow.",
+    "B1"
+  ],
+  [
+    "goods",
+    "товары",
+    "The lorry was loaded with goods for delivery.",
+    "B1"
+  ],
+  [
+    "growth",
+    "рост (экономический)",
+    "The company reported strong growth this year.",
+    "B1"
+  ],
+  [
+    "hire",
+    "нанимать (сотрудника)",
+    "The firm plans to hire ten new staff this year.",
+    "B1"
+  ],
+  [
+    "label",
+    "этикетка; маркировать",
+    "The product is sold under a different label abroad.",
+    "B1"
+  ],
+  [
+    "living",
+    "заработок (earn a living)",
+    "She makes a good living as a freelance designer.",
+    "B1"
+  ],
+  [
+    "luxury",
+    "роскошь",
+    "The brand is known for its luxury goods.",
+    "B1"
+  ],
+  [
+    "management",
+    "управление, менеджмент",
+    "She's part of the senior management team.",
+    "B1"
+  ],
+  [
+    "mine (hole in the ground)",
+    "шахта",
+    "The company owns several mines in the region.",
+    "B1"
+  ],
+  [
+    "organizer",
+    "организатор",
+    "The event organizer booked the venue months ago.",
+    "B1"
+  ],
+  [
+    "package",
+    "посылка, пакет",
+    "The courier delivered a large package this morning.",
+    "B1"
+  ],
+  [
+    "payment",
+    "платёж",
+    "The payment should arrive within three days.",
+    "B1"
+  ],
+  [
+    "place",
+    "размещать (заказ)",
+    "She placed an order for new office chairs.",
+    "B1"
+  ],
+  [
+    "planning",
+    "планирование",
+    "Good planning helped the launch go smoothly.",
+    "B1"
+  ],
+  [
+    "presentation",
+    "презентация",
+    "He gave a presentation on the new marketing plan.",
+    "B1"
+  ],
+  [
+    "production",
+    "производство",
+    "The factory increased production this quarter.",
+    "B1"
+  ],
+  [
+    "promote",
+    "продвигать (по службе/на рынке)",
+    "She was promoted to team leader last month.",
+    "B1"
+  ],
+  [
+    "quit",
+    "увольняться, бросать (работу)",
+    "He quit his job to start his own business.",
+    "B1"
+  ],
+  [
+    "range",
+    "ассортимент (товаров)",
+    "The shop sells a wide range of products.",
+    "B1"
+  ],
+  [
+    "receipt",
+    "чек, квитанция",
+    "Keep your receipt in case you need a refund.",
+    "B1"
+  ],
+  [
+    "recommendation",
+    "рекомендация",
+    "The consultant made several useful recommendations.",
+    "B1"
+  ],
+  [
+    "reference",
+    "рекомендательное письмо, отзыв",
+    "Her old boss agreed to write her a reference.",
+    "B1"
+  ],
+  [
+    "operation",
+    "операция, деятельность (компании)",
+    "The company runs operations in over ten countries.",
+    "B1"
+  ],
+  [
+    "performance",
+    "показатели работы, эффективность",
+    "Staff performance is reviewed every year.",
+    "B1"
+  ],
+  [
+    "property",
+    "имущество, собственность (бизнес)",
+    "The company owns several properties in the city.",
+    "B1"
+  ],
+  [
+    "retired",
+    "вышедший на пенсию",
+    "Many retired workers still do part-time consulting.",
+    "B1"
+  ],
+  [
+    "rise",
+    "рост, повышение (цен, зарплаты)",
+    "Employees were pleased with the pay rise.",
+    "B1"
+  ],
+  [
+    "servant",
+    "слуга",
+    "In the past, wealthy families often had servants.",
+    "B1"
+  ],
+  [
+    "shift",
+    "смена (рабочая)",
+    "She works the night shift twice a week.",
+    "B1"
+  ],
+  [
+    "standard",
+    "стандарт; стандартный",
+    "The factory meets strict safety standards.",
+    "B1"
+  ],
+  [
+    "trend",
+    "тенденция",
+    "The report highlights key trends in the market.",
+    "B1"
+  ],
+  [
+    "union",
+    "профсоюз",
+    "Workers joined the union to negotiate better pay.",
+    "B1"
+  ],
+  [
+    "value",
+    "ценность, стоимость",
+    "The company's value has doubled in five years.",
+    "B1"
+  ],
+  [
+    "volunteer",
+    "волонтёр; работать волонтёром",
+    "She volunteers at a local charity shop.",
+    "B1"
+  ],
+  [
+    "responsibility",
+    "должностная обязанность",
+    "Managing the budget is part of his responsibility.",
+    "B1"
+  ],
+  [
+    "security",
+    "охрана, служба безопасности",
+    "The building has a private security team.",
+    "B1"
+  ],
+  [
+    "waste",
+    "растрачивать (ресурсы, время)",
+    "The meeting was a waste of everyone's time.",
+    "B1"
+  ],
+  [
+    "break",
+    "перерыв",
+    "Let's take a short break before the meeting.",
+    "A1"
+  ],
+  [
+    "busy",
+    "занятой, загруженный",
+    "She's very busy at work this week.",
+    "A1"
+  ],
+  [
+    "card",
+    "карта (банковская)",
+    "He paid for the shopping with his card.",
+    "A1"
+  ],
+  [
+    "cent",
+    "цент",
+    "The price went up by fifty cents.",
+    "A1"
+  ],
+  [
+    "dollar",
+    "доллар",
+    "The ticket costs about twenty dollars.",
+    "A1"
+  ],
+  [
+    "form",
+    "бланк, форма (документ)",
+    "Please fill in this form before your appointment.",
+    "A1"
+  ],
+  [
+    "design",
+    "разрабатывать (продукт, стратегию)",
+    "The company is designing a new logo.",
+    "A1"
+  ],
+  [
+    "event",
+    "деловое мероприятие",
+    "The company is sponsoring a charity event.",
+    "A1"
+  ],
+  [
+    "free",
+    "бесплатный",
+    "Delivery is free for orders over fifty pounds.",
+    "A1"
+  ],
+  [
+    "list",
+    "список; составлять список",
+    "She made a list of things to buy for the office.",
+    "A1"
+  ],
+  [
+    "join",
+    "присоединяться (к компании)",
+    "He joined the company last year.",
+    "A1"
+  ],
+  [
+    "meet",
+    "встречаться (по работе)",
+    "We're meeting the client at three o'clock.",
+    "A1"
+  ],
+  [
+    "member",
+    "сотрудник (команды)",
+    "Every member of the team worked hard on the project.",
+    "A1"
+  ],
+  [
+    "open",
+    "открывать (бизнес)",
+    "They opened a new branch downtown.",
+    "A1"
+  ],
+  [
+    "poor",
+    "бедный",
+    "The company had a poor year financially.",
+    "A1"
+  ],
+  [
+    "pound",
+    "фунт (валюта)",
+    "The item costs twenty pounds.",
+    "A1"
+  ],
+  [
+    "report",
+    "отчёт",
+    "She wrote a detailed report for the manager.",
+    "A1"
+  ],
+  [
+    "rich",
+    "богатый",
+    "The company became very rich after the merger.",
+    "A1"
+  ],
+  [
+    "section",
+    "раздел, секция",
+    "She works in the finance section.",
+    "A1"
+  ],
+  [
+    "shop",
+    "магазин; делать покупки",
+    "The shop is open until nine every day.",
+    "A1"
+  ],
+  [
+    "shopping",
+    "покупки, шоппинг",
+    "Online shopping has grown a lot this year.",
+    "A1"
+  ],
+  [
+    "spend",
+    "тратить (деньги)",
+    "The company spends a lot on advertising.",
+    "A1"
+  ],
+  [
+    "worker",
+    "работник",
+    "The factory employs over two hundred workers.",
+    "A1"
+  ],
+  [
+    "post",
+    "почта, письмо",
+    "Send the invoice by post to head office.",
+    "A1"
+  ],
+  [
+    "result",
+    "результат (деятельности)",
+    "The results of the survey were very positive.",
+    "A1"
+  ],
+  [
+    "title",
+    "должность, титул",
+    "Her job title changed after the promotion.",
+    "A1"
+  ],
+  [
+    "advertise",
+    "рекламировать",
+    "The company advertises its products online.",
+    "A2"
+  ],
+  [
+    "advertisement",
+    "реклама, объявление",
+    "They ran an advertisement in the local paper.",
+    "A2"
+  ],
+  [
+    "advertising",
+    "реклама (индустрия)",
+    "She works in advertising for a big agency.",
+    "A2"
+  ],
+  [
+    "alternative",
+    "альтернатива",
+    "They're looking for a cheaper alternative supplier.",
+    "A2"
+  ],
+  [
+    "amount",
+    "сумма, количество",
+    "They invested a large amount of money.",
+    "A2"
+  ],
+  [
+    "architect",
+    "архитектор",
+    "An architect designed the new office building.",
+    "A2"
+  ],
+  [
+    "arrange",
+    "организовывать, договариваться",
+    "I'll arrange a meeting for next week.",
+    "A2"
+  ],
+  [
+    "arrangement",
+    "договорённость, организация",
+    "We made an arrangement to pay in instalments.",
+    "A2"
+  ],
+  [
+    "assistant",
+    "ассистент, помощник",
+    "She works as a personal assistant.",
+    "A2"
+  ],
+  [
+    "available",
+    "доступный, имеющийся в наличии",
+    "The manager isn't available until Friday.",
+    "A2"
+  ],
+  [
+    "benefit",
+    "выгода, польза",
+    "Staff receive health insurance as a benefit.",
+    "A2"
+  ],
+  [
+    "borrow",
+    "занимать (деньги)",
+    "The company borrowed money to expand.",
+    "A2"
+  ],
+  [
+    "businessman",
+    "бизнесмен",
+    "He's a successful businessman from Hong Kong.",
+    "A2"
+  ],
+  [
+    "charity",
+    "благотворительность",
+    "The firm donates to a local charity every year.",
+    "A2"
+  ],
+  [
+    "complain",
+    "жаловаться",
+    "A customer complained about the delivery time.",
+    "A2"
+  ],
+  [
+    "conference",
+    "конференция",
+    "She's attending a conference in Berlin next week.",
+    "A2"
+  ],
+  [
+    "control",
+    "контроль; контролировать",
+    "The manager has full control over the budget.",
+    "A2"
+  ],
+  [
+    "copy",
+    "копия; копировать",
+    "Please send me a copy of the invoice.",
+    "A2"
+  ],
+  [
+    "cover",
+    "покрывать (расходы)",
+    "The insurance covers accidental damage.",
+    "A2"
+  ],
+  [
+    "credit",
+    "кредит",
+    "They bought the equipment on credit.",
+    "A2"
+  ],
+  [
+    "develop",
+    "разрабатывать, развивать",
+    "The team developed a new marketing strategy.",
+    "A2"
+  ],
+  [
+    "document",
+    "документ",
+    "Please sign the document and return it.",
+    "A2"
+  ],
+  [
+    "drop",
+    "ронять, снижаться",
+    "Sales dropped sharply last quarter.",
+    "A2"
+  ],
+  [
+    "earn",
+    "зарабатывать",
+    "She earns a good salary as a manager.",
+    "A2"
+  ],
+  [
+    "collect",
+    "собирать, взимать (платежи)",
+    "The company collects payments monthly.",
+    "A2"
+  ],
+  [
+    "condition",
+    "условие (договора)",
+    "There's a condition in the contract about notice periods.",
+    "A2"
+  ],
+  [
+    "equipment",
+    "оборудование (офисное)",
+    "The office needs new computer equipment.",
+    "A2"
+  ],
+  [
+    "expert",
+    "эксперт",
+    "They hired an expert to advise on the deal.",
+    "A2"
+  ],
+  [
+    "increase",
+    "увеличение; увеличивать(ся)",
+    "The company announced an increase in prices.",
+    "A2"
+  ],
+  [
+    "lead",
+    "руководить, возглавлять",
+    "She leads a team of ten sales staff.",
+    "A2"
+  ],
+  [
+    "leader",
+    "лидер, руководитель",
+    "He's the leader of the marketing department.",
+    "A2"
+  ],
+  [
+    "lend",
+    "одалживать (деньги)",
+    "The bank agreed to lend them the money.",
+    "A2"
+  ],
+  [
+    "offer",
+    "предложение; предлагать",
+    "They made her a job offer last week.",
+    "A2"
+  ],
+  [
+    "opportunity",
+    "возможность (карьерная)",
+    "This job is a great opportunity for her career.",
+    "A2"
+  ],
+  [
+    "organization",
+    "организация",
+    "She works for a large international organization.",
+    "A2"
+  ],
+  [
+    "organize",
+    "организовывать",
+    "He organized the whole conference by himself.",
+    "A2"
+  ],
+  [
+    "own",
+    "владеть",
+    "The family has owned the business for fifty years.",
+    "A2"
+  ],
+  [
+    "owner",
+    "владелец",
+    "The restaurant owner greeted us at the door.",
+    "A2"
+  ],
+  [
+    "present",
+    "представлять (доклад)",
+    "He presented the new strategy to investors.",
+    "A2"
+  ],
+  [
+    "rate",
+    "ставка, тариф",
+    "The bank offers a competitive interest rate.",
+    "A2"
+  ],
+  [
+    "replace",
+    "заменять",
+    "They replaced the old machines with new ones.",
+    "A2"
+  ],
+  [
+    "rise",
+    "расти, повышаться",
+    "Profits rose by ten per cent last year.",
+    "A2"
+  ],
+  [
+    "sale",
+    "продажа, распродажа",
+    "The shop is having a big summer sale.",
+    "A2"
+  ],
+  [
+    "save",
+    "копить, экономить (деньги)",
+    "They're trying to save money on office costs.",
+    "A2"
+  ],
+  [
+    "schedule",
+    "расписание, график",
+    "The project schedule is very tight this month.",
+    "A2"
+  ],
+  [
+    "secretary",
+    "секретарь",
+    "His secretary booked all his meetings.",
+    "A2"
+  ],
+  [
+    "service",
+    "обслуживание, сервис",
+    "The hotel is known for its excellent service.",
+    "A2"
+  ],
+  [
+    "working",
+    "рабочий, действующий",
+    "She has a good working relationship with her boss.",
+    "A2"
+  ],
+  [
+    "informal",
+    "неформальный",
+    "The office has a fairly informal dress code.",
+    "A2"
+  ],
+  [
+    "item",
+    "товар, пункт (списка)",
+    "Each item in the shop has a price tag.",
+    "A2"
+  ],
+  [
+    "manage",
+    "управлять, справляться",
+    "She manages a small team of designers.",
+    "A2"
+  ],
+  [
+    "penny",
+    "пенни",
+    "The shop reduced the price by a penny.",
+    "A2"
+  ],
+  [
+    "per cent",
+    "процент",
+    "Sales rose by ten per cent this year.",
+    "A2"
+  ],
+  [
+    "permission",
+    "разрешение (официальное)",
+    "You need permission from your manager to leave early.",
+    "A2"
+  ],
+  [
+    "position",
+    "должность, позиция",
+    "She applied for a senior position at the bank.",
+    "A2"
+  ],
+  [
+    "method",
+    "метод работы, подход",
+    "They use a new method to track deliveries.",
+    "A2"
+  ],
+  [
+    "officer",
+    "офицер, чиновник (в компании)",
+    "He works as a finance officer for the council.",
+    "A2"
+  ],
+  [
+    "process",
+    "процесс",
+    "The hiring process takes about three weeks.",
+    "A2"
+  ],
+  [
+    "produce",
+    "производить",
+    "The factory produces thousands of cars a year.",
+    "A2"
+  ],
+  [
+    "provide",
+    "предоставлять, обеспечивать",
+    "The company provides free lunches for staff.",
+    "A2"
+  ],
+  [
+    "quality",
+    "качество",
+    "The company is known for the quality of its products.",
+    "A2"
+  ],
+  [
+    "quantity",
+    "количество",
+    "They order goods in large quantities.",
+    "A2"
+  ],
+  [
+    "raise",
+    "собирать (средства), повышать",
+    "The company raised prices last month.",
+    "A2"
+  ],
+  [
+    "reduce",
+    "сокращать, снижать",
+    "They reduced staff numbers during the recession.",
+    "A2"
+  ],
+  [
+    "reception",
+    "приёмная (в офисе)",
+    "Visitors should sign in at reception.",
+    "A2"
+  ],
+  [
+    "recommend",
+    "рекомендовать (кандидата)",
+    "Her manager recommended her for the promotion.",
+    "A2"
+  ],
+  [
+    "role",
+    "роль, функция (в компании)",
+    "He took on a new role in the sales team.",
+    "A2"
+  ],
+  [
+    "sign",
+    "подписывать (документ)",
+    "She signed the contract yesterday.",
+    "A2"
+  ],
+  [
+    "stage",
+    "этап, стадия (проекта)",
+    "The project is still in an early stage.",
+    "A2"
+  ],
+  [
+    "survey",
+    "опрос",
+    "The company carried out a customer satisfaction survey.",
+    "A2"
+  ],
+  [
+    "target",
+    "цель, целевой показатель",
+    "The team met its sales target this quarter.",
+    "A2"
+  ],
+  [
+    "tool",
+    "инструмент, средство (для работы)",
+    "This software is a useful tool for accountants.",
+    "A2"
+  ],
+  [
+    "training",
+    "обучение, подготовка (сотрудников)",
+    "New staff receive two weeks of training.",
+    "A2"
+  ],
+  [
+    "uniform",
+    "рабочая форма",
+    "Staff must wear a uniform on the shop floor.",
+    "A2"
+  ],
+  [
+    "store",
+    "магазин",
+    "They opened a new store in the city centre.",
+    "A2"
+  ],
+  [
+    "strategy",
+    "стратегия",
+    "The company changed its marketing strategy.",
+    "A2"
+  ],
+  [
+    "structure",
+    "структура (организации)",
+    "The company has a very flat management structure.",
+    "A2"
+  ],
+  [
+    "succeed",
+    "сменять на посту (succeed as CEO)",
+    "It takes hard work to succeed in business.",
+    "A2"
+  ]
+]

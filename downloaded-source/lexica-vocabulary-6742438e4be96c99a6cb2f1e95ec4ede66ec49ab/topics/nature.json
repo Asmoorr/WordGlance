@@ -1,0 +1,1196 @@
+[
+  [
+    "air",
+    "воздух",
+    "The air felt fresh after the rain.",
+    "A1"
+  ],
+  [
+    "farm",
+    "ферма",
+    "They grow vegetables on their farm.",
+    "A1"
+  ],
+  [
+    "farmer",
+    "фермер",
+    "The farmer got up early to feed the animals.",
+    "A1"
+  ],
+  [
+    "flower",
+    "цветок",
+    "She picked a flower from the garden.",
+    "A1"
+  ],
+  [
+    "mountain",
+    "гора",
+    "They climbed the mountain in five hours.",
+    "A1"
+  ],
+  [
+    "plant",
+    "растение",
+    "She waters the plants every morning.",
+    "A1"
+  ],
+  [
+    "rain",
+    "дождь; идти (о дожде)",
+    "It started to rain just as we left.",
+    "A1"
+  ],
+  [
+    "river",
+    "река",
+    "The river flows through the middle of the city.",
+    "A1"
+  ],
+  [
+    "sea",
+    "море",
+    "The sea was calm this morning.",
+    "A1"
+  ],
+  [
+    "snow",
+    "снег; идти (о снеге)",
+    "It began to snow heavily in the evening.",
+    "A1"
+  ],
+  [
+    "star",
+    "звезда",
+    "You can see thousands of stars out here.",
+    "A1"
+  ],
+  [
+    "sun",
+    "солнце",
+    "The sun rose over the hills.",
+    "A1"
+  ],
+  [
+    "tree",
+    "дерево",
+    "They planted a tree in the garden.",
+    "A1"
+  ],
+  [
+    "weather",
+    "погода",
+    "The weather was perfect for a walk.",
+    "A1"
+  ],
+  [
+    "world",
+    "мир",
+    "She wants to travel around the world.",
+    "A1"
+  ],
+  [
+    "climate",
+    "климат",
+    "The climate here is warm and dry.",
+    "A2"
+  ],
+  [
+    "cloud",
+    "облако",
+    "A dark cloud appeared over the hills.",
+    "A2"
+  ],
+  [
+    "desert",
+    "пустыня",
+    "The desert is extremely hot during the day.",
+    "A2"
+  ],
+  [
+    "earth",
+    "земля; планета Земля",
+    "The earth takes a year to orbit the sun.",
+    "A2"
+  ],
+  [
+    "electricity",
+    "электричество",
+    "The storm cut off the electricity for hours.",
+    "A2"
+  ],
+  [
+    "energy",
+    "энергия",
+    "The country invests heavily in renewable energy.",
+    "A2"
+  ],
+  [
+    "environment",
+    "окружающая среда",
+    "We should all try to protect the environment.",
+    "A2"
+  ],
+  [
+    "farm",
+    "заниматься сельским хозяйством",
+    "His family has farmed this land for generations.",
+    "A2"
+  ],
+  [
+    "forest",
+    "лес",
+    "They walked through a thick pine forest.",
+    "A2"
+  ],
+  [
+    "gas",
+    "газ",
+    "The car runs on natural gas.",
+    "A2"
+  ],
+  [
+    "grass",
+    "трава",
+    "The children played on the grass.",
+    "A2"
+  ],
+  [
+    "ground",
+    "земля, почва",
+    "The ground was still wet after the rain.",
+    "A2"
+  ],
+  [
+    "lake",
+    "озеро",
+    "They swam in the lake all afternoon.",
+    "A2"
+  ],
+  [
+    "moon",
+    "луна",
+    "The moon was bright and full last night.",
+    "A2"
+  ],
+  [
+    "nature",
+    "природа",
+    "She loves spending time in nature.",
+    "A2"
+  ],
+  [
+    "ocean",
+    "океан",
+    "The ocean covers most of the earth's surface.",
+    "A2"
+  ],
+  [
+    "planet",
+    "планета",
+    "Earth is the third planet from the sun.",
+    "A2"
+  ],
+  [
+    "plant",
+    "сажать (растение)",
+    "They plant tomatoes every spring.",
+    "A2"
+  ],
+  [
+    "pollution",
+    "загрязнение",
+    "Air pollution is a big problem in the city.",
+    "A2"
+  ],
+  [
+    "recycle",
+    "перерабатывать (отходы)",
+    "We recycle paper, glass, and plastic at home.",
+    "A2"
+  ],
+  [
+    "rock (stone)",
+    "камень, скала",
+    "The children climbed over the rocks by the sea.",
+    "A2"
+  ],
+  [
+    "sky",
+    "небо",
+    "The sky turned orange at sunset.",
+    "A2"
+  ],
+  [
+    "stone",
+    "камень",
+    "The old house was built from stone.",
+    "A2"
+  ],
+  [
+    "storm",
+    "шторм, буря",
+    "A storm knocked down several trees.",
+    "A2"
+  ],
+  [
+    "valley",
+    "долина",
+    "The village sits in a green valley.",
+    "A2"
+  ],
+  [
+    "wind",
+    "ветер",
+    "A strong wind blew all night.",
+    "A2"
+  ],
+  [
+    "wood",
+    "дерево (материал); лес (небольшой)",
+    "The table is made of solid wood.",
+    "A2"
+  ],
+  [
+    "coal",
+    "уголь",
+    "The town used to have a coal mine.",
+    "B1"
+  ],
+  [
+    "earthquake",
+    "землетрясение",
+    "The earthquake damaged several buildings.",
+    "B1"
+  ],
+  [
+    "environmental",
+    "экологический",
+    "The factory faced criticism for environmental damage.",
+    "B1"
+  ],
+  [
+    "flood",
+    "наводнение; затоплять",
+    "Heavy rain caused a flood in the valley.",
+    "B1"
+  ],
+  [
+    "fuel",
+    "топливо",
+    "The car ran out of fuel on the motorway.",
+    "B1"
+  ],
+  [
+    "hurricane",
+    "ураган",
+    "The hurricane hit the coast early this morning.",
+    "B1"
+  ],
+  [
+    "leaf",
+    "лист (растения)",
+    "A single leaf fell from the tree.",
+    "B1"
+  ],
+  [
+    "resource",
+    "природный ресурс",
+    "The country is rich in natural resources.",
+    "B1"
+  ],
+  [
+    "seed",
+    "семя, семечко",
+    "She planted the seeds in early spring.",
+    "B1"
+  ],
+  [
+    "soil",
+    "почва",
+    "The soil here is perfect for growing vegetables.",
+    "B1"
+  ],
+  [
+    "crop",
+    "урожай, культура (с/х)",
+    "Farmers lost most of their crop this year.",
+    "B2"
+  ],
+  [
+    "fuel",
+    "заправлять топливом",
+    "They stopped to fuel the car before the trip.",
+    "B2"
+  ],
+  [
+    "mineral",
+    "минерал",
+    "The region is rich in minerals like iron and copper.",
+    "B2"
+  ],
+  [
+    "root",
+    "корень (растения)",
+    "The tree's roots spread deep into the ground.",
+    "B2"
+  ],
+  [
+    "rural",
+    "сельский",
+    "They live in a quiet rural area.",
+    "B2"
+  ],
+  [
+    "solar",
+    "солнечный",
+    "The house is powered by solar panels.",
+    "B2"
+  ],
+  [
+    "tropical",
+    "тропический",
+    "The island has a warm, tropical climate.",
+    "B2"
+  ],
+  [
+    "universe",
+    "вселенная",
+    "Scientists are still learning about the universe.",
+    "B2"
+  ],
+  [
+    "agriculture",
+    "сельское хозяйство",
+    "Agriculture is the main industry in this region.",
+    "B2"
+  ],
+  [
+    "carbon",
+    "углерод",
+    "The company aims to reduce its carbon emissions.",
+    "B2"
+  ],
+  [
+    "drought",
+    "засуха",
+    "The drought lasted almost a whole year.",
+    "B2"
+  ],
+  [
+    "fossil",
+    "ископаемое (окаменелость)",
+    "They found a dinosaur fossil in the rocks.",
+    "B2"
+  ],
+  [
+    "globe",
+    "земной шар; глобус",
+    "There's an old globe on his desk.",
+    "B2"
+  ],
+  [
+    "greenhouse",
+    "теплица; парниковый эффект",
+    "She grows tomatoes in a small greenhouse.",
+    "B2"
+  ],
+  [
+    "oxygen",
+    "кислород",
+    "Plants release oxygen into the air.",
+    "B2"
+  ],
+  [
+    "sustainable",
+    "устойчивый (экологически)",
+    "They're building more sustainable homes.",
+    "B2"
+  ],
+  [
+    "tsunami",
+    "цунами",
+    "The tsunami warning was issued after the earthquake.",
+    "B2"
+  ],
+  [
+    "warming",
+    "потепление",
+    "Scientists are studying the effects of global warming.",
+    "B2"
+  ],
+  [
+    "ecological",
+    "экологический",
+    "The oil spill caused an ecological disaster.",
+    "C1"
+  ],
+  [
+    "tide",
+    "прилив, отлив",
+    "The tide comes in around six o'clock.",
+    "C1"
+  ],
+  [
+    "water",
+    "поливать (растения)",
+    "She waters her plants every evening.",
+    "B1"
+  ],
+  [
+    "bank (river)",
+    "берег (реки)",
+    "They had a picnic on the river bank.",
+    "B1"
+  ],
+  [
+    "wave",
+    "волна (морская)",
+    "The waves were too rough for swimming.",
+    "A2"
+  ],
+  [
+    "branch",
+    "ветка (дерева)",
+    "A bird landed on a branch above us.",
+    "B1"
+  ],
+  [
+    "abundance",
+    "изобилие",
+    "There was an abundance of fresh fruit at the market.",
+    "C1"
+  ],
+  [
+    "acre",
+    "акр (единица площади)",
+    "The farm covers about two hundred acres.",
+    "C1"
+  ],
+  [
+    "agricultural",
+    "сельскохозяйственный",
+    "The region relies heavily on agricultural exports.",
+    "C1"
+  ],
+  [
+    "ash",
+    "пепел, зола",
+    "The volcano covered the town in ash.",
+    "C1"
+  ],
+  [
+    "bay",
+    "залив",
+    "They anchored the boat in a quiet bay.",
+    "C1"
+  ],
+  [
+    "breed",
+    "порода; разводить (животных)",
+    "This breed of dog is known for its intelligence.",
+    "C1"
+  ],
+  [
+    "conserve",
+    "сохранять, беречь (природу)",
+    "We must conserve water during the drought.",
+    "C1"
+  ],
+  [
+    "cultivate",
+    "культивировать, возделывать",
+    "Farmers cultivate rice in flooded fields.",
+    "C1"
+  ],
+  [
+    "cutting",
+    "черенок (растения)",
+    "She grew a new plant from a cutting.",
+    "C1"
+  ],
+  [
+    "dam",
+    "плотина",
+    "The dam provides electricity for the whole region.",
+    "C1"
+  ],
+  [
+    "dawn",
+    "рассвет",
+    "They set off at dawn to beat the traffic.",
+    "C1"
+  ],
+  [
+    "debris",
+    "обломки, мусор",
+    "Debris from the storm covered the beach.",
+    "C1"
+  ],
+  [
+    "dense",
+    "густой, плотный",
+    "The path led through dense forest.",
+    "C1"
+  ],
+  [
+    "devastate",
+    "опустошать, разорять",
+    "The flood devastated the entire village.",
+    "C1"
+  ],
+  [
+    "disposal",
+    "утилизация (отходов)",
+    "The town improved its waste disposal system.",
+    "C1"
+  ],
+  [
+    "dispose",
+    "избавляться, утилизировать",
+    "Please dispose of the batteries responsibly.",
+    "C1"
+  ],
+  [
+    "drift",
+    "дрейфовать, сноситься течением",
+    "The boat drifted slowly out to sea.",
+    "C1"
+  ],
+  [
+    "echo",
+    "эхо; отражаться эхом",
+    "His voice echoed through the empty valley.",
+    "C1"
+  ],
+  [
+    "gallon",
+    "галлон (единица измерения)",
+    "The tank holds about ten gallons of water.",
+    "C1"
+  ],
+  [
+    "hail",
+    "идти (о граде)",
+    "It started to hail heavily during the storm.",
+    "C1"
+  ],
+  [
+    "harvest",
+    "урожай; собирать урожай",
+    "They harvest the wheat in late summer.",
+    "C1"
+  ],
+  [
+    "hook",
+    "зацепить крючком (рыбалка)",
+    "He hooked a large fish within minutes.",
+    "C1"
+  ],
+  [
+    "horizon",
+    "горизонт",
+    "The sun sank below the horizon.",
+    "C1"
+  ],
+  [
+    "indigenous",
+    "коренной, местный (о народах/видах)",
+    "The plant is indigenous to South America.",
+    "C1"
+  ],
+  [
+    "flourish",
+    "пышно расти (о растении)",
+    "These flowers flourish in warm, sunny climates.",
+    "C1"
+  ],
+  [
+    "marine",
+    "морской",
+    "The area is home to many marine species.",
+    "C1"
+  ],
+  [
+    "nest",
+    "гнездо",
+    "A pair of birds built a nest in the tree.",
+    "C1"
+  ],
+  [
+    "patch",
+    "участок (земли); заплатка",
+    "There's a patch of wildflowers by the river.",
+    "C1"
+  ],
+  [
+    "peasant",
+    "крестьянин",
+    "The peasants worked the land from dawn till dusk.",
+    "C1"
+  ],
+  [
+    "pit",
+    "яма, карьер",
+    "They dug a pit to bury the waste.",
+    "C1"
+  ],
+  [
+    "pole",
+    "полюс; столб",
+    "The tent was held up by two wooden poles.",
+    "C1"
+  ],
+  [
+    "pond",
+    "пруд",
+    "There's a small pond behind their house.",
+    "C1"
+  ],
+  [
+    "log",
+    "бревно",
+    "They sat on a fallen log by the fire.",
+    "C1"
+  ],
+  [
+    "march",
+    "март",
+    "Spring usually arrives by the end of March.",
+    "C1"
+  ],
+  [
+    "mill",
+    "мельница (ветряная/водяная)",
+    "The old mill by the river no longer works.",
+    "C1"
+  ],
+  [
+    "preservation",
+    "сохранение (природы)",
+    "The charity focuses on the preservation of wetlands.",
+    "C1"
+  ],
+  [
+    "ray",
+    "луч",
+    "A ray of sunlight came through the clouds.",
+    "C1"
+  ],
+  [
+    "remains",
+    "останки, руины",
+    "Archaeologists found the remains of an ancient village.",
+    "C1"
+  ],
+  [
+    "reproduce",
+    "размножаться",
+    "Rabbits reproduce very quickly.",
+    "C1"
+  ],
+  [
+    "reproduction",
+    "размножение",
+    "The exhibit explains plant reproduction.",
+    "C1"
+  ],
+  [
+    "scattered",
+    "рассеянный, разбросанный",
+    "Leaves were scattered across the garden.",
+    "C1"
+  ],
+  [
+    "stem",
+    "стебель; проистекать (из)",
+    "The flower's stem was bent by the wind.",
+    "C1"
+  ],
+  [
+    "timber",
+    "древесина, лесоматериал",
+    "The house was built entirely from local timber.",
+    "C1"
+  ],
+  [
+    "trace",
+    "след; выслеживать",
+    "There was no trace of the animal in the snow.",
+    "C1"
+  ],
+  [
+    "weed",
+    "сорняк",
+    "She spent the morning pulling weeds from the garden.",
+    "C1"
+  ],
+  [
+    "well",
+    "колодец, скважина",
+    "The village still gets its water from a well.",
+    "C1"
+  ],
+  [
+    "bush",
+    "куст",
+    "A bird flew out of the bush.",
+    "B2"
+  ],
+  [
+    "depth",
+    "глубина",
+    "The lake reaches a depth of fifty metres.",
+    "B2"
+  ],
+  [
+    "dig",
+    "копать",
+    "They dug a hole to plant the tree.",
+    "B2"
+  ],
+  [
+    "flame",
+    "пламя",
+    "The candle flame flickered in the wind.",
+    "B2"
+  ],
+  [
+    "hollow",
+    "полый, пустой",
+    "The tree trunk was completely hollow.",
+    "B2"
+  ],
+  [
+    "landscape",
+    "пейзаж, ландшафт",
+    "The painting shows a beautiful mountain landscape.",
+    "B2"
+  ],
+  [
+    "melt",
+    "таять",
+    "The snow began to melt in the sun.",
+    "B2"
+  ],
+  [
+    "preserve",
+    "сохранять, беречь",
+    "The park was created to preserve the forest.",
+    "B2"
+  ],
+  [
+    "reserve",
+    "заповедник; резервировать",
+    "The animals live in a protected nature reserve.",
+    "B2"
+  ],
+  [
+    "shadow",
+    "тень",
+    "The tall tree cast a long shadow.",
+    "B2"
+  ],
+  [
+    "shallow",
+    "мелкий, неглубокий",
+    "The water near the shore is quite shallow.",
+    "B2"
+  ],
+  [
+    "severe",
+    "суровый (о погоде)",
+    "Severe storms are expected later today.",
+    "B2"
+  ],
+  [
+    "shade",
+    "тень (от солнца)",
+    "They sat in the shade of a big tree.",
+    "B2"
+  ],
+  [
+    "steep",
+    "крутой (о склоне)",
+    "The path up the hill is very steep.",
+    "B2"
+  ],
+  [
+    "stream",
+    "ручей, поток",
+    "A small stream ran through the forest.",
+    "B2"
+  ],
+  [
+    "surrounding",
+    "окружающий",
+    "The surrounding hills were covered in snow.",
+    "B2"
+  ],
+  [
+    "cave",
+    "пещера",
+    "They explored a cave near the coast.",
+    "B2"
+  ],
+  [
+    "cliff",
+    "утёс, скала",
+    "The house stands on a cliff above the sea.",
+    "B2"
+  ],
+  [
+    "conservation",
+    "охрана природы",
+    "The charity works on wildlife conservation.",
+    "B2"
+  ],
+  [
+    "darkness",
+    "темнота",
+    "The power cut left the street in darkness.",
+    "B2"
+  ],
+  [
+    "dump",
+    "свалка; сбрасывать (мусор)",
+    "It's illegal to dump rubbish in the river.",
+    "B2"
+  ],
+  [
+    "emission",
+    "выброс (в атмосферу)",
+    "The new law aims to cut carbon emissions.",
+    "B2"
+  ],
+  [
+    "erupt",
+    "извергаться (о вулкане)",
+    "The volcano erupted after years of silence.",
+    "B2"
+  ],
+  [
+    "forecast",
+    "прогноз погоды; прогнозировать",
+    "The weather forecast says it will rain tomorrow.",
+    "B2"
+  ],
+  [
+    "litter",
+    "мусор",
+    "Volunteers picked up litter from the beach.",
+    "B2"
+  ],
+  [
+    "rose",
+    "роза",
+    "He gave her a bunch of red roses.",
+    "B2"
+  ],
+  [
+    "palm",
+    "пальма",
+    "Palm trees lined the beach.",
+    "B2"
+  ],
+  [
+    "shore",
+    "берег",
+    "They walked along the shore at sunset.",
+    "B2"
+  ],
+  [
+    "spill",
+    "разлив (нефти); проливать(ся)",
+    "The oil spill damaged miles of coastline.",
+    "B2"
+  ],
+  [
+    "atmosphere",
+    "атмосфера (планеты)",
+    "The gas makes up a tiny part of the atmosphere.",
+    "B1"
+  ],
+  [
+    "countryside",
+    "сельская местность",
+    "They went for a walk in the countryside.",
+    "B1"
+  ],
+  [
+    "damage",
+    "ущерб окружающей среде",
+    "The oil spill caused serious damage to the coastline.",
+    "B1"
+  ],
+  [
+    "drop",
+    "капля",
+    "A drop of rain landed on her hand.",
+    "B1"
+  ],
+  [
+    "flow",
+    "течь (о реке)",
+    "The river flows gently through the valley.",
+    "B1"
+  ],
+  [
+    "impact",
+    "воздействие на окружающую среду",
+    "Plastic waste has a huge impact on marine life.",
+    "B1"
+  ],
+  [
+    "mild",
+    "мягкий, тёплый (о погоде)",
+    "The winters here are usually quite mild.",
+    "B1"
+  ],
+  [
+    "mud",
+    "грязь, ил",
+    "The children played happily in the mud.",
+    "B1"
+  ],
+  [
+    "sand",
+    "песок",
+    "The beach was covered in soft golden sand.",
+    "B1"
+  ],
+  [
+    "shell",
+    "раковина (морская)",
+    "She found a beautiful shell on the beach.",
+    "B1"
+  ],
+  [
+    "shine",
+    "светить, сиять",
+    "The sun shone brightly all afternoon.",
+    "B1"
+  ],
+  [
+    "stick (piece of wood)",
+    "палка",
+    "The dog ran off to fetch a stick.",
+    "B1"
+  ],
+  [
+    "surface",
+    "поверхность",
+    "The lake's surface was completely still.",
+    "B1"
+  ],
+  [
+    "waste",
+    "отходы; тратить впустую",
+    "The factory produces a lot of waste.",
+    "B1"
+  ],
+  [
+    "rise",
+    "восход (солнца)",
+    "They watched the sun rise over the hills.",
+    "B1"
+  ],
+  [
+    "rough",
+    "бурный (о море)",
+    "The sea was too rough for swimming.",
+    "B1"
+  ],
+  [
+    "dark",
+    "тёмный, темнота",
+    "It gets dark very early in winter.",
+    "A1"
+  ],
+  [
+    "fire",
+    "огонь, пожар",
+    "They lit a fire to keep warm.",
+    "A1"
+  ],
+  [
+    "cold",
+    "холодный (о погоде)",
+    "The cold this winter has been terrible.",
+    "A1"
+  ],
+  [
+    "cool",
+    "прохладный (о погоде)",
+    "It's a bit cool this evening, take a jacket.",
+    "A1"
+  ],
+  [
+    "grow",
+    "расти (о растениях)",
+    "Sunflowers grow very quickly in summer.",
+    "A1"
+  ],
+  [
+    "hot",
+    "жаркий (о погоде)",
+    "It's too hot to go outside today.",
+    "A1"
+  ],
+  [
+    "ice",
+    "лёд",
+    "The lake was frozen solid with ice.",
+    "A1"
+  ],
+  [
+    "land",
+    "земля, суша",
+    "The farmer owns a lot of land in the valley.",
+    "A1"
+  ],
+  [
+    "light (from the sun/a lamp)",
+    "свет",
+    "The morning light woke her up early.",
+    "A1"
+  ],
+  [
+    "natural",
+    "природный, естественный",
+    "The park protects the area's natural beauty.",
+    "A1"
+  ],
+  [
+    "spring",
+    "весна",
+    "Flowers start to bloom in spring.",
+    "A1"
+  ],
+  [
+    "summer",
+    "лето",
+    "They spend every summer by the sea.",
+    "A1"
+  ],
+  [
+    "warm",
+    "тёплый (о погоде)",
+    "It's quite warm for October.",
+    "A1"
+  ],
+  [
+    "winter",
+    "зима",
+    "It snows a lot here in winter.",
+    "A1"
+  ],
+  [
+    "bright",
+    "яркий (о свете)",
+    "The sun was very bright this morning.",
+    "A2"
+  ],
+  [
+    "dark",
+    "темнота",
+    "She's afraid of the dark.",
+    "A2"
+  ],
+  [
+    "deep",
+    "глубокий (о воде)",
+    "The lake is surprisingly deep in the middle.",
+    "A2"
+  ],
+  [
+    "dry",
+    "сухой (о погоде)",
+    "The weather has been very dry this summer.",
+    "A2"
+  ],
+  [
+    "fall",
+    "осень (амер.)",
+    "The leaves turn red and gold in fall.",
+    "A2"
+  ],
+  [
+    "farming",
+    "фермерство, сельское хозяйство",
+    "Farming is the main industry in this region.",
+    "A2"
+  ],
+  [
+    "heat",
+    "жара; нагревать",
+    "The heat in August can be unbearable.",
+    "A2"
+  ],
+  [
+    "hill",
+    "холм",
+    "They walked up the hill to watch the sunset.",
+    "A2"
+  ],
+  [
+    "light (from the sun/a lamp)",
+    "освещать",
+    "The full moon lit up the whole valley.",
+    "A2"
+  ],
+  [
+    "plastic",
+    "пластиковое загрязнение",
+    "Plastic in the ocean harms marine animals.",
+    "A2"
+  ],
+  [
+    "rubbish",
+    "мусор",
+    "There's a lot of rubbish washed up on the beach.",
+    "A2"
+  ],
+  [
+    "reduce",
+    "сокращать (отходы, выбросы)",
+    "We should all try to reduce plastic waste.",
+    "A2"
+  ],
+  [
+    "season",
+    "время года, сезон",
+    "Autumn is my favourite season.",
+    "A2"
+  ],
+  [
+    "smoke",
+    "дым (от огня)",
+    "Thick smoke rose from the forest fire.",
+    "A2"
+  ],
+  [
+    "temperature",
+    "температура (воздуха)",
+    "The temperature dropped below zero last night.",
+    "A2"
+  ],
+  [
+    "wet",
+    "мокрый, влажный (о погоде)",
+    "The ground was still wet from yesterday's rain.",
+    "A2"
+  ],
+  [
+    "wild",
+    "дикий",
+    "Wild flowers grow all along this path.",
+    "A2"
+  ],
+  [
+    "thick",
+    "густой (о лесе, тумане)",
+    "Thick fog covered the fields this morning.",
+    "A2"
+  ]
+]

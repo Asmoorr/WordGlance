@@ -1,0 +1,374 @@
+[
+  [
+    "inevitable",
+    "неизбежный",
+    "The delay was inevitable given the circumstances.",
+    "C1"
+  ],
+  [
+    "ambiguous",
+    "двусмысленный",
+    "His answer was deliberately ambiguous.",
+    "C1"
+  ],
+  [
+    "reluctant",
+    "неохотный",
+    "She was reluctant to sign the document.",
+    "B2"
+  ],
+  [
+    "meticulous",
+    "дотошный, скрупулёзный",
+    "He is meticulous about deadlines.",
+    "C1"
+  ],
+  [
+    "comprehensive",
+    "всеобъемлющий",
+    "We need a comprehensive report by Friday.",
+    "B2"
+  ],
+  [
+    "feasible",
+    "осуществимый",
+    "Is this timeline actually feasible?",
+    "B2"
+  ],
+  [
+    "arbitrary",
+    "произвольный",
+    "The rule seemed completely arbitrary.",
+    "C1"
+  ],
+  [
+    "coherent",
+    "логичный, последовательный",
+    "Her argument was clear and coherent.",
+    "C1"
+  ],
+  [
+    "controversial",
+    "спорный",
+    "It's a controversial decision.",
+    "B2"
+  ],
+  [
+    "sustainable",
+    "устойчивый",
+    "We're looking for a sustainable solution.",
+    "B2"
+  ],
+  [
+    "diligent",
+    "усердный, старательный",
+    "She is a diligent employee.",
+    "C1"
+  ],
+  [
+    "profound",
+    "глубокий (перен.)",
+    "The change had a profound effect.",
+    "C1"
+  ],
+  [
+    "subtle",
+    "тонкий, едва уловимый",
+    "There's a subtle difference between the two.",
+    "C1"
+  ],
+  [
+    "versatile",
+    "разносторонний",
+    "He is a versatile project manager.",
+    "C1"
+  ],
+  [
+    "inherent",
+    "присущий, врождённый",
+    "There are inherent risks in this plan.",
+    "C1"
+  ],
+  [
+    "notion",
+    "понятие, представление",
+    "I reject the notion that it's impossible.",
+    "B2"
+  ],
+  [
+    "predominant",
+    "преобладающий",
+    "Cost is the predominant factor here.",
+    "C1"
+  ],
+  [
+    "discrepancy",
+    "несоответствие, расхождение",
+    "There's a discrepancy in the figures.",
+    "C1"
+  ],
+  [
+    "compelling",
+    "убедительный",
+    "She made a compelling case for the change.",
+    "C1"
+  ],
+  [
+    "underlying",
+    "лежащий в основе",
+    "We must address the underlying issue.",
+    "B2"
+  ],
+  [
+    "plausible",
+    "правдоподобный",
+    "That's a plausible explanation.",
+    "C1"
+  ],
+  [
+    "explicit",
+    "явный, чётко выраженный",
+    "Please give explicit instructions.",
+    "B2"
+  ],
+  [
+    "implicit",
+    "неявный, подразумеваемый",
+    "There was an implicit agreement between them.",
+    "C1"
+  ],
+  [
+    "ubiquitous",
+    "повсеместный",
+    "Smartphones are ubiquitous nowadays.",
+    "C1"
+  ],
+  [
+    "ambivalent",
+    "двойственный, противоречивый",
+    "I feel ambivalent about the offer.",
+    "C1"
+  ],
+  [
+    "resilient",
+    "стойкий, устойчивый к трудностям",
+    "The team stayed resilient under pressure.",
+    "B2"
+  ],
+  [
+    "tentative",
+    "предварительный, пробный",
+    "We set a tentative date for the launch.",
+    "C1"
+  ],
+  [
+    "redundant",
+    "избыточный, лишний",
+    "This clause is redundant.",
+    "B2"
+  ],
+  [
+    "viable",
+    "жизнеспособный",
+    "Is this a viable business model?",
+    "B2"
+  ],
+  [
+    "ongoing",
+    "продолжающийся",
+    "Negotiations are still ongoing.",
+    "B2"
+  ],
+  [
+    "substantial",
+    "существенный, значительный",
+    "We made substantial progress this week.",
+    "B2"
+  ],
+  [
+    "adverse",
+    "неблагоприятный",
+    "The drug has several adverse effects.",
+    "B2"
+  ],
+  [
+    "concise",
+    "краткий, сжатый",
+    "Keep your report concise.",
+    "B2"
+  ],
+  [
+    "cumulative",
+    "совокупный, накопительный",
+    "The cumulative effect was significant.",
+    "C1"
+  ],
+  [
+    "deliberate",
+    "преднамеренный",
+    "It was a deliberate choice.",
+    "B2"
+  ],
+  [
+    "distinct",
+    "отчётливый, отдельный",
+    "These are two distinct problems.",
+    "B2"
+  ],
+  [
+    "elaborate",
+    "сложный, подробный",
+    "He gave an elaborate explanation.",
+    "C1"
+  ],
+  [
+    "eligible",
+    "имеющий право",
+    "You're eligible for a discount.",
+    "B2"
+  ],
+  [
+    "endorse",
+    "поддерживать, одобрять",
+    "The committee endorsed the proposal.",
+    "B2"
+  ],
+  [
+    "enforce",
+    "обеспечивать соблюдение",
+    "The rules must be strictly enforced.",
+    "B2"
+  ],
+  [
+    "facilitate",
+    "способствовать, облегчать",
+    "This tool will facilitate collaboration.",
+    "B2"
+  ],
+  [
+    "hinder",
+    "препятствовать, мешать",
+    "Poor planning hindered progress.",
+    "B2"
+  ],
+  [
+    "impose",
+    "налагать, вводить",
+    "New restrictions were imposed.",
+    "B2"
+  ],
+  [
+    "incentive",
+    "стимул, побуждение",
+    "We need an incentive for early sign-up.",
+    "B2"
+  ],
+  [
+    "integral",
+    "неотъемлемый",
+    "Feedback is integral to the process.",
+    "C1"
+  ],
+  [
+    "intricate",
+    "замысловатый, сложный",
+    "The design has an intricate pattern.",
+    "C1"
+  ],
+  [
+    "mitigate",
+    "смягчать, снижать",
+    "We must mitigate the risks.",
+    "C1"
+  ],
+  [
+    "modest",
+    "скромный",
+    "He gave a modest estimate.",
+    "B2"
+  ],
+  [
+    "negligible",
+    "незначительный",
+    "The difference is negligible.",
+    "C1"
+  ],
+  [
+    "outline",
+    "план, наметить",
+    "Let me outline the next steps.",
+    "B2"
+  ],
+  [
+    "pertinent",
+    "уместный, относящийся к делу",
+    "That's a pertinent question.",
+    "C1"
+  ],
+  [
+    "prevail",
+    "преобладать, одержать верх",
+    "Common sense prevailed in the end.",
+    "C1"
+  ],
+  [
+    "prompt",
+    "незамедлительный, побуждать",
+    "We need a prompt response.",
+    "B2"
+  ],
+  [
+    "rigorous",
+    "строгий, тщательный",
+    "The testing process is rigorous.",
+    "C1"
+  ],
+  [
+    "scrutiny",
+    "тщательное изучение",
+    "The proposal is under close scrutiny.",
+    "C1"
+  ],
+  [
+    "streamline",
+    "оптимизировать, упростить",
+    "We aim to streamline the workflow.",
+    "C1"
+  ],
+  [
+    "subsequent",
+    "последующий",
+    "Subsequent tests confirmed the result.",
+    "B2"
+  ],
+  [
+    "thorough",
+    "тщательный",
+    "She did a thorough review.",
+    "B2"
+  ],
+  [
+    "underscore",
+    "подчёркивать",
+    "This underscores the need for change.",
+    "C1"
+  ],
+  [
+    "utilize",
+    "использовать, задействовать",
+    "We should utilize existing resources.",
+    "B2"
+  ],
+  [
+    "vague",
+    "расплывчатый, неясный",
+    "His answer was vague and unclear.",
+    "B2"
+  ],
+  [
+    "wary",
+    "осторожный, настороженный",
+    "Investors remain wary of the market.",
+    "C1"
+  ]
+]

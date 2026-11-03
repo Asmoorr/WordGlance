@@ -1,0 +1,14 @@
+PASS: New combination registered
+PASS: Ctrl, Alt, Win, no Shift, W, no-repeat
+PASS: Registered listener process still alive
+PASS: Hotkey task running
+PASS: Autostart points at persistent listener
+PASS: Old shortcut key removed: C:\Users\Artem\Desktop
+PASS: Old shortcut key removed: C:\Programming\2026\WordGlance\tests
+PASS: Served page shows new combination
+PASS: No obsolete combination in README.md
+PASS: No obsolete combination in AGENTS.md
+PASS: No obsolete combination in index.html
+PASS: No obsolete combination in Enable-Hotkey.ps1
+PASS: No obsolete combination in Register-Autostart.ps1
+Native RegisterHotKey success verified through live listener state; key press is a separate UI check.

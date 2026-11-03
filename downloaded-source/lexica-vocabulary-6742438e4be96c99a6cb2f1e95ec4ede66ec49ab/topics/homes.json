@@ -1,0 +1,1022 @@
+[
+  [
+    "address",
+    "адрес",
+    "Can you write down your home address?",
+    "A1"
+  ],
+  [
+    "apartment",
+    "квартира",
+    "They rent a small apartment in the city centre.",
+    "A1"
+  ],
+  [
+    "bathroom",
+    "ванная комната",
+    "The bathroom needs a new tap.",
+    "A1"
+  ],
+  [
+    "bed",
+    "кровать",
+    "She made the bed before leaving for work.",
+    "A1"
+  ],
+  [
+    "bedroom",
+    "спальня",
+    "The house has three bedrooms.",
+    "A1"
+  ],
+  [
+    "building",
+    "здание",
+    "The office is in a tall glass building.",
+    "A1"
+  ],
+  [
+    "chair",
+    "стул",
+    "Please take a chair and sit down.",
+    "A1"
+  ],
+  [
+    "clean",
+    "чистый; убирать, чистить",
+    "He cleaned the whole flat before the guests arrived.",
+    "A1"
+  ],
+  [
+    "clock",
+    "часы (настенные/настольные)",
+    "The clock on the wall shows the wrong time.",
+    "A1"
+  ],
+  [
+    "desk",
+    "письменный стол",
+    "Her laptop sits on the desk by the window.",
+    "A1"
+  ],
+  [
+    "dirty",
+    "грязный",
+    "Put the dirty dishes in the sink.",
+    "A1"
+  ],
+  [
+    "door",
+    "дверь",
+    "Please close the door behind you.",
+    "A1"
+  ],
+  [
+    "flat",
+    "квартира",
+    "They bought a flat near the park.",
+    "A1"
+  ],
+  [
+    "floor",
+    "пол; этаж",
+    "The children were playing on the floor.",
+    "A1"
+  ],
+  [
+    "garden",
+    "сад",
+    "She grows tomatoes in the garden.",
+    "A1"
+  ],
+  [
+    "home",
+    "дом; домой",
+    "I'll be home by seven tonight.",
+    "A1"
+  ],
+  [
+    "house",
+    "дом",
+    "They moved into a new house last month.",
+    "A1"
+  ],
+  [
+    "key",
+    "ключ; ключевой, важный",
+    "I can't find my house key.",
+    "A1"
+  ],
+  [
+    "kitchen",
+    "кухня",
+    "He's cooking dinner in the kitchen.",
+    "A1"
+  ],
+  [
+    "room",
+    "комната",
+    "There isn't enough room for another table.",
+    "A1"
+  ],
+  [
+    "table",
+    "стол",
+    "We had breakfast at the kitchen table.",
+    "A1"
+  ],
+  [
+    "wall",
+    "стена",
+    "They hung a painting on the wall.",
+    "A1"
+  ],
+  [
+    "window",
+    "окно",
+    "Open the window, it's warm in here.",
+    "A1"
+  ],
+  [
+    "carpet",
+    "ковёр",
+    "The carpet in the living room is dark blue.",
+    "A2"
+  ],
+  [
+    "cooker",
+    "плита (кухонная)",
+    "She left the cooker on by mistake.",
+    "A2"
+  ],
+  [
+    "cupboard",
+    "шкаф, буфет",
+    "The plates are in the top cupboard.",
+    "A2"
+  ],
+  [
+    "fridge",
+    "холодильник",
+    "There's some milk left in the fridge.",
+    "A2"
+  ],
+  [
+    "furniture",
+    "мебель",
+    "They bought new furniture for the living room.",
+    "A2"
+  ],
+  [
+    "home",
+    "домашний",
+    "He's working on some home improvements this weekend.",
+    "A2"
+  ],
+  [
+    "lamp",
+    "лампа",
+    "She switched on the lamp beside her bed.",
+    "A2"
+  ],
+  [
+    "lock",
+    "запирать; замок",
+    "Remember to lock the door when you leave.",
+    "A2"
+  ],
+  [
+    "mirror",
+    "зеркало",
+    "She checked her hair in the mirror.",
+    "A2"
+  ],
+  [
+    "oven",
+    "духовка",
+    "The bread is baking in the oven.",
+    "A2"
+  ],
+  [
+    "roof",
+    "крыша",
+    "There's a leak in the roof.",
+    "A2"
+  ],
+  [
+    "soap",
+    "мыло",
+    "Wash your hands with soap and water.",
+    "A2"
+  ],
+  [
+    "stair",
+    "ступенька; лестница",
+    "Watch your step on the stairs.",
+    "A2"
+  ],
+  [
+    "tidy",
+    "аккуратный, убранный; убирать(ся)",
+    "He tidied his room before his parents arrived.",
+    "A2"
+  ],
+  [
+    "towel",
+    "полотенце",
+    "She hung the wet towel on the rail.",
+    "A2"
+  ],
+  [
+    "washing",
+    "стирка, бельё",
+    "I need to hang out the washing.",
+    "A2"
+  ],
+  [
+    "accommodation",
+    "жильё, размещение",
+    "The university offers accommodation for new students.",
+    "B1"
+  ],
+  [
+    "curtain",
+    "занавеска, штора",
+    "She closed the curtains before going to bed.",
+    "B1"
+  ],
+  [
+    "garage",
+    "гараж",
+    "He keeps his tools in the garage.",
+    "B1"
+  ],
+  [
+    "neighbourhood",
+    "район, окрестность",
+    "It's a quiet, friendly neighbourhood.",
+    "B1"
+  ],
+  [
+    "rent",
+    "аренда; арендовать, снимать",
+    "They pay a lot of rent for a small flat.",
+    "B1"
+  ],
+  [
+    "shelf",
+    "полка",
+    "He put the books back on the shelf.",
+    "B1"
+  ],
+  [
+    "yard",
+    "двор",
+    "The kids were playing in the back yard.",
+    "B1"
+  ],
+  [
+    "house",
+    "размещать, предоставлять жильё",
+    "The old building now houses a museum.",
+    "B2"
+  ],
+  [
+    "household",
+    "домашнее хозяйство, семья (в доме)",
+    "Every household received a letter about the change.",
+    "B2"
+  ],
+  [
+    "housing",
+    "жильё, жилищное строительство",
+    "The city is facing a housing shortage.",
+    "B2"
+  ],
+  [
+    "basement",
+    "подвал",
+    "They store old furniture in the basement.",
+    "B2"
+  ],
+  [
+    "mortgage",
+    "ипотека",
+    "They took out a mortgage to buy their first home.",
+    "B2"
+  ],
+  [
+    "landlord",
+    "арендодатель, домовладелец",
+    "The landlord fixed the broken heater quickly.",
+    "C1"
+  ],
+  [
+    "tenant",
+    "арендатор, жилец",
+    "The new tenant moved in last week.",
+    "C1"
+  ],
+  [
+    "chest",
+    "сундук; комод",
+    "She kept old photos in a wooden chest.",
+    "B1"
+  ],
+  [
+    "glass",
+    "стекло (материал)",
+    "The window is made of thick glass.",
+    "A1"
+  ],
+  [
+    "accessible",
+    "доступный (для людей с инвалидностью)",
+    "The building has an accessible entrance for wheelchairs.",
+    "C1"
+  ],
+  [
+    "adjacent",
+    "смежный, соседний",
+    "Their flat is adjacent to the park.",
+    "C1"
+  ],
+  [
+    "architectural",
+    "архитектурный",
+    "The cathedral is an architectural masterpiece.",
+    "C1"
+  ],
+  [
+    "bench",
+    "скамья",
+    "They sat on a bench in the garden.",
+    "C1"
+  ],
+  [
+    "blade",
+    "лезвие (ножа)",
+    "Be careful, the blade is very sharp.",
+    "C1"
+  ],
+  [
+    "beam",
+    "балка (строительная)",
+    "A wooden beam supports the roof.",
+    "C1"
+  ],
+  [
+    "cabinet",
+    "шкаф, тумба",
+    "She keeps the plates in the kitchen cabinet.",
+    "C1"
+  ],
+  [
+    "drain",
+    "сливать, осушать",
+    "They drained the pool before winter.",
+    "C1"
+  ],
+  [
+    "erect",
+    "возводить (здание)",
+    "They erected a new office block downtown.",
+    "C1"
+  ],
+  [
+    "fixture",
+    "встроенное оборудование",
+    "The flat comes with all fixtures and fittings.",
+    "C1"
+  ],
+  [
+    "interior",
+    "интерьер; внутренний",
+    "The interior of the house was recently renovated.",
+    "C1"
+  ],
+  [
+    "lawn",
+    "газон",
+    "He mows the lawn every Sunday.",
+    "C1"
+  ],
+  [
+    "layout",
+    "планировка",
+    "We changed the layout of the kitchen.",
+    "C1"
+  ],
+  [
+    "leak",
+    "протечка (трубы, крыши)",
+    "There's a leak in the bathroom ceiling.",
+    "C1"
+  ],
+  [
+    "maintenance",
+    "техническое обслуживание",
+    "The building needs regular maintenance.",
+    "C1"
+  ],
+  [
+    "pad",
+    "блокнот; подкладка",
+    "She wrote the address on a notepad.",
+    "C1"
+  ],
+  [
+    "plug",
+    "вилка, штепсель; затыкать",
+    "Plug the lamp into the socket by the door.",
+    "C1"
+  ],
+  [
+    "outlet",
+    "розетка (электрическая)",
+    "There's an outlet behind the sofa for the lamp.",
+    "C1"
+  ],
+  [
+    "reside",
+    "проживать",
+    "They reside in a quiet suburb.",
+    "C1"
+  ],
+  [
+    "residence",
+    "резиденция, место жительства",
+    "The house serves as the family's main residence.",
+    "C1"
+  ],
+  [
+    "residential",
+    "жилой",
+    "The area is mostly residential.",
+    "C1"
+  ],
+  [
+    "screw",
+    "шуруп; закручивать",
+    "He tightened the screw with a small screwdriver.",
+    "C1"
+  ],
+  [
+    "structural",
+    "структурный, конструктивный",
+    "The inspector found no structural problems.",
+    "C1"
+  ],
+  [
+    "utility",
+    "коммунальные услуги",
+    "Utility bills went up again this month.",
+    "C1"
+  ],
+  [
+    "vacuum",
+    "пылесос; вакуум",
+    "She vacuumed the living room carpet.",
+    "C1"
+  ],
+  [
+    "wipe",
+    "вытирать",
+    "He wiped the table after dinner.",
+    "C1"
+  ],
+  [
+    "reflection",
+    "отражение (в зеркале)",
+    "She checked her reflection before leaving.",
+    "C1"
+  ],
+  [
+    "alarm",
+    "сигнализация; тревожить",
+    "The loud noise alarmed the whole street.",
+    "B2"
+  ],
+  [
+    "comfort",
+    "комфорт; утешать",
+    "The sofa is designed for comfort.",
+    "B2"
+  ],
+  [
+    "complex",
+    "комплекс (зданий)",
+    "They built a new shopping complex in town.",
+    "B2"
+  ],
+  [
+    "construct",
+    "строить",
+    "The bridge was constructed in just two years.",
+    "B2"
+  ],
+  [
+    "construction",
+    "строительство",
+    "The house is still under construction.",
+    "B2"
+  ],
+  [
+    "decoration",
+    "украшение",
+    "They put up decorations for the party.",
+    "B2"
+  ],
+  [
+    "domestic",
+    "домашний, бытовой",
+    "She does most of the domestic chores.",
+    "B2"
+  ],
+  [
+    "estate",
+    "недвижимость, поместье",
+    "They own a large country estate.",
+    "B2"
+  ],
+  [
+    "facility",
+    "учреждение, объект (здание)",
+    "The building has excellent sports facilities.",
+    "B2"
+  ],
+  [
+    "folding",
+    "складной",
+    "We keep a folding chair in the garage.",
+    "B2"
+  ],
+  [
+    "grand",
+    "грандиозный, величественный",
+    "The hotel has a grand entrance hall.",
+    "B2"
+  ],
+  [
+    "pile",
+    "куча, стопка; складывать в кучу",
+    "There was a pile of laundry on the bed.",
+    "B2"
+  ],
+  [
+    "resident",
+    "житель, резидент",
+    "Local residents complained about the noise.",
+    "B2"
+  ],
+  [
+    "shelter",
+    "укрытие, приют; укрывать",
+    "They took shelter from the rain under a tree.",
+    "B2"
+  ],
+  [
+    "sweep",
+    "подметать",
+    "She swept the kitchen floor before dinner.",
+    "B2"
+  ],
+  [
+    "blanket",
+    "одеяло",
+    "She wrapped the baby in a warm blanket.",
+    "B2"
+  ],
+  [
+    "brick",
+    "кирпич",
+    "The house is built from red brick.",
+    "B2"
+  ],
+  [
+    "candle",
+    "свеча",
+    "They lit candles for the birthday cake.",
+    "B2"
+  ],
+  [
+    "concrete",
+    "бетон; конкретный",
+    "The path is made of concrete.",
+    "B2"
+  ],
+  [
+    "corridor",
+    "коридор",
+    "Her office is at the end of the corridor.",
+    "B2"
+  ],
+  [
+    "counter (long flat surface)",
+    "прилавок, стойка",
+    "She put the shopping bags on the kitchen counter.",
+    "B2"
+  ],
+  [
+    "crack",
+    "трещина; трескаться",
+    "There's a crack in the bathroom tile.",
+    "B2"
+  ],
+  [
+    "extension",
+    "пристройка (к дому)",
+    "They built an extension to fit a new kitchen.",
+    "B2"
+  ],
+  [
+    "hook",
+    "крючок",
+    "Hang your coat on the hook by the door.",
+    "B2"
+  ],
+  [
+    "foundation",
+    "фундамент (здания)",
+    "Workers laid the foundation for the new house.",
+    "B2"
+  ],
+  [
+    "ladder",
+    "лестница (стремянка)",
+    "He climbed the ladder to fix the roof.",
+    "B2"
+  ],
+  [
+    "lighting",
+    "освещение",
+    "The room has soft, warm lighting.",
+    "B2"
+  ],
+  [
+    "occupy",
+    "занимать, проживать (в доме)",
+    "The family has occupied the house for thirty years.",
+    "B2"
+  ],
+  [
+    "rebuild",
+    "перестраивать",
+    "They plan to rebuild the old barn.",
+    "B2"
+  ],
+  [
+    "tap",
+    "кран (водопроводный)",
+    "Turn off the tap when you finish brushing your teeth.",
+    "B2"
+  ],
+  [
+    "handle",
+    "ручка (двери)",
+    "Turn the door handle to open it.",
+    "B2"
+  ],
+  [
+    "alarm",
+    "сигнализация, будильник",
+    "The fire alarm went off during the meeting.",
+    "B1"
+  ],
+  [
+    "bell",
+    "колокол, звонок",
+    "She rang the doorbell twice.",
+    "B1"
+  ],
+  [
+    "block",
+    "квартал (города); блок",
+    "They live in a block of flats near the station.",
+    "B1"
+  ],
+  [
+    "ceiling",
+    "потолок",
+    "There's a crack in the bedroom ceiling.",
+    "B1"
+  ],
+  [
+    "cloth",
+    "ткань, тряпка",
+    "Wipe the table with a damp cloth.",
+    "B1"
+  ],
+  [
+    "container",
+    "контейнер, ёмкость",
+    "Store the leftovers in a plastic container.",
+    "B1"
+  ],
+  [
+    "cottage",
+    "коттедж, загородный дом",
+    "They rented a cottage in the countryside.",
+    "B1"
+  ],
+  [
+    "decorate",
+    "украшать, декорировать",
+    "We spent the weekend decorating the living room.",
+    "B1"
+  ],
+  [
+    "dirt",
+    "грязь",
+    "There was dirt all over the kitchen floor.",
+    "B1"
+  ],
+  [
+    "dust",
+    "пыль",
+    "There was a thick layer of dust on the shelf.",
+    "B1"
+  ],
+  [
+    "entrance",
+    "вход",
+    "The main entrance is around the corner.",
+    "B1"
+  ],
+  [
+    "entry",
+    "вход; запись (в дневнике)",
+    "No entry without a valid ticket.",
+    "B1"
+  ],
+  [
+    "base",
+    "основание (здания)",
+    "The base of the building was made of stone.",
+    "B1"
+  ],
+  [
+    "cover",
+    "чехол, покрывало",
+    "She put a cover over the sofa to protect it.",
+    "B1"
+  ],
+  [
+    "fence",
+    "забор",
+    "They built a fence around the garden.",
+    "B1"
+  ],
+  [
+    "fold",
+    "складывать",
+    "She folded the towels neatly.",
+    "B1"
+  ],
+  [
+    "frame",
+    "рамка; вставлять в рамку",
+    "The window frame needs a fresh coat of paint.",
+    "B1"
+  ],
+  [
+    "heating",
+    "отопление",
+    "They finally turned the heating on in October.",
+    "B1"
+  ],
+  [
+    "indoor",
+    "комнатный, закрытый (о помещении)",
+    "The flat has an indoor parking space.",
+    "B1"
+  ],
+  [
+    "iron",
+    "утюг; гладить",
+    "She ironed her shirt before the interview.",
+    "B1"
+  ],
+  [
+    "knock",
+    "стук (в дверь)",
+    "There was a loud knock at the door.",
+    "B1"
+  ],
+  [
+    "mess",
+    "беспорядок",
+    "The kids left the kitchen in a real mess.",
+    "B1"
+  ],
+  [
+    "pin",
+    "булавка, кнопка; прикалывать",
+    "She pinned the notice to the board.",
+    "B1"
+  ],
+  [
+    "pipe",
+    "труба",
+    "A pipe burst in the bathroom last night.",
+    "B1"
+  ],
+  [
+    "property",
+    "недвижимость, собственность",
+    "They bought a small property near the coast.",
+    "B1"
+  ],
+  [
+    "nail",
+    "гвоздь",
+    "He hammered a nail into the wall.",
+    "B1"
+  ],
+  [
+    "needle",
+    "игла (швейная)",
+    "She threaded the needle carefully.",
+    "B1"
+  ],
+  [
+    "repair",
+    "ремонт",
+    "The roof needs some urgent repair.",
+    "B1"
+  ],
+  [
+    "stick (push into/attach)",
+    "приклеивать, втыкать",
+    "Stick the poster on the wall.",
+    "B1"
+  ],
+  [
+    "tape",
+    "скотч, липкая лента",
+    "Use tape to seal the box.",
+    "B1"
+  ],
+  [
+    "row",
+    "ряд (сидений)",
+    "We sat in the front row.",
+    "B1"
+  ],
+  [
+    "store",
+    "хранить (вещи)",
+    "They store their bikes in the garage.",
+    "B1"
+  ],
+  [
+    "bath",
+    "ванна",
+    "She had a hot bath after the long walk.",
+    "A1"
+  ],
+  [
+    "box",
+    "коробка",
+    "He kept all his old photos in a box.",
+    "A1"
+  ],
+  [
+    "build",
+    "строить",
+    "They're building a new house next door.",
+    "A1"
+  ],
+  [
+    "light (from the sun/a lamp)",
+    "лампа, светильник",
+    "Turn on the light, it's dark in here.",
+    "A1"
+  ],
+  [
+    "shower",
+    "душ",
+    "She took a quick shower before work.",
+    "A1"
+  ],
+  [
+    "toilet",
+    "туалет",
+    "The toilet is down the hall on the left.",
+    "A1"
+  ],
+  [
+    "wash",
+    "мыть",
+    "Please wash your hands before dinner.",
+    "A1"
+  ],
+  [
+    "open",
+    "открытый; открывать (дверь)",
+    "The door was wide open.",
+    "A1"
+  ],
+  [
+    "space",
+    "пространство, место (в комнате)",
+    "There isn't much space in this kitchen.",
+    "A1"
+  ],
+  [
+    "bin",
+    "мусорное ведро",
+    "Put the empty bottles in the recycling bin.",
+    "A2"
+  ],
+  [
+    "broken",
+    "сломанный",
+    "The broken window let in the cold air.",
+    "A2"
+  ],
+  [
+    "brush",
+    "щётка (для уборки)",
+    "She swept the kitchen with an old brush.",
+    "A2"
+  ],
+  [
+    "column",
+    "колонна (архитектурная)",
+    "The hallway has two tall stone columns.",
+    "A2"
+  ],
+  [
+    "fix",
+    "чинить, ремонтировать",
+    "Can you fix the leaking tap?",
+    "A2"
+  ],
+  [
+    "hall",
+    "зал, холл",
+    "There's a large mirror in the entrance hall.",
+    "A2"
+  ],
+  [
+    "hole",
+    "дыра, отверстие",
+    "There's a hole in the roof letting rain in.",
+    "A2"
+  ],
+  [
+    "knock",
+    "стучать",
+    "She knocked gently on the bedroom door.",
+    "A2"
+  ],
+  [
+    "lift",
+    "лифт",
+    "We took the lift to the fifth floor.",
+    "A2"
+  ],
+  [
+    "repair",
+    "ремонтировать",
+    "The landlord agreed to repair the boiler.",
+    "A2"
+  ],
+  [
+    "rubbish",
+    "мусорное ведро (put in the rubbish)",
+    "Put the rubbish out for collection on Tuesday.",
+    "A2"
+  ],
+  [
+    "sheet",
+    "простыня",
+    "She changed the sheets on the bed.",
+    "A2"
+  ],
+  [
+    "shut",
+    "закрывать; закрытый",
+    "Please shut the window, it's cold.",
+    "A2"
+  ],
+  [
+    "wash",
+    "мытьё, стирка",
+    "The car needs a good wash.",
+    "A2"
+  ],
+  [
+    "wooden",
+    "деревянный",
+    "They have a lovely wooden dining table.",
+    "A2"
+  ],
+  [
+    "structure",
+    "конструкция, строение",
+    "The old barn's wooden structure is still solid.",
+    "A2"
+  ]
+]

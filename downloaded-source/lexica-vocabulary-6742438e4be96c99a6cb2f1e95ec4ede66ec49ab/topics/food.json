@@ -1,0 +1,938 @@
+[
+  [
+    "apple",
+    "яблоко",
+    "She ate an apple for breakfast.",
+    "A1"
+  ],
+  [
+    "banana",
+    "банан",
+    "He put a banana in his bag for lunch.",
+    "A1"
+  ],
+  [
+    "beer",
+    "пиво",
+    "They ordered two beers at the bar.",
+    "A1"
+  ],
+  [
+    "bill",
+    "счёт (в ресторане)",
+    "Can we have the bill, please?",
+    "A1"
+  ],
+  [
+    "bottle",
+    "бутылка",
+    "She bought a bottle of water at the shop.",
+    "A1"
+  ],
+  [
+    "bread",
+    "хлеб",
+    "He bought a loaf of fresh bread.",
+    "A1"
+  ],
+  [
+    "breakfast",
+    "завтрак",
+    "We had eggs for breakfast this morning.",
+    "A1"
+  ],
+  [
+    "butter",
+    "масло (сливочное)",
+    "Spread some butter on the toast.",
+    "A1"
+  ],
+  [
+    "cafe",
+    "кафе",
+    "Let's meet at the cafe on the corner.",
+    "A1"
+  ],
+  [
+    "cake",
+    "торт, пирог",
+    "She baked a chocolate cake for the party.",
+    "A1"
+  ],
+  [
+    "carrot",
+    "морковь",
+    "Chop the carrot into small pieces.",
+    "A1"
+  ],
+  [
+    "cheese",
+    "сыр",
+    "The sandwich had ham and cheese.",
+    "A1"
+  ],
+  [
+    "chocolate",
+    "шоколад",
+    "He gave her a box of chocolate.",
+    "A1"
+  ],
+  [
+    "coffee",
+    "кофе",
+    "I need a strong coffee this morning.",
+    "A1"
+  ],
+  [
+    "cook",
+    "готовить (еду)",
+    "She cooks dinner every evening.",
+    "A1"
+  ],
+  [
+    "cooking",
+    "готовка, кулинария",
+    "Cooking is one of his favourite hobbies.",
+    "A1"
+  ],
+  [
+    "cup",
+    "чашка",
+    "He poured tea into a cup.",
+    "A1"
+  ],
+  [
+    "delicious",
+    "вкусный",
+    "The soup smells absolutely delicious.",
+    "A1"
+  ],
+  [
+    "dinner",
+    "ужин, обед",
+    "We're having pasta for dinner tonight.",
+    "A1"
+  ],
+  [
+    "dish",
+    "блюдо",
+    "This is my favourite dish on the menu.",
+    "A1"
+  ],
+  [
+    "drink",
+    "напиток; пить",
+    "Would you like a cold drink?",
+    "A1"
+  ],
+  [
+    "eat",
+    "есть, кушать",
+    "Let's eat before the film starts.",
+    "A1"
+  ],
+  [
+    "egg",
+    "яйцо",
+    "He fried an egg for breakfast.",
+    "A1"
+  ],
+  [
+    "food",
+    "еда",
+    "The food at that restaurant is excellent.",
+    "A1"
+  ],
+  [
+    "fruit",
+    "фрукт(ы)",
+    "Try to eat more fruit and vegetables.",
+    "A1"
+  ],
+  [
+    "glass",
+    "стакан",
+    "She filled the glass with orange juice.",
+    "A1"
+  ],
+  [
+    "hungry",
+    "голодный",
+    "I'm really hungry, let's get some lunch.",
+    "A1"
+  ],
+  [
+    "juice",
+    "сок",
+    "He drinks a glass of orange juice every morning.",
+    "A1"
+  ],
+  [
+    "lunch",
+    "обед",
+    "We usually have lunch at one o'clock.",
+    "A1"
+  ],
+  [
+    "meal",
+    "приём пищи, еда",
+    "It was the best meal I've had in ages.",
+    "A1"
+  ],
+  [
+    "meat",
+    "мясо",
+    "She doesn't eat red meat.",
+    "A1"
+  ],
+  [
+    "menu",
+    "меню",
+    "Can I see the menu, please?",
+    "A1"
+  ],
+  [
+    "milk",
+    "молоко",
+    "He poured milk over his cereal.",
+    "A1"
+  ],
+  [
+    "onion",
+    "лук (репчатый)",
+    "Fry the onion until it's soft.",
+    "A1"
+  ],
+  [
+    "orange",
+    "апельсин; оранжевый",
+    "She peeled an orange for a snack.",
+    "A1"
+  ],
+  [
+    "order",
+    "заказ; заказывать",
+    "We're ready to order now.",
+    "A1"
+  ],
+  [
+    "pepper",
+    "перец",
+    "Add a little salt and pepper to taste.",
+    "A1"
+  ],
+  [
+    "potato",
+    "картофель",
+    "He boiled some potatoes for dinner.",
+    "A1"
+  ],
+  [
+    "restaurant",
+    "ресторан",
+    "They ate at a small Italian restaurant.",
+    "A1"
+  ],
+  [
+    "rice",
+    "рис",
+    "We had chicken and rice for dinner.",
+    "A1"
+  ],
+  [
+    "salad",
+    "салат",
+    "She made a fresh salad for lunch.",
+    "A1"
+  ],
+  [
+    "salt",
+    "соль",
+    "Pass the salt, please.",
+    "A1"
+  ],
+  [
+    "sandwich",
+    "сэндвич, бутерброд",
+    "He made a cheese sandwich for lunch.",
+    "A1"
+  ],
+  [
+    "soup",
+    "суп",
+    "The soup was hot and tasty.",
+    "A1"
+  ],
+  [
+    "sugar",
+    "сахар",
+    "She takes one spoon of sugar in her tea.",
+    "A1"
+  ],
+  [
+    "supermarket",
+    "супермаркет",
+    "I need to go to the supermarket after work.",
+    "A1"
+  ],
+  [
+    "tea",
+    "чай",
+    "Would you like a cup of tea?",
+    "A1"
+  ],
+  [
+    "thirsty",
+    "испытывающий жажду",
+    "After the run, he was very thirsty.",
+    "A1"
+  ],
+  [
+    "tomato",
+    "помидор",
+    "Slice the tomato for the salad.",
+    "A1"
+  ],
+  [
+    "vegetable",
+    "овощ",
+    "She grows vegetables in her garden.",
+    "A1"
+  ],
+  [
+    "waiter",
+    "официант",
+    "The waiter brought us the menu.",
+    "A1"
+  ],
+  [
+    "water",
+    "вода",
+    "Can I have a glass of water, please?",
+    "A1"
+  ],
+  [
+    "wine",
+    "вино",
+    "They shared a bottle of red wine.",
+    "A1"
+  ],
+  [
+    "beef",
+    "говядина",
+    "The stew is made with beef and carrots.",
+    "A2"
+  ],
+  [
+    "boil",
+    "кипятить, варить",
+    "Boil the pasta for about ten minutes.",
+    "A2"
+  ],
+  [
+    "bowl",
+    "миска, тарелка (глубокая)",
+    "She served the soup in a large bowl.",
+    "A2"
+  ],
+  [
+    "chef",
+    "шеф-повар",
+    "The chef prepared a special dish for us.",
+    "A2"
+  ],
+  [
+    "cook",
+    "повар",
+    "He's a very good cook.",
+    "A2"
+  ],
+  [
+    "fresh",
+    "свежий",
+    "The bread is fresh out of the oven.",
+    "A2"
+  ],
+  [
+    "oil",
+    "масло (растительное)",
+    "Add a little olive oil to the pan.",
+    "A2"
+  ],
+  [
+    "plate",
+    "тарелка",
+    "She put the food on a clean plate.",
+    "A2"
+  ],
+  [
+    "recipe",
+    "рецепт (кулинарный)",
+    "Can you send me the recipe for this cake?",
+    "A2"
+  ],
+  [
+    "sauce",
+    "соус",
+    "The pasta was covered in tomato sauce.",
+    "A2"
+  ],
+  [
+    "sweet",
+    "сладкий; конфета, сладость",
+    "This cake is a little too sweet for me.",
+    "A2"
+  ],
+  [
+    "taste",
+    "вкус; пробовать на вкус",
+    "Can I taste the soup before you serve it?",
+    "A2"
+  ],
+  [
+    "alcohol",
+    "алкоголь",
+    "He doesn't drink alcohol at all.",
+    "B1"
+  ],
+  [
+    "alcoholic",
+    "алкогольный",
+    "The bar serves both alcoholic and soft drinks.",
+    "B1"
+  ],
+  [
+    "bake",
+    "печь, выпекать",
+    "She likes to bake bread on weekends.",
+    "B1"
+  ],
+  [
+    "fry",
+    "жарить",
+    "Fry the onions until golden brown.",
+    "B1"
+  ],
+  [
+    "ingredient",
+    "ингредиент",
+    "Flour is the main ingredient in bread.",
+    "B1"
+  ],
+  [
+    "mix",
+    "смешивать; смесь",
+    "Mix the flour and eggs together.",
+    "B1"
+  ],
+  [
+    "pan",
+    "сковорода",
+    "Heat some oil in a pan.",
+    "B1"
+  ],
+  [
+    "pot",
+    "кастрюля, горшок",
+    "She put the pot of soup on the stove.",
+    "B1"
+  ],
+  [
+    "pour",
+    "наливать",
+    "Pour the milk into the bowl slowly.",
+    "B1"
+  ],
+  [
+    "spicy",
+    "острый, пряный",
+    "The curry was too spicy for the children.",
+    "B1"
+  ],
+  [
+    "bitter",
+    "горький",
+    "Dark chocolate can taste quite bitter.",
+    "B2"
+  ],
+  [
+    "chop",
+    "нарезать, рубить",
+    "Chop the vegetables into small pieces.",
+    "B2"
+  ],
+  [
+    "dairy",
+    "молочные продукты; молочный",
+    "She avoids dairy products because of allergies.",
+    "B2"
+  ],
+  [
+    "flavour",
+    "вкус, привкус",
+    "This ice cream has a lovely vanilla flavour.",
+    "B2"
+  ],
+  [
+    "grocery",
+    "бакалея, продукты",
+    "He does the grocery shopping every Saturday.",
+    "B2"
+  ],
+  [
+    "packet",
+    "пакет, пачка",
+    "Buy a packet of pasta for tonight.",
+    "B2"
+  ],
+  [
+    "portion",
+    "порция",
+    "The restaurant serves very generous portions.",
+    "B2"
+  ],
+  [
+    "stock",
+    "бульон, основа для супа",
+    "She made the soup with chicken stock.",
+    "B2"
+  ],
+  [
+    "chip",
+    "чипс (картофельный)",
+    "He opened a bag of chips to share.",
+    "A2"
+  ],
+  [
+    "artificial",
+    "искусственный (напр. об ароматизаторах)",
+    "The drink contains no artificial flavours.",
+    "B2"
+  ],
+  [
+    "blend",
+    "смешивать; смесь",
+    "Blend the butter and sugar together.",
+    "C1"
+  ],
+  [
+    "cater",
+    "организовывать питание (мероприятия)",
+    "A local company will cater the wedding.",
+    "C1"
+  ],
+  [
+    "chunk",
+    "кусок (напр. еды)",
+    "Cut the cheese into small chunks.",
+    "C1"
+  ],
+  [
+    "cocktail",
+    "коктейль",
+    "She ordered a fruity cocktail at the bar.",
+    "C1"
+  ],
+  [
+    "carve",
+    "нарезать (мясо)",
+    "He carved the turkey for the family dinner.",
+    "C1"
+  ],
+  [
+    "dip",
+    "макать (во что-л.)",
+    "She dipped the bread into the olive oil.",
+    "C1"
+  ],
+  [
+    "grind",
+    "молоть (кофе, специи)",
+    "Grind the coffee beans just before brewing.",
+    "C1"
+  ],
+  [
+    "pit",
+    "косточка (фрукта)",
+    "Remove the pit before eating the cherry.",
+    "C1"
+  ],
+  [
+    "pop",
+    "взрываться (о попкорне)",
+    "The popcorn started to pop in the pan.",
+    "C1"
+  ],
+  [
+    "soak",
+    "замачивать",
+    "Soak the beans overnight before cooking.",
+    "C1"
+  ],
+  [
+    "stir",
+    "помешивать",
+    "Stir the soup so it doesn't stick.",
+    "C1"
+  ],
+  [
+    "strip",
+    "полоска (напр. бекона)",
+    "She fried a few strips of bacon for breakfast.",
+    "C1"
+  ],
+  [
+    "texture",
+    "текстура, консистенция",
+    "The sauce has a smooth, creamy texture.",
+    "C1"
+  ],
+  [
+    "tobacco",
+    "табак",
+    "He rolled his own cigarettes with loose tobacco.",
+    "C1"
+  ],
+  [
+    "whip",
+    "взбивать (крем)",
+    "Whip the cream until it's thick.",
+    "C1"
+  ],
+  [
+    "bunch",
+    "гроздь, пучок",
+    "He bought a bunch of grapes at the market.",
+    "B2"
+  ],
+  [
+    "produce",
+    "продукция, сельхозпродукты",
+    "The market sells fresh local produce.",
+    "B2"
+  ],
+  [
+    "raw",
+    "сырой, необработанный",
+    "Sushi is made with raw fish.",
+    "B2"
+  ],
+  [
+    "sample",
+    "пробовать (еду)",
+    "Visitors can sample the local cheese for free.",
+    "B2"
+  ],
+  [
+    "spread",
+    "паста, спред (для хлеба)",
+    "She put some chocolate spread on her toast.",
+    "B2"
+  ],
+  [
+    "sticky",
+    "липкий",
+    "His hands were sticky from the honey.",
+    "B2"
+  ],
+  [
+    "stuff",
+    "начинять, фаршировать",
+    "They stuffed the turkey with herbs and bread.",
+    "B2"
+  ],
+  [
+    "wrap",
+    "заворачивать, упаковывать",
+    "He wrapped the sandwich in foil.",
+    "B2"
+  ],
+  [
+    "basket",
+    "корзина",
+    "She filled her shopping basket with fruit.",
+    "B2"
+  ],
+  [
+    "herb",
+    "трава, приправа",
+    "Add fresh herbs to the sauce for flavour.",
+    "B2"
+  ],
+  [
+    "organic",
+    "органический, экологически чистый",
+    "They only buy organic vegetables.",
+    "B2"
+  ],
+  [
+    "spice",
+    "специя",
+    "The dish is full of warm spices.",
+    "B2"
+  ],
+  [
+    "wheat",
+    "пшеница",
+    "The bread is made from whole wheat flour.",
+    "B2"
+  ],
+  [
+    "bite",
+    "кусать; укус, кусок",
+    "He took a big bite of his sandwich.",
+    "B1"
+  ],
+  [
+    "consume",
+    "потреблять, съедать",
+    "Try not to consume too much sugar.",
+    "B1"
+  ],
+  [
+    "cool",
+    "охлаждать",
+    "Let the soup cool before you serve it.",
+    "B1"
+  ],
+  [
+    "flour",
+    "мука",
+    "Mix the flour and eggs together.",
+    "B1"
+  ],
+  [
+    "freeze",
+    "замораживать",
+    "You can freeze the leftover bread.",
+    "B1"
+  ],
+  [
+    "frozen",
+    "замороженный",
+    "We had frozen pizza for dinner.",
+    "B1"
+  ],
+  [
+    "grain",
+    "зерно",
+    "Rice is the main grain grown in the region.",
+    "B1"
+  ],
+  [
+    "liquid",
+    "жидкая пища",
+    "Drink plenty of liquid during hot weather.",
+    "B1"
+  ],
+  [
+    "mixture",
+    "смесь",
+    "Pour the mixture into the baking tin.",
+    "B1"
+  ],
+  [
+    "mild",
+    "неострый (о вкусе)",
+    "The curry was mild, not too spicy.",
+    "B1"
+  ],
+  [
+    "powder",
+    "порошок (пищевой)",
+    "Add a spoonful of curry powder.",
+    "B1"
+  ],
+  [
+    "roll",
+    "булочка; сворачивать",
+    "She bought a fresh bread roll.",
+    "B1"
+  ],
+  [
+    "sample",
+    "образец, проба",
+    "They offered free samples at the market.",
+    "B1"
+  ],
+  [
+    "shake",
+    "молочный коктейль",
+    "She ordered a chocolate milkshake.",
+    "B1"
+  ],
+  [
+    "slice",
+    "ломтик; нарезать ломтиками",
+    "Can you slice the bread for the sandwiches?",
+    "B1"
+  ],
+  [
+    "still",
+    "негазированный (о воде)",
+    "I'll have still water, not sparkling.",
+    "B1"
+  ],
+  [
+    "tin",
+    "консервная банка",
+    "Open the tin of tomatoes for the sauce.",
+    "B1"
+  ],
+  [
+    "tip",
+    "чаевые; давать чаевые",
+    "It's normal to tip the waiter here.",
+    "B1"
+  ],
+  [
+    "warm",
+    "разогревать (еду)",
+    "Warm the milk before adding it to the tea.",
+    "B1"
+  ],
+  [
+    "spread",
+    "намазывать (масло)",
+    "Spread some jam on your toast.",
+    "B1"
+  ],
+  [
+    "strip (long narrow piece)",
+    "полоска (напр. бекона)",
+    "She cut the chicken into thin strips.",
+    "C1"
+  ],
+  [
+    "cream",
+    "сливки, крем",
+    "Add a spoonful of cream to the sauce.",
+    "A1"
+  ],
+  [
+    "ice cream",
+    "мороженое",
+    "The kids had chocolate ice cream for dessert.",
+    "A1"
+  ],
+  [
+    "hot",
+    "острый (о вкусе)",
+    "This curry is far too hot for me.",
+    "A1"
+  ],
+  [
+    "bar",
+    "бар",
+    "He bought a chocolate bar from the vending machine.",
+    "A2"
+  ],
+  [
+    "bean",
+    "фасоль, боб",
+    "The soup is made with beans and tomatoes.",
+    "A2"
+  ],
+  [
+    "biscuit",
+    "печенье",
+    "She had a cup of tea and a biscuit.",
+    "A2"
+  ],
+  [
+    "can",
+    "банка (консервная)",
+    "There's a can of soup in the cupboard.",
+    "A2"
+  ],
+  [
+    "fork",
+    "вилка",
+    "Use a fork to eat your pasta.",
+    "A2"
+  ],
+  [
+    "jam",
+    "джем, варенье",
+    "She spread some strawberry jam on her toast.",
+    "A2"
+  ],
+  [
+    "knife",
+    "нож",
+    "Be careful, the knife is very sharp.",
+    "A2"
+  ],
+  [
+    "lemon",
+    "лимон",
+    "Add a squeeze of lemon to the fish.",
+    "A2"
+  ],
+  [
+    "feed",
+    "кормить (ребёнка)",
+    "She fed the baby some mashed banana.",
+    "A2"
+  ],
+  [
+    "fishing",
+    "рыболовство",
+    "The village relies on fishing for its income.",
+    "A2"
+  ],
+  [
+    "heat",
+    "разогревать (еду)",
+    "Heat the soup gently before serving.",
+    "A2"
+  ],
+  [
+    "light (not heavy)",
+    "лёгкий (о еде)",
+    "I just want a light lunch today.",
+    "A2"
+  ],
+  [
+    "nut",
+    "орех",
+    "The cake contains nuts, so be careful if you're allergic.",
+    "A2"
+  ],
+  [
+    "pub",
+    "паб",
+    "We had lunch at the local pub.",
+    "A2"
+  ],
+  [
+    "smell",
+    "запах, аромат (еды); пахнуть",
+    "This soup smells delicious.",
+    "A2"
+  ],
+  [
+    "spoon",
+    "ложка",
+    "Stir the coffee with a small spoon.",
+    "A2"
+  ],
+  [
+    "serve",
+    "подавать (еду)",
+    "The restaurant serves food until midnight.",
+    "A2"
+  ],
+  [
+    "tip",
+    "чаевые",
+    "We left a small tip for the waiter.",
+    "A2"
+  ],
+  [
+    "variety",
+    "сорт, разновидность (продукта)",
+    "The shop sells a variety of cheeses.",
+    "A2"
+  ]
+]

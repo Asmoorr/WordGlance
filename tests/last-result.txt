@@ -1,0 +1,20 @@
+PASS: 3052 downloaded and filtered words
+PASS: Only B1, B2 and C1
+PASS: Every word has a translation
+PASS: No repeated headwords
+PASS: Same word throughout the four-hour slot
+PASS: Word changes at 04:00
+PASS: Word changes at midnight
+PASS: Day and night eyes
+PASS: HTML served to WindhawkMod user agent
+PASS: No unresolved HTML placeholders
+PASS: Word and eyes extracted from literal HTML
+PASS: Russian meaning and CEFR extracted from literal HTML
+PASS: Legacy route /word
+PASS: Legacy route /meaning
+PASS: Legacy route /eyes
+PASS: Legacy route /combined
+PASS: Cambridge returns a redirect
+PASS: Redirect points only to Cambridge Dictionary
+Extracted: －_－ · descend | descend — спускаться [C1]
+NOTE: Actual Windhawk UI configuration and global shortcut activation are not tested here.

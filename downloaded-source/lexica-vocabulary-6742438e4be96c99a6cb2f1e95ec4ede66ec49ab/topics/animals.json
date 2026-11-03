@@ -1,0 +1,308 @@
+[
+  [
+    "animal",
+    "животное",
+    "A dolphin is a very intelligent animal.",
+    "A1"
+  ],
+  [
+    "bird",
+    "птица",
+    "A small bird landed on the windowsill.",
+    "A1"
+  ],
+  [
+    "cat",
+    "кошка, кот",
+    "Our cat sleeps on the sofa all day.",
+    "A1"
+  ],
+  [
+    "chicken",
+    "курица, цыплёнок",
+    "The farmer keeps chickens in the yard.",
+    "A1"
+  ],
+  [
+    "cow",
+    "корова",
+    "The cow gives milk every morning.",
+    "A1"
+  ],
+  [
+    "dog",
+    "собака",
+    "She takes her dog for a walk every evening.",
+    "A1"
+  ],
+  [
+    "elephant",
+    "слон",
+    "An elephant never forgets, they say.",
+    "A1"
+  ],
+  [
+    "fish",
+    "рыба",
+    "There are colourful fish in the aquarium.",
+    "A1"
+  ],
+  [
+    "fly",
+    "летать",
+    "Most birds can fly long distances.",
+    "A1"
+  ],
+  [
+    "horse",
+    "лошадь",
+    "He rides his horse in the countryside.",
+    "A1"
+  ],
+  [
+    "lion",
+    "лев",
+    "The lion is often called the king of the jungle.",
+    "A1"
+  ],
+  [
+    "mouse",
+    "мышь",
+    "A mouse ran across the kitchen floor.",
+    "A1"
+  ],
+  [
+    "pig",
+    "свинья",
+    "The pig rolled happily in the mud.",
+    "A1"
+  ],
+  [
+    "sheep",
+    "овца",
+    "A flock of sheep grazed on the hill.",
+    "A1"
+  ],
+  [
+    "snake",
+    "змея",
+    "The snake moved silently through the grass.",
+    "A1"
+  ],
+  [
+    "bear (animal)",
+    "медведь",
+    "We saw a bear near the campsite.",
+    "A2"
+  ],
+  [
+    "fish",
+    "ловить рыбу, рыбачить",
+    "They like to fish in the lake on weekends.",
+    "A2"
+  ],
+  [
+    "fly",
+    "муха",
+    "A fly kept buzzing around the kitchen.",
+    "A2"
+  ],
+  [
+    "frog",
+    "лягушка",
+    "The frog jumped into the pond.",
+    "A2"
+  ],
+  [
+    "insect",
+    "насекомое",
+    "Bees and ants are both types of insect.",
+    "A2"
+  ],
+  [
+    "monkey",
+    "обезьяна",
+    "A monkey swung from branch to branch.",
+    "A2"
+  ],
+  [
+    "pet",
+    "домашнее животное",
+    "Do you have any pets at home?",
+    "A2"
+  ],
+  [
+    "spider",
+    "паук",
+    "A spider was weaving its web in the corner.",
+    "A2"
+  ],
+  [
+    "bee",
+    "пчела",
+    "A bee landed on the flower to collect pollen.",
+    "B1"
+  ],
+  [
+    "fur",
+    "мех",
+    "The cat's fur is soft and grey.",
+    "B1"
+  ],
+  [
+    "hunt",
+    "охотиться",
+    "Wolves usually hunt in groups.",
+    "B1"
+  ],
+  [
+    "poisonous",
+    "ядовитый",
+    "Some mushrooms in the forest are poisonous.",
+    "B1"
+  ],
+  [
+    "tail",
+    "хвост",
+    "The dog wagged its tail happily.",
+    "B1"
+  ],
+  [
+    "creature",
+    "существо, создание",
+    "The ocean is full of strange creatures.",
+    "B2"
+  ],
+  [
+    "hunt",
+    "охота",
+    "The lions went on a hunt at dawn.",
+    "B2"
+  ],
+  [
+    "hunting",
+    "охота",
+    "Hunting is banned in this national park.",
+    "B2"
+  ],
+  [
+    "species",
+    "вид (биологический)",
+    "This species of butterfly is found only in Asia.",
+    "B2"
+  ],
+  [
+    "wildlife",
+    "дикая природа",
+    "The reserve protects local wildlife.",
+    "B2"
+  ],
+  [
+    "bat",
+    "летучая мышь",
+    "Bats sleep upside down during the day.",
+    "B2"
+  ],
+  [
+    "habitat",
+    "среда обитания",
+    "Pollution is destroying the animals' natural habitat.",
+    "B2"
+  ],
+  [
+    "rat",
+    "крыса",
+    "A rat was seen running along the wall.",
+    "B2"
+  ],
+  [
+    "beast",
+    "зверь",
+    "The old stories describe a terrifying beast in the forest.",
+    "C1"
+  ],
+  [
+    "cattle",
+    "крупный рогатый скот",
+    "The farm raises cattle for milk and meat.",
+    "C1"
+  ],
+  [
+    "predator",
+    "хищник",
+    "The eagle is a skilled predator.",
+    "C1"
+  ],
+  [
+    "prey",
+    "добыча, жертва",
+    "The cheetah chased its prey across the plain.",
+    "C1"
+  ],
+  [
+    "mate",
+    "спариваться (о животных)",
+    "Pandas rarely mate in captivity.",
+    "B2"
+  ],
+  [
+    "pride",
+    "прайд (группа львов)",
+    "A pride of lions rested in the shade.",
+    "B2"
+  ],
+  [
+    "horn",
+    "рог (животного)",
+    "The bull lowered its horns and charged.",
+    "C1"
+  ],
+  [
+    "feather",
+    "перо",
+    "The bird's feathers were bright blue.",
+    "B2"
+  ],
+  [
+    "worm",
+    "червь",
+    "The bird pulled a worm out of the ground.",
+    "B2"
+  ],
+  [
+    "lay",
+    "откладывать (яйца)",
+    "The hen lays an egg almost every day.",
+    "B1"
+  ],
+  [
+    "pack",
+    "стая (волков)",
+    "A pack of wolves hunted across the valley.",
+    "B1"
+  ],
+  [
+    "wing",
+    "крыло",
+    "The bird spread its wings and flew away.",
+    "B1"
+  ],
+  [
+    "young",
+    "детёныши (животных)",
+    "The lioness protects her young fiercely.",
+    "B1"
+  ],
+  [
+    "feed",
+    "кормить (животных)",
+    "She feeds the cat every morning before work.",
+    "A2"
+  ],
+  [
+    "wild",
+    "дикое животное",
+    "There are wild deer living in the forest nearby.",
+    "A2"
+  ]
+]

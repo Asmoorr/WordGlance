@@ -1,0 +1,90 @@
+﻿<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="refresh" content="60">
+<title>{{WORD}} · WordGlance</title>
+<style>
+:root{color-scheme:light;--paper:#eef4fa;--ink:#1e3146;--muted:#52687e;--blue:#2454a6;--line:#cbd8e5;--white:#fff;--soft:#dfe9f5}
+*{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.6 "Segoe UI",sans-serif}
+.wrap{max-width:1100px;margin:auto;padding:32px 38px 48px}header{display:flex;align-items:baseline;justify-content:space-between;gap:16px;margin-bottom:66px}
+.brand{font-weight:650;font-size:23px;letter-spacing:-.8px}.subtitle{font-size:14px;color:var(--muted)}a{color:var(--blue);text-underline-offset:4px}
+.hero{display:grid;grid-template-columns:minmax(0,1fr) 245px;gap:40px;align-items:center}.meta{color:var(--muted);font-size:15px}.level{display:inline-block;padding:2px 12px;margin-right:10px;border-radius:5px;background:var(--soft);font-weight:650;color:var(--blue)}
+h1{font:400 clamp(42px,8vw,96px)/1.12 "Palatino Linotype",Palatino,Georgia,serif;letter-spacing:-2px;margin:22px 0 16px;overflow-wrap:anywhere}
+.translation{font-size:25px;line-height:1.4;margin:0 0 30px;max-width:42ch}h2{font-size:20px;line-height:1.4;margin:0 0 12px}p{max-width:72ch}
+.button{display:inline-flex;align-items:center;justify-content:center;padding:12px 20px;border-radius:8px;color:white;background:var(--blue);text-decoration:none;font-weight:600;border:0;font:inherit;cursor:pointer}
+.button.secondary{background:transparent;color:var(--blue);border:1px solid var(--line)}.button:focus-visible,a:focus-visible,summary:focus-visible{outline:3px solid var(--blue);outline-offset:4px}
+.character{text-align:center}.face{display:block;font:52px/1.4 "Segoe UI Symbol","Segoe UI",sans-serif;white-space:nowrap;padding:20px 0}
+.character p{margin:8px 0;color:var(--muted);font-size:14px}.schedule{margin:48px 0 35px}.schedule-head{display:flex;justify-content:space-between;gap:12px;font-size:14px;color:var(--muted);margin-bottom:10px}
+.slots{display:grid;grid-template-columns:repeat(6,1fr);gap:5px}.slot{height:7px;background:var(--line);border-radius:3px}.slot.active{background:var(--blue)}
+.hours{display:flex;justify-content:space-between;font-size:12px;color:var(--muted);margin-top:8px}.preview{background:#202329;color:#f5f7fa;border-radius:10px;min-height:88px;padding:18px 24px;display:flex;align-items:center;justify-content:space-between;gap:20px}
+.preview-note{font-size:13px;color:#bac4d0}.clock{text-align:right;font-size:14px;line-height:1.6;white-space:nowrap}.muted{color:var(--muted);font-size:14px}
+details{margin-top:34px;border-top:1px solid var(--line);padding-top:20px}summary{font-weight:600;font-size:18px;cursor:pointer}table{width:100%;border-collapse:collapse;margin:18px 0;font-size:14px}
+th,td{text-align:left;vertical-align:top;padding:10px 12px;border-bottom:1px solid var(--line)}th{font-weight:600;color:var(--muted)}code{font:13px/1.6 Consolas,monospace;background:var(--soft);padding:2px 5px;border-radius:3px;overflow-wrap:anywhere}.table-scroll{overflow:auto}
+.instructions{margin:20px 0}.instructions li{padding:4px 0;max-width:75ch}footer{display:flex;flex-wrap:wrap;justify-content:space-between;gap:12px;font-size:13px;color:var(--muted);margin-top:34px}
+clock-word,clock-meaning,clock-eyes,clock-combined{display:inline}
+@media(max-width:650px){.wrap{padding:24px 20px}header{margin-bottom:36px;align-items:flex-start;flex-direction:column;gap:0}.hero{grid-template-columns:1fr;gap:14px}.character{display:flex;align-items:center;gap:20px;text-align:left}.face{padding:0;font-size:34px}.translation{font-size:21px}.schedule{margin:28px 0}.preview-note{display:none}.preview{justify-content:flex-end}.schedule-head{flex-direction:column;gap:0}h1{letter-spacing:-1px}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header><span class="brand">WordGlance</span><span class="subtitle">Новое слово каждые четыре часа</span></header>
+<main>
+<section class="hero" aria-label="Текущее слово">
+<div>
+<div class="meta"><span class="level">{{LEVEL}}</span>{{POS}}</div>
+<h1><clock-word>{{WORD}}</clock-word></h1>
+<p class="translation">{{TRANSLATION}}</p>
+<a class="button" href="{{CAMBRIDGE}}" target="_blank" rel="noopener noreferrer">Открыть в Cambridge</a>
+<p class="muted">Произношение, значения и примеры употребления.</p>
+</div>
+<aside class="character" aria-label="Глазки">
+<span class="face"><clock-eyes>{{EYES}}</clock-eyes></span>
+<p>Глазки живут<br>по твоим часам.</p>
+</aside>
+</section>
+<section class="schedule" aria-label="Расписание смены слов">
+<div class="schedule-head"><span>Следующее слово в {{NEXT}}</span><span>По времени этого компьютера</span></div>
+<div class="slots" aria-hidden="true">{{SLOTS}}</div>
+<div class="hours" aria-hidden="true"><span>00:00</span><span>04:00</span><span>08:00</span><span>12:00</span><span>16:00</span><span>20:00</span></div>
+</section>
+<section class="preview" aria-label="Предпросмотр часов">
+<span class="preview-note">Так выглядит строка на панели задач</span>
+<div class="clock"><div>{{CLOCK}}</div><div><clock-combined>{{COMBINED}}</clock-combined></div></div>
+</section>
+<details>
+<summary>Подсказка при наведении</summary>
+<p><clock-meaning>{{MEANING}}</clock-meaning></p>
+<p class="muted">Уровни сверены со списком Oxford 3000/5000. У отдельных значений слова и в Cambridge уровень может отличаться.</p>
+</details>
+<details>
+<summary>Подключить к Windhawk</summary>
+<ol class="instructions">
+<li>Открой Taskbar Clock Customization, затем Settings → Web content items.</li>
+<li>У первого источника укажи адрес этой страницы и границы из таблицы. Второй источник используй для перевода.</li>
+<li>В обоих источниках оставь Web content block start пустым. Content mode: HTML. Максимальная длина: 50 для первого, 300 для второго.</li>
+<li>Bottom line: <code>%web1%</code>. Tooltip extra line: <code>%web2_full%</code>. Web content update interval: <code>1</code> минута.</li>
+<li>Сохрани настройки. Номера web1/web2 зависят от порядка источников; замени старые источники, а не добавляй новые после них.</li>
+</ol>
+<div class="table-scroll"><table><thead><tr><th>Источник</th><th>URL</th><th>Start</th><th>End</th></tr></thead>
+<tbody>
+<tr><td>1 · Слово и глазки</td><td><code>{{LOCAL_URL}}</code></td><td><code>&lt;clock-combined&gt;</code></td><td><code>&lt;/clock-combined&gt;</code></td></tr>
+<tr><td>2 · Перевод</td><td><code>{{LOCAL_URL}}</code></td><td><code>&lt;clock-meaning&gt;</code></td><td><code>&lt;/clock-meaning&gt;</code></td></tr>
+</tbody></table></div>
+<p class="muted">Только слово: границы <code>&lt;clock-word&gt;</code> и <code>&lt;/clock-word&gt;</code>. Только глазки: <code>&lt;clock-eyes&gt;</code> и <code>&lt;/clock-eyes&gt;</code>.</p>
+<p class="muted">Текст уже находится в HTML-ответе. Браузер может быть закрыт; помощник должен работать.</p>
+</details>
+<details>
+<summary>Открывать слово из любого приложения</summary>
+<p>Сочетание <strong>Ctrl+Alt+Win+W</strong> открывает текущее слово в Cambridge. Обработчик клавиши и WordGlance запускаются в фоне при входе в Windows.</p>
+<p>Сочетание обрабатывает отдельный фоновый процесс в твоём сеансе. Помощник должен работать, чтобы определить текущее слово. Ошибки регистрации записываются в logs/hotkey.log.</p>
+<p class="muted">Без горячей клавиши: открой Open-Cambridge.cmd или используй кнопку на этой странице. Для отключения сочетания останови задачу «WordGlance — горячая клавиша Cambridge» в Планировщике Windows.</p>
+</details>
+</main>
+<footer><span>{{COUNT}} слова · B1 / B2 / C1 · Без интернета после скачивания</span><span>Интернет нужен для Cambridge</span></footer>
+</div>
+</body>
+</html>
+
+

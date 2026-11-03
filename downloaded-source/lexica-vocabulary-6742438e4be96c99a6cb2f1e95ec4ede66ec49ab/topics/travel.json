@@ -1,0 +1,1544 @@
+[
+  [
+    "airport",
+    "аэропорт",
+    "We arrived at the airport two hours early.",
+    "A1"
+  ],
+  [
+    "area",
+    "район, территория",
+    "This area of the city is popular with tourists.",
+    "A1"
+  ],
+  [
+    "bicycle",
+    "велосипед",
+    "She rides her bicycle to work every day.",
+    "A1"
+  ],
+  [
+    "bike",
+    "велосипед (разг.)",
+    "He fixed his bike before the trip.",
+    "A1"
+  ],
+  [
+    "boat",
+    "лодка, катер",
+    "They took a boat across the lake.",
+    "A1"
+  ],
+  [
+    "bus",
+    "автобус",
+    "We caught the bus into town.",
+    "A1"
+  ],
+  [
+    "capital",
+    "столица; главный",
+    "Paris is the capital of France.",
+    "A1"
+  ],
+  [
+    "car",
+    "автомобиль",
+    "They drove to the coast in their car.",
+    "A1"
+  ],
+  [
+    "city",
+    "город",
+    "London is a very busy city.",
+    "A1"
+  ],
+  [
+    "country",
+    "страна",
+    "They visited three countries in two weeks.",
+    "A1"
+  ],
+  [
+    "driver",
+    "водитель",
+    "The taxi driver knew a shortcut.",
+    "A1"
+  ],
+  [
+    "flight",
+    "рейс, перелёт",
+    "Our flight was delayed by an hour.",
+    "A1"
+  ],
+  [
+    "holiday",
+    "отпуск, каникулы",
+    "We're going on holiday to Spain in July.",
+    "A1"
+  ],
+  [
+    "hotel",
+    "отель",
+    "They stayed in a small hotel near the beach.",
+    "A1"
+  ],
+  [
+    "island",
+    "остров",
+    "The island is only reachable by boat.",
+    "A1"
+  ],
+  [
+    "journey",
+    "путешествие, поездка",
+    "The journey took almost ten hours.",
+    "A1"
+  ],
+  [
+    "map",
+    "карта",
+    "She checked the map before setting off.",
+    "A1"
+  ],
+  [
+    "passport",
+    "паспорт",
+    "Don't forget to bring your passport.",
+    "A1"
+  ],
+  [
+    "plane",
+    "самолёт",
+    "The plane landed safely despite the storm.",
+    "A1"
+  ],
+  [
+    "taxi",
+    "такси",
+    "We took a taxi from the station.",
+    "A1"
+  ],
+  [
+    "ticket",
+    "билет",
+    "He bought a return ticket to Rome.",
+    "A1"
+  ],
+  [
+    "tourist",
+    "турист",
+    "The old town is full of tourists in summer.",
+    "A1"
+  ],
+  [
+    "town",
+    "город (небольшой)",
+    "They live in a small town near the mountains.",
+    "A1"
+  ],
+  [
+    "train",
+    "поезд",
+    "The train leaves at half past nine.",
+    "A1"
+  ],
+  [
+    "travel",
+    "путешествовать; путешествие",
+    "She loves to travel to new countries.",
+    "A1"
+  ],
+  [
+    "trip",
+    "поездка",
+    "We're planning a trip to Japan next year.",
+    "A1"
+  ],
+  [
+    "vacation",
+    "отпуск, каникулы",
+    "They spent their vacation at the beach.",
+    "A1"
+  ],
+  [
+    "village",
+    "деревня",
+    "The village has only a few hundred people.",
+    "A1"
+  ],
+  [
+    "visit",
+    "посещать; визит",
+    "We visited my grandparents last weekend.",
+    "A1"
+  ],
+  [
+    "abroad",
+    "за границей, за границу",
+    "She's studying abroad this year.",
+    "A2"
+  ],
+  [
+    "coast",
+    "побережье",
+    "The hotel is right on the coast.",
+    "A2"
+  ],
+  [
+    "continent",
+    "континент",
+    "Africa is a huge continent.",
+    "A2"
+  ],
+  [
+    "direction",
+    "направление",
+    "Could you tell me the direction to the station?",
+    "A2"
+  ],
+  [
+    "foreign",
+    "иностранный",
+    "He speaks three foreign languages.",
+    "A2"
+  ],
+  [
+    "guide",
+    "гид; сопровождать",
+    "Our guide showed us around the old city.",
+    "A2"
+  ],
+  [
+    "passenger",
+    "пассажир",
+    "The bus had only a few passengers.",
+    "A2"
+  ],
+  [
+    "pilot",
+    "пилот",
+    "The pilot welcomed us over the speaker.",
+    "A2"
+  ],
+  [
+    "platform",
+    "платформа (вокзальная)",
+    "The train leaves from platform four.",
+    "A2"
+  ],
+  [
+    "railway",
+    "железная дорога",
+    "They travelled by railway across the country.",
+    "A2"
+  ],
+  [
+    "region",
+    "регион",
+    "This region is known for its wine.",
+    "A2"
+  ],
+  [
+    "route",
+    "маршрут",
+    "We took a longer route to avoid traffic.",
+    "A2"
+  ],
+  [
+    "ship",
+    "корабль",
+    "The ship sailed early in the morning.",
+    "A2"
+  ],
+  [
+    "tourism",
+    "туризм",
+    "Tourism is important for the local economy.",
+    "A2"
+  ],
+  [
+    "arrival",
+    "прибытие",
+    "Please arrive at the gate before boarding.",
+    "B1"
+  ],
+  [
+    "border",
+    "граница",
+    "They crossed the border without any problems.",
+    "B1"
+  ],
+  [
+    "captain",
+    "капитан (судна)",
+    "The captain announced the delay to the passengers.",
+    "B1"
+  ],
+  [
+    "departure",
+    "отправление, вылет",
+    "Our departure was delayed because of the weather.",
+    "B1"
+  ],
+  [
+    "destination",
+    "пункт назначения",
+    "Their final destination was a small island.",
+    "B1"
+  ],
+  [
+    "expedition",
+    "экспедиция",
+    "The team went on an expedition to the mountains.",
+    "B1"
+  ],
+  [
+    "explore",
+    "исследовать, осматривать",
+    "They spent the day exploring the old city.",
+    "B1"
+  ],
+  [
+    "sailor",
+    "моряк",
+    "The sailor had travelled all over the world.",
+    "B1"
+  ],
+  [
+    "border",
+    "граничить (с)",
+    "France borders several other European countries.",
+    "B2"
+  ],
+  [
+    "map",
+    "составлять карту, наносить на карту",
+    "Scientists mapped the whole coastline.",
+    "B2"
+  ],
+  [
+    "cruise",
+    "круиз; совершать круиз",
+    "They went on a cruise around the Mediterranean.",
+    "B2"
+  ],
+  [
+    "highway",
+    "шоссе, автомагистраль",
+    "We drove along the highway for three hours.",
+    "B2"
+  ],
+  [
+    "visa",
+    "виза",
+    "You need a visa to enter the country.",
+    "B2"
+  ],
+  [
+    "book",
+    "бронировать, заказывать",
+    "We booked our flights online.",
+    "A2"
+  ],
+  [
+    "coach",
+    "автобус (междугородний)",
+    "They travelled to the coast by coach.",
+    "A2"
+  ],
+  [
+    "anchor",
+    "якорь",
+    "The ship dropped anchor near the shore.",
+    "C1"
+  ],
+  [
+    "auto",
+    "авто, машина",
+    "He works at an auto repair shop.",
+    "C1"
+  ],
+  [
+    "boundary",
+    "граница",
+    "The river marks the boundary between the two countries.",
+    "C1"
+  ],
+  [
+    "cargo",
+    "груз",
+    "The ship was carrying a heavy cargo of grain.",
+    "C1"
+  ],
+  [
+    "carriage",
+    "вагон (поезда)",
+    "We sat in the first carriage of the train.",
+    "C1"
+  ],
+  [
+    "coastal",
+    "прибрежный",
+    "They stayed in a small coastal town.",
+    "C1"
+  ],
+  [
+    "collision",
+    "столкновение (машин)",
+    "The collision blocked traffic for an hour.",
+    "C1"
+  ],
+  [
+    "charter",
+    "чартерный рейс",
+    "They booked a charter flight to the island.",
+    "C1"
+  ],
+  [
+    "descend",
+    "спускаться",
+    "The plane began to descend towards the runway.",
+    "C1"
+  ],
+  [
+    "descent",
+    "спуск",
+    "The descent from the mountain took two hours.",
+    "C1"
+  ],
+  [
+    "divert",
+    "отклонять, перенаправлять (маршрут)",
+    "The flight was diverted due to bad weather.",
+    "C1"
+  ],
+  [
+    "embark",
+    "садиться на борт (судна)",
+    "Passengers began to embark on the ferry.",
+    "C1"
+  ],
+  [
+    "exit",
+    "выходить",
+    "Please exit through the doors on the left.",
+    "C1"
+  ],
+  [
+    "fleet",
+    "флот (парк машин/судов)",
+    "The company has a fleet of delivery vans.",
+    "C1"
+  ],
+  [
+    "foreigner",
+    "иностранец",
+    "As a foreigner, she needed a visa to stay.",
+    "C1"
+  ],
+  [
+    "horn",
+    "клаксон, гудок (машины)",
+    "He honked his horn to warn the cyclist.",
+    "C1"
+  ],
+  [
+    "junction",
+    "перекрёсток, развязка",
+    "Turn left at the next junction.",
+    "C1"
+  ],
+  [
+    "landmark",
+    "достопримечательность",
+    "The tower is a famous landmark in the city.",
+    "C1"
+  ],
+  [
+    "gear",
+    "передача (в машине)",
+    "She shifted into a lower gear on the hill.",
+    "C1"
+  ],
+  [
+    "mainland",
+    "материк",
+    "They took a ferry back to the mainland.",
+    "C1"
+  ],
+  [
+    "motorist",
+    "автомобилист",
+    "Motorists were warned about the icy roads.",
+    "C1"
+  ],
+  [
+    "neighbouring",
+    "соседний",
+    "They often visit the neighbouring town.",
+    "C1"
+  ],
+  [
+    "pathway",
+    "тропинка, путь",
+    "A narrow pathway led down to the beach.",
+    "C1"
+  ],
+  [
+    "peak",
+    "вершина, пик",
+    "They reached the peak just before sunset.",
+    "C1"
+  ],
+  [
+    "pirate",
+    "пират",
+    "The museum has an exhibition about pirates.",
+    "C1"
+  ],
+  [
+    "license",
+    "выдавать лицензию, разрешение",
+    "The city licenses all local taxi drivers.",
+    "C1"
+  ],
+  [
+    "minute",
+    "подробный, детальный",
+    "She gave a minute description of the route.",
+    "C1"
+  ],
+  [
+    "province",
+    "провинция",
+    "They grew up in a rural province.",
+    "C1"
+  ],
+  [
+    "provincial",
+    "провинциальный",
+    "He grew up in a small provincial town.",
+    "C1"
+  ],
+  [
+    "rear",
+    "задняя часть, тыл; задний",
+    "The luggage is stored in the rear of the bus.",
+    "C1"
+  ],
+  [
+    "rental",
+    "аренда, прокат",
+    "They picked up a rental car at the airport.",
+    "C1"
+  ],
+  [
+    "settlement",
+    "поселение",
+    "The area was once a small fishing settlement.",
+    "C1"
+  ],
+  [
+    "shipping",
+    "судоходство; доставка",
+    "The port handles a lot of international shipping.",
+    "C1"
+  ],
+  [
+    "situated",
+    "расположенный",
+    "The hotel is situated near the old town.",
+    "C1"
+  ],
+  [
+    "spare",
+    "запасной",
+    "Always carry a spare tyre on long trips.",
+    "C1"
+  ],
+  [
+    "steer",
+    "управлять (рулём)",
+    "He steered the car carefully around the bend.",
+    "C1"
+  ],
+  [
+    "suburban",
+    "пригородный",
+    "They live in a quiet suburban neighbourhood.",
+    "C1"
+  ],
+  [
+    "suite",
+    "номер-люкс (в отеле)",
+    "They booked a suite for their honeymoon.",
+    "C1"
+  ],
+  [
+    "terminal",
+    "терминал (аэропорта)",
+    "Our flight departs from terminal three.",
+    "C1"
+  ],
+  [
+    "terrain",
+    "местность, рельеф",
+    "The terrain became rocky and steep.",
+    "C1"
+  ],
+  [
+    "toll",
+    "дорожная пошлина",
+    "There's a toll on this stretch of motorway.",
+    "C1"
+  ],
+  [
+    "trail",
+    "тропа; выслеживать",
+    "They followed the trail through the forest.",
+    "C1"
+  ],
+  [
+    "transit",
+    "транзит",
+    "We had a two-hour stop in transit.",
+    "C1"
+  ],
+  [
+    "vessel",
+    "судно, сосуд",
+    "The vessel docked early in the morning.",
+    "C1"
+  ],
+  [
+    "villager",
+    "сельский житель",
+    "The villagers welcomed the visitors warmly.",
+    "C1"
+  ],
+  [
+    "widen",
+    "расширять(ся)",
+    "They plan to widen the road next year.",
+    "C1"
+  ],
+  [
+    "reverse",
+    "задний ход",
+    "He put the car in reverse to park.",
+    "C1"
+  ],
+  [
+    "venture",
+    "предприятие, вылазка (напр. в незнакомое место)",
+    "It was a risky venture into unfamiliar territory.",
+    "C1"
+  ],
+  [
+    "accompany",
+    "сопровождать",
+    "Her sister accompanied her on the trip.",
+    "B2"
+  ],
+  [
+    "aircraft",
+    "самолёт, летательный аппарат",
+    "The airline operates over a hundred aircraft.",
+    "B2"
+  ],
+  [
+    "barrier",
+    "барьер, преграда",
+    "A language barrier made communication difficult.",
+    "B2"
+  ],
+  [
+    "cancel",
+    "отменять",
+    "They had to cancel the flight because of the storm.",
+    "B2"
+  ],
+  [
+    "close",
+    "близость, конец (улицы)",
+    "Their house is on a quiet close near the park.",
+    "B2"
+  ],
+  [
+    "county",
+    "графство, округ",
+    "They live in a small county in the north.",
+    "B2"
+  ],
+  [
+    "crash",
+    "авария; врезаться",
+    "The bus crashed into a wall on the icy road.",
+    "B2"
+  ],
+  [
+    "crew",
+    "экипаж",
+    "The flight crew welcomed passengers on board.",
+    "B2"
+  ],
+  [
+    "delay",
+    "задержка; задерживать",
+    "Our train was delayed by twenty minutes.",
+    "B2"
+  ],
+  [
+    "district",
+    "район",
+    "They stayed in the old district of the city.",
+    "B2"
+  ],
+  [
+    "encounter",
+    "встреча; сталкиваться (с чем-л.)",
+    "They had an unexpected encounter with a bear.",
+    "B2"
+  ],
+  [
+    "exploration",
+    "исследование, разведка (территории)",
+    "The trip was a real exploration of the region.",
+    "B2"
+  ],
+  [
+    "float",
+    "плавать, держаться на воде",
+    "The raft floated gently down the river.",
+    "B2"
+  ],
+  [
+    "licence",
+    "права, лицензия (напр. водительские)",
+    "You need a licence to drive in this country.",
+    "B2"
+  ],
+  [
+    "motor",
+    "двигатель; моторный",
+    "They travelled across Europe by motor home.",
+    "B2"
+  ],
+  [
+    "permit",
+    "разрешение, пропуск; разрешать",
+    "You need a permit to camp in this area.",
+    "B2"
+  ],
+  [
+    "regional",
+    "региональный",
+    "We took a regional train to the coast.",
+    "B2"
+  ],
+  [
+    "resort",
+    "курорт",
+    "They stayed at a beach resort for a week.",
+    "B2"
+  ],
+  [
+    "settle",
+    "поселяться, обосновываться",
+    "The family settled in a small coastal town.",
+    "B2"
+  ],
+  [
+    "speed",
+    "превышать скорость",
+    "He was fined for speeding on the motorway.",
+    "B2"
+  ],
+  [
+    "transfer",
+    "пересадка, трансфер; переезжать",
+    "There's a free transfer from the airport to the hotel.",
+    "B2"
+  ],
+  [
+    "tunnel",
+    "туннель",
+    "The train goes through a long tunnel.",
+    "B2"
+  ],
+  [
+    "urban",
+    "городской",
+    "Traffic is much heavier in urban areas.",
+    "B2"
+  ],
+  [
+    "zone",
+    "зона",
+    "This part of the city is a pedestrian zone.",
+    "B2"
+  ],
+  [
+    "accommodate",
+    "вмещать, размещать",
+    "The hotel can accommodate up to two hundred guests.",
+    "B2"
+  ],
+  [
+    "booking",
+    "бронирование",
+    "I made a booking for two nights.",
+    "B2"
+  ],
+  [
+    "bound",
+    "направляющийся (куда-л.)",
+    "The ship was bound for Southampton.",
+    "B2"
+  ],
+  [
+    "cabin",
+    "каюта, кабина",
+    "They had a small cabin on the upper deck.",
+    "B2"
+  ],
+  [
+    "canal",
+    "канал (водный)",
+    "They took a boat trip along the canal.",
+    "B2"
+  ],
+  [
+    "deck",
+    "палуба",
+    "We watched the sunset from the ship's deck.",
+    "B2"
+  ],
+  [
+    "depart",
+    "отправляться, уезжать",
+    "The train departs from platform two.",
+    "B2"
+  ],
+  [
+    "downtown",
+    "центр города",
+    "Their hotel is right in downtown Chicago.",
+    "B2"
+  ],
+  [
+    "exit",
+    "выход",
+    "Follow the signs to the nearest exit.",
+    "B2"
+  ],
+  [
+    "exotic",
+    "экзотический",
+    "She dreamed of visiting an exotic island.",
+    "B2"
+  ],
+  [
+    "fare",
+    "стоимость проезда",
+    "The bus fare has gone up this year.",
+    "B2"
+  ],
+  [
+    "harbour",
+    "гавань",
+    "The boats were moored in the harbour.",
+    "B2"
+  ],
+  [
+    "inhabitant",
+    "житель",
+    "The town has around ten thousand inhabitants.",
+    "B2"
+  ],
+  [
+    "jet",
+    "реактивный самолёт",
+    "They flew across the country in a private jet.",
+    "B2"
+  ],
+  [
+    "landing",
+    "посадка (самолёта)",
+    "The plane made a smooth landing.",
+    "B2"
+  ],
+  [
+    "lane",
+    "полоса (движения)",
+    "Stay in the left lane for the next exit.",
+    "B2"
+  ],
+  [
+    "monument",
+    "памятник, монумент",
+    "Tourists gathered around the famous monument.",
+    "B2"
+  ],
+  [
+    "navigation",
+    "навигация",
+    "The car's navigation system found a faster route.",
+    "B2"
+  ],
+  [
+    "overseas",
+    "заграничный, за рубежом",
+    "She's planning to study overseas next year.",
+    "B2"
+  ],
+  [
+    "rail",
+    "рельс, железная дорога",
+    "They travelled by rail across the country.",
+    "B2"
+  ],
+  [
+    "suburb",
+    "пригород",
+    "They moved to a quiet suburb outside the city.",
+    "B2"
+  ],
+  [
+    "terminal",
+    "терминал (аэропорта/вокзала)",
+    "We landed at the new airport terminal.",
+    "B2"
+  ],
+  [
+    "transportation",
+    "транспортировка, транспорт",
+    "Public transportation in the city is excellent.",
+    "B2"
+  ],
+  [
+    "wander",
+    "бродить, странствовать",
+    "They spent the afternoon wandering through the old town.",
+    "B2"
+  ],
+  [
+    "attraction",
+    "достопримечательность",
+    "The castle is the town's main tourist attraction.",
+    "B1"
+  ],
+  [
+    "board",
+    "садиться (на самолёт/поезд)",
+    "Passengers can now board the plane.",
+    "B1"
+  ],
+  [
+    "eastern",
+    "восточный",
+    "They travelled through eastern Europe.",
+    "B1"
+  ],
+  [
+    "fasten",
+    "пристёгивать (ремень)",
+    "Please fasten your seatbelt before take-off.",
+    "B1"
+  ],
+  [
+    "helicopter",
+    "вертолёт",
+    "A helicopter flew over the mountains.",
+    "B1"
+  ],
+  [
+    "local",
+    "местный житель",
+    "We asked a local for directions.",
+    "B1"
+  ],
+  [
+    "locate",
+    "находить, определять местоположение",
+    "It took a while to locate the hotel.",
+    "B1"
+  ],
+  [
+    "located",
+    "расположенный",
+    "The hotel is located near the beach.",
+    "B1"
+  ],
+  [
+    "location",
+    "местоположение",
+    "The film was shot on location in Spain.",
+    "B1"
+  ],
+  [
+    "mall",
+    "торговый центр",
+    "They spent the afternoon at the shopping mall.",
+    "B1"
+  ],
+  [
+    "native",
+    "коренной, местный",
+    "She's a native of southern Italy.",
+    "B1"
+  ],
+  [
+    "northern",
+    "северный",
+    "They live in the north of the country.",
+    "B1"
+  ],
+  [
+    "pack",
+    "рюкзак, упаковка; упаковывать",
+    "She carried a small pack on her back.",
+    "B1"
+  ],
+  [
+    "path",
+    "тропа, путь",
+    "Follow the path down to the beach.",
+    "B1"
+  ],
+  [
+    "port",
+    "порт",
+    "The ship docked at the port early in the morning.",
+    "B1"
+  ],
+  [
+    "queue",
+    "очередь; стоять в очереди",
+    "We had to queue for almost an hour.",
+    "B1"
+  ],
+  [
+    "pass",
+    "проездной билет",
+    "You need a valid bus pass to travel.",
+    "B1"
+  ],
+  [
+    "remote",
+    "отдалённый, труднодоступный",
+    "They stayed in a remote village in the mountains.",
+    "B1"
+  ],
+  [
+    "reservation",
+    "бронь, резервация",
+    "I'd like to make a reservation for two.",
+    "B1"
+  ],
+  [
+    "sail",
+    "парус",
+    "The boat's sail caught the wind.",
+    "B1"
+  ],
+  [
+    "sight",
+    "достопримечательность, зрелище",
+    "There are so many sights to see in the city.",
+    "B1"
+  ],
+  [
+    "sink",
+    "тонуть (о судне)",
+    "The ship began to sink slowly.",
+    "B1"
+  ],
+  [
+    "southern",
+    "южный",
+    "They spent the winter in the south of Spain.",
+    "B1"
+  ],
+  [
+    "spot",
+    "место, местечко",
+    "It's a lovely spot for a picnic.",
+    "B1"
+  ],
+  [
+    "tent",
+    "палатка",
+    "They pitched their tent by the lake.",
+    "B1"
+  ],
+  [
+    "tour",
+    "совершать поездку, гастролировать",
+    "The band is touring across Europe this summer.",
+    "B1"
+  ],
+  [
+    "transport",
+    "перевозить",
+    "The goods are transported by lorry.",
+    "B1"
+  ],
+  [
+    "tube",
+    "лондонское метро (the tube)",
+    "We took the tube to the museum.",
+    "B1"
+  ],
+  [
+    "tyre",
+    "шина",
+    "One of the car's tyres was flat.",
+    "B1"
+  ],
+  [
+    "western",
+    "западный",
+    "They drove through western Canada.",
+    "B1"
+  ],
+  [
+    "wing",
+    "крыло (самолёта)",
+    "The plane's wing was damaged in the storm.",
+    "B1"
+  ],
+  [
+    "arrive",
+    "прибывать",
+    "We arrived at the airport two hours early.",
+    "A1"
+  ],
+  [
+    "beach",
+    "пляж",
+    "They spent the day relaxing on the beach.",
+    "A1"
+  ],
+  [
+    "centre",
+    "центр (города)",
+    "The hotel is right in the city centre.",
+    "A1"
+  ],
+  [
+    "drive",
+    "водить машину",
+    "It takes about an hour to drive there.",
+    "A1"
+  ],
+  [
+    "east",
+    "восток; восточный",
+    "The sun rises in the east.",
+    "A1"
+  ],
+  [
+    "kilometre",
+    "километр",
+    "The beach is about five kilometres away.",
+    "A1"
+  ],
+  [
+    "leave",
+    "уезжать, покидать",
+    "The train leaves at nine o'clock.",
+    "A1"
+  ],
+  [
+    "line",
+    "линия (транспортная)",
+    "Take the blue line to the museum.",
+    "A1"
+  ],
+  [
+    "live",
+    "жить (где-л.)",
+    "She lives in a small town near the coast.",
+    "A1"
+  ],
+  [
+    "land",
+    "посадка, приземление",
+    "They could finally see land after days at sea.",
+    "A1"
+  ],
+  [
+    "local",
+    "местный",
+    "We asked a local for directions.",
+    "A1"
+  ],
+  [
+    "mile",
+    "миля",
+    "The hotel is about two miles from the beach.",
+    "A1"
+  ],
+  [
+    "move",
+    "переезжать",
+    "They moved to a new flat last month.",
+    "A1"
+  ],
+  [
+    "miss",
+    "опаздывать (на рейс)",
+    "We nearly missed our flight this morning.",
+    "A1"
+  ],
+  [
+    "north",
+    "север; северный",
+    "They drove north towards the mountains.",
+    "A1"
+  ],
+  [
+    "park",
+    "парк; парковаться",
+    "There's a lovely park near the hotel.",
+    "A1"
+  ],
+  [
+    "place",
+    "место",
+    "This is a beautiful place to visit in summer.",
+    "A1"
+  ],
+  [
+    "return",
+    "возвращаться",
+    "We return home on Sunday.",
+    "A1"
+  ],
+  [
+    "ride",
+    "ехать (на транспорте)",
+    "They rode camels across the desert.",
+    "A1"
+  ],
+  [
+    "road",
+    "дорога",
+    "Follow this road until you reach the sea.",
+    "A1"
+  ],
+  [
+    "south",
+    "юг; южный",
+    "They travelled south for the winter.",
+    "A1"
+  ],
+  [
+    "station",
+    "станция, вокзал",
+    "The train station is just around the corner.",
+    "A1"
+  ],
+  [
+    "stay",
+    "останавливаться (в отеле)",
+    "We stayed in a small hotel near the beach.",
+    "A1"
+  ],
+  [
+    "stop",
+    "остановка (автобусная)",
+    "The bus makes several stops on the way.",
+    "A1"
+  ],
+  [
+    "street",
+    "улица",
+    "Their hotel is on a quiet street.",
+    "A1"
+  ],
+  [
+    "traffic",
+    "движение (транспорта)",
+    "There was heavy traffic on the motorway.",
+    "A1"
+  ],
+  [
+    "umbrella",
+    "зонт",
+    "Take an umbrella, it might rain later.",
+    "A1"
+  ],
+  [
+    "visitor",
+    "посетитель, гость",
+    "The castle gets thousands of visitors every year.",
+    "A1"
+  ],
+  [
+    "west",
+    "запад; западный",
+    "The sun sets in the west.",
+    "A1"
+  ],
+  [
+    "accident",
+    "авария",
+    "There was a car accident on the motorway.",
+    "A2"
+  ],
+  [
+    "adventure",
+    "приключение",
+    "Backpacking around Asia was a great adventure.",
+    "A2"
+  ],
+  [
+    "airline",
+    "авиакомпания",
+    "She works for a major airline.",
+    "A2"
+  ],
+  [
+    "bridge",
+    "мост",
+    "They crossed the old stone bridge.",
+    "A2"
+  ],
+  [
+    "camp",
+    "лагерь; разбивать лагерь",
+    "We set up camp near the river.",
+    "A2"
+  ],
+  [
+    "camping",
+    "кемпинг",
+    "They went camping in the mountains last summer.",
+    "A2"
+  ],
+  [
+    "castle",
+    "замок",
+    "The castle dates back to the twelfth century.",
+    "A2"
+  ],
+  [
+    "corner",
+    "угол (улицы)",
+    "The shop is just around the corner.",
+    "A2"
+  ],
+  [
+    "cross",
+    "переходить (дорогу)",
+    "Be careful when you cross the road.",
+    "A2"
+  ],
+  [
+    "crowded",
+    "переполненный",
+    "The beach was very crowded in August.",
+    "A2"
+  ],
+  [
+    "distance",
+    "расстояние",
+    "It's within walking distance of the station.",
+    "A2"
+  ],
+  [
+    "drive",
+    "поездка (на машине)",
+    "It's a two-hour drive to the coast.",
+    "A2"
+  ],
+  [
+    "driving",
+    "вождение",
+    "Driving in the city can be stressful.",
+    "A2"
+  ],
+  [
+    "flying",
+    "полёт; летающий",
+    "She's a bit nervous about flying.",
+    "A2"
+  ],
+  [
+    "gate",
+    "выход на посадку, ворота",
+    "Your flight boards at gate twelve.",
+    "A2"
+  ],
+  [
+    "guest",
+    "гость (в отеле)",
+    "The hotel welcomes over a hundred guests a day.",
+    "A2"
+  ],
+  [
+    "land",
+    "приземляться",
+    "The plane landed safely despite the storm.",
+    "A2"
+  ],
+  [
+    "lorry",
+    "грузовик",
+    "A lorry blocked the narrow country road.",
+    "A2"
+  ],
+  [
+    "lost",
+    "заблудившийся",
+    "We got completely lost in the old town.",
+    "A2"
+  ],
+  [
+    "motorcycle",
+    "мотоцикл",
+    "He travelled across Europe on his motorcycle.",
+    "A2"
+  ],
+  [
+    "pack",
+    "упаковывать (чемодан)",
+    "She packed her suitcase the night before.",
+    "A2"
+  ],
+  [
+    "palace",
+    "дворец",
+    "Tourists queued to visit the royal palace.",
+    "A2"
+  ],
+  [
+    "parking",
+    "парковка",
+    "There's free parking behind the hotel.",
+    "A2"
+  ],
+  [
+    "petrol",
+    "бензин",
+    "We stopped to fill up on petrol.",
+    "A2"
+  ],
+  [
+    "reception",
+    "стойка регистрации (в отеле)",
+    "Leave your key at reception when you check out.",
+    "A2"
+  ],
+  [
+    "ride",
+    "поездка",
+    "It's a short taxi ride from the airport.",
+    "A2"
+  ],
+  [
+    "sail",
+    "плыть под парусом",
+    "They sailed along the coast for a week.",
+    "A2"
+  ],
+  [
+    "rest (sleep/relax)",
+    "остановка на отдых",
+    "We stopped at a service station for a rest.",
+    "A2"
+  ],
+  [
+    "sailing",
+    "плавание на яхте (путешествие)",
+    "They spent their holiday sailing around the islands.",
+    "A2"
+  ],
+  [
+    "seat",
+    "место (сидячее)",
+    "Could I have a window seat, please?",
+    "A2"
+  ],
+  [
+    "speed",
+    "скорость",
+    "The train travels at high speed.",
+    "A2"
+  ],
+  [
+    "square",
+    "площадь (городская)",
+    "Tourists gathered in the main square.",
+    "A2"
+  ],
+  [
+    "site",
+    "место (строительная площадка, достопримечательность)",
+    "The ancient site attracts thousands of visitors.",
+    "A2"
+  ],
+  [
+    "tour",
+    "тур, экскурсия",
+    "We booked a guided tour of the old city.",
+    "A2"
+  ],
+  [
+    "tower",
+    "башня",
+    "You can see the whole city from the tower.",
+    "A2"
+  ],
+  [
+    "transport",
+    "транспорт",
+    "Public transport in the city is very reliable.",
+    "A2"
+  ],
+  [
+    "traveller",
+    "путешественник",
+    "The hostel is popular with young travellers.",
+    "A2"
+  ],
+  [
+    "truck",
+    "грузовик (амер.)",
+    "A large truck was blocking the road.",
+    "A2"
+  ],
+  [
+    "underground",
+    "метро; подземный",
+    "We took the underground to the museum.",
+    "A2"
+  ],
+  [
+    "van",
+    "фургон",
+    "They rented a van for the road trip.",
+    "A2"
+  ],
+  [
+    "vehicle",
+    "транспортное средство",
+    "Only authorised vehicles can enter this area.",
+    "A2"
+  ],
+  [
+    "view",
+    "вид (пейзаж)",
+    "The room has a stunning view of the sea.",
+    "A2"
+  ],
+  [
+    "wheel",
+    "колесо",
+    "One of the car's wheels was damaged.",
+    "A2"
+  ]
+]

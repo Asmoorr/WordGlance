@@ -1,0 +1,632 @@
+[
+  [
+    "adult",
+    "взрослый",
+    "This film is only suitable for adults.",
+    "A1"
+  ],
+  [
+    "aunt",
+    "тётя",
+    "My aunt lives in another city.",
+    "A1"
+  ],
+  [
+    "baby",
+    "младенец, ребёнок",
+    "The baby slept for three hours.",
+    "A1"
+  ],
+  [
+    "boy",
+    "мальчик",
+    "The boy ran across the playground.",
+    "A1"
+  ],
+  [
+    "boyfriend",
+    "парень, бойфренд",
+    "She introduced her boyfriend to her parents.",
+    "A1"
+  ],
+  [
+    "brother",
+    "брат",
+    "My brother is two years older than me.",
+    "A1"
+  ],
+  [
+    "child",
+    "ребёнок",
+    "Every child needs love and attention.",
+    "A1"
+  ],
+  [
+    "cousin",
+    "двоюродный брат/сестра",
+    "My cousin is visiting us this summer.",
+    "A1"
+  ],
+  [
+    "dad",
+    "папа",
+    "Dad always drives us to school.",
+    "A1"
+  ],
+  [
+    "daughter",
+    "дочь",
+    "Their daughter just started university.",
+    "A1"
+  ],
+  [
+    "family",
+    "семья; семейный",
+    "We had a big family dinner on Sunday.",
+    "A1"
+  ],
+  [
+    "father",
+    "отец",
+    "His father taught him how to fish.",
+    "A1"
+  ],
+  [
+    "friend",
+    "друг",
+    "She's my best friend from school.",
+    "A1"
+  ],
+  [
+    "girl",
+    "девочка",
+    "The girl waved at her mother.",
+    "A1"
+  ],
+  [
+    "girlfriend",
+    "девушка, герлфренд",
+    "He's been dating his girlfriend for two years.",
+    "A1"
+  ],
+  [
+    "grandfather",
+    "дедушка",
+    "My grandfather tells great stories.",
+    "A1"
+  ],
+  [
+    "grandmother",
+    "бабушка",
+    "Her grandmother baked a cake for her birthday.",
+    "A1"
+  ],
+  [
+    "grandparent",
+    "бабушка или дедушка",
+    "Both of my grandparents live nearby.",
+    "A1"
+  ],
+  [
+    "husband",
+    "муж",
+    "Her husband works as an engineer.",
+    "A1"
+  ],
+  [
+    "man",
+    "мужчина",
+    "An old man was sitting on the bench.",
+    "A1"
+  ],
+  [
+    "married",
+    "женатый, замужняя",
+    "They've been married for ten years.",
+    "A1"
+  ],
+  [
+    "mother",
+    "мать",
+    "His mother called him twice today.",
+    "A1"
+  ],
+  [
+    "mum",
+    "мама",
+    "Mum, can I go outside?",
+    "A1"
+  ],
+  [
+    "neighbour",
+    "сосед",
+    "Our neighbour is very friendly.",
+    "A1"
+  ],
+  [
+    "parent",
+    "родитель",
+    "Both parents came to the school meeting.",
+    "A1"
+  ],
+  [
+    "partner",
+    "партнёр",
+    "She discussed the decision with her partner.",
+    "A1"
+  ],
+  [
+    "sister",
+    "сестра",
+    "My sister and I share a room.",
+    "A1"
+  ],
+  [
+    "son",
+    "сын",
+    "Their son wants to become a doctor.",
+    "A1"
+  ],
+  [
+    "teenager",
+    "подросток",
+    "As a teenager, she loved loud music.",
+    "A1"
+  ],
+  [
+    "uncle",
+    "дядя",
+    "My uncle gave me some good advice.",
+    "A1"
+  ],
+  [
+    "wife",
+    "жена",
+    "His wife works in a hospital.",
+    "A1"
+  ],
+  [
+    "woman",
+    "женщина",
+    "A woman was waiting at the bus stop.",
+    "A1"
+  ],
+  [
+    "adult",
+    "взрослый",
+    "The adult ticket costs more than a child's.",
+    "A2"
+  ],
+  [
+    "colleague",
+    "коллега",
+    "I had lunch with a colleague from work.",
+    "A2"
+  ],
+  [
+    "couple",
+    "пара (двое людей)",
+    "A young couple moved in next door.",
+    "A2"
+  ],
+  [
+    "divorced",
+    "разведённый",
+    "Her parents got divorced when she was ten.",
+    "A2"
+  ],
+  [
+    "guy",
+    "парень",
+    "That guy over there is my brother.",
+    "A2"
+  ],
+  [
+    "kid",
+    "ребёнок",
+    "The kids were playing in the park.",
+    "A2"
+  ],
+  [
+    "lady",
+    "дама, леди",
+    "An elderly lady asked for directions.",
+    "A2"
+  ],
+  [
+    "single",
+    "одинокий, неженатый; холостяк",
+    "He's been single for a year now.",
+    "A2"
+  ],
+  [
+    "twin",
+    "близнец; парный",
+    "She has a twin sister who looks just like her.",
+    "A2"
+  ],
+  [
+    "wedding",
+    "свадьба",
+    "We're invited to their wedding next month.",
+    "A2"
+  ],
+  [
+    "bride",
+    "невеста",
+    "The bride wore a beautiful white dress.",
+    "B1"
+  ],
+  [
+    "childhood",
+    "детство",
+    "He had a happy childhood in the countryside.",
+    "B1"
+  ],
+  [
+    "engaged",
+    "помолвленный",
+    "They got engaged last spring.",
+    "B1"
+  ],
+  [
+    "generation",
+    "поколение",
+    "This generation grew up with smartphones.",
+    "B1"
+  ],
+  [
+    "gentleman",
+    "джентльмен",
+    "A gentleman opened the door for her.",
+    "B1"
+  ],
+  [
+    "marriage",
+    "брак, замужество",
+    "Their marriage lasted almost thirty years.",
+    "B1"
+  ],
+  [
+    "relation",
+    "родственник; отношение",
+    "He's a distant relation of mine.",
+    "B1"
+  ],
+  [
+    "relative",
+    "родственник; относительный",
+    "Several relatives came to the funeral.",
+    "B1"
+  ],
+  [
+    "stranger",
+    "незнакомец",
+    "Don't talk to strangers.",
+    "B1"
+  ],
+  [
+    "youth",
+    "молодость; молодёжь",
+    "In his youth, he travelled a lot.",
+    "B1"
+  ],
+  [
+    "elderly",
+    "пожилой",
+    "We help elderly people in our neighbourhood.",
+    "B2"
+  ],
+  [
+    "fellow",
+    "коллега по группе (fellow student — сокурсник)",
+    "She met her fellow students at the orientation.",
+    "B2"
+  ],
+  [
+    "ancestor",
+    "предок",
+    "Her ancestors came from Poland.",
+    "B2"
+  ],
+  [
+    "divorce",
+    "развод; разводиться",
+    "They decided to divorce after years apart.",
+    "B2"
+  ],
+  [
+    "mate",
+    "приятель, друг; спариваться (о животных)",
+    "He went to the match with his mates.",
+    "B2"
+  ],
+  [
+    "sibling",
+    "брат или сестра",
+    "Do you have any siblings?",
+    "B2"
+  ],
+  [
+    "teens",
+    "подростковый возраст (13–19 лет)",
+    "She started painting in her teens.",
+    "B2"
+  ],
+  [
+    "adolescent",
+    "подросток",
+    "The programme supports adolescents with mental health issues.",
+    "C1"
+  ],
+  [
+    "buddy",
+    "приятель, дружище",
+    "He's my old buddy from university.",
+    "C1"
+  ],
+  [
+    "companion",
+    "спутник, компаньон",
+    "The dog became her constant companion.",
+    "C1"
+  ],
+  [
+    "infant",
+    "младенец",
+    "The clinic specializes in infant care.",
+    "C1"
+  ],
+  [
+    "lad",
+    "парень, паренёк",
+    "The lad helped carry the bags.",
+    "C1"
+  ],
+  [
+    "spouse",
+    "супруг, супруга",
+    "You may bring your spouse to the event.",
+    "C1"
+  ],
+  [
+    "widow",
+    "вдова",
+    "She has been a widow for five years.",
+    "C1"
+  ],
+  [
+    "youngster",
+    "молодой человек, юнец",
+    "The youngster scored his first goal today.",
+    "C1"
+  ],
+  [
+    "adoption",
+    "усыновление, удочерение",
+    "They celebrated the adoption of their daughter.",
+    "C1"
+  ],
+  [
+    "burial",
+    "похороны",
+    "The burial took place at the local church.",
+    "C1"
+  ],
+  [
+    "cemetery",
+    "кладбище",
+    "They visit the cemetery every year on his birthday.",
+    "C1"
+  ],
+  [
+    "descent",
+    "происхождение (родословная)",
+    "She is of Italian descent.",
+    "C1"
+  ],
+  [
+    "engagement",
+    "помолвка",
+    "They announced their engagement last weekend.",
+    "C1"
+  ],
+  [
+    "foster",
+    "растить (приёмного ребёнка)",
+    "They decided to foster a young boy.",
+    "C1"
+  ],
+  [
+    "funeral",
+    "похороны",
+    "The funeral was held on a rainy Monday.",
+    "C1"
+  ],
+  [
+    "gathering",
+    "собрание, сборище",
+    "It was a small family gathering.",
+    "C1"
+  ],
+  [
+    "grave",
+    "могила",
+    "They laid flowers on her grandfather's grave.",
+    "C1"
+  ],
+  [
+    "lesbian",
+    "лесбийский",
+    "She's been part of the lesbian community for years.",
+    "C1"
+  ],
+  [
+    "nursery",
+    "детский сад, ясли",
+    "Their son started at the nursery last month.",
+    "C1"
+  ],
+  [
+    "offspring",
+    "потомство, дети",
+    "The couple has three offspring.",
+    "C1"
+  ],
+  [
+    "parental",
+    "родительский",
+    "Parental support makes a big difference at school.",
+    "C1"
+  ],
+  [
+    "separation",
+    "разлука; раздельное проживание",
+    "The long separation was hard on the family.",
+    "C1"
+  ],
+  [
+    "adopt",
+    "усыновлять",
+    "They decided to adopt a child from abroad.",
+    "B2"
+  ],
+  [
+    "anniversary",
+    "годовщина",
+    "They celebrated their tenth wedding anniversary.",
+    "B2"
+  ],
+  [
+    "date",
+    "свидание; встречаться (романтически)",
+    "They've been dating for almost a year.",
+    "B2"
+  ],
+  [
+    "gay",
+    "гей, гомосексуальный",
+    "He came out as gay to his family last year.",
+    "B2"
+  ],
+  [
+    "peer",
+    "ровесник, сверстник",
+    "Teenagers often care a lot about their peers' opinions.",
+    "B2"
+  ],
+  [
+    "aged",
+    "пожилой; в возрасте",
+    "The charity supports aged residents in the area.",
+    "B1"
+  ],
+  [
+    "bury",
+    "хоронить",
+    "They buried him next to his wife.",
+    "B1"
+  ],
+  [
+    "friendship",
+    "дружба",
+    "Their friendship has lasted over twenty years.",
+    "B1"
+  ],
+  [
+    "kiss",
+    "поцелуй; целовать",
+    "She gave him a quick kiss before leaving.",
+    "B1"
+  ],
+  [
+    "romantic",
+    "романтичный",
+    "They went on a romantic weekend away.",
+    "B1"
+  ],
+  [
+    "age",
+    "возраст",
+    "What age is your daughter now?",
+    "A1"
+  ],
+  [
+    "birthday",
+    "день рождения",
+    "Her birthday is next Saturday.",
+    "A1"
+  ],
+  [
+    "born",
+    "рождённый",
+    "He was born in a small village in the mountains.",
+    "A1"
+  ],
+  [
+    "date",
+    "свидание",
+    "They went on their first date last week.",
+    "A1"
+  ],
+  [
+    "grow",
+    "расти, взрослеть",
+    "Children grow up so fast.",
+    "A1"
+  ],
+  [
+    "meet",
+    "встречаться (с друзьями)",
+    "Let's meet for coffee tomorrow.",
+    "A1"
+  ],
+  [
+    "miss",
+    "скучать (по кому-л.)",
+    "I really miss my old friends from school.",
+    "A1"
+  ],
+  [
+    "female",
+    "женщина",
+    "The team has three females and two males.",
+    "A2"
+  ],
+  [
+    "guest",
+    "гость (на вечеринке)",
+    "We invited about fifty guests to the wedding.",
+    "A2"
+  ],
+  [
+    "marry",
+    "жениться, выходить замуж",
+    "They got married in a small church.",
+    "A2"
+  ],
+  [
+    "male",
+    "мужчина",
+    "There was only one male in the group.",
+    "A2"
+  ],
+  [
+    "relationship",
+    "отношения (между людьми)",
+    "They have a close relationship with their parents.",
+    "A2"
+  ],
+  [
+    "raise",
+    "воспитывать (детей)",
+    "It's not easy to raise three children alone.",
+    "A2"
+  ],
+  [
+    "teenage",
+    "подростковый",
+    "She has two teenage sons.",
+    "A2"
+  ]
+]

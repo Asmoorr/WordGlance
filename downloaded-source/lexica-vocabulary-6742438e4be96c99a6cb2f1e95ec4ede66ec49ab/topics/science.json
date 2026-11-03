@@ -1,0 +1,1772 @@
+[
+  [
+    "computer",
+    "компьютер",
+    "She works on her computer all day.",
+    "A1"
+  ],
+  [
+    "internet",
+    "интернет",
+    "The internet went down for an hour.",
+    "A1"
+  ],
+  [
+    "machine",
+    "машина, механизм",
+    "The washing machine broke down again.",
+    "A1"
+  ],
+  [
+    "online",
+    "онлайн",
+    "You can pay your bills online now.",
+    "A1"
+  ],
+  [
+    "phone",
+    "телефон; звонить по телефону",
+    "I'll phone you when I get home.",
+    "A1"
+  ],
+  [
+    "science",
+    "наука",
+    "She's always been interested in science.",
+    "A1"
+  ],
+  [
+    "scientist",
+    "учёный",
+    "The scientist explained the results clearly.",
+    "A1"
+  ],
+  [
+    "website",
+    "сайт, веб-сайт",
+    "You can find the schedule on our website.",
+    "A1"
+  ],
+  [
+    "app",
+    "приложение (мобильное)",
+    "He downloaded a new app for tracking expenses.",
+    "A2"
+  ],
+  [
+    "biology",
+    "биология",
+    "We're studying cell biology this term.",
+    "A2"
+  ],
+  [
+    "chemistry",
+    "химия",
+    "She failed her chemistry exam last year.",
+    "A2"
+  ],
+  [
+    "chip",
+    "чип, микросхема",
+    "The computer chip controls all the settings.",
+    "A2"
+  ],
+  [
+    "code",
+    "код",
+    "He spent hours fixing a bug in the code.",
+    "A2"
+  ],
+  [
+    "data",
+    "данные",
+    "The report is based on data from last year.",
+    "A2"
+  ],
+  [
+    "device",
+    "устройство, прибор",
+    "This device measures your heart rate.",
+    "A2"
+  ],
+  [
+    "digital",
+    "цифровой",
+    "We switched to a fully digital system.",
+    "A2"
+  ],
+  [
+    "discover",
+    "открывать, обнаруживать",
+    "Scientists discovered a new species of frog.",
+    "A2"
+  ],
+  [
+    "discovery",
+    "открытие",
+    "It was an important scientific discovery.",
+    "A2"
+  ],
+  [
+    "download",
+    "скачивать; загрузка",
+    "The download took almost an hour.",
+    "A2"
+  ],
+  [
+    "electric",
+    "электрический",
+    "They bought an electric car last year.",
+    "A2"
+  ],
+  [
+    "electronic",
+    "электронный",
+    "All the forms are now electronic.",
+    "A2"
+  ],
+  [
+    "engine",
+    "двигатель",
+    "The car's engine wouldn't start this morning.",
+    "A2"
+  ],
+  [
+    "engineer",
+    "инженер",
+    "He works as a software engineer.",
+    "A2"
+  ],
+  [
+    "experiment",
+    "эксперимент",
+    "The students carried out a simple experiment.",
+    "A2"
+  ],
+  [
+    "invent",
+    "изобретать",
+    "Who invented the telephone?",
+    "A2"
+  ],
+  [
+    "invention",
+    "изобретение",
+    "The internet is one of the greatest inventions.",
+    "A2"
+  ],
+  [
+    "laptop",
+    "ноутбук",
+    "She types all her notes on her laptop.",
+    "A2"
+  ],
+  [
+    "mathematics",
+    "математика",
+    "He teaches mathematics at the local school.",
+    "A2"
+  ],
+  [
+    "maths",
+    "математика (разг.)",
+    "She's really good at maths.",
+    "A2"
+  ],
+  [
+    "network",
+    "сеть",
+    "The office has a fast wireless network.",
+    "A2"
+  ],
+  [
+    "physics",
+    "физика",
+    "Physics explains how the universe works.",
+    "A2"
+  ],
+  [
+    "program",
+    "программа (компьютерная)",
+    "He wrote a program to sort the data.",
+    "A2"
+  ],
+  [
+    "smartphone",
+    "смартфон",
+    "Almost everyone has a smartphone now.",
+    "A2"
+  ],
+  [
+    "system",
+    "система",
+    "The new system is much faster than the old one.",
+    "A2"
+  ],
+  [
+    "tablet",
+    "планшет",
+    "She reads books on her tablet.",
+    "A2"
+  ],
+  [
+    "technology",
+    "технология",
+    "New technology has changed the way we work.",
+    "A2"
+  ],
+  [
+    "battery",
+    "батарея, аккумулятор",
+    "My phone battery is almost empty.",
+    "B1"
+  ],
+  [
+    "engineering",
+    "инженерия, техника",
+    "He's studying mechanical engineering.",
+    "B1"
+  ],
+  [
+    "experiment",
+    "экспериментировать",
+    "Scientists experimented with different materials.",
+    "B1"
+  ],
+  [
+    "program",
+    "программировать",
+    "She learned to program in Python at university.",
+    "B1"
+  ],
+  [
+    "robot",
+    "робот",
+    "The factory uses robots to build cars.",
+    "B1"
+  ],
+  [
+    "software",
+    "программное обеспечение",
+    "They updated the software last week.",
+    "B1"
+  ],
+  [
+    "technical",
+    "технический",
+    "The manual is full of technical terms.",
+    "B1"
+  ],
+  [
+    "technique",
+    "техника, метод",
+    "The teacher explained a new technique.",
+    "B1"
+  ],
+  [
+    "theory",
+    "теория",
+    "The theory was later proven correct.",
+    "B1"
+  ],
+  [
+    "update",
+    "обновлять; обновление",
+    "Please update the app to the latest version.",
+    "B1"
+  ],
+  [
+    "artificial",
+    "искусственный",
+    "The company develops artificial intelligence software.",
+    "B2"
+  ],
+  [
+    "cell",
+    "клетка (биологическая)",
+    "The human body has trillions of cells.",
+    "B2"
+  ],
+  [
+    "install",
+    "устанавливать (программу)",
+    "He installed the new software last night.",
+    "B2"
+  ],
+  [
+    "satellite",
+    "спутник",
+    "The satellite sends data back to Earth.",
+    "B2"
+  ],
+  [
+    "virtual",
+    "виртуальный",
+    "They held a virtual meeting instead.",
+    "B2"
+  ],
+  [
+    "automatic",
+    "автоматический",
+    "The doors open automatically when you approach.",
+    "B2"
+  ],
+  [
+    "circuit",
+    "электрическая цепь, схема",
+    "There's a short circuit in the wiring.",
+    "B2"
+  ],
+  [
+    "database",
+    "база данных",
+    "All customer details are stored in a database.",
+    "B2"
+  ],
+  [
+    "electronics",
+    "электроника",
+    "He studied electronics at university.",
+    "B2"
+  ],
+  [
+    "evolution",
+    "эволюция",
+    "Darwin's theory of evolution changed science.",
+    "B2"
+  ],
+  [
+    "gene",
+    "ген",
+    "This gene affects eye colour.",
+    "B2"
+  ],
+  [
+    "genetic",
+    "генетический",
+    "The disease has a genetic cause.",
+    "B2"
+  ],
+  [
+    "hypothesis",
+    "гипотеза",
+    "Her hypothesis was confirmed by the experiment.",
+    "B2"
+  ],
+  [
+    "innovation",
+    "инновация",
+    "The company is known for its innovation.",
+    "B2"
+  ],
+  [
+    "innovative",
+    "инновационный",
+    "They came up with an innovative solution.",
+    "B2"
+  ],
+  [
+    "installation",
+    "установка (программы/оборудования)",
+    "The installation took less than ten minutes.",
+    "B2"
+  ],
+  [
+    "mechanical",
+    "механический",
+    "The clock has a mechanical movement.",
+    "B2"
+  ],
+  [
+    "mechanism",
+    "механизм",
+    "The lock has a simple mechanism.",
+    "B2"
+  ],
+  [
+    "browser",
+    "браузер",
+    "She opened a new tab in her browser.",
+    "C1"
+  ],
+  [
+    "configuration",
+    "конфигурация, настройка",
+    "You can change the configuration in the settings.",
+    "C1"
+  ],
+  [
+    "formula",
+    "формула",
+    "He used the wrong formula in the calculation.",
+    "C1"
+  ],
+  [
+    "hardware",
+    "аппаратное обеспечение",
+    "The problem is with the hardware, not the software.",
+    "C1"
+  ],
+  [
+    "interface",
+    "интерфейс",
+    "The app has a very simple interface.",
+    "C1"
+  ],
+  [
+    "laser",
+    "лазер",
+    "Doctors used a laser to remove the mark.",
+    "C1"
+  ],
+  [
+    "processing",
+    "обработка (данных)",
+    "The image processing took a few seconds.",
+    "C1"
+  ],
+  [
+    "processor",
+    "процессор",
+    "The new phone has a much faster processor.",
+    "C1"
+  ],
+  [
+    "radar",
+    "радар",
+    "The plane was tracked by radar.",
+    "C1"
+  ],
+  [
+    "simulate",
+    "симулировать, моделировать",
+    "The software simulates real flying conditions.",
+    "C1"
+  ],
+  [
+    "simulation",
+    "симуляция, моделирование",
+    "Pilots train using flight simulations.",
+    "C1"
+  ],
+  [
+    "upgrade",
+    "модернизировать; модернизация",
+    "We're planning to upgrade our computers this year.",
+    "C1"
+  ],
+  [
+    "key",
+    "вводить (данные), набирать на клавиатуре",
+    "She keyed in her password carefully.",
+    "B1"
+  ],
+  [
+    "mouse",
+    "компьютерная мышь",
+    "Click the button on the mouse to select it.",
+    "A1"
+  ],
+  [
+    "generation",
+    "генерация, выработка (напр. энергии)",
+    "The plant increased its power generation this year.",
+    "B1"
+  ],
+  [
+    "virus",
+    "компьютерный вирус",
+    "The email contained a dangerous virus.",
+    "B2"
+  ],
+  [
+    "degree",
+    "градус",
+    "The temperature dropped by ten degrees overnight.",
+    "B1"
+  ],
+  [
+    "platform",
+    "платформа (техническая/политическая)",
+    "They built a new platform for online learning.",
+    "A2"
+  ],
+  [
+    "instrument",
+    "прибор, инструмент (технический/медицинский)",
+    "The doctor used a special instrument for the test.",
+    "A2"
+  ],
+  [
+    "accelerate",
+    "ускорять(ся)",
+    "The car accelerated quickly on the motorway.",
+    "C1"
+  ],
+  [
+    "acid",
+    "кислотный, едкий",
+    "The acid rain damaged the old stone buildings.",
+    "C1"
+  ],
+  [
+    "activation",
+    "активация",
+    "The device requires activation before first use.",
+    "C1"
+  ],
+  [
+    "alien",
+    "инопланетный",
+    "The film is about an alien invasion.",
+    "C1"
+  ],
+  [
+    "aluminium",
+    "алюминий",
+    "The can is made of recyclable aluminium.",
+    "C1"
+  ],
+  [
+    "apparatus",
+    "аппарат, устройство",
+    "Scientists used complex apparatus to measure the results.",
+    "C1"
+  ],
+  [
+    "array",
+    "массив (данных); ряд, множество",
+    "The lab used an array of sensors to track movement.",
+    "C1"
+  ],
+  [
+    "backup",
+    "резервная копия",
+    "Always keep a backup of your important files.",
+    "C1"
+  ],
+  [
+    "beam",
+    "луч (света)",
+    "The laser produces a very thin beam of light.",
+    "C1"
+  ],
+  [
+    "breakthrough",
+    "прорыв (научный)",
+    "Researchers announced a breakthrough in cancer treatment.",
+    "C1"
+  ],
+  [
+    "broadband",
+    "широкополосный интернет",
+    "They upgraded to faster broadband last month.",
+    "C1"
+  ],
+  [
+    "buffer",
+    "буфер",
+    "The video kept stopping because of a buffer issue.",
+    "C1"
+  ],
+  [
+    "calculation",
+    "расчёт, вычисление",
+    "Her calculation showed the bridge could hold the weight.",
+    "C1"
+  ],
+  [
+    "adaptation",
+    "адаптация (биологическая)",
+    "The animal's fur is an adaptation to the cold.",
+    "C1"
+  ],
+  [
+    "cluster",
+    "кластер, группа",
+    "The stars formed a bright cluster in the sky.",
+    "C1"
+  ],
+  [
+    "compile",
+    "составлять, компилировать",
+    "The programmer compiled the code before testing it.",
+    "C1"
+  ],
+  [
+    "compute",
+    "вычислять",
+    "The software computes the results in seconds.",
+    "C1"
+  ],
+  [
+    "conversion",
+    "преобразование, конверсия",
+    "The conversion from Celsius to Fahrenheit is simple.",
+    "C1"
+  ],
+  [
+    "copper",
+    "медь",
+    "The wires are made of copper.",
+    "C1"
+  ],
+  [
+    "correlate",
+    "соотноситься, коррелировать",
+    "The two sets of results seem to correlate closely.",
+    "C1"
+  ],
+  [
+    "correlation",
+    "корреляция",
+    "There's a clear correlation between diet and health.",
+    "C1"
+  ],
+  [
+    "crude",
+    "сырой (напр. нефть)",
+    "The price of crude oil rose sharply.",
+    "C1"
+  ],
+  [
+    "crystal",
+    "кристалл",
+    "Salt forms tiny crystals as it dries.",
+    "C1"
+  ],
+  [
+    "default",
+    "значение по умолчанию",
+    "The settings were reset to their default.",
+    "C1"
+  ],
+  [
+    "defect",
+    "дефект, изъян",
+    "The car was recalled because of a design defect.",
+    "C1"
+  ],
+  [
+    "density",
+    "плотность",
+    "The metal has a very high density.",
+    "C1"
+  ],
+  [
+    "desktop",
+    "рабочий стол (компьютера)",
+    "She keeps all her files on the desktop.",
+    "C1"
+  ],
+  [
+    "detection",
+    "обнаружение",
+    "The system is designed for early smoke detection.",
+    "C1"
+  ],
+  [
+    "dimension",
+    "измерение, размерность",
+    "The model shows the object in three dimensions.",
+    "C1"
+  ],
+  [
+    "directory",
+    "каталог, директория (файлов)",
+    "Save the file in the main directory.",
+    "C1"
+  ],
+  [
+    "dissolve",
+    "растворять(ся)",
+    "Sugar dissolves quickly in hot water.",
+    "C1"
+  ],
+  [
+    "domain",
+    "домен; область (деятельности)",
+    "She's an expert in the domain of robotics.",
+    "C1"
+  ],
+  [
+    "embed",
+    "встраивать",
+    "You can embed a video directly into the page.",
+    "C1"
+  ],
+  [
+    "empirical",
+    "эмпирический",
+    "The theory is based on empirical evidence.",
+    "C1"
+  ],
+  [
+    "equation",
+    "уравнение",
+    "She solved the equation on the board.",
+    "C1"
+  ],
+  [
+    "evolutionary",
+    "эволюционный",
+    "The study looks at the evolutionary history of birds.",
+    "C1"
+  ],
+  [
+    "experimental",
+    "экспериментальный",
+    "The hospital is testing an experimental treatment.",
+    "C1"
+  ],
+  [
+    "extract",
+    "извлекать",
+    "The software can extract data from the file.",
+    "C1"
+  ],
+  [
+    "filter",
+    "фильтр; фильтровать",
+    "The app lets you filter search results by price.",
+    "C1"
+  ],
+  [
+    "fibre",
+    "волокно (материал)",
+    "The cable uses optical fibre for faster speeds.",
+    "C1"
+  ],
+  [
+    "functional",
+    "функциональный",
+    "The prototype is fully functional now.",
+    "C1"
+  ],
+  [
+    "generic",
+    "общий, родовой",
+    "The report uses a generic term for all devices.",
+    "C1"
+  ],
+  [
+    "gravity",
+    "гравитация",
+    "Gravity pulls objects towards the earth.",
+    "C1"
+  ],
+  [
+    "grid",
+    "сеть, сетка (напр. энергосистема)",
+    "The power grid failed during the storm.",
+    "C1"
+  ],
+  [
+    "hydrogen",
+    "водород",
+    "Water is made of hydrogen and oxygen.",
+    "C1"
+  ],
+  [
+    "insertion",
+    "вставка",
+    "The tool allows easy insertion of new data.",
+    "C1"
+  ],
+  [
+    "interactive",
+    "интерактивный",
+    "The museum has an interactive science exhibit.",
+    "C1"
+  ],
+  [
+    "linear",
+    "линейный",
+    "The graph shows a linear increase over time.",
+    "C1"
+  ],
+  [
+    "log",
+    "журнал (записей); регистрировать",
+    "The system keeps a log of every login.",
+    "C1"
+  ],
+  [
+    "loop",
+    "цикл, петля",
+    "The programme runs the same loop ten times.",
+    "C1"
+  ],
+  [
+    "magnetic",
+    "магнитный",
+    "The compass needle responds to the magnetic field.",
+    "C1"
+  ],
+  [
+    "magnitude",
+    "величина, масштаб",
+    "The earthquake had a magnitude of 6.5.",
+    "C1"
+  ],
+  [
+    "mathematical",
+    "математический",
+    "She developed a mathematical model to predict growth.",
+    "C1"
+  ],
+  [
+    "minute",
+    "мельчайший, крошечный",
+    "The scientists found minute traces of the chemical.",
+    "C1"
+  ],
+  [
+    "modification",
+    "модификация",
+    "The engineers made a small modification to the design.",
+    "C1"
+  ],
+  [
+    "optical",
+    "оптический",
+    "The telescope uses advanced optical lenses.",
+    "C1"
+  ],
+  [
+    "parameter",
+    "параметр",
+    "You can change the parameters in the settings menu.",
+    "C1"
+  ],
+  [
+    "patent",
+    "патент",
+    "The company filed a patent for the new device.",
+    "C1"
+  ],
+  [
+    "pioneer",
+    "первопроходец; впервые внедрять",
+    "She was a pioneer in the field of genetics.",
+    "C1"
+  ],
+  [
+    "pipeline",
+    "трубопровод",
+    "The oil is transported through a long pipeline.",
+    "C1"
+  ],
+  [
+    "net",
+    "сеть, сетка",
+    "The device connects to your home network.",
+    "C1"
+  ],
+  [
+    "patch",
+    "патч, обновление (ПО)",
+    "The company released a patch to fix the bug.",
+    "C1"
+  ],
+  [
+    "plug",
+    "штекер, разъём",
+    "Plug the charger into the socket.",
+    "C1"
+  ],
+  [
+    "precision",
+    "точность",
+    "The instrument measures with great precision.",
+    "C1"
+  ],
+  [
+    "pump",
+    "насос; качать",
+    "The heart pumps blood around the body.",
+    "C1"
+  ],
+  [
+    "ratio",
+    "соотношение",
+    "The ratio of students to teachers is quite low.",
+    "C1"
+  ],
+  [
+    "reliability",
+    "надёжность",
+    "The new engine improved the car's reliability.",
+    "C1"
+  ],
+  [
+    "residue",
+    "остаток, осадок",
+    "There was a strange residue left on the glass.",
+    "C1"
+  ],
+  [
+    "retrieve",
+    "извлекать, восстанавливать (данные)",
+    "The system can retrieve deleted files.",
+    "C1"
+  ],
+  [
+    "rotate",
+    "вращать(ся)",
+    "The earth rotates once every twenty-four hours.",
+    "C1"
+  ],
+  [
+    "rotation",
+    "вращение",
+    "The blades complete one rotation per second.",
+    "C1"
+  ],
+  [
+    "spam",
+    "спам",
+    "Her inbox was full of spam emails.",
+    "C1"
+  ],
+  [
+    "specification",
+    "спецификация, техническое требование",
+    "The device meets all the technical specifications.",
+    "C1"
+  ],
+  [
+    "specimen",
+    "образец",
+    "The lab collected a small specimen for testing.",
+    "C1"
+  ],
+  [
+    "spectrum",
+    "спектр",
+    "Visible light is only part of the electromagnetic spectrum.",
+    "C1"
+  ],
+  [
+    "statistical",
+    "статистический",
+    "The results were checked using statistical analysis.",
+    "C1"
+  ],
+  [
+    "storage",
+    "хранилище, память (компьютера)",
+    "This laptop has plenty of storage space.",
+    "C1"
+  ],
+  [
+    "synthesis",
+    "синтез",
+    "The lab specializes in the synthesis of new materials.",
+    "C1"
+  ],
+  [
+    "thread",
+    "нить, ветка обсуждения (онлайн)",
+    "The forum thread had over a hundred replies.",
+    "C1"
+  ],
+  [
+    "transmission",
+    "передача (сигнала)",
+    "The signal transmission was interrupted by the storm.",
+    "C1"
+  ],
+  [
+    "transparent",
+    "прозрачный",
+    "The screen is made of transparent glass.",
+    "C1"
+  ],
+  [
+    "variable",
+    "переменная; изменчивый",
+    "The experiment had too many variables to control.",
+    "C1"
+  ],
+  [
+    "verify",
+    "проверять, подтверждать",
+    "Please verify your email address to continue.",
+    "C1"
+  ],
+  [
+    "width",
+    "ширина",
+    "You can adjust the width of the column.",
+    "C1"
+  ],
+  [
+    "probe",
+    "зонд (космический)",
+    "The space probe sent back new images of Mars.",
+    "C1"
+  ],
+  [
+    "quest",
+    "квест (в игре)",
+    "The video game involves several different quests.",
+    "C1"
+  ],
+  [
+    "render",
+    "визуализировать, рендерить",
+    "It took hours for the computer to render the video.",
+    "C1"
+  ],
+  [
+    "rod",
+    "стержень (техн.)",
+    "The machine has a metal rod inside the mechanism.",
+    "C1"
+  ],
+  [
+    "sound",
+    "звук",
+    "The bridge is structurally sound after the repairs.",
+    "C1"
+  ],
+  [
+    "strain",
+    "штамм (вируса)",
+    "Scientists identified a new strain of the virus.",
+    "C1"
+  ],
+  [
+    "advance",
+    "достижение, прогресс; продвигаться",
+    "Medical advances have improved life expectancy.",
+    "B2"
+  ],
+  [
+    "angle",
+    "угол",
+    "Measure the angle between the two lines.",
+    "B2"
+  ],
+  [
+    "cable",
+    "кабель",
+    "The cable connects the laptop to the monitor.",
+    "B2"
+  ],
+  [
+    "calculate",
+    "вычислять",
+    "The software calculates the total automatically.",
+    "B2"
+  ],
+  [
+    "chart",
+    "диаграмма, график",
+    "The results are charted on the graph below.",
+    "B2"
+  ],
+  [
+    "component",
+    "компонент",
+    "Each component of the engine was tested separately.",
+    "B2"
+  ],
+  [
+    "convert",
+    "преобразовывать",
+    "The app converts the file to a different format.",
+    "B2"
+  ],
+  [
+    "core",
+    "ядро; центральный",
+    "The processor has four cores.",
+    "B2"
+  ],
+  [
+    "current",
+    "течение, ток",
+    "The wire carries an electric current.",
+    "B2"
+  ],
+  [
+    "curve",
+    "кривая; изгибаться",
+    "The graph shows a steady curve upwards.",
+    "B2"
+  ],
+  [
+    "detect",
+    "обнаруживать",
+    "The sensor can detect even small movements.",
+    "B2"
+  ],
+  [
+    "disc",
+    "диск",
+    "He inserted the disc into the drive.",
+    "B2"
+  ],
+  [
+    "display",
+    "дисплей; демонстрировать",
+    "The screen displays the temperature in real time.",
+    "B2"
+  ],
+  [
+    "enable",
+    "позволять, давать возможность",
+    "The upgrade enables faster processing.",
+    "B2"
+  ],
+  [
+    "flash",
+    "вспышка (света); сверкать",
+    "The camera's flash lit up the dark room.",
+    "B2"
+  ],
+  [
+    "frequency",
+    "частота",
+    "The radio operates at a fixed frequency.",
+    "B2"
+  ],
+  [
+    "function",
+    "функционировать",
+    "The new system functions much faster than the old one.",
+    "B2"
+  ],
+  [
+    "mass",
+    "масса",
+    "Scientists measured the mass of the object.",
+    "B2"
+  ],
+  [
+    "measurement",
+    "измерение",
+    "Take an accurate measurement before you cut the wood.",
+    "B2"
+  ],
+  [
+    "modify",
+    "модифицировать",
+    "Engineers modified the design to reduce weight.",
+    "B2"
+  ],
+  [
+    "monitor",
+    "монитор; отслеживать",
+    "She works at a desk with two monitors.",
+    "B2"
+  ],
+  [
+    "negative",
+    "негатив (фото)",
+    "He kept the old photo negatives in a box.",
+    "B2"
+  ],
+  [
+    "observation",
+    "наблюдение",
+    "The scientist recorded her observations carefully.",
+    "B2"
+  ],
+  [
+    "observe",
+    "наблюдать",
+    "Researchers observed the animals for several months.",
+    "B2"
+  ],
+  [
+    "phenomenon",
+    "феномен, явление",
+    "Lightning is a fascinating natural phenomenon.",
+    "B2"
+  ],
+  [
+    "power",
+    "обеспечивать энергией",
+    "Solar panels power the whole house.",
+    "B2"
+  ],
+  [
+    "process",
+    "обрабатывать (данные)",
+    "The computer can process huge amounts of data quickly.",
+    "B2"
+  ],
+  [
+    "rubber",
+    "резина; резиновый",
+    "The tyres are made of rubber.",
+    "B2"
+  ],
+  [
+    "scale",
+    "масштаб, шкала",
+    "The map is drawn to a scale of one to a thousand.",
+    "B2"
+  ],
+  [
+    "slide",
+    "слайд (презентации)",
+    "He clicked to the next slide in the presentation.",
+    "B2"
+  ],
+  [
+    "steel",
+    "сталь",
+    "The bridge is made of steel.",
+    "B2"
+  ],
+  [
+    "switch",
+    "выключатель",
+    "Flip the switch to turn on the light.",
+    "B2"
+  ],
+  [
+    "volume",
+    "объём, громкость",
+    "Turn down the volume on the TV.",
+    "B2"
+  ],
+  [
+    "wire",
+    "провод",
+    "The lamp needs a new wire.",
+    "B2"
+  ],
+  [
+    "absorb",
+    "поглощать, впитывать",
+    "The material absorbs sound well.",
+    "B2"
+  ],
+  [
+    "accuracy",
+    "точность",
+    "The device measures temperature with great accuracy.",
+    "B2"
+  ],
+  [
+    "acid",
+    "кислота",
+    "The battery contains a type of acid.",
+    "B2"
+  ],
+  [
+    "activate",
+    "активировать",
+    "Press the button to activate the alarm.",
+    "B2"
+  ],
+  [
+    "alien",
+    "инопланетянин",
+    "The film is about aliens invading earth.",
+    "B2"
+  ],
+  [
+    "audio",
+    "аудио, звуковой",
+    "The video has poor audio quality.",
+    "B2"
+  ],
+  [
+    "biological",
+    "биологический",
+    "The lab studies biological samples.",
+    "B2"
+  ],
+  [
+    "bug",
+    "баг, ошибка (в программе)",
+    "The update fixed several bugs in the app.",
+    "B2"
+  ],
+  [
+    "compound",
+    "соединение (химическое)",
+    "Water is a compound made of hydrogen and oxygen.",
+    "B2"
+  ],
+  [
+    "delete",
+    "удалять",
+    "She deleted the file by mistake.",
+    "B2"
+  ],
+  [
+    "dot",
+    "точка",
+    "Connect the dots to complete the picture.",
+    "B2"
+  ],
+  [
+    "evolve",
+    "эволюционировать, развиваться",
+    "Technology has evolved rapidly over the last decade.",
+    "B2"
+  ],
+  [
+    "format",
+    "формат",
+    "The document is saved in PDF format.",
+    "B2"
+  ],
+  [
+    "formation",
+    "формирование, образование",
+    "Scientists study the formation of stars.",
+    "B2"
+  ],
+  [
+    "graphic",
+    "графический",
+    "The app has a simple graphic interface.",
+    "B2"
+  ],
+  [
+    "graphics",
+    "графика",
+    "The new game has amazing graphics.",
+    "B2"
+  ],
+  [
+    "icon",
+    "иконка",
+    "Click the icon to open the app.",
+    "B2"
+  ],
+  [
+    "index",
+    "индекс, показатель",
+    "You can look up the term in the index.",
+    "B2"
+  ],
+  [
+    "insert",
+    "вставлять",
+    "Insert the card into the machine.",
+    "B2"
+  ],
+  [
+    "lens",
+    "линза, объектив",
+    "The camera has a wide-angle lens.",
+    "B2"
+  ],
+  [
+    "mode",
+    "режим (работы устройства)",
+    "Switch the phone to silent mode.",
+    "B2"
+  ],
+  [
+    "motion",
+    "движение",
+    "The sensor detects motion in the room.",
+    "B2"
+  ],
+  [
+    "parallel",
+    "параллельный; параллель",
+    "The two roads run parallel to each other.",
+    "B2"
+  ],
+  [
+    "password",
+    "пароль",
+    "Choose a strong password for your account.",
+    "B2"
+  ],
+  [
+    "programming",
+    "программирование",
+    "She's studying computer programming at university.",
+    "B2"
+  ],
+  [
+    "radiation",
+    "радиация",
+    "Workers wore protective suits against radiation.",
+    "B2"
+  ],
+  [
+    "rocket",
+    "ракета",
+    "The rocket launched successfully into space.",
+    "B2"
+  ],
+  [
+    "steam",
+    "пар",
+    "Steam rose from the hot cup of tea.",
+    "B2"
+  ],
+  [
+    "technological",
+    "технологический",
+    "The company invests heavily in technological research.",
+    "B2"
+  ],
+  [
+    "trace",
+    "отслеживать, выявлять",
+    "Police traced the call to a nearby address.",
+    "B2"
+  ],
+  [
+    "transmit",
+    "передавать (сигнал, болезнь)",
+    "The satellite transmits data back to earth.",
+    "B2"
+  ],
+  [
+    "average",
+    "вычислять среднее значение",
+    "The app averages your daily steps over a week.",
+    "B1"
+  ],
+  [
+    "chemical",
+    "химическое вещество; химический",
+    "The factory produces a range of chemicals.",
+    "B1"
+  ],
+  [
+    "click",
+    "щёлкать (мышью); клик",
+    "Click the icon to open the file.",
+    "B1"
+  ],
+  [
+    "element",
+    "элемент",
+    "Oxygen is a chemical element.",
+    "B1"
+  ],
+  [
+    "connection",
+    "соединение (интернет)",
+    "The wifi connection kept dropping.",
+    "B1"
+  ],
+  [
+    "access",
+    "доступ; получать доступ",
+    "Staff can access the building with a key card.",
+    "B1"
+  ],
+  [
+    "file",
+    "файл",
+    "She saved the file on her desktop.",
+    "B1"
+  ],
+  [
+    "force",
+    "сила (физическая)",
+    "Gravity is a force that pulls objects down.",
+    "B1"
+  ],
+  [
+    "function",
+    "функция",
+    "The button has a simple function.",
+    "B1"
+  ],
+  [
+    "IT",
+    "информационные технологии",
+    "He works in the IT department.",
+    "B1"
+  ],
+  [
+    "keyboard",
+    "клавиатура",
+    "One of the keys on the keyboard is broken.",
+    "B1"
+  ],
+  [
+    "layer",
+    "слой",
+    "The paint needs another layer to look even.",
+    "B1"
+  ],
+  [
+    "liquid",
+    "жидкость; жидкий",
+    "Water changes from liquid to solid when frozen.",
+    "B1"
+  ],
+  [
+    "measure",
+    "измерять; мера",
+    "Use a ruler to measure the length.",
+    "B1"
+  ],
+  [
+    "iron",
+    "железо (металл)",
+    "The tool is made from a mix of iron and carbon.",
+    "B1"
+  ],
+  [
+    "lead",
+    "свинец",
+    "Old pipes were often made from lead.",
+    "B1"
+  ],
+  [
+    "nuclear",
+    "ядерный",
+    "The country has several nuclear power stations.",
+    "B1"
+  ],
+  [
+    "scientific",
+    "научный",
+    "There's no scientific evidence to support the claim.",
+    "B1"
+  ],
+  [
+    "solid",
+    "твёрдое тело; твёрдый",
+    "Ice is water in its solid form.",
+    "B1"
+  ],
+  [
+    "statistic",
+    "статистический показатель",
+    "The report includes a shocking statistic about pollution.",
+    "B1"
+  ],
+  [
+    "store",
+    "хранить (данные)",
+    "The app stores your data securely.",
+    "B1"
+  ],
+  [
+    "substance",
+    "вещество",
+    "The lab tested an unknown substance.",
+    "B1"
+  ],
+  [
+    "switch",
+    "переключать",
+    "You can switch between the two modes.",
+    "B1"
+  ],
+  [
+    "type",
+    "печатать (на клавиатуре)",
+    "She types very fast on her laptop.",
+    "B1"
+  ],
+  [
+    "version",
+    "версия (программы)",
+    "Make sure you've installed the latest version.",
+    "B1"
+  ],
+  [
+    "remote",
+    "дистанционный (пульт управления)",
+    "Point the remote control at the TV.",
+    "B1"
+  ],
+  [
+    "scan",
+    "сканировать (документ)",
+    "Scan the document and email it to me.",
+    "B1"
+  ],
+  [
+    "string",
+    "строка (текста, в программировании)",
+    "The programme searches for a specific string of text.",
+    "B1"
+  ],
+  [
+    "tube",
+    "трубка (техническая)",
+    "The liquid flows through a thin tube.",
+    "B1"
+  ],
+  [
+    "camera",
+    "фотоаппарат, камера",
+    "She took a photo with her new camera.",
+    "A1"
+  ],
+  [
+    "chart",
+    "диаграмма, график",
+    "The chart shows the results of the survey.",
+    "A1"
+  ],
+  [
+    "model",
+    "модель, макет",
+    "Engineers built a small model of the bridge.",
+    "A1"
+  ],
+  [
+    "sound",
+    "звук",
+    "The alarm made a loud sound.",
+    "A1"
+  ],
+  [
+    "space",
+    "космос",
+    "Scientists are studying life in space.",
+    "A1"
+  ],
+  [
+    "connect",
+    "соединять, подключать",
+    "Connect your phone to the wifi network.",
+    "A2"
+  ],
+  [
+    "electrical",
+    "электрический",
+    "There's an electrical fault in the wiring.",
+    "A2"
+  ],
+  [
+    "error",
+    "ошибка (компьютерная)",
+    "The system showed an error message.",
+    "A2"
+  ],
+  [
+    "button",
+    "кнопка (на устройстве)",
+    "Press the green button to start.",
+    "A2"
+  ],
+  [
+    "link",
+    "ссылка (интернет); связывать",
+    "Click the link to open the website.",
+    "A2"
+  ],
+  [
+    "feature",
+    "функция, характеристика (устройства)",
+    "The new phone has a great camera feature.",
+    "A2"
+  ],
+  [
+    "image",
+    "изображение (файл)",
+    "The website loaded a large image file.",
+    "A2"
+  ],
+  [
+    "metal",
+    "металл",
+    "The bridge is made from strong metal.",
+    "A2"
+  ],
+  [
+    "mobile",
+    "мобильный телефон",
+    "She checked her mobile for messages.",
+    "A2"
+  ],
+  [
+    "plastic",
+    "пластик; пластиковый",
+    "The toy is made of coloured plastic.",
+    "A2"
+  ],
+  [
+    "print",
+    "печатать (на принтере)",
+    "Can you print this document for me?",
+    "A2"
+  ],
+  [
+    "memory",
+    "память (компьютера)",
+    "This laptop doesn't have much memory left.",
+    "A2"
+  ],
+  [
+    "power",
+    "электроэнергия, мощность",
+    "The storm cut off the power for hours.",
+    "A2"
+  ],
+  [
+    "printer",
+    "принтер",
+    "The office printer is out of paper again.",
+    "A2"
+  ],
+  [
+    "screen",
+    "экран",
+    "The phone's screen cracked when it fell.",
+    "A2"
+  ],
+  [
+    "save",
+    "сохранять (файл)",
+    "Remember to save your work before you close it.",
+    "A2"
+  ],
+  [
+    "search",
+    "поиск; искать",
+    "Type your question into the search bar.",
+    "A2"
+  ],
+  [
+    "site",
+    "сайт",
+    "The website's site was down this morning.",
+    "A2"
+  ],
+  [
+    "source",
+    "источник (энергии, данных)",
+    "The country relies on renewable energy sources.",
+    "A2"
+  ],
+  [
+    "speaker",
+    "динамик, колонка",
+    "He connected his phone to a wireless speaker.",
+    "A2"
+  ],
+  [
+    "tool",
+    "инструмент",
+    "This app is a useful tool for learning languages.",
+    "A2"
+  ],
+  [
+    "user",
+    "пользователь",
+    "The app now has over a million users.",
+    "A2"
+  ],
+  [
+    "web",
+    "веб, интернет",
+    "You can find lots of information on the web.",
+    "A2"
+  ]
+]

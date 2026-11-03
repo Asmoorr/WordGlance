@@ -1,0 +1,6806 @@
+[
+  [
+    "afraid",
+    "испуганный, боящийся",
+    "She's afraid of spiders.",
+    "A1"
+  ],
+  [
+    "angry",
+    "злой, сердитый",
+    "He was angry about the delay.",
+    "A1"
+  ],
+  [
+    "bored",
+    "скучающий",
+    "The children got bored during the long car ride.",
+    "A1"
+  ],
+  [
+    "boring",
+    "скучный",
+    "The lecture was so boring I almost fell asleep.",
+    "A1"
+  ],
+  [
+    "excited",
+    "взволнованный, воодушевлённый",
+    "She's excited about her trip to Japan.",
+    "A1"
+  ],
+  [
+    "exciting",
+    "захватывающий",
+    "It was an exciting football match.",
+    "A1"
+  ],
+  [
+    "fact",
+    "факт",
+    "It's a fact that the earth is round.",
+    "A1"
+  ],
+  [
+    "friendly",
+    "дружелюбный",
+    "Everyone at the office is very friendly.",
+    "A1"
+  ],
+  [
+    "funny",
+    "смешной, забавный",
+    "He told a really funny joke.",
+    "A1"
+  ],
+  [
+    "happy",
+    "счастливый, довольный",
+    "She looked happy when she saw the results.",
+    "A1"
+  ],
+  [
+    "hate",
+    "ненавидеть",
+    "I hate waiting in long queues.",
+    "A1"
+  ],
+  [
+    "hope",
+    "надеяться",
+    "We hope to see you again soon.",
+    "A1"
+  ],
+  [
+    "idea",
+    "идея",
+    "That's a great idea for the project.",
+    "A1"
+  ],
+  [
+    "kind (type)",
+    "вид, тип, сорт",
+    "What kind of music do you like?",
+    "A1"
+  ],
+  [
+    "love",
+    "любовь; любить",
+    "She fell in love with the city instantly.",
+    "A1"
+  ],
+  [
+    "meaning",
+    "значение, смысл",
+    "I didn't understand the meaning of the word.",
+    "A1"
+  ],
+  [
+    "opinion",
+    "мнение",
+    "In my opinion, the film was too long.",
+    "A1"
+  ],
+  [
+    "reason",
+    "причина",
+    "There's no reason to worry about it.",
+    "A1"
+  ],
+  [
+    "sad",
+    "грустный",
+    "The ending of the film made her sad.",
+    "A1"
+  ],
+  [
+    "tired",
+    "уставший",
+    "He was too tired to cook dinner.",
+    "A1"
+  ],
+  [
+    "active",
+    "активный",
+    "She stays active by cycling every day.",
+    "A2"
+  ],
+  [
+    "behave",
+    "вести себя",
+    "The children behaved well during the trip.",
+    "A2"
+  ],
+  [
+    "behaviour",
+    "поведение",
+    "His behaviour surprised everyone.",
+    "A2"
+  ],
+  [
+    "careful",
+    "осторожный, внимательный",
+    "Be careful when you cross the road.",
+    "A2"
+  ],
+  [
+    "character",
+    "характер; персонаж",
+    "She has a strong, independent character.",
+    "A2"
+  ],
+  [
+    "clever",
+    "умный, сообразительный",
+    "That was a clever solution to the problem.",
+    "A2"
+  ],
+  [
+    "creative",
+    "творческий, креативный",
+    "He's very creative when it comes to design.",
+    "A2"
+  ],
+  [
+    "fear",
+    "страх",
+    "She overcame her fear of flying.",
+    "A2"
+  ],
+  [
+    "hope",
+    "надежда",
+    "There's still hope that they'll find a cure.",
+    "A2"
+  ],
+  [
+    "knowledge",
+    "знание",
+    "His knowledge of history is impressive.",
+    "A2"
+  ],
+  [
+    "lazy",
+    "ленивый",
+    "Don't be lazy, finish your homework.",
+    "A2"
+  ],
+  [
+    "nervous",
+    "нервный, взволнованный",
+    "She felt nervous before the interview.",
+    "A2"
+  ],
+  [
+    "personality",
+    "личность, характер",
+    "He has a warm, easy-going personality.",
+    "A2"
+  ],
+  [
+    "pleased",
+    "довольный",
+    "We're pleased with the results.",
+    "A2"
+  ],
+  [
+    "polite",
+    "вежливый",
+    "It's polite to say thank you.",
+    "A2"
+  ],
+  [
+    "possibility",
+    "возможность",
+    "There's a possibility of rain tomorrow.",
+    "A2"
+  ],
+  [
+    "purpose",
+    "цель, назначение",
+    "What's the purpose of this meeting?",
+    "A2"
+  ],
+  [
+    "rude",
+    "грубый, невежливый",
+    "It was rude of him to interrupt.",
+    "A2"
+  ],
+  [
+    "scared",
+    "напуганный",
+    "She was scared of the dark as a child.",
+    "A2"
+  ],
+  [
+    "scary",
+    "страшный, пугающий",
+    "That was a really scary film.",
+    "A2"
+  ],
+  [
+    "serious",
+    "серьёзный",
+    "This is a serious problem that needs attention.",
+    "A2"
+  ],
+  [
+    "stupid",
+    "глупый",
+    "It was a stupid mistake to make.",
+    "A2"
+  ],
+  [
+    "surprised",
+    "удивлённый",
+    "I was surprised to see him there.",
+    "A2"
+  ],
+  [
+    "surprising",
+    "удивительный",
+    "The result was quite surprising.",
+    "A2"
+  ],
+  [
+    "thought",
+    "мысль",
+    "She shared her thoughts on the plan.",
+    "A2"
+  ],
+  [
+    "worried",
+    "обеспокоенный",
+    "He's worried about his exam results.",
+    "A2"
+  ],
+  [
+    "worry",
+    "беспокоиться, волноваться",
+    "Don't worry, everything will be fine.",
+    "A2"
+  ],
+  [
+    "ambitious",
+    "амбициозный, целеустремлённый",
+    "She's ambitious and wants to run her own company.",
+    "B1"
+  ],
+  [
+    "attitude",
+    "отношение, настрой",
+    "He has a positive attitude towards challenges.",
+    "B1"
+  ],
+  [
+    "belief",
+    "вера, убеждение",
+    "It's her belief that hard work always pays off.",
+    "B1"
+  ],
+  [
+    "brave",
+    "храбрый",
+    "It was brave of him to speak up.",
+    "B1"
+  ],
+  [
+    "calm",
+    "спокойный; успокаивать; спокойствие",
+    "She stayed calm during the emergency.",
+    "B1"
+  ],
+  [
+    "careless",
+    "небрежный, неосторожный",
+    "The careless driver caused an accident.",
+    "B1"
+  ],
+  [
+    "cheerful",
+    "жизнерадостный, весёлый",
+    "She always seems cheerful in the morning.",
+    "B1"
+  ],
+  [
+    "confident",
+    "уверенный (в себе)",
+    "He felt confident about the exam.",
+    "B1"
+  ],
+  [
+    "cruel",
+    "жестокий",
+    "It was cruel to laugh at him.",
+    "B1"
+  ],
+  [
+    "disappointed",
+    "разочарованный",
+    "She was disappointed with her grade.",
+    "B1"
+  ],
+  [
+    "disappointing",
+    "разочаровывающий",
+    "The film's ending was disappointing.",
+    "B1"
+  ],
+  [
+    "embarrassed",
+    "смущённый",
+    "He felt embarrassed after tripping in public.",
+    "B1"
+  ],
+  [
+    "embarrassing",
+    "смущающий, неловкий",
+    "That was an embarrassing mistake to make in front of everyone.",
+    "B1"
+  ],
+  [
+    "emotion",
+    "эмоция, чувство",
+    "She couldn't hide her emotion at the news.",
+    "B1"
+  ],
+  [
+    "fear",
+    "бояться, опасаться",
+    "Many people fear public speaking.",
+    "B1"
+  ],
+  [
+    "generous",
+    "щедрый",
+    "It was very generous of you to help us.",
+    "B1"
+  ],
+  [
+    "gentle",
+    "мягкий, нежный",
+    "He spoke in a gentle, reassuring voice.",
+    "B1"
+  ],
+  [
+    "grateful",
+    "благодарный",
+    "I'm grateful for all your support.",
+    "B1"
+  ],
+  [
+    "hate",
+    "ненависть",
+    "The film explores themes of love and hate.",
+    "B1"
+  ],
+  [
+    "honest",
+    "честный",
+    "Please be honest with me about the problem.",
+    "B1"
+  ],
+  [
+    "importance",
+    "важность",
+    "She stressed the importance of sleep.",
+    "B1"
+  ],
+  [
+    "keen",
+    "увлечённый, страстно желающий",
+    "He's keen to start the new job.",
+    "B1"
+  ],
+  [
+    "kind (caring)",
+    "добрый",
+    "It was very kind of you to help.",
+    "B1"
+  ],
+  [
+    "mood",
+    "настроение",
+    "He's been in a bad mood all day.",
+    "B1"
+  ],
+  [
+    "pleasure",
+    "удовольствие",
+    "It was a pleasure to meet you.",
+    "B1"
+  ],
+  [
+    "proud",
+    "гордый",
+    "Her parents are very proud of her.",
+    "B1"
+  ],
+  [
+    "sensible",
+    "благоразумный, разумный",
+    "It's sensible to save some money each month.",
+    "B1"
+  ],
+  [
+    "shy",
+    "застенчивый",
+    "He was too shy to ask her name.",
+    "B1"
+  ],
+  [
+    "truth",
+    "правда, истина",
+    "Tell me the truth about what happened.",
+    "B1"
+  ],
+  [
+    "worry",
+    "беспокойство, тревога",
+    "Money is his biggest worry right now.",
+    "B1"
+  ],
+  [
+    "anxious",
+    "тревожный, беспокоящийся",
+    "She felt anxious before the interview.",
+    "B2"
+  ],
+  [
+    "ashamed",
+    "пристыжённый",
+    "He was ashamed of what he had said.",
+    "B2"
+  ],
+  [
+    "characteristic",
+    "характерная черта; характерный",
+    "Curiosity is one of her main characteristics.",
+    "B2"
+  ],
+  [
+    "courage",
+    "смелость, мужество",
+    "It took a lot of courage to speak up.",
+    "B2"
+  ],
+  [
+    "delight",
+    "радовать; восторг, удовольствие",
+    "The children watched the fireworks with delight.",
+    "B2"
+  ],
+  [
+    "depressed",
+    "подавленный, в депрессии",
+    "He felt depressed after losing his job.",
+    "B2"
+  ],
+  [
+    "depressing",
+    "удручающий",
+    "The news was pretty depressing to hear.",
+    "B2"
+  ],
+  [
+    "desperate",
+    "отчаянный",
+    "She was desperate to find a solution.",
+    "B2"
+  ],
+  [
+    "dishonest",
+    "нечестный",
+    "It would be dishonest to hide the truth.",
+    "B2"
+  ],
+  [
+    "emotional",
+    "эмоциональный",
+    "It was an emotional farewell at the airport.",
+    "B2"
+  ],
+  [
+    "enthusiasm",
+    "энтузиазм",
+    "He joined the project with great enthusiasm.",
+    "B2"
+  ],
+  [
+    "enthusiastic",
+    "полный энтузиазма",
+    "She's very enthusiastic about the new plan.",
+    "B2"
+  ],
+  [
+    "impatient",
+    "нетерпеливый",
+    "He became impatient waiting in the queue.",
+    "B2"
+  ],
+  [
+    "joy",
+    "радость",
+    "The birth of their child brought them great joy.",
+    "B2"
+  ],
+  [
+    "relief",
+    "облегчение",
+    "It was a relief to hear the good news.",
+    "B2"
+  ],
+  [
+    "satisfied",
+    "удовлетворённый",
+    "She was satisfied with her performance.",
+    "B2"
+  ],
+  [
+    "shame",
+    "стыд",
+    "It's a shame you couldn't come to the party.",
+    "B2"
+  ],
+  [
+    "sincere",
+    "искренний",
+    "He gave a sincere apology.",
+    "B2"
+  ],
+  [
+    "sympathy",
+    "сочувствие",
+    "She expressed her sympathy for the family.",
+    "B2"
+  ],
+  [
+    "wise",
+    "мудрый",
+    "It was a wise decision to save the money.",
+    "B2"
+  ],
+  [
+    "anxiety",
+    "тревога, беспокойство",
+    "He suffers from anxiety before big events.",
+    "B2"
+  ],
+  [
+    "curious",
+    "любопытный",
+    "The child was curious about everything around her.",
+    "B2"
+  ],
+  [
+    "depression",
+    "депрессия",
+    "She was treated for depression last year.",
+    "B2"
+  ],
+  [
+    "furious",
+    "разъярённый",
+    "He was furious when he found out.",
+    "B2"
+  ],
+  [
+    "loyal",
+    "верный, преданный",
+    "The dog stayed loyal to its owner.",
+    "B2"
+  ],
+  [
+    "miserable",
+    "несчастный, жалкий",
+    "The weather made everyone feel miserable.",
+    "B2"
+  ],
+  [
+    "modest",
+    "скромный",
+    "He's very modest about his achievements.",
+    "B2"
+  ],
+  [
+    "optimistic",
+    "оптимистичный",
+    "She's optimistic about the future.",
+    "B2"
+  ],
+  [
+    "pride",
+    "гордость",
+    "He felt pride at his daughter's graduation.",
+    "B2"
+  ],
+  [
+    "probability",
+    "вероятность",
+    "There's a high probability of success.",
+    "B2"
+  ],
+  [
+    "satisfaction",
+    "удовлетворение",
+    "She smiled with satisfaction at the finished work.",
+    "B2"
+  ],
+  [
+    "sympathetic",
+    "сочувствующий",
+    "The doctor was very sympathetic to his concerns.",
+    "B2"
+  ],
+  [
+    "compassion",
+    "сострадание",
+    "The nurses treated every patient with compassion.",
+    "C1"
+  ],
+  [
+    "eager",
+    "страстно желающий, нетерпеливый",
+    "She was eager to start her new job.",
+    "C1"
+  ],
+  [
+    "frustrated",
+    "разочарованный, раздосадованный",
+    "He felt frustrated by the slow internet.",
+    "C1"
+  ],
+  [
+    "frustrating",
+    "разочаровывающий, раздражающий",
+    "It's frustrating when the bus is late every day.",
+    "C1"
+  ],
+  [
+    "frustration",
+    "разочарование, досада",
+    "She sighed in frustration at the traffic.",
+    "C1"
+  ],
+  [
+    "guilt",
+    "вина, чувство вины",
+    "He felt guilt for forgetting her birthday.",
+    "C1"
+  ],
+  [
+    "humble",
+    "скромный",
+    "Despite his success, he remains humble.",
+    "C1"
+  ],
+  [
+    "loyalty",
+    "верность, преданность",
+    "The company values loyalty in its employees.",
+    "C1"
+  ],
+  [
+    "thoughtful",
+    "заботливый; задумчивый",
+    "That was a thoughtful gift to choose.",
+    "C1"
+  ],
+  [
+    "bear (deal with)",
+    "терпеть, выносить, переносить",
+    "I can't bear loud noises early in the morning.",
+    "B2"
+  ],
+  [
+    "figure",
+    "подсчитывать; полагать, считать",
+    "I figured it would rain, so I brought an umbrella.",
+    "B2"
+  ],
+  [
+    "shock",
+    "шок, потрясение; шокировать",
+    "The news came as a real shock to everyone.",
+    "B2"
+  ],
+  [
+    "patient",
+    "терпеливый",
+    "You need to be patient while the file uploads.",
+    "B2"
+  ],
+  [
+    "fair",
+    "справедливый",
+    "It wasn't fair that he got blamed for everything.",
+    "A2"
+  ],
+  [
+    "plain",
+    "очевидный, ясный",
+    "It was plain that she didn't agree with the plan.",
+    "B2"
+  ],
+  [
+    "hurt",
+    "обиженный, задетый (эмоционально)",
+    "She looked hurt when he forgot her name.",
+    "A2"
+  ],
+  [
+    "nerve",
+    "смелость, наглость",
+    "He had the nerve to ask for a raise.",
+    "B1"
+  ],
+  [
+    "key",
+    "ключевой, важный",
+    "Trust is a key factor in any relationship.",
+    "A1"
+  ],
+  [
+    "discipline",
+    "дисциплина, порядок (поведение)",
+    "The teacher struggled to maintain discipline in class.",
+    "B2"
+  ],
+  [
+    "account",
+    "объяснять; составлять (долю)",
+    "How do you account for the missing money?",
+    "B2"
+  ],
+  [
+    "firm",
+    "твёрдый, решительный",
+    "He gave a firm answer and wouldn't change his mind.",
+    "B2"
+  ],
+  [
+    "desert",
+    "покидать, бросать (кого-л.)",
+    "His courage deserted him at the last moment.",
+    "B2"
+  ],
+  [
+    "novel",
+    "новый, оригинальный (об идее)",
+    "It was a novel approach to an old problem.",
+    "C1"
+  ],
+  [
+    "goal",
+    "цель (в жизни)",
+    "Her main goal this year is to learn Spanish.",
+    "A2"
+  ],
+  [
+    "absurd",
+    "абсурдный",
+    "It seemed absurd to argue over something so small.",
+    "C1"
+  ],
+  [
+    "acceptance",
+    "принятие, признание",
+    "Her acceptance of the award was met with applause.",
+    "C1"
+  ],
+  [
+    "accomplishment",
+    "достижение",
+    "Finishing the marathon was a huge accomplishment.",
+    "C1"
+  ],
+  [
+    "adhere",
+    "придерживаться (правил)",
+    "Staff must adhere to the company's safety rules.",
+    "C1"
+  ],
+  [
+    "affection",
+    "привязанность, нежность",
+    "He showed great affection towards his grandchildren.",
+    "C1"
+  ],
+  [
+    "aggression",
+    "агрессия",
+    "The dog showed no signs of aggression.",
+    "C1"
+  ],
+  [
+    "alert",
+    "тревога, настороженный; предупреждать",
+    "She stayed alert throughout the long drive.",
+    "C1"
+  ],
+  [
+    "analogy",
+    "аналогия",
+    "The teacher used a simple analogy to explain the idea.",
+    "C1"
+  ],
+  [
+    "appealing",
+    "привлекательный, притягательный",
+    "The idea of a quiet holiday sounded very appealing.",
+    "C1"
+  ],
+  [
+    "appreciation",
+    "признательность, понимание ценности",
+    "He expressed his appreciation for their support.",
+    "C1"
+  ],
+  [
+    "arbitrary",
+    "произвольный",
+    "The rule seemed completely arbitrary to the students.",
+    "C1"
+  ],
+  [
+    "aspiration",
+    "стремление, устремление",
+    "Her main aspiration was to become a doctor.",
+    "C1"
+  ],
+  [
+    "aspire",
+    "стремиться",
+    "Many young athletes aspire to compete at the Olympics.",
+    "C1"
+  ],
+  [
+    "assert",
+    "утверждать, заявлять",
+    "He asserted that the decision was fair.",
+    "C1"
+  ],
+  [
+    "assertion",
+    "утверждение",
+    "Her assertion was later proven to be true.",
+    "C1"
+  ],
+  [
+    "attain",
+    "достигать",
+    "It took years of hard work to attain her goal.",
+    "C1"
+  ],
+  [
+    "attribute",
+    "приписывать; свойство, атрибут",
+    "She attributes her success to hard work.",
+    "C1"
+  ],
+  [
+    "await",
+    "ожидать",
+    "We eagerly await the results of the exam.",
+    "C1"
+  ],
+  [
+    "beloved",
+    "любимый, возлюбленный",
+    "The garden was her beloved retreat from work.",
+    "C1"
+  ],
+  [
+    "betray",
+    "предавать",
+    "He felt betrayed when his friend told the secret.",
+    "C1"
+  ],
+  [
+    "bind",
+    "связывать (обязательством)",
+    "The agreement binds both parties to the terms.",
+    "C1"
+  ],
+  [
+    "bizarre",
+    "странный, причудливый",
+    "It was a bizarre coincidence that they met again.",
+    "C1"
+  ],
+  [
+    "boast",
+    "хвастаться",
+    "He liked to boast about his achievements.",
+    "C1"
+  ],
+  [
+    "brutal",
+    "жестокий, беспощадный",
+    "The critic gave a brutal review of the film.",
+    "C1"
+  ],
+  [
+    "burden",
+    "бремя, груз (переносн.)",
+    "The debt became a heavy burden on the family.",
+    "C1"
+  ],
+  [
+    "admission",
+    "признание (вины)",
+    "His admission of guilt surprised everyone.",
+    "C1"
+  ],
+  [
+    "caution",
+    "осторожность",
+    "Approach the situation with caution.",
+    "C1"
+  ],
+  [
+    "cautious",
+    "осторожный",
+    "She was cautious about sharing personal information online.",
+    "C1"
+  ],
+  [
+    "cease",
+    "прекращать(ся)",
+    "The noise finally ceased after midnight.",
+    "C1"
+  ],
+  [
+    "chaos",
+    "хаос",
+    "The storm caused chaos across the city.",
+    "C1"
+  ],
+  [
+    "characterize",
+    "характеризовать",
+    "The film is characterized by its dark humour.",
+    "C1"
+  ],
+  [
+    "charm",
+    "обаяние, шарм",
+    "The old town has a certain rustic charm.",
+    "C1"
+  ],
+  [
+    "clarity",
+    "ясность",
+    "She explained the plan with great clarity.",
+    "C1"
+  ],
+  [
+    "cling",
+    "цепляться (за что-л.)",
+    "The child clung to her mother's hand.",
+    "C1"
+  ],
+  [
+    "coincide",
+    "совпадать",
+    "Her birthday happens to coincide with the festival.",
+    "C1"
+  ],
+  [
+    "comparable",
+    "сопоставимый",
+    "The two cities have comparable populations.",
+    "C1"
+  ],
+  [
+    "compel",
+    "принуждать",
+    "The evidence compelled him to change his mind.",
+    "C1"
+  ],
+  [
+    "compelling",
+    "убедительный",
+    "She gave a compelling argument for the change.",
+    "C1"
+  ],
+  [
+    "complement",
+    "дополнять",
+    "The colours complement each other nicely.",
+    "C1"
+  ],
+  [
+    "complexity",
+    "сложность",
+    "The complexity of the problem surprised everyone.",
+    "C1"
+  ],
+  [
+    "compromise",
+    "компромисс; идти на компромисс",
+    "They reached a compromise after a long discussion.",
+    "C1"
+  ],
+  [
+    "conceal",
+    "скрывать",
+    "He tried to conceal his disappointment.",
+    "C1"
+  ],
+  [
+    "concede",
+    "признавать (поражение/правоту)",
+    "She conceded that he had a good point.",
+    "C1"
+  ],
+  [
+    "conceive",
+    "задумывать, представлять себе",
+    "It's hard to conceive of life without the internet.",
+    "C1"
+  ],
+  [
+    "conception",
+    "концепция, представление",
+    "His conception of success changed as he got older.",
+    "C1"
+  ],
+  [
+    "confer",
+    "совещаться, обсуждать",
+    "The judges conferred before announcing the winner.",
+    "C1"
+  ],
+  [
+    "confession",
+    "признание",
+    "He made a full confession to his family.",
+    "C1"
+  ],
+  [
+    "confine",
+    "ограничивать",
+    "The discussion was confined to a single topic.",
+    "C1"
+  ],
+  [
+    "confront",
+    "противостоять, сталкиваться (с проблемой)",
+    "She decided to confront her fears directly.",
+    "C1"
+  ],
+  [
+    "conscience",
+    "совесть",
+    "His conscience wouldn't let him stay silent.",
+    "C1"
+  ],
+  [
+    "consciousness",
+    "сознание",
+    "He briefly lost consciousness after the fall.",
+    "C1"
+  ],
+  [
+    "consecutive",
+    "последовательный, подряд",
+    "The team won five consecutive matches.",
+    "C1"
+  ],
+  [
+    "consent",
+    "согласие; давать согласие",
+    "The doctor asked for her consent before the operation.",
+    "C1"
+  ],
+  [
+    "consistency",
+    "последовательность, постоянство",
+    "The coach praised her consistency throughout the season.",
+    "C1"
+  ],
+  [
+    "constitute",
+    "составлять, представлять собой",
+    "These findings constitute strong evidence.",
+    "C1"
+  ],
+  [
+    "contemplate",
+    "обдумывать, созерцать",
+    "She sat by the window, contemplating her future.",
+    "C1"
+  ],
+  [
+    "contempt",
+    "презрение",
+    "He looked at the offer with contempt.",
+    "C1"
+  ],
+  [
+    "contend",
+    "утверждать; бороться",
+    "Critics contend that the plan is unrealistic.",
+    "C1"
+  ],
+  [
+    "content",
+    "довольный",
+    "She seemed content with her simple life.",
+    "C1"
+  ],
+  [
+    "contention",
+    "утверждение, спор",
+    "It's his contention that the rule is unfair.",
+    "C1"
+  ],
+  [
+    "contradiction",
+    "противоречие",
+    "There's a clear contradiction between the two reports.",
+    "C1"
+  ],
+  [
+    "contrary",
+    "противоположный; противоположность",
+    "Contrary to expectations, the plan succeeded.",
+    "C1"
+  ],
+  [
+    "corresponding",
+    "соответствующий",
+    "Each answer has a corresponding explanation.",
+    "C1"
+  ],
+  [
+    "counter (argue against)",
+    "возражать, парировать",
+    "She countered his argument with new evidence.",
+    "C1"
+  ],
+  [
+    "countless",
+    "бесчисленный",
+    "She has read the book countless times.",
+    "C1"
+  ],
+  [
+    "courtesy",
+    "вежливость, любезность",
+    "He held the door open out of courtesy.",
+    "C1"
+  ],
+  [
+    "credibility",
+    "достоверность, авторитет",
+    "The scandal damaged the politician's credibility.",
+    "C1"
+  ],
+  [
+    "credible",
+    "заслуживающий доверия",
+    "The witness gave a credible account of events.",
+    "C1"
+  ],
+  [
+    "creep",
+    "красться, подкрадываться",
+    "Doubt began to creep into her mind.",
+    "C1"
+  ],
+  [
+    "crush",
+    "сокрушать, давить",
+    "The news crushed all his hopes.",
+    "C1"
+  ],
+  [
+    "curiosity",
+    "любопытство",
+    "Her curiosity led her to explore the old house.",
+    "C1"
+  ],
+  [
+    "cynical",
+    "циничный",
+    "He became cynical about politics after the scandal.",
+    "C1"
+  ],
+  [
+    "damaging",
+    "вредный, наносящий ущерб",
+    "The rumour was extremely damaging to her reputation.",
+    "C1"
+  ],
+  [
+    "decisive",
+    "решительный",
+    "She made a decisive choice and never looked back.",
+    "C1"
+  ],
+  [
+    "dedicated",
+    "преданный (делу)",
+    "He's a dedicated teacher who cares about his students.",
+    "C1"
+  ],
+  [
+    "dedication",
+    "преданность, самоотдача",
+    "Her dedication to the project impressed everyone.",
+    "C1"
+  ],
+  [
+    "deed",
+    "поступок, деяние",
+    "It was a kind deed that no one forgot.",
+    "C1"
+  ],
+  [
+    "deem",
+    "считать, полагать",
+    "The plan was deemed too risky to continue.",
+    "C1"
+  ],
+  [
+    "defy",
+    "бросать вызов, не подчиняться",
+    "She defied everyone's expectations and passed the exam.",
+    "C1"
+  ],
+  [
+    "conviction",
+    "убеждение",
+    "He spoke with real conviction about his beliefs.",
+    "C1"
+  ],
+  [
+    "crude",
+    "грубый, вульгарный",
+    "His comment was crude and unnecessary.",
+    "C1"
+  ],
+  [
+    "defensive",
+    "защищающийся (эмоционально)",
+    "He became defensive when asked about the mistake.",
+    "C1"
+  ],
+  [
+    "delicate",
+    "деликатный, хрупкий",
+    "It was a delicate situation that needed careful handling.",
+    "C1"
+  ],
+  [
+    "demon",
+    "демон",
+    "The film's villain is portrayed as an actual demon.",
+    "C1"
+  ],
+  [
+    "denial",
+    "отрицание",
+    "His denial of the accusation convinced no one.",
+    "C1"
+  ],
+  [
+    "dependence",
+    "зависимость",
+    "The country's dependence on oil is a growing concern.",
+    "C1"
+  ],
+  [
+    "deprive",
+    "лишать",
+    "Lack of sleep can deprive you of energy.",
+    "C1"
+  ],
+  [
+    "desirable",
+    "желательный",
+    "A quiet neighbourhood is highly desirable for families.",
+    "C1"
+  ],
+  [
+    "destructive",
+    "разрушительный",
+    "Jealousy can be a destructive emotion.",
+    "C1"
+  ],
+  [
+    "devil",
+    "дьявол",
+    "The story describes a battle between good and the devil.",
+    "C1"
+  ],
+  [
+    "devise",
+    "придумывать, разрабатывать",
+    "They devised a clever plan to solve the problem.",
+    "C1"
+  ],
+  [
+    "dignity",
+    "достоинство",
+    "She handled the criticism with dignity.",
+    "C1"
+  ],
+  [
+    "dilemma",
+    "дилемма",
+    "He faced a difficult moral dilemma.",
+    "C1"
+  ],
+  [
+    "diminish",
+    "уменьшать(ся)",
+    "Her enthusiasm never seemed to diminish.",
+    "C1"
+  ],
+  [
+    "disastrous",
+    "катастрофический",
+    "The trip turned out to be disastrous.",
+    "C1"
+  ],
+  [
+    "discard",
+    "выбрасывать, отказываться (от чего-л.)",
+    "She discarded the old idea in favour of a new one.",
+    "C1"
+  ],
+  [
+    "discretion",
+    "осмотрительность, усмотрение",
+    "Use your discretion when deciding how to respond.",
+    "C1"
+  ],
+  [
+    "distinction",
+    "различие; отличие (награда)",
+    "There's an important distinction between the two words.",
+    "C1"
+  ],
+  [
+    "distinctive",
+    "отличительный",
+    "The building has a distinctive, modern design.",
+    "C1"
+  ],
+  [
+    "distort",
+    "искажать",
+    "The media sometimes distort the facts.",
+    "C1"
+  ],
+  [
+    "distress",
+    "бедствие, страдание; причинять страдание",
+    "The news caused her a lot of distress.",
+    "C1"
+  ],
+  [
+    "disturbing",
+    "тревожащий, беспокоящий",
+    "It was a disturbing story to read before bed.",
+    "C1"
+  ],
+  [
+    "divine",
+    "божественный",
+    "The temple was built to honour a divine being.",
+    "C1"
+  ],
+  [
+    "driving",
+    "движущий (напр. driving force)",
+    "Ambition was the driving force behind her success.",
+    "C1"
+  ],
+  [
+    "dual",
+    "двойной",
+    "She holds dual citizenship in two countries.",
+    "C1"
+  ],
+  [
+    "dumb",
+    "глупый",
+    "It was a dumb mistake, but easy to fix.",
+    "C1"
+  ],
+  [
+    "dynamic",
+    "динамика (взаимоотношений)",
+    "The dynamic between the two friends changed after the argument.",
+    "C1"
+  ],
+  [
+    "ease",
+    "лёгкость; облегчать",
+    "She answered the questions with ease.",
+    "C1"
+  ],
+  [
+    "ego",
+    "эго, самолюбие",
+    "His ego was hurt by the criticism.",
+    "C1"
+  ],
+  [
+    "elaborate",
+    "сложный, детально проработанный",
+    "They planned an elaborate surprise party.",
+    "C1"
+  ],
+  [
+    "elevate",
+    "возвышать, поднимать (уровень)",
+    "The award elevated her status in the industry.",
+    "C1"
+  ],
+  [
+    "embarrassment",
+    "смущение",
+    "He tried to hide his embarrassment after the mistake.",
+    "C1"
+  ],
+  [
+    "embody",
+    "воплощать",
+    "She embodies the values the company stands for.",
+    "C1"
+  ],
+  [
+    "emergence",
+    "появление, возникновение",
+    "The report discusses the emergence of new technology.",
+    "C1"
+  ],
+  [
+    "empower",
+    "расширять права и возможности",
+    "The programme aims to empower young women.",
+    "C1"
+  ],
+  [
+    "encompass",
+    "охватывать",
+    "The course encompasses a wide range of topics.",
+    "C1"
+  ],
+  [
+    "encouragement",
+    "поддержка, поощрение",
+    "She thanked her parents for their constant encouragement.",
+    "C1"
+  ],
+  [
+    "encouraging",
+    "обнадёживающий",
+    "The test results were very encouraging.",
+    "C1"
+  ],
+  [
+    "endeavour",
+    "попытка, начинание",
+    "Starting a business is always a risky endeavour.",
+    "C1"
+  ],
+  [
+    "endless",
+    "бесконечный",
+    "The meeting felt endless.",
+    "C1"
+  ],
+  [
+    "endure",
+    "терпеть, выносить",
+    "She endured months of hardship without complaining.",
+    "C1"
+  ],
+  [
+    "engagement",
+    "вовлечённость",
+    "The teacher noticed strong engagement from the students.",
+    "C1"
+  ],
+  [
+    "engaging",
+    "увлекательный",
+    "It was an engaging lecture from start to finish.",
+    "C1"
+  ],
+  [
+    "enrich",
+    "обогащать",
+    "Travel has really enriched her understanding of the world.",
+    "C1"
+  ],
+  [
+    "ensue",
+    "следовать, происходить (в результате)",
+    "A long silence ensued after the announcement.",
+    "C1"
+  ],
+  [
+    "enthusiast",
+    "энтузиаст",
+    "He's a keen enthusiast of vintage cars.",
+    "C1"
+  ],
+  [
+    "entitle",
+    "давать право",
+    "This ticket entitles you to a free drink.",
+    "C1"
+  ],
+  [
+    "entity",
+    "сущность, единица",
+    "The company is now a separate legal entity.",
+    "C1"
+  ],
+  [
+    "essence",
+    "суть, сущность",
+    "Honesty is the essence of a good relationship.",
+    "C1"
+  ],
+  [
+    "eternal",
+    "вечный",
+    "They promised each other eternal love.",
+    "C1"
+  ],
+  [
+    "evoke",
+    "вызывать (чувства, воспоминания)",
+    "The song evokes memories of her childhood.",
+    "C1"
+  ],
+  [
+    "exaggerate",
+    "преувеличивать",
+    "He tends to exaggerate when telling stories.",
+    "C1"
+  ],
+  [
+    "excellence",
+    "превосходство, высокое качество",
+    "The school is known for academic excellence.",
+    "C1"
+  ],
+  [
+    "exceptional",
+    "исключительный",
+    "She showed exceptional talent from a young age.",
+    "C1"
+  ],
+  [
+    "excess",
+    "избыток; избыточный",
+    "Too much of anything, even in excess, isn't good.",
+    "C1"
+  ],
+  [
+    "exclusion",
+    "исключение (из группы)",
+    "His exclusion from the team upset him greatly.",
+    "C1"
+  ],
+  [
+    "exert",
+    "оказывать (влияние), прилагать (усилия)",
+    "She exerted a lot of effort to finish on time.",
+    "C1"
+  ],
+  [
+    "explicit",
+    "явный, чётко выраженный",
+    "He gave explicit instructions on what to do.",
+    "C1"
+  ],
+  [
+    "fade",
+    "угасать, тускнеть",
+    "The colours in the photo have started to fade.",
+    "C1"
+  ],
+  [
+    "fairness",
+    "справедливость",
+    "The judge is known for her fairness.",
+    "C1"
+  ],
+  [
+    "fate",
+    "судьба",
+    "It felt like fate that they met again.",
+    "C1"
+  ],
+  [
+    "favourable",
+    "благоприятный",
+    "The reviews were mostly favourable.",
+    "C1"
+  ],
+  [
+    "feat",
+    "подвиг, достижение",
+    "Climbing the mountain was an impressive feat.",
+    "C1"
+  ],
+  [
+    "fierce",
+    "свирепый, яростный",
+    "There was fierce competition for the job.",
+    "C1"
+  ],
+  [
+    "flaw",
+    "изъян, недостаток",
+    "The plan had one major flaw.",
+    "C1"
+  ],
+  [
+    "flawed",
+    "с изъяном, несовершенный",
+    "The argument was clearly flawed.",
+    "C1"
+  ],
+  [
+    "formulate",
+    "формулировать",
+    "It took time to formulate a clear response.",
+    "C1"
+  ],
+  [
+    "forthcoming",
+    "предстоящий; готовый помочь",
+    "He wasn't very forthcoming with details.",
+    "C1"
+  ],
+  [
+    "fragile",
+    "хрупкий",
+    "Her confidence felt fragile after the setback.",
+    "C1"
+  ],
+  [
+    "gaze",
+    "пристальный взгляд; пристально смотреть",
+    "She gazed out of the window, lost in thought.",
+    "C1"
+  ],
+  [
+    "glance",
+    "быстрый взгляд; взглянуть",
+    "He glanced at his watch and hurried on.",
+    "C1"
+  ],
+  [
+    "glimpse",
+    "мимолётный взгляд",
+    "They caught a glimpse of the actor leaving the hotel.",
+    "C1"
+  ],
+  [
+    "glorious",
+    "славный, великолепный",
+    "It was a glorious sunny afternoon.",
+    "C1"
+  ],
+  [
+    "glory",
+    "слава",
+    "The team basked in the glory of their victory.",
+    "C1"
+  ],
+  [
+    "grace",
+    "изящество, грация",
+    "She accepted the criticism with grace.",
+    "C1"
+  ],
+  [
+    "grasp",
+    "понимание; схватывать, понимать",
+    "It took a while to grasp the new concept.",
+    "C1"
+  ],
+  [
+    "grave (serious)",
+    "серьёзный, тяжёлый",
+    "The doctor delivered the grave news calmly.",
+    "C1"
+  ],
+  [
+    "grief",
+    "горе, скорбь",
+    "She was overwhelmed with grief after the loss.",
+    "C1"
+  ],
+  [
+    "grin",
+    "ухмылка; ухмыляться",
+    "He grinned when he saw the surprise.",
+    "C1"
+  ],
+  [
+    "grip",
+    "хватка; крепко держать",
+    "She kept a firm grip on the railing.",
+    "C1"
+  ],
+  [
+    "handful",
+    "горстка, небольшое количество",
+    "Only a handful of people showed up to the event.",
+    "C1"
+  ],
+  [
+    "handy",
+    "удобный, полезный",
+    "A torch is always handy to have in the car.",
+    "C1"
+  ],
+  [
+    "harmony",
+    "гармония",
+    "The two colours work together in perfect harmony.",
+    "C1"
+  ],
+  [
+    "harsh",
+    "суровый, резкий",
+    "His harsh comments upset the whole team.",
+    "C1"
+  ],
+  [
+    "hatred",
+    "ненависть",
+    "The film explores themes of love and hatred.",
+    "C1"
+  ],
+  [
+    "haunt",
+    "преследовать (мысли, воспоминания)",
+    "The memory of the accident still haunts him.",
+    "C1"
+  ],
+  [
+    "heighten",
+    "усиливать(ся)",
+    "The music heightened the tension in the scene.",
+    "C1"
+  ],
+  [
+    "hopeful",
+    "полный надежды",
+    "She remained hopeful despite the setback.",
+    "C1"
+  ],
+  [
+    "hostile",
+    "враждебный",
+    "The crowd grew hostile after the decision.",
+    "C1"
+  ],
+  [
+    "hostility",
+    "враждебность",
+    "There was clear hostility between the two teams.",
+    "C1"
+  ],
+  [
+    "idiot",
+    "идиот",
+    "He felt like an idiot for forgetting the tickets.",
+    "C1"
+  ],
+  [
+    "ignorance",
+    "невежество",
+    "His comment showed complete ignorance of the facts.",
+    "C1"
+  ],
+  [
+    "immense",
+    "огромный",
+    "She felt immense relief when the exam was over.",
+    "C1"
+  ],
+  [
+    "imminent",
+    "неминуемый, надвигающийся",
+    "A storm was clearly imminent.",
+    "C1"
+  ],
+  [
+    "inability",
+    "неспособность",
+    "His inability to apologise frustrated his friends.",
+    "C1"
+  ],
+  [
+    "inadequate",
+    "недостаточный, неадекватный",
+    "The training was inadequate for the difficult job.",
+    "C1"
+  ],
+  [
+    "inappropriate",
+    "неуместный, неподобающий",
+    "His joke was inappropriate for the occasion.",
+    "C1"
+  ],
+  [
+    "inclined",
+    "склонный (к чему-л.)",
+    "She was inclined to agree with the proposal.",
+    "C1"
+  ],
+  [
+    "induce",
+    "побуждать, вызывать",
+    "The medicine can induce drowsiness.",
+    "C1"
+  ],
+  [
+    "indulge",
+    "потакать (себе), баловать",
+    "They indulged in a big dessert to celebrate.",
+    "C1"
+  ],
+  [
+    "infamous",
+    "печально известный",
+    "The city is infamous for its heavy traffic.",
+    "C1"
+  ],
+  [
+    "inflict",
+    "причинять (боль, ущерб)",
+    "The storm inflicted serious damage on the coast.",
+    "C1"
+  ],
+  [
+    "influential",
+    "влиятельный",
+    "She's one of the most influential writers of her time.",
+    "C1"
+  ],
+  [
+    "inherent",
+    "присущий, врождённый",
+    "There's an inherent risk in any investment.",
+    "C1"
+  ],
+  [
+    "instinct",
+    "инстинкт",
+    "Her first instinct was to call for help.",
+    "C1"
+  ],
+  [
+    "instrumental",
+    "играющий важную роль",
+    "He was instrumental in organising the event.",
+    "C1"
+  ],
+  [
+    "insufficient",
+    "недостаточный",
+    "There was insufficient evidence to prove the case.",
+    "C1"
+  ],
+  [
+    "insult",
+    "оскорбление; оскорблять",
+    "He took her comment as an insult.",
+    "C1"
+  ],
+  [
+    "intact",
+    "неповреждённый, целый",
+    "Despite the fall, the vase remained intact.",
+    "C1"
+  ],
+  [
+    "integral",
+    "неотъемлемый",
+    "Trust is integral to a good relationship.",
+    "C1"
+  ],
+  [
+    "integrity",
+    "порядочность, целостность",
+    "He's known for his honesty and integrity.",
+    "C1"
+  ],
+  [
+    "intensify",
+    "усиливать(ся)",
+    "The rain began to intensify overnight.",
+    "C1"
+  ],
+  [
+    "intensity",
+    "интенсивность",
+    "The intensity of her focus impressed her coach.",
+    "C1"
+  ],
+  [
+    "intensive",
+    "интенсивный",
+    "She took an intensive course over the summer.",
+    "C1"
+  ],
+  [
+    "intent",
+    "намерение",
+    "It's clear he had no intent to cause harm.",
+    "C1"
+  ],
+  [
+    "interfere",
+    "вмешиваться",
+    "She didn't want to interfere in their argument.",
+    "C1"
+  ],
+  [
+    "interference",
+    "вмешательство",
+    "The signal was disrupted by interference.",
+    "C1"
+  ],
+  [
+    "intimate",
+    "близкий, интимный",
+    "They shared an intimate conversation over dinner.",
+    "C1"
+  ],
+  [
+    "intriguing",
+    "интригующий",
+    "It's an intriguing mystery with no obvious answer.",
+    "C1"
+  ],
+  [
+    "invisible",
+    "невидимый",
+    "The stitches were almost invisible.",
+    "C1"
+  ],
+  [
+    "invoke",
+    "призывать, ссылаться (на что-л.)",
+    "The company invoked a clause in the contract.",
+    "C1"
+  ],
+  [
+    "involvement",
+    "вовлечённость, участие",
+    "Her involvement in the project was crucial.",
+    "C1"
+  ],
+  [
+    "ironic",
+    "ироничный",
+    "It's ironic that he's afraid of flying but loves travel.",
+    "C1"
+  ],
+  [
+    "irony",
+    "ирония",
+    "The irony of the situation wasn't lost on anyone.",
+    "C1"
+  ],
+  [
+    "irrelevant",
+    "неуместный, не имеющий отношения",
+    "That detail is irrelevant to the main issue.",
+    "C1"
+  ],
+  [
+    "isolation",
+    "изоляция",
+    "Living in isolation affected her mood.",
+    "C1"
+  ],
+  [
+    "just",
+    "справедливый",
+    "It was a just punishment for the crime.",
+    "C1"
+  ],
+  [
+    "justification",
+    "обоснование, оправдание",
+    "There's no justification for such behaviour.",
+    "C1"
+  ],
+  [
+    "leap",
+    "скачок; прыгать",
+    "Sales made a huge leap after the advert.",
+    "C1"
+  ],
+  [
+    "forge",
+    "выковывать, налаживать (отношения)",
+    "The two teams forged a strong partnership.",
+    "C1"
+  ],
+  [
+    "foster",
+    "способствовать, поощрять",
+    "The school aims to foster creativity in students.",
+    "C1"
+  ],
+  [
+    "gravity",
+    "серьёзность (ситуации)",
+    "He didn't understand the gravity of the situation.",
+    "C1"
+  ],
+  [
+    "gross",
+    "отвратительный",
+    "It was a gross exaggeration of the truth.",
+    "C1"
+  ],
+  [
+    "humanity",
+    "человечность, гуманность",
+    "The doctor treated every patient with humanity.",
+    "C1"
+  ],
+  [
+    "legacy",
+    "наследие",
+    "Her work left a lasting legacy in the field.",
+    "C1"
+  ],
+  [
+    "lengthy",
+    "длительный, затянутый",
+    "After a lengthy discussion, they reached a decision.",
+    "C1"
+  ],
+  [
+    "lifelong",
+    "пожизненный",
+    "They became lifelong friends after university.",
+    "C1"
+  ],
+  [
+    "likelihood",
+    "вероятность",
+    "There's a strong likelihood of rain tomorrow.",
+    "C1"
+  ],
+  [
+    "linger",
+    "задерживаться, медлить",
+    "The smell of coffee lingered in the kitchen.",
+    "C1"
+  ],
+  [
+    "logic",
+    "логика",
+    "I don't follow the logic of his argument.",
+    "C1"
+  ],
+  [
+    "long-standing",
+    "давний, долголетний",
+    "They resolved a long-standing disagreement.",
+    "C1"
+  ],
+  [
+    "long-time",
+    "давний, долголетний",
+    "She met up with a long-time friend from school.",
+    "C1"
+  ],
+  [
+    "loom",
+    "маячить, надвигаться (об угрозе)",
+    "Exams loomed as the end of term approached.",
+    "C1"
+  ],
+  [
+    "manifest",
+    "проявлять(ся)",
+    "Stress can manifest itself in different ways.",
+    "C1"
+  ],
+  [
+    "manipulate",
+    "манипулировать",
+    "He tried to manipulate the situation to his advantage.",
+    "C1"
+  ],
+  [
+    "manipulation",
+    "манипуляция",
+    "The photo showed signs of digital manipulation.",
+    "C1"
+  ],
+  [
+    "mature",
+    "зрелый; взрослеть",
+    "She's very mature for her age.",
+    "C1"
+  ],
+  [
+    "meaningful",
+    "значимый, осмысленный",
+    "They had a meaningful conversation about the future.",
+    "C1"
+  ],
+  [
+    "mercy",
+    "милосердие",
+    "The judge showed mercy and reduced the sentence.",
+    "C1"
+  ],
+  [
+    "merit",
+    "достоинство, заслуга",
+    "The proposal has considerable merit.",
+    "C1"
+  ],
+  [
+    "minimal",
+    "минимальный",
+    "The damage from the storm was minimal.",
+    "C1"
+  ],
+  [
+    "minimize",
+    "минимизировать",
+    "They took steps to minimize the risk.",
+    "C1"
+  ],
+  [
+    "miracle",
+    "чудо",
+    "It's a miracle no one was hurt in the crash.",
+    "C1"
+  ],
+  [
+    "misery",
+    "страдание, несчастье",
+    "The war brought misery to millions of people.",
+    "C1"
+  ],
+  [
+    "mobility",
+    "мобильность",
+    "The injury affected his mobility for months.",
+    "C1"
+  ],
+  [
+    "momentum",
+    "импульс, движущая сила",
+    "The campaign gained momentum in the final weeks.",
+    "C1"
+  ],
+  [
+    "morality",
+    "мораль, нравственность",
+    "The book raises questions about morality and choice.",
+    "C1"
+  ],
+  [
+    "motive",
+    "мотив",
+    "Police couldn't find a clear motive for the crime.",
+    "C1"
+  ],
+  [
+    "mutual",
+    "взаимный",
+    "They have a mutual respect for each other.",
+    "C1"
+  ],
+  [
+    "neglect",
+    "пренебрегать; пренебрежение",
+    "Years of neglect had damaged the old building.",
+    "C1"
+  ],
+  [
+    "noble",
+    "благородный",
+    "It was a noble gesture to give up his seat.",
+    "C1"
+  ],
+  [
+    "nonsense",
+    "чепуха, вздор",
+    "Don't listen to that nonsense.",
+    "C1"
+  ],
+  [
+    "notable",
+    "заметный, примечательный",
+    "There were a few notable exceptions to the rule.",
+    "C1"
+  ],
+  [
+    "notorious",
+    "печально известный",
+    "The area is notorious for traffic jams.",
+    "C1"
+  ],
+  [
+    "objection",
+    "возражение",
+    "The lawyer raised an objection during the trial.",
+    "C1"
+  ],
+  [
+    "oblige",
+    "обязывать",
+    "The contract obliges both sides to give notice.",
+    "C1"
+  ],
+  [
+    "obsess",
+    "быть одержимым",
+    "She began to obsess over small details.",
+    "C1"
+  ],
+  [
+    "obsession",
+    "одержимость",
+    "His obsession with fitness took over his life.",
+    "C1"
+  ],
+  [
+    "occurrence",
+    "случай, происшествие",
+    "Minor delays are a common occurrence on this route.",
+    "C1"
+  ],
+  [
+    "opt",
+    "выбирать, предпочитать",
+    "Many students opt to study abroad for a year.",
+    "C1"
+  ],
+  [
+    "optimism",
+    "оптимизм",
+    "She spoke with real optimism about the future.",
+    "C1"
+  ],
+  [
+    "originate",
+    "происходить, брать начало",
+    "The word originates from an old French term.",
+    "C1"
+  ],
+  [
+    "outlook",
+    "мировоззрение; перспектива",
+    "He has a positive outlook on life.",
+    "C1"
+  ],
+  [
+    "outrage",
+    "возмущение; возмущать",
+    "The decision caused public outrage.",
+    "C1"
+  ],
+  [
+    "outsider",
+    "аутсайдер, чужак",
+    "She felt like an outsider on her first day.",
+    "C1"
+  ],
+  [
+    "overlook",
+    "упускать из виду; выходить окнами (на)",
+    "It's easy to overlook small mistakes when you're tired.",
+    "C1"
+  ],
+  [
+    "overwhelm",
+    "ошеломлять, переполнять (эмоциями)",
+    "The amount of work began to overwhelm her.",
+    "C1"
+  ],
+  [
+    "overwhelming",
+    "подавляющий, ошеломляющий",
+    "She felt an overwhelming sense of relief.",
+    "C1"
+  ],
+  [
+    "passive",
+    "пассивный",
+    "He took a passive role in the discussion.",
+    "C1"
+  ],
+  [
+    "peculiar",
+    "странный, своеобразный",
+    "There was a peculiar smell in the old house.",
+    "C1"
+  ],
+  [
+    "persist",
+    "упорствовать, продолжаться",
+    "The pain persisted for several days.",
+    "C1"
+  ],
+  [
+    "persistent",
+    "настойчивый, постоянный",
+    "Her persistent effort finally paid off.",
+    "C1"
+  ],
+  [
+    "pledge",
+    "обещание, клятва; обещать",
+    "He pledged to support the local charity.",
+    "C1"
+  ],
+  [
+    "premise",
+    "предпосылка, посылка",
+    "The whole argument is based on a false premise.",
+    "C1"
+  ],
+  [
+    "prestigious",
+    "престижный",
+    "She won a prestigious award for her research.",
+    "C1"
+  ],
+  [
+    "presume",
+    "предполагать",
+    "I presume you've already read the report.",
+    "C1"
+  ],
+  [
+    "prevail",
+    "преобладать, побеждать",
+    "In the end, common sense prevailed.",
+    "C1"
+  ],
+  [
+    "privilege",
+    "привилегия",
+    "It was a privilege to meet her in person.",
+    "C1"
+  ],
+  [
+    "problematic",
+    "проблематичный",
+    "The plan could be problematic if the weather changes.",
+    "C1"
+  ],
+  [
+    "profound",
+    "глубокий (о мысли, чувстве)",
+    "The book had a profound effect on her thinking.",
+    "C1"
+  ],
+  [
+    "prominent",
+    "выдающийся, видный",
+    "He plays a prominent role in the community.",
+    "C1"
+  ],
+  [
+    "pronounced",
+    "ярко выраженный, заметный",
+    "There was a pronounced change in her mood.",
+    "C1"
+  ],
+  [
+    "provoke",
+    "провоцировать",
+    "His comment was meant to provoke a reaction.",
+    "C1"
+  ],
+  [
+    "rage",
+    "ярость",
+    "He stormed out of the room in a rage.",
+    "C1"
+  ],
+  [
+    "rational",
+    "рациональный",
+    "Try to make a rational decision, not an emotional one.",
+    "C1"
+  ],
+  [
+    "realization",
+    "осознание",
+    "The realization hit her that she'd forgotten her keys.",
+    "C1"
+  ],
+  [
+    "realm",
+    "сфера, область",
+    "The idea belongs more to the realm of fantasy.",
+    "C1"
+  ],
+  [
+    "reasoning",
+    "рассуждение, логика",
+    "I don't understand the reasoning behind the decision.",
+    "C1"
+  ],
+  [
+    "reassure",
+    "успокаивать, заверять",
+    "She reassured him that everything would be fine.",
+    "C1"
+  ],
+  [
+    "reflection",
+    "размышление; отражение",
+    "After some reflection, he changed his mind.",
+    "C1"
+  ],
+  [
+    "refusal",
+    "отказ",
+    "Her refusal to apologise upset the whole family.",
+    "C1"
+  ],
+  [
+    "regain",
+    "вновь обретать",
+    "It took months for him to regain his confidence.",
+    "C1"
+  ],
+  [
+    "rejection",
+    "отказ, отвержение",
+    "He handled the rejection better than expected.",
+    "C1"
+  ],
+  [
+    "relevance",
+    "актуальность, уместность",
+    "The topic still has relevance today.",
+    "C1"
+  ],
+  [
+    "reluctant",
+    "неохотный, нежелающий",
+    "She was reluctant to share her opinion.",
+    "C1"
+  ],
+  [
+    "render",
+    "делать (каким-л.), приводить в состояние",
+    "The accident rendered him unable to walk for weeks.",
+    "C1"
+  ],
+  [
+    "renowned",
+    "знаменитый, известный",
+    "He's a renowned expert in his field.",
+    "C1"
+  ],
+  [
+    "resemble",
+    "напоминать, быть похожим",
+    "She resembles her mother in many ways.",
+    "C1"
+  ],
+  [
+    "restraint",
+    "сдержанность",
+    "He showed great restraint despite the provocation.",
+    "C1"
+  ],
+  [
+    "revelation",
+    "откровение, разоблачение",
+    "The report was a revelation to most readers.",
+    "C1"
+  ],
+  [
+    "revenge",
+    "месть",
+    "He wanted revenge after being betrayed.",
+    "C1"
+  ],
+  [
+    "reverse",
+    "обратный; менять на противоположное",
+    "Doctors managed to reverse most of the damage.",
+    "C1"
+  ],
+  [
+    "rip",
+    "рвать, разрывать",
+    "She ripped the letter into small pieces.",
+    "C1"
+  ],
+  [
+    "sacrifice",
+    "жертва; жертвовать",
+    "Her parents made many sacrifices for her education.",
+    "C1"
+  ],
+  [
+    "sceptical",
+    "скептический",
+    "He remained sceptical about the new plan.",
+    "C1"
+  ],
+  [
+    "selective",
+    "избирательный",
+    "The university is very selective about who it admits.",
+    "C1"
+  ],
+  [
+    "sensation",
+    "ощущение; сенсация",
+    "She felt a strange sensation in her arm.",
+    "C1"
+  ],
+  [
+    "sensitivity",
+    "чувствительность",
+    "He handled the topic with great sensitivity.",
+    "C1"
+  ],
+  [
+    "sentiment",
+    "настроение, чувство",
+    "Public sentiment shifted after the scandal.",
+    "C1"
+  ],
+  [
+    "sexuality",
+    "сексуальность",
+    "The show explores themes of identity and sexuality.",
+    "C1"
+  ],
+  [
+    "shatter",
+    "разбивать вдребезги; разрушать (надежды)",
+    "The news shattered all her hopes for the future.",
+    "C1"
+  ],
+  [
+    "shrug",
+    "пожимать плечами",
+    "He shrugged and said he didn't mind either way.",
+    "C1"
+  ],
+  [
+    "sigh",
+    "вздыхать; вздох",
+    "She let out a deep sigh of relief.",
+    "C1"
+  ],
+  [
+    "skip",
+    "пропускать (что-л.)",
+    "Let's skip that question and move to the next one.",
+    "C1"
+  ],
+  [
+    "slam",
+    "хлопать, захлопывать",
+    "He slammed the door in anger.",
+    "C1"
+  ],
+  [
+    "slap",
+    "шлёпать, давать пощёчину",
+    "She gently slapped his hand away.",
+    "C1"
+  ],
+  [
+    "snap",
+    "резко говорить, огрызаться",
+    "He snapped at her without meaning to.",
+    "C1"
+  ],
+  [
+    "sound",
+    "надёжный, обоснованный",
+    "Her advice was based on sound judgement.",
+    "C1"
+  ],
+  [
+    "span",
+    "промежуток (времени); охватывать",
+    "His career spans over thirty years.",
+    "C1"
+  ],
+  [
+    "spark",
+    "вызывать, провоцировать; искра",
+    "The comment sparked a heated debate.",
+    "C1"
+  ],
+  [
+    "sphere",
+    "сфера, область",
+    "She's well known in the sphere of finance.",
+    "C1"
+  ],
+  [
+    "squeeze",
+    "сжимать, сдавливать",
+    "He squeezed her hand to comfort her.",
+    "C1"
+  ],
+  [
+    "stability",
+    "стабильность",
+    "The country enjoyed years of political stability.",
+    "C1"
+  ],
+  [
+    "standing",
+    "репутация, положение",
+    "He has a good standing in the community.",
+    "C1"
+  ],
+  [
+    "stark",
+    "резкий, суровый (о контрасте)",
+    "There's a stark contrast between the two neighbourhoods.",
+    "C1"
+  ],
+  [
+    "stereotype",
+    "стереотип",
+    "The film challenges common gender stereotypes.",
+    "C1"
+  ],
+  [
+    "straightforward",
+    "простой, понятный",
+    "The instructions were simple and straightforward.",
+    "C1"
+  ],
+  [
+    "striking",
+    "поразительный, впечатляющий",
+    "The similarity between the two paintings is striking.",
+    "C1"
+  ],
+  [
+    "strive",
+    "стремиться",
+    "She always strives to do her best.",
+    "C1"
+  ],
+  [
+    "stun",
+    "ошеломлять",
+    "The announcement stunned everyone in the room.",
+    "C1"
+  ],
+  [
+    "subtle",
+    "тонкий, едва уловимый",
+    "There's a subtle difference between the two words.",
+    "C1"
+  ],
+  [
+    "superb",
+    "превосходный",
+    "The performance was absolutely superb.",
+    "C1"
+  ],
+  [
+    "supportive",
+    "поддерживающий",
+    "Her family has always been very supportive.",
+    "C1"
+  ],
+  [
+    "suspicion",
+    "подозрение",
+    "He was arrested on suspicion of theft.",
+    "C1"
+  ],
+  [
+    "suspicious",
+    "подозрительный",
+    "The neighbours found his behaviour suspicious.",
+    "C1"
+  ],
+  [
+    "sustain",
+    "поддерживать, выдерживать",
+    "It's hard to sustain that level of effort for long.",
+    "C1"
+  ],
+  [
+    "swing",
+    "резкое изменение; качаться",
+    "Her mood can swing quickly from happy to sad.",
+    "C1"
+  ],
+  [
+    "systematic",
+    "систематический",
+    "He took a systematic approach to the problem.",
+    "C1"
+  ],
+  [
+    "tempt",
+    "искушать, соблазнять",
+    "The offer was tempting, but she said no.",
+    "C1"
+  ],
+  [
+    "terrific",
+    "потрясающий, отличный",
+    "They did a terrific job on the project.",
+    "C1"
+  ],
+  [
+    "threshold",
+    "порог (в т.ч. переносн.)",
+    "The pain crossed her threshold of tolerance.",
+    "C1"
+  ],
+  [
+    "thrilled",
+    "в восторге",
+    "She was thrilled to hear the good news.",
+    "C1"
+  ],
+  [
+    "timely",
+    "своевременный",
+    "His timely warning prevented a disaster.",
+    "C1"
+  ],
+  [
+    "tolerance",
+    "терпимость",
+    "The school promotes tolerance and respect.",
+    "C1"
+  ],
+  [
+    "tolerate",
+    "терпеть, мириться (с чем-л.)",
+    "She won't tolerate rudeness from anyone.",
+    "C1"
+  ],
+  [
+    "transformation",
+    "трансформация, преобразование",
+    "The city underwent a complete transformation.",
+    "C1"
+  ],
+  [
+    "tremendous",
+    "огромный, потрясающий",
+    "The team showed tremendous effort in the final.",
+    "C1"
+  ],
+  [
+    "trigger",
+    "спусковой крючок; вызывать, провоцировать",
+    "Stress is a common trigger for headaches.",
+    "C1"
+  ],
+  [
+    "triumph",
+    "триумф, торжество",
+    "The victory was seen as a personal triumph.",
+    "C1"
+  ],
+  [
+    "troubled",
+    "встревоженный; неспокойный",
+    "He looked troubled after the phone call.",
+    "C1"
+  ],
+  [
+    "underlying",
+    "лежащий в основе, скрытый",
+    "The doctor looked for an underlying cause of the pain.",
+    "C1"
+  ],
+  [
+    "unprecedented",
+    "беспрецедентный",
+    "The city saw unprecedented levels of rainfall.",
+    "C1"
+  ],
+  [
+    "vague",
+    "смутный, расплывчатый",
+    "His explanation was too vague to be useful.",
+    "C1"
+  ],
+  [
+    "validity",
+    "обоснованность, законность",
+    "The study questions the validity of the results.",
+    "C1"
+  ],
+  [
+    "vanish",
+    "исчезать",
+    "The magician made the coin vanish.",
+    "C1"
+  ],
+  [
+    "varied",
+    "разнообразный",
+    "She has a varied and interesting career.",
+    "C1"
+  ],
+  [
+    "vibrant",
+    "яркий, полный жизни",
+    "The market was full of vibrant colours.",
+    "C1"
+  ],
+  [
+    "vice",
+    "порок",
+    "Smoking is his only real vice.",
+    "C1"
+  ],
+  [
+    "vicious",
+    "злобный, жестокий",
+    "The comment was a vicious personal attack.",
+    "C1"
+  ],
+  [
+    "virtue",
+    "добродетель",
+    "Patience is an important virtue.",
+    "C1"
+  ],
+  [
+    "vow",
+    "клятва; клясться",
+    "She vowed never to make the same mistake again.",
+    "C1"
+  ],
+  [
+    "vulnerability",
+    "уязвимость",
+    "Sharing your feelings takes a certain vulnerability.",
+    "C1"
+  ],
+  [
+    "vulnerable",
+    "уязвимый",
+    "Elderly people are more vulnerable to the cold.",
+    "C1"
+  ],
+  [
+    "weaken",
+    "ослаблять",
+    "The scandal weakened public trust in the company.",
+    "C1"
+  ],
+  [
+    "willingness",
+    "готовность (что-л. сделать)",
+    "Her willingness to help impressed the whole team.",
+    "C1"
+  ],
+  [
+    "wit",
+    "остроумие",
+    "He's known for his sharp wit.",
+    "C1"
+  ],
+  [
+    "worthwhile",
+    "стоящий (усилий)",
+    "The course was challenging but worthwhile.",
+    "C1"
+  ],
+  [
+    "worthy",
+    "достойный",
+    "It's a cause worthy of our support.",
+    "C1"
+  ],
+  [
+    "burst",
+    "вспышка (эмоций); лопаться",
+    "He burst into laughter at the joke.",
+    "C1"
+  ],
+  [
+    "reign",
+    "властвовать, доминировать (переносн.)",
+    "Fear seemed to reign over the whole town.",
+    "C1"
+  ],
+  [
+    "rifle",
+    "бегло просматривать (rifle through)",
+    "She rifled through her bag looking for her keys.",
+    "C1"
+  ],
+  [
+    "spare",
+    "свободное (время)",
+    "He spends his spare time painting.",
+    "C1"
+  ],
+  [
+    "spin",
+    "политическая подача, спин (переносн.)",
+    "The politician tried to put a positive spin on the news.",
+    "C1"
+  ],
+  [
+    "shed",
+    "сбрасывать, ронять (напр. листья, слёзы)",
+    "She shed a few tears at the end of the film.",
+    "C1"
+  ],
+  [
+    "tender",
+    "нежный, чувствительный; болезненный (на ощупь)",
+    "The bruise was still tender to the touch.",
+    "C1"
+  ],
+  [
+    "abandon",
+    "покидать, бросать; отказываться (от идеи)",
+    "They had to abandon the project halfway through.",
+    "B2"
+  ],
+  [
+    "acknowledge",
+    "признавать (факт)",
+    "He acknowledged that he'd made a mistake.",
+    "B2"
+  ],
+  [
+    "adapt",
+    "адаптироваться, приспосабливаться",
+    "She quickly adapted to her new job.",
+    "B2"
+  ],
+  [
+    "affair",
+    "дело, роман (любовный)",
+    "It's not really any of my affair.",
+    "B2"
+  ],
+  [
+    "aggressive",
+    "агрессивный",
+    "He became aggressive when questioned.",
+    "B2"
+  ],
+  [
+    "alter",
+    "изменять",
+    "The plan was altered at the last minute.",
+    "B2"
+  ],
+  [
+    "anger",
+    "гнев",
+    "She struggled to control her anger.",
+    "B2"
+  ],
+  [
+    "apparent",
+    "очевидный",
+    "It became apparent that something was wrong.",
+    "B2"
+  ],
+  [
+    "appeal",
+    "привлекательность; апеллировать",
+    "The idea of moving abroad has a certain appeal.",
+    "B2"
+  ],
+  [
+    "approach",
+    "подход; подходить (к чему-л.)",
+    "She took a calm approach to the problem.",
+    "B2"
+  ],
+  [
+    "arise",
+    "возникать",
+    "Several problems arose during the meeting.",
+    "B2"
+  ],
+  [
+    "aspect",
+    "аспект",
+    "There's one aspect of the plan I don't understand.",
+    "B2"
+  ],
+  [
+    "assume",
+    "предполагать",
+    "I assumed you already knew about the change.",
+    "B2"
+  ],
+  [
+    "attempt",
+    "попытка; пытаться",
+    "He made an attempt to fix it himself.",
+    "B2"
+  ],
+  [
+    "beg",
+    "умолять, просить",
+    "She begged him to stay a little longer.",
+    "B2"
+  ],
+  [
+    "being",
+    "существо; бытие",
+    "Every human being deserves respect.",
+    "B2"
+  ],
+  [
+    "bent",
+    "согнутый",
+    "The old fork was bent out of shape.",
+    "B2"
+  ],
+  [
+    "blame",
+    "обвинять; вина",
+    "He blamed himself for the accident.",
+    "B2"
+  ],
+  [
+    "brief",
+    "краткий",
+    "She gave a brief explanation of the plan.",
+    "B2"
+  ],
+  [
+    "capable",
+    "способный",
+    "She's more than capable of handling the job.",
+    "B2"
+  ],
+  [
+    "challenge",
+    "вызов, трудность; бросать вызов",
+    "He challenged her to a game of chess.",
+    "B2"
+  ],
+  [
+    "circumstance",
+    "обстоятельство",
+    "Under normal circumstances, this wouldn't happen.",
+    "B2"
+  ],
+  [
+    "combination",
+    "сочетание, комбинация",
+    "It was a strange combination of luck and skill.",
+    "B2"
+  ],
+  [
+    "commitment",
+    "приверженность, обязательство",
+    "Marriage is a serious commitment.",
+    "B2"
+  ],
+  [
+    "concern",
+    "беспокойство; беспокоить, касаться",
+    "Her main concern is her children's safety.",
+    "B2"
+  ],
+  [
+    "confidence",
+    "уверенность",
+    "He answered every question with confidence.",
+    "B2"
+  ],
+  [
+    "consideration",
+    "рассмотрение, учёт",
+    "We took her feelings into consideration.",
+    "B2"
+  ],
+  [
+    "critical",
+    "критический, важный",
+    "Timing is critical in this situation.",
+    "B2"
+  ],
+  [
+    "criticism",
+    "критика",
+    "He handled the criticism well.",
+    "B2"
+  ],
+  [
+    "criticize",
+    "критиковать",
+    "She was criticized for arriving late.",
+    "B2"
+  ],
+  [
+    "crucial",
+    "решающий, ключевой",
+    "This decision is crucial for our future.",
+    "B2"
+  ],
+  [
+    "cry",
+    "крик; плакать",
+    "She let out a cry of joy.",
+    "B2"
+  ],
+  [
+    "deliberate",
+    "преднамеренный",
+    "It was a deliberate attempt to mislead people.",
+    "B2"
+  ],
+  [
+    "delighted",
+    "очень довольный",
+    "We were delighted with the results.",
+    "B2"
+  ],
+  [
+    "deny",
+    "отрицать",
+    "He denied knowing anything about it.",
+    "B2"
+  ],
+  [
+    "deserve",
+    "заслуживать",
+    "You deserve a break after all that work.",
+    "B2"
+  ],
+  [
+    "desire",
+    "желание; желать",
+    "She had a strong desire to travel.",
+    "B2"
+  ],
+  [
+    "detail",
+    "подробно описывать",
+    "The report details exactly what went wrong.",
+    "B2"
+  ],
+  [
+    "divide",
+    "разделение; делить",
+    "There's a growing divide between the two groups.",
+    "B2"
+  ],
+  [
+    "bar",
+    "запрещать, не допускать",
+    "He was barred from entering the club.",
+    "B2"
+  ],
+  [
+    "current",
+    "текущий, нынешний",
+    "What's the current situation with the project?",
+    "B2"
+  ],
+  [
+    "dramatic",
+    "драматический, резкий (об изменении)",
+    "There's been a dramatic change in her attitude.",
+    "B2"
+  ],
+  [
+    "emerge",
+    "появляться, возникать",
+    "New evidence has emerged about the case.",
+    "B2"
+  ],
+  [
+    "engage",
+    "вовлекать(ся), заниматься",
+    "The book fails to engage the reader.",
+    "B2"
+  ],
+  [
+    "enhance",
+    "улучшать, усиливать",
+    "The new lighting really enhances the room.",
+    "B2"
+  ],
+  [
+    "ethical",
+    "этичный",
+    "There are ethical concerns about the experiment.",
+    "B2"
+  ],
+  [
+    "evil",
+    "зло; злой",
+    "The film shows a battle between good and evil.",
+    "B2"
+  ],
+  [
+    "excuse",
+    "оправдание; извинять",
+    "He always has an excuse for being late.",
+    "B2"
+  ],
+  [
+    "existence",
+    "существование",
+    "The company has been in existence for decades.",
+    "B2"
+  ],
+  [
+    "expectation",
+    "ожидание",
+    "The film didn't live up to my expectations.",
+    "B2"
+  ],
+  [
+    "extraordinary",
+    "необычайный, экстраординарный",
+    "She showed extraordinary courage during the crisis.",
+    "B2"
+  ],
+  [
+    "extreme",
+    "крайность; крайний",
+    "He went from one extreme to the other.",
+    "B2"
+  ],
+  [
+    "failure",
+    "неудача, провал",
+    "The trip was a complete failure.",
+    "B2"
+  ],
+  [
+    "faith",
+    "вера",
+    "She lost faith in the system.",
+    "B2"
+  ],
+  [
+    "fault",
+    "вина, недостаток",
+    "It wasn't really his fault.",
+    "B2"
+  ],
+  [
+    "favour",
+    "быть благосклонным к, предпочитать",
+    "The judge seemed to favour the older applicant.",
+    "B2"
+  ],
+  [
+    "forgive",
+    "прощать",
+    "It took years for her to forgive him.",
+    "B2"
+  ],
+  [
+    "heaven",
+    "рай",
+    "She believes she'll go to heaven.",
+    "B2"
+  ],
+  [
+    "hell",
+    "ад",
+    "The journey was absolute hell.",
+    "B2"
+  ],
+  [
+    "hesitate",
+    "колебаться, медлить",
+    "Don't hesitate to call if you need help.",
+    "B2"
+  ],
+  [
+    "honour",
+    "честь; чтить",
+    "It was an honour to meet her.",
+    "B2"
+  ],
+  [
+    "humour",
+    "юмор",
+    "He has a great sense of humour.",
+    "B2"
+  ],
+  [
+    "ideal",
+    "идеал",
+    "She never lost sight of her ideals.",
+    "B2"
+  ],
+  [
+    "imagination",
+    "воображение",
+    "The story really captured his imagination.",
+    "B2"
+  ],
+  [
+    "imply",
+    "подразумевать",
+    "Are you implying that I'm wrong?",
+    "B2"
+  ],
+  [
+    "impress",
+    "впечатлять",
+    "She wanted to impress her new boss.",
+    "B2"
+  ],
+  [
+    "insight",
+    "понимание, проницательность",
+    "The book gives a fascinating insight into her life.",
+    "B2"
+  ],
+  [
+    "insist",
+    "настаивать",
+    "He insisted on paying for dinner.",
+    "B2"
+  ],
+  [
+    "inspire",
+    "вдохновлять",
+    "Her story inspired thousands of people.",
+    "B2"
+  ],
+  [
+    "intense",
+    "интенсивный, напряжённый",
+    "The competition was intense this year.",
+    "B2"
+  ],
+  [
+    "judgement",
+    "суждение, оценка",
+    "I trust her judgement completely.",
+    "B2"
+  ],
+  [
+    "justify",
+    "оправдывать, обосновывать",
+    "He couldn't justify the extra cost.",
+    "B2"
+  ],
+  [
+    "impressed",
+    "впечатлённый",
+    "I was really impressed by her presentation.",
+    "B2"
+  ],
+  [
+    "lively",
+    "живой, оживлённый",
+    "The city has a lively nightlife.",
+    "B2"
+  ],
+  [
+    "logical",
+    "логичный",
+    "It seemed like the logical thing to do.",
+    "B2"
+  ],
+  [
+    "massive",
+    "огромный, массивный",
+    "It was a massive relief when the exams finished.",
+    "B2"
+  ],
+  [
+    "minor",
+    "незначительный",
+    "It was only a minor problem.",
+    "B2"
+  ],
+  [
+    "moral",
+    "моральный; мораль (вывод)",
+    "The story has an important moral.",
+    "B2"
+  ],
+  [
+    "nightmare",
+    "кошмар",
+    "The whole trip turned into a nightmare.",
+    "B2"
+  ],
+  [
+    "notion",
+    "понятие, представление",
+    "I have no notion of what he means.",
+    "B2"
+  ],
+  [
+    "obey",
+    "подчиняться, слушаться",
+    "Soldiers are trained to obey orders.",
+    "B2"
+  ],
+  [
+    "object",
+    "возражать",
+    "Nobody objected to the new rule.",
+    "B2"
+  ],
+  [
+    "obligation",
+    "обязательство",
+    "You're under no obligation to accept the offer.",
+    "B2"
+  ],
+  [
+    "offend",
+    "обижать, оскорблять",
+    "I didn't mean to offend you.",
+    "B2"
+  ],
+  [
+    "offensive",
+    "оскорбительный",
+    "The comment was deeply offensive.",
+    "B2"
+  ],
+  [
+    "outcome",
+    "результат, исход",
+    "We're all waiting for the outcome of the vote.",
+    "B2"
+  ],
+  [
+    "perspective",
+    "точка зрения, перспектива",
+    "Travelling gave her a new perspective on life.",
+    "B2"
+  ],
+  [
+    "phase",
+    "фаза, этап",
+    "The project is entering a new phase.",
+    "B2"
+  ],
+  [
+    "picture",
+    "представлять себе",
+    "Try to picture yourself on a beach.",
+    "B2"
+  ],
+  [
+    "possess",
+    "обладать, владеть",
+    "He possesses a rare talent for languages.",
+    "B2"
+  ],
+  [
+    "potential",
+    "потенциал; потенциальный",
+    "She has huge potential as a musician.",
+    "B2"
+  ],
+  [
+    "praise",
+    "похвала; хвалить",
+    "The teacher praised the whole class for their effort.",
+    "B2"
+  ],
+  [
+    "presence",
+    "присутствие",
+    "Her presence made everyone feel calmer.",
+    "B2"
+  ],
+  [
+    "principle",
+    "принцип",
+    "He always sticks to his principles.",
+    "B2"
+  ],
+  [
+    "priority",
+    "приоритет",
+    "Family is her main priority right now.",
+    "B2"
+  ],
+  [
+    "privacy",
+    "приватность, личное пространство",
+    "She values her privacy above almost everything.",
+    "B2"
+  ],
+  [
+    "proof",
+    "доказательство",
+    "There's no proof that he was involved.",
+    "B2"
+  ],
+  [
+    "pure",
+    "чистый, истинный",
+    "It was pure luck that we found the place.",
+    "B2"
+  ],
+  [
+    "pose",
+    "представлять (проблему, вопрос)",
+    "The plan poses a serious risk to the environment.",
+    "B2"
+  ],
+  [
+    "pursue",
+    "преследовать (цель)",
+    "She decided to pursue a career in medicine.",
+    "B2"
+  ],
+  [
+    "realistic",
+    "реалистичный",
+    "Try to set realistic goals for yourself.",
+    "B2"
+  ],
+  [
+    "reasonable",
+    "разумный",
+    "It seems like a reasonable request.",
+    "B2"
+  ],
+  [
+    "recall",
+    "вспоминать",
+    "I can't quite recall what she said.",
+    "B2"
+  ],
+  [
+    "regard",
+    "считать; уважение",
+    "I regard her as one of my closest friends.",
+    "B2"
+  ],
+  [
+    "regret",
+    "сожаление; сожалеть",
+    "He deeply regrets what he said.",
+    "B2"
+  ],
+  [
+    "relevant",
+    "актуальный, относящийся к делу",
+    "That information isn't really relevant here.",
+    "B2"
+  ],
+  [
+    "rely",
+    "полагаться (на кого-л.)",
+    "You can always rely on her for good advice.",
+    "B2"
+  ],
+  [
+    "reputation",
+    "репутация",
+    "The restaurant has an excellent reputation.",
+    "B2"
+  ],
+  [
+    "resist",
+    "сопротивляться",
+    "She couldn't resist buying the shoes.",
+    "B2"
+  ],
+  [
+    "resolve",
+    "разрешать (проблему)",
+    "They finally resolved their disagreement.",
+    "B2"
+  ],
+  [
+    "retain",
+    "сохранять, удерживать",
+    "The company managed to retain most of its staff.",
+    "B2"
+  ],
+  [
+    "reward",
+    "вознаграждение; вознаграждать",
+    "Hard work eventually brings its own reward.",
+    "B2"
+  ],
+  [
+    "satisfy",
+    "удовлетворять",
+    "Nothing seemed to satisfy him.",
+    "B2"
+  ],
+  [
+    "scream",
+    "кричать, вопить; крик",
+    "She screamed when she saw the spider.",
+    "B2"
+  ],
+  [
+    "self",
+    "своё «я», личность",
+    "He seemed like his old self again.",
+    "B2"
+  ],
+  [
+    "sense",
+    "чувствовать, ощущать",
+    "I could sense something was wrong.",
+    "B2"
+  ],
+  [
+    "sensitive",
+    "чувствительный",
+    "He's quite sensitive about his weight.",
+    "B2"
+  ],
+  [
+    "shape",
+    "формировать, определять",
+    "Her childhood shaped who she is today.",
+    "B2"
+  ],
+  [
+    "shift",
+    "сдвиг, смена; сдвигаться",
+    "Public opinion has shifted in recent years.",
+    "B2"
+  ],
+  [
+    "shocked",
+    "шокированный",
+    "We were all shocked by the news.",
+    "B2"
+  ],
+  [
+    "silence",
+    "тишина, молчание",
+    "There was a long silence before he answered.",
+    "B2"
+  ],
+  [
+    "soul",
+    "душа",
+    "She poured her whole soul into the painting.",
+    "B2"
+  ],
+  [
+    "settle",
+    "урегулировать (спор)",
+    "They managed to settle the argument peacefully.",
+    "B2"
+  ],
+  [
+    "spiritual",
+    "духовный",
+    "She found the ceremony very spiritual.",
+    "B2"
+  ],
+  [
+    "spot",
+    "замечать, обнаруживать",
+    "He spotted the mistake straight away.",
+    "B2"
+  ],
+  [
+    "stable",
+    "стабильный",
+    "She finally has a stable job and home.",
+    "B2"
+  ],
+  [
+    "stare",
+    "пристально смотреть, глазеть",
+    "He stared at her in disbelief.",
+    "B2"
+  ],
+  [
+    "status",
+    "статус",
+    "Her social status changed after the promotion.",
+    "B2"
+  ],
+  [
+    "steady",
+    "устойчивый, стабильный",
+    "He kept a steady pace throughout the interview.",
+    "B2"
+  ],
+  [
+    "strict",
+    "строгий",
+    "Her parents were very strict about homework.",
+    "B2"
+  ],
+  [
+    "struggle",
+    "бороться, с трудом справляться; борьба",
+    "She struggled to hold back her tears.",
+    "B2"
+  ],
+  [
+    "swear",
+    "клясться; ругаться",
+    "I swear I didn't take it.",
+    "B2"
+  ],
+  [
+    "tough",
+    "трудный, суровый",
+    "It's been a tough year for the whole family.",
+    "B2"
+  ],
+  [
+    "transform",
+    "преобразовывать, трансформировать",
+    "The garden was transformed into a beautiful space.",
+    "B2"
+  ],
+  [
+    "transition",
+    "переход, переходный период",
+    "The transition to university life can be difficult.",
+    "B2"
+  ],
+  [
+    "trouble",
+    "беспокоить, доставлять хлопоты",
+    "It troubles me that he hasn't called.",
+    "B2"
+  ],
+  [
+    "trust",
+    "доверие; доверять",
+    "It took years to rebuild his trust in her.",
+    "B2"
+  ],
+  [
+    "unexpected",
+    "неожиданный",
+    "The result was completely unexpected.",
+    "B2"
+  ],
+  [
+    "unique",
+    "уникальный",
+    "Everyone's fingerprint is unique.",
+    "B2"
+  ],
+  [
+    "urge",
+    "настоятельно советовать, побуждать",
+    "Doctors urged people to get vaccinated.",
+    "B2"
+  ],
+  [
+    "vary",
+    "варьироваться, отличаться",
+    "Prices vary depending on the season.",
+    "B2"
+  ],
+  [
+    "vision",
+    "видение, взгляд на будущее",
+    "She has a clear vision for the company's future.",
+    "B2"
+  ],
+  [
+    "weakness",
+    "слабость",
+    "Knowing your weaknesses helps you improve.",
+    "B2"
+  ],
+  [
+    "willing",
+    "готовый (сделать что-л.)",
+    "She's willing to work extra hours if needed.",
+    "B2"
+  ],
+  [
+    "accomplish",
+    "достигать, выполнять",
+    "They accomplished everything they set out to do.",
+    "B2"
+  ],
+  [
+    "adequate",
+    "достаточный, адекватный",
+    "The training wasn't adequate for the job.",
+    "B2"
+  ],
+  [
+    "adjust",
+    "приспосабливаться, регулировать",
+    "It took him a while to adjust to the new routine.",
+    "B2"
+  ],
+  [
+    "amusing",
+    "забавный, весёлый",
+    "It was an amusing story to tell at parties.",
+    "B2"
+  ],
+  [
+    "anticipate",
+    "предвидеть, ожидать",
+    "We anticipate a busy weekend at the shop.",
+    "B2"
+  ],
+  [
+    "assumption",
+    "предположение",
+    "That's a fair assumption to make.",
+    "B2"
+  ],
+  [
+    "assure",
+    "уверять, заверять",
+    "I can assure you everything will be fine.",
+    "B2"
+  ],
+  [
+    "astonishing",
+    "изумительный, поразительный",
+    "The results were truly astonishing.",
+    "B2"
+  ],
+  [
+    "awareness",
+    "осведомлённость, осознание",
+    "The campaign raised awareness of the issue.",
+    "B2"
+  ],
+  [
+    "awkward",
+    "неловкий",
+    "There was an awkward silence after the joke.",
+    "B2"
+  ],
+  [
+    "bias",
+    "предвзятость, предубеждение",
+    "The report was criticised for its political bias.",
+    "B2"
+  ],
+  [
+    "blow",
+    "удар (переносн. потрясение)",
+    "Losing the match was a big blow to the team.",
+    "B2"
+  ],
+  [
+    "bold",
+    "смелый, дерзкий",
+    "It was a bold decision to change careers so late.",
+    "B2"
+  ],
+  [
+    "certainty",
+    "уверенность, определённость",
+    "Nobody can say with certainty what will happen.",
+    "B2"
+  ],
+  [
+    "challenging",
+    "сложный, требующий усилий",
+    "It was a challenging but rewarding project.",
+    "B2"
+  ],
+  [
+    "charming",
+    "очаровательный",
+    "He has a charming smile.",
+    "B2"
+  ],
+  [
+    "chase",
+    "погоня; гнаться",
+    "The dog chased the ball across the park.",
+    "B2"
+  ],
+  [
+    "coincidence",
+    "совпадение",
+    "What a coincidence meeting you here!",
+    "B2"
+  ],
+  [
+    "confess",
+    "признаваться",
+    "She confessed that she'd forgotten his birthday.",
+    "B2"
+  ],
+  [
+    "confusion",
+    "путаница, замешательство",
+    "There was some confusion about the meeting time.",
+    "B2"
+  ],
+  [
+    "controversial",
+    "спорный, вызывающий разногласия",
+    "The film's ending proved quite controversial.",
+    "B2"
+  ],
+  [
+    "controversy",
+    "спор, полемика",
+    "The decision caused a lot of controversy.",
+    "B2"
+  ],
+  [
+    "convenience",
+    "удобство",
+    "The flat is close to the station for convenience.",
+    "B2"
+  ],
+  [
+    "conventional",
+    "традиционный, обычный",
+    "They chose a fairly conventional wedding.",
+    "B2"
+  ],
+  [
+    "convincing",
+    "убедительный",
+    "Her argument was very convincing.",
+    "B2"
+  ],
+  [
+    "cope",
+    "справляться (с трудностями)",
+    "It's hard to cope with so much stress.",
+    "B2"
+  ],
+  [
+    "dare",
+    "осмеливаться",
+    "She didn't dare tell him the truth.",
+    "B2"
+  ],
+  [
+    "dependent",
+    "зависимый",
+    "Young children are completely dependent on their parents.",
+    "B2"
+  ],
+  [
+    "determination",
+    "решимость, целеустремлённость",
+    "Her determination helped her finish the race.",
+    "B2"
+  ],
+  [
+    "devote",
+    "посвящать (время, силы)",
+    "He devoted his life to helping others.",
+    "B2"
+  ],
+  [
+    "differ",
+    "отличаться",
+    "Opinions differ on this issue.",
+    "B2"
+  ],
+  [
+    "disagreement",
+    "разногласие",
+    "They had a small disagreement over money.",
+    "B2"
+  ],
+  [
+    "absorb",
+    "усваивать, осмысливать (информацию)",
+    "It takes time to absorb so much information.",
+    "B2"
+  ],
+  [
+    "disappoint",
+    "разочаровывать",
+    "I don't want to disappoint my parents.",
+    "B2"
+  ],
+  [
+    "disappointment",
+    "разочарование",
+    "Failing the exam was a big disappointment.",
+    "B2"
+  ],
+  [
+    "discourage",
+    "отговаривать, обескураживать",
+    "Don't let one setback discourage you.",
+    "B2"
+  ],
+  [
+    "distant",
+    "далёкий, отстранённый",
+    "He seemed distant during the meeting.",
+    "B2"
+  ],
+  [
+    "distinct",
+    "отчётливый, отдельный",
+    "The two smells are quite distinct.",
+    "B2"
+  ],
+  [
+    "distinguish",
+    "различать",
+    "It's hard to distinguish between the twins.",
+    "B2"
+  ],
+  [
+    "distract",
+    "отвлекать",
+    "The noise outside kept distracting her.",
+    "B2"
+  ],
+  [
+    "disturb",
+    "беспокоить, тревожить",
+    "Sorry to disturb you, but I have a quick question.",
+    "B2"
+  ],
+  [
+    "dominant",
+    "доминирующий",
+    "English is the dominant language in business.",
+    "B2"
+  ],
+  [
+    "dull",
+    "скучный, тусклый",
+    "The meeting was long and rather dull.",
+    "B2"
+  ],
+  [
+    "dynamic",
+    "динамичный",
+    "She has a dynamic personality.",
+    "B2"
+  ],
+  [
+    "eliminate",
+    "устранять, исключать",
+    "The plan aims to eliminate waste completely.",
+    "B2"
+  ],
+  [
+    "embrace",
+    "принимать, охватывать (идею); обнимать",
+    "She embraced the challenge with enthusiasm.",
+    "B2"
+  ],
+  [
+    "enjoyable",
+    "приятный",
+    "It was a really enjoyable evening.",
+    "B2"
+  ],
+  [
+    "ethic",
+    "этика, нравственная норма",
+    "She has a strong work ethic.",
+    "B2"
+  ],
+  [
+    "excessive",
+    "чрезмерный",
+    "The fine seemed excessive for such a small offence.",
+    "B2"
+  ],
+  [
+    "fabulous",
+    "потрясающий, сказочный",
+    "The view from the hotel was fabulous.",
+    "B2"
+  ],
+  [
+    "fake",
+    "поддельный, фальшивый",
+    "He was selling fake designer bags.",
+    "B2"
+  ],
+  [
+    "fond",
+    "любящий, питающий симпатию",
+    "She's very fond of her old neighbours.",
+    "B2"
+  ],
+  [
+    "fool",
+    "дурак; одурачивать",
+    "Don't make a fool of yourself.",
+    "B2"
+  ],
+  [
+    "forbid",
+    "запрещать",
+    "Her parents forbid her from going out on weekdays.",
+    "B2"
+  ],
+  [
+    "fortunate",
+    "удачливый, счастливый",
+    "We were fortunate to find a table at the restaurant.",
+    "B2"
+  ],
+  [
+    "fulfil",
+    "выполнять, осуществлять",
+    "She finally fulfilled her dream of running a marathon.",
+    "B2"
+  ],
+  [
+    "genius",
+    "гений",
+    "Everyone agreed it was a stroke of genius.",
+    "B2"
+  ],
+  [
+    "genuine",
+    "подлинный, искренний",
+    "His apology seemed genuine.",
+    "B2"
+  ],
+  [
+    "goodness",
+    "доброта",
+    "Thank goodness you're safe.",
+    "B2"
+  ],
+  [
+    "hidden",
+    "скрытый",
+    "There's a hidden meaning behind the poem.",
+    "B2"
+  ],
+  [
+    "hilarious",
+    "уморительный, очень смешной",
+    "The film was absolutely hilarious.",
+    "B2"
+  ],
+  [
+    "honesty",
+    "честность",
+    "I appreciate your honesty.",
+    "B2"
+  ],
+  [
+    "identical",
+    "идентичный",
+    "The two paintings looked almost identical.",
+    "B2"
+  ],
+  [
+    "illusion",
+    "иллюзия",
+    "The mirrors create an illusion of space.",
+    "B2"
+  ],
+  [
+    "implication",
+    "последствие, подтекст",
+    "We need to think about the implications of this decision.",
+    "B2"
+  ],
+  [
+    "indication",
+    "признак, указание",
+    "There was no indication that anything was wrong.",
+    "B2"
+  ],
+  [
+    "inevitable",
+    "неизбежный",
+    "Change felt inevitable after the announcement.",
+    "B2"
+  ],
+  [
+    "inherit",
+    "наследовать",
+    "She inherited the house from her grandmother.",
+    "B2"
+  ],
+  [
+    "integrate",
+    "интегрировать(ся)",
+    "It took time for him to integrate into the new school.",
+    "B2"
+  ],
+  [
+    "interact",
+    "взаимодействовать",
+    "The children interact well with each other.",
+    "B2"
+  ],
+  [
+    "interaction",
+    "взаимодействие",
+    "Human interaction is important for mental health.",
+    "B2"
+  ],
+  [
+    "isolated",
+    "изолированный, единичный",
+    "It was an isolated incident, not a pattern.",
+    "B2"
+  ],
+  [
+    "lifetime",
+    "время жизни, целая жизнь",
+    "She's lived here her whole lifetime.",
+    "B2"
+  ],
+  [
+    "limitation",
+    "ограничение",
+    "Every method has its limitations.",
+    "B2"
+  ],
+  [
+    "lottery",
+    "лотерея",
+    "He won a small prize in the lottery.",
+    "B2"
+  ],
+  [
+    "magnificent",
+    "великолепный",
+    "The view from the top was magnificent.",
+    "B2"
+  ],
+  [
+    "memorable",
+    "запоминающийся",
+    "It was a memorable trip we'll never forget.",
+    "B2"
+  ],
+  [
+    "motivate",
+    "мотивировать",
+    "Good teachers know how to motivate their students.",
+    "B2"
+  ],
+  [
+    "motivation",
+    "мотивация",
+    "She lacked the motivation to keep training.",
+    "B2"
+  ],
+  [
+    "moving",
+    "трогательный",
+    "It was a moving speech about loss.",
+    "B2"
+  ],
+  [
+    "nasty",
+    "неприятный, гадкий",
+    "He said some nasty things about her.",
+    "B2"
+  ],
+  [
+    "necessity",
+    "необходимость",
+    "A car is a necessity in this part of the country.",
+    "B2"
+  ],
+  [
+    "norm",
+    "норма",
+    "Working from home has become the norm.",
+    "B2"
+  ],
+  [
+    "obstacle",
+    "препятствие",
+    "Lack of funding was the main obstacle.",
+    "B2"
+  ],
+  [
+    "outstanding",
+    "выдающийся",
+    "She received an award for outstanding achievement.",
+    "B2"
+  ],
+  [
+    "overcome",
+    "преодолевать",
+    "He overcame his fear of flying.",
+    "B2"
+  ],
+  [
+    "panic",
+    "паника",
+    "There was panic when the alarm went off.",
+    "B2"
+  ],
+  [
+    "passionate",
+    "страстный, увлечённый",
+    "She's passionate about protecting the environment.",
+    "B2"
+  ],
+  [
+    "patience",
+    "терпение",
+    "Teaching young children requires a lot of patience.",
+    "B2"
+  ],
+  [
+    "perceive",
+    "воспринимать",
+    "People perceive risk differently.",
+    "B2"
+  ],
+  [
+    "perception",
+    "восприятие",
+    "Public perception of the issue has changed.",
+    "B2"
+  ],
+  [
+    "pity",
+    "жалость; жаль",
+    "It's a pity you can't come to the party.",
+    "B2"
+  ],
+  [
+    "precious",
+    "драгоценный, ценный",
+    "Time with family is precious to her.",
+    "B2"
+  ],
+  [
+    "predictable",
+    "предсказуемый",
+    "The ending of the film was pretty predictable.",
+    "B2"
+  ],
+  [
+    "preference",
+    "предпочтение",
+    "Do you have a preference for tea or coffee?",
+    "B2"
+  ],
+  [
+    "promising",
+    "перспективный, многообещающий",
+    "She's a promising young writer.",
+    "B2"
+  ],
+  [
+    "pursuit",
+    "преследование, стремление (к чему-л.)",
+    "Reading is one of her favourite pursuits.",
+    "B2"
+  ],
+  [
+    "random",
+    "случайный",
+    "He asked me a completely random question.",
+    "B2"
+  ],
+  [
+    "reckon",
+    "полагать, считать",
+    "I reckon it'll rain later.",
+    "B2"
+  ],
+  [
+    "recognition",
+    "признание",
+    "She finally got the recognition she deserved.",
+    "B2"
+  ],
+  [
+    "reinforce",
+    "усиливать, подкреплять",
+    "The results reinforce our original theory.",
+    "B2"
+  ],
+  [
+    "relieved",
+    "испытывающий облегчение",
+    "She felt relieved when the test results came back clear.",
+    "B2"
+  ],
+  [
+    "remarkable",
+    "замечательный, примечательный",
+    "It was a remarkable achievement for someone so young.",
+    "B2"
+  ],
+  [
+    "resolution",
+    "решимость; резолюция",
+    "He made a resolution to exercise more.",
+    "B2"
+  ],
+  [
+    "ridiculous",
+    "нелепый, смехотворный",
+    "It's ridiculous how expensive tickets have become.",
+    "B2"
+  ],
+  [
+    "risky",
+    "рискованный",
+    "Investing all your savings is quite risky.",
+    "B2"
+  ],
+  [
+    "ruin",
+    "разрушать, губить; руины",
+    "The rain nearly ruined the wedding.",
+    "B2"
+  ],
+  [
+    "scare",
+    "пугать; испуг",
+    "The loud bang gave her a real scare.",
+    "B2"
+  ],
+  [
+    "scenario",
+    "сценарий, вариант развития событий",
+    "Let's think about the worst-case scenario.",
+    "B2"
+  ],
+  [
+    "shocking",
+    "шокирующий",
+    "The news was truly shocking.",
+    "B2"
+  ],
+  [
+    "significance",
+    "значимость",
+    "The discovery has great historical significance.",
+    "B2"
+  ],
+  [
+    "sophisticated",
+    "сложный, изощрённый",
+    "It's a surprisingly sophisticated argument.",
+    "B2"
+  ],
+  [
+    "spectacular",
+    "впечатляющий, эффектный",
+    "The fireworks display was spectacular.",
+    "B2"
+  ],
+  [
+    "speculate",
+    "строить предположения",
+    "People began to speculate about the reasons for his absence.",
+    "B2"
+  ],
+  [
+    "speculation",
+    "предположение, догадка",
+    "There's a lot of speculation about who will win.",
+    "B2"
+  ],
+  [
+    "spite",
+    "злоба, назло",
+    "She did it out of spite.",
+    "B2"
+  ],
+  [
+    "spoil",
+    "портить, баловать",
+    "Don't let one bad review spoil your day.",
+    "B2"
+  ],
+  [
+    "stimulate",
+    "стимулировать",
+    "The programme aims to stimulate creative thinking.",
+    "B2"
+  ],
+  [
+    "strengthen",
+    "укреплять",
+    "Regular exercise helps strengthen your muscles.",
+    "B2"
+  ],
+  [
+    "stunning",
+    "потрясающий",
+    "She looked stunning in her wedding dress.",
+    "B2"
+  ],
+  [
+    "suffering",
+    "страдание",
+    "The charity works to reduce suffering worldwide.",
+    "B2"
+  ],
+  [
+    "survival",
+    "выживание",
+    "The survival of the business depends on new customers.",
+    "B2"
+  ],
+  [
+    "survivor",
+    "выживший",
+    "She's a survivor of a serious illness.",
+    "B2"
+  ],
+  [
+    "tendency",
+    "тенденция, склонность",
+    "He has a tendency to talk too much.",
+    "B2"
+  ],
+  [
+    "tension",
+    "напряжение, напряжённость",
+    "There was noticeable tension between the two teams.",
+    "B2"
+  ],
+  [
+    "terrify",
+    "ужасать",
+    "The thought of public speaking terrifies her.",
+    "B2"
+  ],
+  [
+    "timing",
+    "выбор времени, тайминг",
+    "The timing of the announcement was unfortunate.",
+    "B2"
+  ],
+  [
+    "tragic",
+    "трагичный",
+    "It was a tragic accident.",
+    "B2"
+  ],
+  [
+    "trait",
+    "черта (характера)",
+    "Curiosity is one of his best traits.",
+    "B2"
+  ],
+  [
+    "trap",
+    "ловушка; заманивать в ловушку",
+    "The old rules trap people in low-paid jobs.",
+    "B2"
+  ],
+  [
+    "treasure",
+    "сокровище; ценить",
+    "She treasures the letters her grandmother wrote her.",
+    "B2"
+  ],
+  [
+    "trigger",
+    "вызывать, провоцировать",
+    "Loud noises can trigger his anxiety.",
+    "B2"
+  ],
+  [
+    "unacceptable",
+    "неприемлемый",
+    "That kind of behaviour is simply unacceptable.",
+    "B2"
+  ],
+  [
+    "uncertainty",
+    "неопределённость",
+    "There's a lot of uncertainty about the future.",
+    "B2"
+  ],
+  [
+    "undergo",
+    "подвергаться, переживать (изменения)",
+    "The company is undergoing major changes.",
+    "B2"
+  ],
+  [
+    "unfold",
+    "разворачиваться (о событиях)",
+    "The story slowly unfolds over three chapters.",
+    "B2"
+  ],
+  [
+    "unfortunate",
+    "неудачный, досадный",
+    "It was an unfortunate misunderstanding.",
+    "B2"
+  ],
+  [
+    "urgent",
+    "срочный",
+    "This needs urgent attention.",
+    "B2"
+  ],
+  [
+    "useless",
+    "бесполезный",
+    "The old map turned out to be useless.",
+    "B2"
+  ],
+  [
+    "viewpoint",
+    "точка зрения",
+    "It's helpful to hear a different viewpoint.",
+    "B2"
+  ],
+  [
+    "weird",
+    "странный, причудливый",
+    "That's a weird coincidence.",
+    "B2"
+  ],
+  [
+    "wisdom",
+    "мудрость",
+    "She shared some words of wisdom before we left.",
+    "B2"
+  ],
+  [
+    "origin",
+    "происхождение",
+    "The origin of the word is unclear.",
+    "B2"
+  ],
+  [
+    "achievement",
+    "достижение",
+    "Finishing the course was a real achievement for her.",
+    "B1"
+  ],
+  [
+    "admire",
+    "восхищаться",
+    "I really admire how calm she stayed.",
+    "B1"
+  ],
+  [
+    "admit",
+    "признавать(ся)",
+    "He admitted that he was wrong.",
+    "B1"
+  ],
+  [
+    "advise",
+    "советовать",
+    "The doctor advised her to rest for a week.",
+    "B1"
+  ],
+  [
+    "aim",
+    "цель; стремиться",
+    "Her aim is to finish the report by Friday.",
+    "B1"
+  ],
+  [
+    "amazed",
+    "изумлённый",
+    "I was amazed at how quickly she learned.",
+    "B1"
+  ],
+  [
+    "ambition",
+    "амбиция, стремление",
+    "His ambition is to become a doctor.",
+    "B1"
+  ],
+  [
+    "annoy",
+    "раздражать",
+    "It really annoys me when people are late.",
+    "B1"
+  ],
+  [
+    "annoyed",
+    "раздражённый",
+    "She was annoyed that he forgot again.",
+    "B1"
+  ],
+  [
+    "annoying",
+    "раздражающий",
+    "That noise is really annoying.",
+    "B1"
+  ],
+  [
+    "appreciate",
+    "ценить",
+    "I really appreciate all your help.",
+    "B1"
+  ],
+  [
+    "attract",
+    "привлекать",
+    "The offer attracted a lot of interest.",
+    "B1"
+  ],
+  [
+    "award",
+    "награждать",
+    "She was awarded a medal for bravery.",
+    "B1"
+  ],
+  [
+    "aware",
+    "осведомлённый, осознающий",
+    "Are you aware of the new rules?",
+    "B1"
+  ],
+  [
+    "bother",
+    "беспокоить(ся)",
+    "Don't bother waiting for me, I'll be late.",
+    "B1"
+  ],
+  [
+    "centre",
+    "сосредотачивать(ся) на (чём-л.)",
+    "The story centres on a young detective.",
+    "B1"
+  ],
+  [
+    "challenge",
+    "вызов, трудная задача",
+    "Learning a new language is a real challenge.",
+    "B1"
+  ],
+  [
+    "cheat",
+    "обманывать, жульничать",
+    "He was caught cheating in the exam.",
+    "B1"
+  ],
+  [
+    "claim",
+    "утверждать; заявление",
+    "She claims she never received the email.",
+    "B1"
+  ],
+  [
+    "clue",
+    "подсказка, улика",
+    "I haven't got a clue what he meant.",
+    "B1"
+  ],
+  [
+    "combine",
+    "сочетать, объединять",
+    "The recipe combines sweet and sour flavours.",
+    "B1"
+  ],
+  [
+    "commit",
+    "совершать (преступление); посвящать себя",
+    "She's fully committed to finishing the project.",
+    "B1"
+  ],
+  [
+    "complex",
+    "сложный",
+    "It's a complex issue with no easy answer.",
+    "B1"
+  ],
+  [
+    "confuse",
+    "путать, сбивать с толку",
+    "Don't confuse the two words, they mean different things.",
+    "B1"
+  ],
+  [
+    "confused",
+    "сбитый с толку",
+    "He looked confused by the instructions.",
+    "B1"
+  ],
+  [
+    "connection",
+    "связь",
+    "There's a strong connection between diet and health.",
+    "B1"
+  ],
+  [
+    "consequence",
+    "последствие",
+    "He didn't think about the consequences of his actions.",
+    "B1"
+  ],
+  [
+    "contrast",
+    "контраст; контрастировать",
+    "The bright colours contrast nicely.",
+    "B1"
+  ],
+  [
+    "convenient",
+    "удобный",
+    "Is it convenient to talk now?",
+    "B1"
+  ],
+  [
+    "convince",
+    "убеждать",
+    "She convinced me to try the new restaurant.",
+    "B1"
+  ],
+  [
+    "determine",
+    "определять, устанавливать",
+    "The test results will determine the next step.",
+    "B1"
+  ],
+  [
+    "determined",
+    "решительный, настроенный",
+    "She's determined to pass the exam this time.",
+    "B1"
+  ],
+  [
+    "difficulty",
+    "трудность",
+    "He had difficulty understanding the instructions.",
+    "B1"
+  ],
+  [
+    "disadvantage",
+    "недостаток, минус",
+    "The main disadvantage is the high cost.",
+    "B1"
+  ],
+  [
+    "dislike",
+    "неприязнь; не любить",
+    "She dislikes loud, crowded places.",
+    "B1"
+  ],
+  [
+    "divide",
+    "делить(ся)",
+    "The teacher divided the class into small groups.",
+    "B1"
+  ],
+  [
+    "doubt",
+    "сомнение; сомневаться",
+    "I doubt he'll finish on time.",
+    "B1"
+  ],
+  [
+    "effort",
+    "усилие",
+    "It took a lot of effort to finish the project.",
+    "B1"
+  ],
+  [
+    "encourage",
+    "поощрять, ободрять",
+    "Her teacher encouraged her to keep practising.",
+    "B1"
+  ],
+  [
+    "attraction",
+    "влечение, притяжение",
+    "There was an instant attraction between them.",
+    "B1"
+  ],
+  [
+    "equal",
+    "равный; равняться",
+    "Two plus two equals four.",
+    "B1"
+  ],
+  [
+    "escape",
+    "побег; убегать",
+    "He managed to escape from the burning building.",
+    "B1"
+  ],
+  [
+    "excitement",
+    "волнение, возбуждение",
+    "There was real excitement before the match.",
+    "B1"
+  ],
+  [
+    "experience",
+    "испытывать, переживать",
+    "She experienced a lot of stress last year.",
+    "B1"
+  ],
+  [
+    "face",
+    "сталкиваться (с проблемой)",
+    "The company faces a difficult decision.",
+    "B1"
+  ],
+  [
+    "familiar",
+    "знакомый",
+    "That song sounds familiar.",
+    "B1"
+  ],
+  [
+    "fancy",
+    "хотеть, нравиться (разг.)",
+    "Do you fancy going for a walk?",
+    "B1"
+  ],
+  [
+    "fascinating",
+    "увлекательный, завораживающий",
+    "The documentary was absolutely fascinating.",
+    "B1"
+  ],
+  [
+    "favour",
+    "одолжение, услуга",
+    "Can I ask you a favour?",
+    "B1"
+  ],
+  [
+    "frighten",
+    "пугать",
+    "The loud thunder frightened the dog.",
+    "B1"
+  ],
+  [
+    "frightened",
+    "испуганный",
+    "She was frightened of the dark as a child.",
+    "B1"
+  ],
+  [
+    "frightening",
+    "пугающий",
+    "It was a frightening experience.",
+    "B1"
+  ],
+  [
+    "gather",
+    "собирать(ся)",
+    "A crowd gathered outside the shop.",
+    "B1"
+  ],
+  [
+    "giant",
+    "гигантский; великан",
+    "He felt like a giant among the small children.",
+    "B1"
+  ],
+  [
+    "glad",
+    "рад",
+    "I'm glad you could make it.",
+    "B1"
+  ],
+  [
+    "guilty",
+    "виноватый, испытывающий вину",
+    "She felt guilty about missing his birthday.",
+    "B1"
+  ],
+  [
+    "happiness",
+    "счастье",
+    "Money doesn't always bring happiness.",
+    "B1"
+  ],
+  [
+    "horrible",
+    "ужасный",
+    "It was a horrible thing to say.",
+    "B1"
+  ],
+  [
+    "hurry",
+    "спешка; спешить",
+    "There's no need to hurry, we have plenty of time.",
+    "B1"
+  ],
+  [
+    "identity",
+    "идентичность, личность",
+    "The witness's identity was kept secret.",
+    "B1"
+  ],
+  [
+    "ignore",
+    "игнорировать",
+    "She tried to ignore the noise and keep working.",
+    "B1"
+  ],
+  [
+    "impact",
+    "влияние, воздействие",
+    "The decision had a big impact on the team.",
+    "B1"
+  ],
+  [
+    "impression",
+    "впечатление",
+    "He made a good first impression.",
+    "B1"
+  ],
+  [
+    "impressive",
+    "впечатляющий",
+    "Her presentation was really impressive.",
+    "B1"
+  ],
+  [
+    "improvement",
+    "улучшение",
+    "There's been a big improvement in his grades.",
+    "B1"
+  ],
+  [
+    "indicate",
+    "указывать, свидетельствовать",
+    "The results indicate a growing problem.",
+    "B1"
+  ],
+  [
+    "influence",
+    "влияние; влиять",
+    "Her parents had a strong influence on her.",
+    "B1"
+  ],
+  [
+    "intelligence",
+    "ум, интеллект",
+    "The test measures a certain type of intelligence.",
+    "B1"
+  ],
+  [
+    "intend",
+    "намереваться",
+    "I intend to finish the project by Friday.",
+    "B1"
+  ],
+  [
+    "intention",
+    "намерение",
+    "It wasn't her intention to upset anyone.",
+    "B1"
+  ],
+  [
+    "issue",
+    "проблема, вопрос",
+    "There's an issue with the printer again.",
+    "B1"
+  ],
+  [
+    "lack",
+    "нехватка; испытывать нехватку",
+    "The project failed due to a lack of funding.",
+    "B1"
+  ],
+  [
+    "leading",
+    "ведущий, главный",
+    "She's a leading expert in her field.",
+    "B1"
+  ],
+  [
+    "lie (tell a lie)",
+    "ложь; лгать",
+    "He told a lie to avoid getting in trouble.",
+    "B1"
+  ],
+  [
+    "limit",
+    "предел, ограничение; ограничивать",
+    "There's a strict time limit for the exam.",
+    "B1"
+  ],
+  [
+    "lonely",
+    "одинокий",
+    "He felt lonely after moving to a new city.",
+    "B1"
+  ],
+  [
+    "mad",
+    "сумасшедший; злой",
+    "She was mad at him for forgetting her birthday.",
+    "B1"
+  ],
+  [
+    "move",
+    "ход, шаг, поступок",
+    "Changing jobs was a big move for her.",
+    "B1"
+  ],
+  [
+    "note",
+    "отмечать, обращать внимание",
+    "Please note that the office closes at five.",
+    "B1"
+  ],
+  [
+    "obvious",
+    "очевидный",
+    "It was obvious that she was upset.",
+    "B1"
+  ],
+  [
+    "occasion",
+    "случай, событие",
+    "It's a special occasion, so let's celebrate.",
+    "B1"
+  ],
+  [
+    "occur",
+    "происходить, случаться",
+    "The accident occurred late at night.",
+    "B1"
+  ],
+  [
+    "odd",
+    "странный",
+    "It's odd that he hasn't called yet.",
+    "B1"
+  ],
+  [
+    "organized",
+    "организованный",
+    "She's always very organized.",
+    "B1"
+  ],
+  [
+    "passion",
+    "страсть",
+    "He has a real passion for cooking.",
+    "B1"
+  ],
+  [
+    "peaceful",
+    "мирный, спокойный",
+    "It was a peaceful afternoon by the lake.",
+    "B1"
+  ],
+  [
+    "pleasant",
+    "приятный",
+    "We had a pleasant chat over coffee.",
+    "B1"
+  ],
+  [
+    "powerful",
+    "мощный, влиятельный",
+    "It was a powerful speech that moved everyone.",
+    "B1"
+  ],
+  [
+    "practical",
+    "практичный",
+    "She gave some practical advice about moving house.",
+    "B1"
+  ],
+  [
+    "prediction",
+    "предсказание",
+    "His prediction turned out to be correct.",
+    "B1"
+  ],
+  [
+    "prepared",
+    "подготовленный",
+    "She felt well prepared for the interview.",
+    "B1"
+  ],
+  [
+    "pressure",
+    "давление (переносн.)",
+    "He's under a lot of pressure at work.",
+    "B1"
+  ],
+  [
+    "pretend",
+    "притворяться",
+    "The kids pretended to be pirates.",
+    "B1"
+  ],
+  [
+    "prove",
+    "доказывать",
+    "She proved everyone wrong by winning the race.",
+    "B1"
+  ],
+  [
+    "rare",
+    "редкий",
+    "It's rare to see snow here in April.",
+    "B1"
+  ],
+  [
+    "reaction",
+    "реакция",
+    "Her reaction to the news surprised everyone.",
+    "B1"
+  ],
+  [
+    "reality",
+    "реальность",
+    "The film is based on reality.",
+    "B1"
+  ],
+  [
+    "reflect",
+    "отражать; размышлять",
+    "Take a moment to reflect on what happened.",
+    "B1"
+  ],
+  [
+    "reject",
+    "отвергать, отклонять",
+    "The publisher rejected her first novel.",
+    "B1"
+  ],
+  [
+    "relate",
+    "относиться (к чему-л.), связывать",
+    "I can really relate to what she's saying.",
+    "B1"
+  ],
+  [
+    "relaxed",
+    "расслабленный",
+    "She seemed very relaxed before the interview.",
+    "B1"
+  ],
+  [
+    "relaxing",
+    "расслабляющий",
+    "It was a relaxing weekend by the sea.",
+    "B1"
+  ],
+  [
+    "reliable",
+    "надёжный",
+    "He's always been a reliable friend.",
+    "B1"
+  ],
+  [
+    "remind",
+    "напоминать",
+    "Can you remind me to call her later?",
+    "B1"
+  ],
+  [
+    "represent",
+    "представлять, олицетворять",
+    "The dove represents peace.",
+    "B1"
+  ],
+  [
+    "respect",
+    "уважение; уважать",
+    "She has great respect for her grandmother.",
+    "B1"
+  ],
+  [
+    "responsibility",
+    "ответственность",
+    "Taking care of the dog is his responsibility.",
+    "B1"
+  ],
+  [
+    "responsible",
+    "ответственный",
+    "She's responsible for organising the event.",
+    "B1"
+  ],
+  [
+    "risk",
+    "риск; рисковать",
+    "He risked everything to start his own business.",
+    "B1"
+  ],
+  [
+    "rough",
+    "приблизительный",
+    "That's just a rough estimate, not exact.",
+    "B1"
+  ],
+  [
+    "row",
+    "ссора, перепалка",
+    "They had a huge row about money.",
+    "B1"
+  ],
+  [
+    "separate",
+    "разделять(ся)",
+    "The two ideas need to be kept separate.",
+    "B1"
+  ],
+  [
+    "sharp",
+    "острый, резкий (о боли)",
+    "She felt a sharp pain in her side.",
+    "B1"
+  ],
+  [
+    "silent",
+    "молчаливый, безмолвный",
+    "The room went silent when she walked in.",
+    "B1"
+  ],
+  [
+    "silly",
+    "глупый",
+    "It was a silly mistake, easy to fix.",
+    "B1"
+  ],
+  [
+    "similarity",
+    "сходство",
+    "There's a striking similarity between the two brothers.",
+    "B1"
+  ],
+  [
+    "smart",
+    "умный, сообразительный",
+    "She's smart enough to figure it out herself.",
+    "B1"
+  ],
+  [
+    "smooth",
+    "гладкий, плавный",
+    "The transition to the new system was smooth.",
+    "B1"
+  ],
+  [
+    "spirit",
+    "дух, настрой",
+    "The team showed great spirit despite losing.",
+    "B1"
+  ],
+  [
+    "strength",
+    "сила, сильная сторона",
+    "Patience is one of her greatest strengths.",
+    "B1"
+  ],
+  [
+    "suit",
+    "подходить, устраивать",
+    "Does Friday afternoon suit you?",
+    "B1"
+  ],
+  [
+    "suitable",
+    "подходящий",
+    "The film isn't suitable for young children.",
+    "B1"
+  ],
+  [
+    "survive",
+    "выживать",
+    "It's amazing that anyone survived the crash.",
+    "B1"
+  ],
+  [
+    "touch",
+    "прикосновение; личный штрих",
+    "She added a personal touch to every gift.",
+    "B1"
+  ],
+  [
+    "trick",
+    "хитрость, трюк; обманывать",
+    "He played a trick on his little brother.",
+    "B1"
+  ],
+  [
+    "uncomfortable",
+    "неудобный, некомфортный",
+    "The chair was too uncomfortable to sit in for long.",
+    "B1"
+  ],
+  [
+    "unfair",
+    "несправедливый",
+    "It's unfair that she got all the blame.",
+    "B1"
+  ],
+  [
+    "unpleasant",
+    "неприятный",
+    "It was an unpleasant surprise.",
+    "B1"
+  ],
+  [
+    "upset",
+    "расстроенный; расстраивать",
+    "She was upset about losing her keys.",
+    "B1"
+  ],
+  [
+    "valuable",
+    "ценный",
+    "Her advice was really valuable.",
+    "B1"
+  ],
+  [
+    "warn",
+    "предупреждать",
+    "The teacher warned them about the deadline.",
+    "B1"
+  ],
+  [
+    "warning",
+    "предупреждение",
+    "The weather service issued a storm warning.",
+    "B1"
+  ],
+  [
+    "wonder",
+    "удивление; удивляться, задаваться вопросом",
+    "I wonder what happened to him.",
+    "B1"
+  ],
+  [
+    "value",
+    "ценность (моральная)",
+    "Honesty is one of her core values.",
+    "B1"
+  ],
+  [
+    "action",
+    "действие",
+    "It's time to take action and fix the problem.",
+    "A1"
+  ],
+  [
+    "advice",
+    "совет",
+    "She gave me some good advice about the interview.",
+    "A1"
+  ],
+  [
+    "agree",
+    "соглашаться",
+    "I agree with you completely.",
+    "A1"
+  ],
+  [
+    "amazing",
+    "потрясающий",
+    "The view from the top was amazing.",
+    "A1"
+  ],
+  [
+    "believe",
+    "верить, полагать",
+    "I don't believe what he told us.",
+    "A1"
+  ],
+  [
+    "choose",
+    "выбирать",
+    "It's hard to choose between the two options.",
+    "A1"
+  ],
+  [
+    "cool",
+    "классный, крутой (разг.)",
+    "That's a really cool idea.",
+    "A1"
+  ],
+  [
+    "create",
+    "создавать",
+    "They created a new app for students.",
+    "A1"
+  ],
+  [
+    "dangerous",
+    "опасный",
+    "Driving in the storm was dangerous.",
+    "A1"
+  ],
+  [
+    "decide",
+    "решать",
+    "We still need to decide where to go.",
+    "A1"
+  ],
+  [
+    "detail",
+    "деталь, подробность",
+    "She remembered every detail of the conversation.",
+    "A1"
+  ],
+  [
+    "difference",
+    "разница",
+    "There's a big difference between the two versions.",
+    "A1"
+  ],
+  [
+    "enjoy",
+    "наслаждаться, получать удовольствие",
+    "I really enjoyed the film last night.",
+    "A1"
+  ],
+  [
+    "fantastic",
+    "фантастический, отличный",
+    "The food was fantastic.",
+    "A1"
+  ],
+  [
+    "favourite",
+    "любимый",
+    "This is my favourite song.",
+    "A1"
+  ],
+  [
+    "feel",
+    "чувствовать",
+    "I feel much better today.",
+    "A1"
+  ],
+  [
+    "feeling",
+    "чувство",
+    "She had a strange feeling about the plan.",
+    "A1"
+  ],
+  [
+    "forget",
+    "забывать",
+    "Don't forget to bring your passport.",
+    "A1"
+  ],
+  [
+    "free",
+    "свободный (о времени)",
+    "Are you free this weekend?",
+    "A1"
+  ],
+  [
+    "fun",
+    "веселье",
+    "We had a lot of fun at the party.",
+    "A1"
+  ],
+  [
+    "follow",
+    "следовать (совету, инструкции)",
+    "Just follow the instructions carefully.",
+    "A1"
+  ],
+  [
+    "future",
+    "будущее",
+    "She's optimistic about the future.",
+    "A1"
+  ],
+  [
+    "guess",
+    "догадка; догадываться",
+    "I'd guess he's about thirty years old.",
+    "A1"
+  ],
+  [
+    "happen",
+    "происходить, случаться",
+    "What happened at the meeting?",
+    "A1"
+  ],
+  [
+    "help",
+    "помощь; помогать",
+    "Can you help me with this bag?",
+    "A1"
+  ],
+  [
+    "imagine",
+    "воображать, представлять",
+    "Imagine living on a tropical island.",
+    "A1"
+  ],
+  [
+    "important",
+    "важный",
+    "It's important to arrive on time.",
+    "A1"
+  ],
+  [
+    "improve",
+    "улучшать(ся)",
+    "Her English has really improved this year.",
+    "A1"
+  ],
+  [
+    "interest",
+    "интерес; интересовать",
+    "She has a strong interest in art.",
+    "A1"
+  ],
+  [
+    "interested",
+    "заинтересованный",
+    "I'm interested in learning more about it.",
+    "A1"
+  ],
+  [
+    "interesting",
+    "интересный",
+    "That's a really interesting question.",
+    "A1"
+  ],
+  [
+    "know",
+    "знать",
+    "Do you know what time it starts?",
+    "A1"
+  ],
+  [
+    "laugh",
+    "смеяться; смех",
+    "The joke made everyone laugh.",
+    "A1"
+  ],
+  [
+    "lie",
+    "лгать",
+    "He lied about where he'd been.",
+    "A1"
+  ],
+  [
+    "life",
+    "жизнь",
+    "She's had a very interesting life.",
+    "A1"
+  ],
+  [
+    "like (find sb/sth pleasant)",
+    "нравиться",
+    "I like this song a lot.",
+    "A1"
+  ],
+  [
+    "mean",
+    "значить, означать",
+    "What does this word mean?",
+    "A1"
+  ],
+  [
+    "look",
+    "смотреть, казаться",
+    "You look happy today.",
+    "A1"
+  ],
+  [
+    "mistake",
+    "заблуждение, ошибочное мнение",
+    "It's a common mistake among new speakers.",
+    "A1"
+  ],
+  [
+    "move",
+    "растрогать, взволновать",
+    "The film really moved me.",
+    "A1"
+  ],
+  [
+    "negative",
+    "отрицательный, негативный",
+    "Try not to be so negative about it.",
+    "A1"
+  ],
+  [
+    "nice",
+    "милый, приятный",
+    "It was nice to see you again.",
+    "A1"
+  ],
+  [
+    "object",
+    "предмет, объект",
+    "There was a strange object on the table.",
+    "A1"
+  ],
+  [
+    "perfect",
+    "идеальный",
+    "The weather was perfect for a picnic.",
+    "A1"
+  ],
+  [
+    "personal",
+    "личный",
+    "That's quite a personal question.",
+    "A1"
+  ],
+  [
+    "plan",
+    "план; планировать",
+    "We're planning a trip to Italy.",
+    "A1"
+  ],
+  [
+    "popular",
+    "популярный",
+    "The song is very popular right now.",
+    "A1"
+  ],
+  [
+    "positive",
+    "позитивный",
+    "Try to stay positive about the results.",
+    "A1"
+  ],
+  [
+    "prefer",
+    "предпочитать",
+    "I prefer tea to coffee.",
+    "A1"
+  ],
+  [
+    "problem",
+    "проблема",
+    "We have a small problem with the booking.",
+    "A1"
+  ],
+  [
+    "quiet",
+    "тихий",
+    "Please be quiet, the baby's asleep.",
+    "A1"
+  ],
+  [
+    "ready",
+    "готовый",
+    "Are you ready to go?",
+    "A1"
+  ],
+  [
+    "relax",
+    "расслабляться, отдыхать",
+    "Just relax, everything will be fine.",
+    "A1"
+  ],
+  [
+    "remember",
+    "помнить, вспоминать",
+    "Do you remember her name?",
+    "A1"
+  ],
+  [
+    "rule",
+    "правило",
+    "There's a strict no phones rule in class.",
+    "A1"
+  ],
+  [
+    "similar",
+    "похожий",
+    "The two dresses look quite similar.",
+    "A1"
+  ],
+  [
+    "situation",
+    "ситуация",
+    "It was a difficult situation to handle.",
+    "A1"
+  ],
+  [
+    "sorry",
+    "извиняющийся; жаль",
+    "I'm so sorry for being late.",
+    "A1"
+  ],
+  [
+    "special",
+    "особенный",
+    "This is a special day for our family.",
+    "A1"
+  ],
+  [
+    "strong",
+    "сильный",
+    "She has strong opinions about politics.",
+    "A1"
+  ],
+  [
+    "success",
+    "успех",
+    "The event was a huge success.",
+    "A1"
+  ],
+  [
+    "sure",
+    "уверенный",
+    "I'm not sure what to do next.",
+    "A1"
+  ],
+  [
+    "terrible",
+    "ужасный",
+    "The traffic this morning was terrible.",
+    "A1"
+  ],
+  [
+    "think",
+    "думать",
+    "What do you think about the plan?",
+    "A1"
+  ],
+  [
+    "true",
+    "верный, правдивый",
+    "Is it true that she's moving abroad?",
+    "A1"
+  ],
+  [
+    "understand",
+    "понимать",
+    "I don't understand this sentence.",
+    "A1"
+  ],
+  [
+    "useful",
+    "полезный",
+    "That's a very useful tip, thank you.",
+    "A1"
+  ],
+  [
+    "wonderful",
+    "замечательный",
+    "We had a wonderful time on holiday.",
+    "A1"
+  ],
+  [
+    "wrong",
+    "неправильный",
+    "Sorry, I think you have the wrong number.",
+    "A1"
+  ],
+  [
+    "young",
+    "молодой",
+    "She's still quite young for the role.",
+    "A1"
+  ],
+  [
+    "poor",
+    "плохого качества, слабый",
+    "It was a poor decision, in my opinion.",
+    "A1"
+  ],
+  [
+    "present",
+    "настоящее время, присутствующий",
+    "Focus on the present, not the past.",
+    "A1"
+  ],
+  [
+    "routine",
+    "рутина, обыденность",
+    "Try not to let life become too much of a routine.",
+    "A1"
+  ],
+  [
+    "show",
+    "показывать, демонстрировать",
+    "Her face showed how tired she was.",
+    "A1"
+  ],
+  [
+    "sound",
+    "звучать, казаться",
+    "That sounds like a great idea.",
+    "A1"
+  ],
+  [
+    "spend",
+    "проводить (время)",
+    "We spent the whole afternoon talking.",
+    "A1"
+  ],
+  [
+    "stay",
+    "оставаться",
+    "Let's stay friends, no matter what.",
+    "A1"
+  ],
+  [
+    "stop",
+    "останавливать(ся), прекращать",
+    "Please stop shouting.",
+    "A1"
+  ],
+  [
+    "warm",
+    "тёплый, сердечный (о человеке)",
+    "She has a warm, friendly personality.",
+    "A1"
+  ],
+  [
+    "ability",
+    "способность",
+    "He has a real ability to make people laugh.",
+    "A2"
+  ],
+  [
+    "accept",
+    "принимать (предложение)",
+    "She accepted his apology.",
+    "A2"
+  ],
+  [
+    "achieve",
+    "достигать",
+    "She worked hard to achieve her goals.",
+    "A2"
+  ],
+  [
+    "advantage",
+    "преимущество",
+    "Speaking two languages gives her an advantage.",
+    "A2"
+  ],
+  [
+    "affect",
+    "влиять, воздействовать",
+    "The news really affected her mood.",
+    "A2"
+  ],
+  [
+    "allow",
+    "разрешать, позволять",
+    "Her parents allowed her to stay out late.",
+    "A2"
+  ],
+  [
+    "alone",
+    "одинокий, в одиночестве",
+    "She prefers to travel alone.",
+    "A2"
+  ],
+  [
+    "appear",
+    "появляться, казаться",
+    "She suddenly appeared at the door.",
+    "A2"
+  ],
+  [
+    "argue",
+    "спорить",
+    "They argued about the best way to solve it.",
+    "A2"
+  ],
+  [
+    "argument",
+    "спор, аргумент",
+    "They had a small argument about money.",
+    "A2"
+  ],
+  [
+    "attention",
+    "внимание",
+    "Pay attention, this is important.",
+    "A2"
+  ],
+  [
+    "average",
+    "средний",
+    "He has an average level of English.",
+    "A2"
+  ],
+  [
+    "avoid",
+    "избегать",
+    "Try to avoid making the same mistake twice.",
+    "A2"
+  ],
+  [
+    "awful",
+    "ужасный",
+    "The weather was awful all week.",
+    "A2"
+  ],
+  [
+    "background",
+    "происхождение, бэкграунд",
+    "She comes from a musical background.",
+    "A2"
+  ],
+  [
+    "belong",
+    "принадлежать",
+    "This book belongs to my sister.",
+    "A2"
+  ],
+  [
+    "blow",
+    "дуть",
+    "The wind blew all night.",
+    "A2"
+  ],
+  [
+    "brilliant",
+    "блестящий, замечательный",
+    "That's a brilliant idea!",
+    "A2"
+  ],
+  [
+    "cause",
+    "причина; вызывать, быть причиной",
+    "Stress can cause a lot of health problems.",
+    "A2"
+  ],
+  [
+    "certain",
+    "определённый, уверенный",
+    "I'm certain she'll say yes.",
+    "A2"
+  ],
+  [
+    "chance",
+    "шанс, возможность",
+    "This is your chance to try something new.",
+    "A2"
+  ],
+  [
+    "choice",
+    "выбор",
+    "You have two choices: stay or go.",
+    "A2"
+  ],
+  [
+    "clear",
+    "ясный, понятный",
+    "Her explanation was very clear.",
+    "A2"
+  ],
+  [
+    "comfortable",
+    "удобный, комфортный",
+    "This chair is really comfortable.",
+    "A2"
+  ],
+  [
+    "consider",
+    "считать, рассматривать",
+    "We should consider all the options.",
+    "A2"
+  ],
+  [
+    "crazy",
+    "сумасшедший",
+    "It's crazy how fast time goes.",
+    "A2"
+  ],
+  [
+    "cry",
+    "плакать",
+    "She cried when she heard the news.",
+    "A2"
+  ],
+  [
+    "danger",
+    "опасность",
+    "There's no danger in trying.",
+    "A2"
+  ],
+  [
+    "decision",
+    "решение",
+    "It was a difficult decision to make.",
+    "A2"
+  ],
+  [
+    "depend",
+    "зависеть",
+    "It depends on the weather.",
+    "A2"
+  ],
+  [
+    "destroy",
+    "уничтожать",
+    "The fire destroyed most of the building.",
+    "A2"
+  ],
+  [
+    "diary",
+    "дневник",
+    "She writes in her diary every night.",
+    "A2"
+  ],
+  [
+    "disagree",
+    "не соглашаться",
+    "I disagree with what he said.",
+    "A2"
+  ],
+  [
+    "disappear",
+    "исчезать",
+    "The cat disappeared under the bed.",
+    "A2"
+  ],
+  [
+    "disaster",
+    "катастрофа, бедствие",
+    "Forgetting the tickets was a total disaster.",
+    "A2"
+  ],
+  [
+    "dream",
+    "мечта; мечтать",
+    "She dreams of becoming a doctor.",
+    "A2"
+  ],
+  [
+    "effect",
+    "эффект, воздействие",
+    "The medicine had an immediate effect.",
+    "A2"
+  ],
+  [
+    "enormous",
+    "огромный",
+    "They live in an enormous house.",
+    "A2"
+  ],
+  [
+    "bright",
+    "способный, сообразительный",
+    "He's a bright student, always top of the class.",
+    "A2"
+  ],
+  [
+    "care",
+    "беспокоиться, переживать",
+    "She really cares about her friends.",
+    "A2"
+  ],
+  [
+    "control",
+    "самоконтроль, контроль над собой",
+    "He struggled to keep control of his emotions.",
+    "A2"
+  ],
+  [
+    "deep",
+    "глубокий (о мысли, чувстве)",
+    "It was a deep and meaningful conversation.",
+    "A2"
+  ],
+  [
+    "develop",
+    "развиваться (о ситуации)",
+    "The plot develops slowly over the film.",
+    "A2"
+  ],
+  [
+    "excellent",
+    "отличный, превосходный",
+    "She did an excellent job on the project.",
+    "A2"
+  ],
+  [
+    "exist",
+    "существовать",
+    "Such kindness rarely exists these days.",
+    "A2"
+  ],
+  [
+    "expect",
+    "ожидать",
+    "I expect she'll be late again.",
+    "A2"
+  ],
+  [
+    "experience",
+    "опыт",
+    "It was an unforgettable experience.",
+    "A2"
+  ],
+  [
+    "extreme",
+    "крайний, экстремальный",
+    "He took extreme measures to fix it.",
+    "A2"
+  ],
+  [
+    "factor",
+    "фактор",
+    "Price is an important factor for most buyers.",
+    "A2"
+  ],
+  [
+    "focus",
+    "фокус, внимание; фокусироваться",
+    "Try to focus on one task at a time.",
+    "A2"
+  ],
+  [
+    "fun",
+    "весёлый, забавный",
+    "The party was really fun.",
+    "A2"
+  ],
+  [
+    "habit",
+    "привычка",
+    "Reading before bed is a good habit.",
+    "A2"
+  ],
+  [
+    "helpful",
+    "полезный, готовый помочь",
+    "The staff were very helpful.",
+    "A2"
+  ],
+  [
+    "hide",
+    "прятать(ся)",
+    "She hid her true feelings from everyone.",
+    "A2"
+  ],
+  [
+    "human",
+    "человек; человеческий",
+    "It's a very human reaction to be scared.",
+    "A2"
+  ],
+  [
+    "ideal",
+    "идеальный",
+    "It's not an ideal situation, but it will work.",
+    "A2"
+  ],
+  [
+    "identify",
+    "опознавать, идентифицировать",
+    "It's important to identify the problem early.",
+    "A2"
+  ],
+  [
+    "impossible",
+    "невозможный",
+    "It felt impossible to finish on time.",
+    "A2"
+  ],
+  [
+    "incredible",
+    "невероятный",
+    "She has incredible patience with the children.",
+    "A2"
+  ],
+  [
+    "individual",
+    "человек, личность; индивидуальный",
+    "Every individual has the right to be heard.",
+    "A2"
+  ],
+  [
+    "intelligent",
+    "умный",
+    "She's one of the most intelligent people I know.",
+    "A2"
+  ],
+  [
+    "involve",
+    "вовлекать, включать в себя",
+    "The plan involves a lot of teamwork.",
+    "A2"
+  ],
+  [
+    "joke",
+    "шутка; шутить",
+    "He's always joking around.",
+    "A2"
+  ],
+  [
+    "laughter",
+    "смех",
+    "The room was filled with laughter.",
+    "A2"
+  ],
+  [
+    "lifestyle",
+    "образ жизни",
+    "She has a very active lifestyle.",
+    "A2"
+  ],
+  [
+    "loud",
+    "громкий",
+    "The music was far too loud.",
+    "A2"
+  ],
+  [
+    "increase",
+    "усиливаться, расти (об эмоциях)",
+    "Her confidence increased after the interview.",
+    "A2"
+  ],
+  [
+    "independent",
+    "самостоятельный (о человеке)",
+    "She's always been very independent.",
+    "A2"
+  ],
+  [
+    "link",
+    "связь, взаимосвязь",
+    "There's a strong link between the two events.",
+    "A2"
+  ],
+  [
+    "lost",
+    "растерянный, сбитый с толку",
+    "He looked completely lost after the news.",
+    "A2"
+  ],
+  [
+    "lovely",
+    "прекрасный, милый",
+    "It was such a lovely evening.",
+    "A2"
+  ],
+  [
+    "low",
+    "низкий (о настроении, уровне)",
+    "She's been feeling a bit low lately.",
+    "A2"
+  ],
+  [
+    "luck",
+    "удача",
+    "Good luck with your exam tomorrow.",
+    "A2"
+  ],
+  [
+    "lucky",
+    "удачливый",
+    "You're lucky to have such good friends.",
+    "A2"
+  ],
+  [
+    "manner",
+    "манера, способ",
+    "He spoke in a calm, gentle manner.",
+    "A2"
+  ],
+  [
+    "matter",
+    "дело, вопрос; иметь значение",
+    "It doesn't matter what people think.",
+    "A2"
+  ],
+  [
+    "memory",
+    "память, воспоминание",
+    "It's a memory she'll treasure forever.",
+    "A2"
+  ],
+  [
+    "mind",
+    "разум; возражать",
+    "Would you mind opening the window?",
+    "A2"
+  ],
+  [
+    "missing",
+    "пропавший, отсутствующий",
+    "Something felt missing from her life.",
+    "A2"
+  ],
+  [
+    "need",
+    "потребность",
+    "There's no need to apologise.",
+    "A2"
+  ],
+  [
+    "noise",
+    "шум",
+    "What's that strange noise?",
+    "A2"
+  ],
+  [
+    "noisy",
+    "шумный",
+    "The classroom was too noisy to concentrate.",
+    "A2"
+  ],
+  [
+    "notice",
+    "замечать; объявление",
+    "I noticed she looked upset.",
+    "A2"
+  ],
+  [
+    "option",
+    "вариант, опция",
+    "We don't really have another option.",
+    "A2"
+  ],
+  [
+    "ordinary",
+    "обычный, заурядный",
+    "It was just an ordinary day.",
+    "A2"
+  ],
+  [
+    "original",
+    "оригинальный, изначальный",
+    "That's a really original idea.",
+    "A2"
+  ],
+  [
+    "pick",
+    "выбирать",
+    "It's hard to pick just one favourite.",
+    "A2"
+  ],
+  [
+    "please",
+    "радовать, угождать",
+    "It's impossible to please everyone.",
+    "A2"
+  ],
+  [
+    "possession",
+    "обладание, имущество",
+    "She lost all her possessions in the fire.",
+    "A2"
+  ],
+  [
+    "predict",
+    "предсказывать",
+    "Nobody could predict what would happen next.",
+    "A2"
+  ],
+  [
+    "opportunity",
+    "возможность (в жизни)",
+    "This is a great opportunity to travel.",
+    "A2"
+  ],
+  [
+    "pattern",
+    "закономерность, модель поведения",
+    "There's a clear pattern in his behaviour.",
+    "A2"
+  ],
+  [
+    "permission",
+    "разрешение (позволение)",
+    "She asked for permission to leave early.",
+    "A2"
+  ],
+  [
+    "position",
+    "позиция, точка зрения",
+    "I understand your position on this.",
+    "A2"
+  ],
+  [
+    "prevent",
+    "предотвращать, препятствовать",
+    "Nothing could prevent the accident.",
+    "A2"
+  ],
+  [
+    "progress",
+    "прогресс, продвижение",
+    "She's made great progress this year.",
+    "A2"
+  ],
+  [
+    "promise",
+    "обещание; обещать",
+    "He promised to call her back.",
+    "A2"
+  ],
+  [
+    "protect",
+    "защищать",
+    "Parents naturally want to protect their children.",
+    "A2"
+  ],
+  [
+    "react",
+    "реагировать",
+    "She reacted calmly to the bad news.",
+    "A2"
+  ],
+  [
+    "realize",
+    "осознавать, понимать",
+    "I didn't realize how late it was.",
+    "A2"
+  ],
+  [
+    "recognize",
+    "узнавать, распознавать",
+    "I hardly recognized her with short hair.",
+    "A2"
+  ],
+  [
+    "recommend",
+    "рекомендовать",
+    "I'd recommend this book to anyone.",
+    "A2"
+  ],
+  [
+    "refuse",
+    "отказываться",
+    "She refused to give up.",
+    "A2"
+  ],
+  [
+    "safe",
+    "безопасный",
+    "I feel safe when I'm with my family.",
+    "A2"
+  ],
+  [
+    "quality",
+    "качество (личности)",
+    "She has many good qualities.",
+    "A2"
+  ],
+  [
+    "replace",
+    "замещать, приходить на смену",
+    "Nothing can replace a good friend.",
+    "A2"
+  ],
+  [
+    "secret",
+    "секрет; секретный",
+    "She kept the secret for years.",
+    "A2"
+  ],
+  [
+    "seem",
+    "казаться",
+    "You seem a bit tired today.",
+    "A2"
+  ],
+  [
+    "sense",
+    "смысл, чувство",
+    "There's no sense in worrying about it now.",
+    "A2"
+  ],
+  [
+    "shake",
+    "трясти; пожимать (руку)",
+    "Her hands were shaking with nerves.",
+    "A2"
+  ],
+  [
+    "shape",
+    "форма",
+    "Their friendship shaped her whole life.",
+    "A2"
+  ],
+  [
+    "sign",
+    "признак, знак",
+    "It's a good sign that she called back.",
+    "A2"
+  ],
+  [
+    "soft",
+    "мягкий, нежный",
+    "He has a soft spot for animals.",
+    "A2"
+  ],
+  [
+    "solution",
+    "решение (проблемы)",
+    "We finally found a solution to the problem.",
+    "A2"
+  ],
+  [
+    "solve",
+    "решать (проблему)",
+    "It took hours to solve the puzzle.",
+    "A2"
+  ],
+  [
+    "smell",
+    "нюхать, обонять",
+    "She could smell that something was wrong.",
+    "A2"
+  ],
+  [
+    "suggest",
+    "предлагать (идею)",
+    "I suggest we wait a little longer.",
+    "A2"
+  ],
+  [
+    "suggestion",
+    "предложение (идея)",
+    "Thanks for the suggestion, I'll try it.",
+    "A2"
+  ],
+  [
+    "support",
+    "поддержка; поддерживать",
+    "Her family supported her decision.",
+    "A2"
+  ],
+  [
+    "suppose",
+    "предполагать",
+    "I suppose you're right.",
+    "A2"
+  ],
+  [
+    "surprise",
+    "сюрприз, удивление; удивлять",
+    "It came as a complete surprise.",
+    "A2"
+  ],
+  [
+    "symbol",
+    "символ",
+    "The dove is a symbol of peace.",
+    "A2"
+  ],
+  [
+    "thinking",
+    "мышление",
+    "Her thinking has changed a lot recently.",
+    "A2"
+  ],
+  [
+    "touch",
+    "трогать, прикасаться",
+    "The story really touched me.",
+    "A2"
+  ],
+  [
+    "trouble",
+    "проблема, беда",
+    "She's been having trouble sleeping.",
+    "A2"
+  ],
+  [
+    "typical",
+    "типичный",
+    "That's typical of him, always late.",
+    "A2"
+  ],
+  [
+    "understanding",
+    "понимание",
+    "They reached an understanding after the talk.",
+    "A2"
+  ],
+  [
+    "unhappy",
+    "несчастливый",
+    "He seemed unhappy about the decision.",
+    "A2"
+  ],
+  [
+    "unusual",
+    "необычный",
+    "It's unusual for her to be so quiet.",
+    "A2"
+  ],
+  [
+    "variety",
+    "разнообразие",
+    "She likes a variety of things to do.",
+    "A2"
+  ],
+  [
+    "wish",
+    "желание; желать",
+    "I wish I could help you more.",
+    "A2"
+  ],
+  [
+    "view",
+    "точка зрения, мнение",
+    "In my view, it's the wrong decision.",
+    "A2"
+  ],
+  [
+    "weak",
+    "слабый (аргумент, характер)",
+    "His argument was pretty weak.",
+    "A2"
+  ],
+  [
+    "strange",
+    "странный",
+    "It felt strange being back home.",
+    "A2"
+  ],
+  [
+    "succeed",
+    "преуспевать, добиваться успеха",
+    "She worked hard and finally succeeded.",
+    "A2"
+  ],
+  [
+    "successful",
+    "успешный",
+    "The event was very successful.",
+    "A2"
+  ]
+]

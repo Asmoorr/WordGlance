@@ -1,0 +1,2918 @@
+[
+  [
+    "culture",
+    "культура",
+    "Every country has its own unique culture.",
+    "A1"
+  ],
+  [
+    "police",
+    "полиция",
+    "The police arrived within minutes.",
+    "A1"
+  ],
+  [
+    "army",
+    "армия",
+    "He joined the army when he was eighteen.",
+    "A2"
+  ],
+  [
+    "church",
+    "церковь",
+    "They got married in a small church.",
+    "A2"
+  ],
+  [
+    "community",
+    "сообщество, община",
+    "The local community organised a charity event.",
+    "A2"
+  ],
+  [
+    "crime",
+    "преступление",
+    "Crime has fallen in the city this year.",
+    "A2"
+  ],
+  [
+    "criminal",
+    "преступник",
+    "The criminal was caught by the police.",
+    "A2"
+  ],
+  [
+    "god",
+    "бог",
+    "Many religions believe in one god.",
+    "A2"
+  ],
+  [
+    "government",
+    "правительство",
+    "The government announced new tax rules.",
+    "A2"
+  ],
+  [
+    "gun",
+    "оружие (огнестрельное)",
+    "The museum has a display of old guns.",
+    "A2"
+  ],
+  [
+    "international",
+    "международный",
+    "She works for an international company.",
+    "A2"
+  ],
+  [
+    "law",
+    "закон",
+    "It's against the law to park here.",
+    "A2"
+  ],
+  [
+    "lawyer",
+    "юрист, адвокат",
+    "She hired a lawyer to handle the case.",
+    "A2"
+  ],
+  [
+    "national",
+    "национальный",
+    "It's a matter of national importance.",
+    "A2"
+  ],
+  [
+    "peace",
+    "мир (не война)",
+    "The two countries finally made peace.",
+    "A2"
+  ],
+  [
+    "president",
+    "президент",
+    "The president gave a speech on television.",
+    "A2"
+  ],
+  [
+    "prison",
+    "тюрьма",
+    "He spent five years in prison.",
+    "A2"
+  ],
+  [
+    "social",
+    "социальный, общественный",
+    "Social media has changed how we communicate.",
+    "A2"
+  ],
+  [
+    "society",
+    "общество",
+    "Education is important for society as a whole.",
+    "A2"
+  ],
+  [
+    "soldier",
+    "солдат",
+    "The soldier returned home after the war.",
+    "A2"
+  ],
+  [
+    "war",
+    "война",
+    "The war lasted almost ten years.",
+    "A2"
+  ],
+  [
+    "arrest",
+    "арестовывать; арест",
+    "The police made an arrest last night.",
+    "B1"
+  ],
+  [
+    "authority",
+    "власть; орган власти",
+    "The local authority is responsible for the roads.",
+    "B1"
+  ],
+  [
+    "court",
+    "суд",
+    "The case will go to court next month.",
+    "B1"
+  ],
+  [
+    "criminal",
+    "преступный, уголовный",
+    "He was charged with criminal activity.",
+    "B1"
+  ],
+  [
+    "cultural",
+    "культурный",
+    "The festival celebrates cultural diversity.",
+    "B1"
+  ],
+  [
+    "election",
+    "выборы",
+    "The election will be held in June.",
+    "B1"
+  ],
+  [
+    "illegal",
+    "незаконный",
+    "It's illegal to drive without a licence.",
+    "B1"
+  ],
+  [
+    "immigrant",
+    "иммигрант",
+    "Many immigrants have found work in the city.",
+    "B1"
+  ],
+  [
+    "judge",
+    "судья; судить, оценивать",
+    "The judge sentenced him to two years in prison.",
+    "B1"
+  ],
+  [
+    "legal",
+    "законный, юридический",
+    "They took legal action against the company.",
+    "B1"
+  ],
+  [
+    "nation",
+    "нация, страна",
+    "The whole nation celebrated the victory.",
+    "B1"
+  ],
+  [
+    "official",
+    "официальный",
+    "This is the official website of the city council.",
+    "B1"
+  ],
+  [
+    "policy",
+    "политика (курс действий)",
+    "The company changed its return policy.",
+    "B1"
+  ],
+  [
+    "political",
+    "политический",
+    "She's not very interested in political news.",
+    "B1"
+  ],
+  [
+    "politician",
+    "политик",
+    "The politician promised to lower taxes.",
+    "B1"
+  ],
+  [
+    "politics",
+    "политика (наука/деятельность)",
+    "They often argue about politics at dinner.",
+    "B1"
+  ],
+  [
+    "poverty",
+    "бедность",
+    "The charity helps families living in poverty.",
+    "B1"
+  ],
+  [
+    "prisoner",
+    "заключённый",
+    "The prisoner was released after ten years.",
+    "B1"
+  ],
+  [
+    "protest",
+    "протест; протестовать",
+    "Thousands joined the protest in the city centre.",
+    "B1"
+  ],
+  [
+    "punish",
+    "наказывать",
+    "The school punished students for cheating.",
+    "B1"
+  ],
+  [
+    "punishment",
+    "наказание",
+    "The punishment for the crime was severe.",
+    "B1"
+  ],
+  [
+    "religion",
+    "религия",
+    "They discussed different religions in class.",
+    "B1"
+  ],
+  [
+    "religious",
+    "религиозный",
+    "She comes from a very religious family.",
+    "B1"
+  ],
+  [
+    "vote",
+    "голос; голосовать",
+    "Every citizen has the right to vote.",
+    "B1"
+  ],
+  [
+    "weapon",
+    "оружие",
+    "The soldiers carried heavy weapons.",
+    "B1"
+  ],
+  [
+    "citizen",
+    "гражданин",
+    "She became a British citizen last year.",
+    "B2"
+  ],
+  [
+    "conflict",
+    "конфликт; конфликтовать",
+    "The conflict between the two countries continued.",
+    "B2"
+  ],
+  [
+    "council",
+    "совет (орган власти)",
+    "The city council approved the new park.",
+    "B2"
+  ],
+  [
+    "freedom",
+    "свобода",
+    "They fought for freedom and independence.",
+    "B2"
+  ],
+  [
+    "justice",
+    "правосудие, справедливость",
+    "The family is still seeking justice.",
+    "B2"
+  ],
+  [
+    "military",
+    "военный",
+    "He served in the military for ten years.",
+    "B2"
+  ],
+  [
+    "minister",
+    "министр",
+    "The foreign minister met with reporters.",
+    "B2"
+  ],
+  [
+    "national",
+    "гражданин (какой-л. страны)",
+    "Only nationals can vote in the election.",
+    "B2"
+  ],
+  [
+    "official",
+    "должностное лицо, чиновник",
+    "A government official confirmed the news.",
+    "B2"
+  ],
+  [
+    "parliament",
+    "парламент",
+    "The new law was passed by parliament.",
+    "B2"
+  ],
+  [
+    "regulation",
+    "нормативный акт, регулирование",
+    "The company follows strict safety regulations.",
+    "B2"
+  ],
+  [
+    "revolution",
+    "революция",
+    "The revolution changed the country forever.",
+    "B2"
+  ],
+  [
+    "wealth",
+    "богатство",
+    "The family built their wealth over generations.",
+    "B2"
+  ],
+  [
+    "witness",
+    "свидетель; быть свидетелем",
+    "A witness described what happened at the scene.",
+    "B2"
+  ],
+  [
+    "colony",
+    "колония",
+    "The country was once a British colony.",
+    "B2"
+  ],
+  [
+    "democracy",
+    "демократия",
+    "The country became a democracy in the 1990s.",
+    "B2"
+  ],
+  [
+    "democratic",
+    "демократический",
+    "They held their first democratic elections.",
+    "B2"
+  ],
+  [
+    "governor",
+    "губернатор",
+    "The governor visited the flooded area.",
+    "B2"
+  ],
+  [
+    "immigration",
+    "иммиграция",
+    "Immigration is a major political issue.",
+    "B2"
+  ],
+  [
+    "independence",
+    "независимость",
+    "The country gained independence in 1960.",
+    "B2"
+  ],
+  [
+    "jury",
+    "присяжные",
+    "The jury found him not guilty.",
+    "B2"
+  ],
+  [
+    "mayor",
+    "мэр",
+    "The mayor opened the new library.",
+    "B2"
+  ],
+  [
+    "racism",
+    "расизм",
+    "The school runs programmes to fight racism.",
+    "B2"
+  ],
+  [
+    "refugee",
+    "беженец",
+    "The city welcomed thousands of refugees.",
+    "B2"
+  ],
+  [
+    "terrorism",
+    "терроризм",
+    "The government introduced new laws against terrorism.",
+    "B2"
+  ],
+  [
+    "terrorist",
+    "террорист",
+    "The terrorist attack shocked the whole country.",
+    "B2"
+  ],
+  [
+    "voting",
+    "голосование",
+    "Voting starts at eight in the morning.",
+    "B2"
+  ],
+  [
+    "welfare",
+    "социальное обеспечение, благополучие",
+    "The welfare system supports unemployed families.",
+    "B2"
+  ],
+  [
+    "alliance",
+    "альянс, союз",
+    "The two countries formed a strong alliance.",
+    "C1"
+  ],
+  [
+    "ambassador",
+    "посол",
+    "The ambassador spoke at the conference.",
+    "C1"
+  ],
+  [
+    "bureaucracy",
+    "бюрократия",
+    "There's a lot of bureaucracy involved in getting a visa.",
+    "C1"
+  ],
+  [
+    "citizenship",
+    "гражданство",
+    "She applied for British citizenship last year.",
+    "C1"
+  ],
+  [
+    "colonial",
+    "колониальный",
+    "The building dates back to the colonial period.",
+    "C1"
+  ],
+  [
+    "constitution",
+    "конституция",
+    "The constitution guarantees freedom of speech.",
+    "C1"
+  ],
+  [
+    "constitutional",
+    "конституционный",
+    "The court ruled the law unconstitutional.",
+    "C1"
+  ],
+  [
+    "councillor",
+    "член совета (депутат)",
+    "She was elected as a local councillor.",
+    "C1"
+  ],
+  [
+    "coup",
+    "государственный переворот",
+    "The country's president was removed in a coup.",
+    "C1"
+  ],
+  [
+    "dictator",
+    "диктатор",
+    "The dictator ruled the country for thirty years.",
+    "C1"
+  ],
+  [
+    "diplomat",
+    "дипломат",
+    "The diplomat represented her country abroad.",
+    "C1"
+  ],
+  [
+    "diplomatic",
+    "дипломатичный",
+    "He handled the situation in a diplomatic way.",
+    "C1"
+  ],
+  [
+    "discrimination",
+    "дискриминация",
+    "The company was accused of discrimination.",
+    "C1"
+  ],
+  [
+    "embassy",
+    "посольство",
+    "She works at the embassy in Paris.",
+    "C1"
+  ],
+  [
+    "equality",
+    "равенство",
+    "The movement fights for gender equality.",
+    "C1"
+  ],
+  [
+    "ideology",
+    "идеология",
+    "The two parties have very different ideologies.",
+    "C1"
+  ],
+  [
+    "inequality",
+    "неравенство",
+    "Income inequality has increased in recent years.",
+    "C1"
+  ],
+  [
+    "lawsuit",
+    "судебный иск",
+    "The company faces a lawsuit over the accident.",
+    "C1"
+  ],
+  [
+    "legislation",
+    "законодательство",
+    "New legislation was introduced last month.",
+    "C1"
+  ],
+  [
+    "propaganda",
+    "пропаганда",
+    "The posters were used as wartime propaganda.",
+    "C1"
+  ],
+  [
+    "rebellion",
+    "восстание, бунт",
+    "The rebellion was quickly put down.",
+    "C1"
+  ],
+  [
+    "sanction",
+    "санкция",
+    "The country faced international sanctions.",
+    "C1"
+  ],
+  [
+    "senator",
+    "сенатор",
+    "The senator gave a speech about healthcare.",
+    "C1"
+  ],
+  [
+    "testimony",
+    "свидетельские показания",
+    "Her testimony helped convict the criminal.",
+    "C1"
+  ],
+  [
+    "treaty",
+    "договор (международный)",
+    "The two countries signed a peace treaty.",
+    "C1"
+  ],
+  [
+    "tribunal",
+    "трибунал",
+    "The case was brought before a tribunal.",
+    "C1"
+  ],
+  [
+    "verdict",
+    "вердикт, приговор",
+    "The jury reached a verdict after two days.",
+    "C1"
+  ],
+  [
+    "arms",
+    "оружие",
+    "The rebels were supplied with arms.",
+    "B2"
+  ],
+  [
+    "arm",
+    "вооружать(ся)",
+    "The rebels armed themselves for the fight.",
+    "C1"
+  ],
+  [
+    "class",
+    "(социальный) класс",
+    "The gap between social classes is growing.",
+    "A1"
+  ],
+  [
+    "climate",
+    "обстановка, климат (напр. политический)",
+    "The political climate has changed a lot recently.",
+    "A2"
+  ],
+  [
+    "cell",
+    "камера (тюремная)",
+    "The prisoner was held in a small cell.",
+    "B2"
+  ],
+  [
+    "sentence",
+    "приговаривать (в суде)",
+    "He was sentenced to five years in prison.",
+    "B2"
+  ],
+  [
+    "plot",
+    "замышлять, устраивать заговор",
+    "They were accused of plotting against the government.",
+    "B2"
+  ],
+  [
+    "party",
+    "партия (политическая)",
+    "She's a member of the ruling party.",
+    "A1"
+  ],
+  [
+    "abolish",
+    "отменять (закон)",
+    "The country abolished the death penalty in 1965.",
+    "C1"
+  ],
+  [
+    "abuse",
+    "жестокое обращение; злоупотребление",
+    "The report documented widespread human rights abuse.",
+    "C1"
+  ],
+  [
+    "accountability",
+    "подотчётность",
+    "Voters are demanding more accountability from politicians.",
+    "C1"
+  ],
+  [
+    "accountable",
+    "подотчётный, ответственный",
+    "Officials should be held accountable for their decisions.",
+    "C1"
+  ],
+  [
+    "accusation",
+    "обвинение",
+    "He denied the accusation of corruption.",
+    "C1"
+  ],
+  [
+    "accused",
+    "обвиняемый",
+    "The accused pleaded not guilty in court.",
+    "C1"
+  ],
+  [
+    "activist",
+    "активист",
+    "She's a well-known human rights activist.",
+    "C1"
+  ],
+  [
+    "advocate",
+    "сторонник; выступать за",
+    "He advocates for stronger environmental laws.",
+    "C1"
+  ],
+  [
+    "aftermath",
+    "последствия (напр. войны, катастрофы)",
+    "The country struggled to rebuild in the aftermath of the war.",
+    "C1"
+  ],
+  [
+    "aide",
+    "помощник (напр. политика)",
+    "The senator's aide arranged the meeting.",
+    "C1"
+  ],
+  [
+    "allegation",
+    "обвинение, утверждение (недоказанное)",
+    "The company denied the allegations of fraud.",
+    "C1"
+  ],
+  [
+    "allege",
+    "утверждать (без доказательств)",
+    "The report alleges that officials accepted bribes.",
+    "C1"
+  ],
+  [
+    "allegedly",
+    "предположительно, якобы",
+    "He was allegedly involved in the scandal.",
+    "C1"
+  ],
+  [
+    "ally",
+    "союзник",
+    "The two countries have been allies for decades.",
+    "C1"
+  ],
+  [
+    "amend",
+    "вносить поправки (в закон)",
+    "Parliament voted to amend the constitution.",
+    "C1"
+  ],
+  [
+    "amendment",
+    "поправка",
+    "The amendment guarantees freedom of speech.",
+    "C1"
+  ],
+  [
+    "angel",
+    "ангел",
+    "The painting shows an angel above the church.",
+    "C1"
+  ],
+  [
+    "assassination",
+    "убийство (политическое)",
+    "The assassination shocked the entire nation.",
+    "C1"
+  ],
+  [
+    "assault",
+    "нападение; нападать",
+    "He was charged with assault after the fight.",
+    "C1"
+  ],
+  [
+    "assembly",
+    "собрание, ассамблея",
+    "The bill was passed by the national assembly.",
+    "C1"
+  ],
+  [
+    "asylum",
+    "убежище (политическое)",
+    "The family sought asylum after fleeing the war.",
+    "C1"
+  ],
+  [
+    "atrocity",
+    "зверство, злодеяние",
+    "The tribunal investigated wartime atrocities.",
+    "C1"
+  ],
+  [
+    "attorney",
+    "адвокат, юрист",
+    "She hired an attorney to handle the case.",
+    "C1"
+  ],
+  [
+    "autonomy",
+    "автономия",
+    "The region was granted greater autonomy.",
+    "C1"
+  ],
+  [
+    "bail",
+    "залог (судебный)",
+    "He was released on bail until the trial.",
+    "C1"
+  ],
+  [
+    "ballot",
+    "бюллетень (для голосования)",
+    "Voters marked their choice on the ballot.",
+    "C1"
+  ],
+  [
+    "battlefield",
+    "поле боя",
+    "Many soldiers never returned from the battlefield.",
+    "C1"
+  ],
+  [
+    "bishop",
+    "епископ",
+    "The bishop led the ceremony at the cathedral.",
+    "C1"
+  ],
+  [
+    "blast",
+    "взрыв",
+    "The blast destroyed several buildings in the area.",
+    "C1"
+  ],
+  [
+    "bless",
+    "благословлять",
+    "The priest blessed the newlyweds.",
+    "C1"
+  ],
+  [
+    "blessing",
+    "благословение",
+    "The elders gave their blessing to the marriage.",
+    "C1"
+  ],
+  [
+    "breach",
+    "нарушение (закона, договора); нарушать",
+    "The leak was a serious breach of security.",
+    "C1"
+  ],
+  [
+    "cabinet",
+    "кабинет министров",
+    "The prime minister met with the cabinet this morning.",
+    "C1"
+  ],
+  [
+    "adoption",
+    "принятие (закона, политики)",
+    "The adoption of the new policy took years of debate.",
+    "C1"
+  ],
+  [
+    "aggression",
+    "агрессия (военная)",
+    "The UN condemned the act of military aggression.",
+    "C1"
+  ],
+  [
+    "alien",
+    "иностранный (юр.)",
+    "The law applies to citizens and alien residents alike.",
+    "C1"
+  ],
+  [
+    "capitalism",
+    "капитализм",
+    "The book criticises modern capitalism.",
+    "C1"
+  ],
+  [
+    "capitalist",
+    "капиталистический",
+    "They live in a capitalist economy.",
+    "C1"
+  ],
+  [
+    "casualty",
+    "жертва, пострадавший",
+    "The conflict caused thousands of casualties.",
+    "C1"
+  ],
+  [
+    "chamber",
+    "палата (парламента)",
+    "The bill was debated in the upper chamber.",
+    "C1"
+  ],
+  [
+    "civic",
+    "гражданский",
+    "Voting is an important civic duty.",
+    "C1"
+  ],
+  [
+    "civilian",
+    "гражданский (не военный)",
+    "The attack killed several civilians.",
+    "C1"
+  ],
+  [
+    "clash",
+    "столкновение",
+    "There was a clash between protesters and police.",
+    "C1"
+  ],
+  [
+    "coalition",
+    "коалиция",
+    "The two parties formed a coalition government.",
+    "C1"
+  ],
+  [
+    "collective",
+    "коллективный",
+    "The decision was made through collective agreement.",
+    "C1"
+  ],
+  [
+    "combat",
+    "бой, борьба; бороться",
+    "New laws were introduced to combat crime.",
+    "C1"
+  ],
+  [
+    "commissioner",
+    "комиссар, уполномоченный",
+    "The police commissioner announced new measures.",
+    "C1"
+  ],
+  [
+    "communist",
+    "коммунистический",
+    "The country was ruled by a communist party for decades.",
+    "C1"
+  ],
+  [
+    "concession",
+    "уступка",
+    "Both sides made concessions to reach an agreement.",
+    "C1"
+  ],
+  [
+    "condemn",
+    "осуждать",
+    "World leaders condemned the attack.",
+    "C1"
+  ],
+  [
+    "confrontation",
+    "конфронтация",
+    "The meeting ended in a heated confrontation.",
+    "C1"
+  ],
+  [
+    "congregation",
+    "прихожане, паства",
+    "The congregation gathered for Sunday service.",
+    "C1"
+  ],
+  [
+    "congressional",
+    "относящийся к конгрессу",
+    "The bill needs congressional approval.",
+    "C1"
+  ],
+  [
+    "conquer",
+    "завоёвывать",
+    "The empire conquered much of the region.",
+    "C1"
+  ],
+  [
+    "consensus",
+    "консенсус",
+    "The committee reached a consensus after hours of talks.",
+    "C1"
+  ],
+  [
+    "constituency",
+    "избирательный округ",
+    "The MP represents a large rural constituency.",
+    "C1"
+  ],
+  [
+    "convict",
+    "осуждать (в суде)",
+    "The jury convicted him of theft.",
+    "C1"
+  ],
+  [
+    "conviction",
+    "судимость",
+    "His conviction was later overturned on appeal.",
+    "C1"
+  ],
+  [
+    "cop",
+    "полицейский (разг.)",
+    "A cop was directing traffic outside the station.",
+    "C1"
+  ],
+  [
+    "corrupt",
+    "коррумпированный",
+    "The official was found to be corrupt.",
+    "C1"
+  ],
+  [
+    "corruption",
+    "коррупция",
+    "The government promised to fight corruption.",
+    "C1"
+  ],
+  [
+    "crown",
+    "корона",
+    "The prince will inherit the crown one day.",
+    "C1"
+  ],
+  [
+    "cult",
+    "культ",
+    "Members of the cult lived together in isolation.",
+    "C1"
+  ],
+  [
+    "custody",
+    "опека (детей); содержание под стражей",
+    "The suspect was taken into custody by police.",
+    "C1"
+  ],
+  [
+    "declaration",
+    "декларация, заявление",
+    "The declaration was signed by all member states.",
+    "C1"
+  ],
+  [
+    "delegate",
+    "делегат",
+    "Each country sent a delegate to the conference.",
+    "C1"
+  ],
+  [
+    "delegation",
+    "делегация",
+    "A delegation from the UN visited the region.",
+    "C1"
+  ],
+  [
+    "denounce",
+    "осуждать, разоблачать",
+    "The opposition denounced the new law.",
+    "C1"
+  ],
+  [
+    "deploy",
+    "развёртывать (войска)",
+    "The government deployed troops to the border.",
+    "C1"
+  ],
+  [
+    "deployment",
+    "развёртывание (войск)",
+    "The deployment lasted almost a year.",
+    "C1"
+  ],
+  [
+    "deputy",
+    "заместитель; депутат",
+    "The deputy took over while the mayor was away.",
+    "C1"
+  ],
+  [
+    "detain",
+    "задерживать (полицией)",
+    "Police detained the suspect for questioning.",
+    "C1"
+  ],
+  [
+    "detention",
+    "задержание",
+    "He was held in detention for several weeks.",
+    "C1"
+  ],
+  [
+    "dictate",
+    "диктовать",
+    "The law dictates how the funds must be spent.",
+    "C1"
+  ],
+  [
+    "displace",
+    "вытеснять, перемещать (напр. беженцев)",
+    "The war displaced millions of people.",
+    "C1"
+  ],
+  [
+    "dispute",
+    "спор; спорить",
+    "The two countries settled their border dispute.",
+    "C1"
+  ],
+  [
+    "doctrine",
+    "доктрина",
+    "The party follows a strict political doctrine.",
+    "C1"
+  ],
+  [
+    "dominance",
+    "доминирование, превосходство",
+    "The party has maintained dominance for a decade.",
+    "C1"
+  ],
+  [
+    "electoral",
+    "избирательный",
+    "The electoral system was reformed last year.",
+    "C1"
+  ],
+  [
+    "elite",
+    "элита",
+    "The policy mainly benefits the wealthy elite.",
+    "C1"
+  ],
+  [
+    "enact",
+    "принимать (закон)",
+    "Parliament enacted the new law last month.",
+    "C1"
+  ],
+  [
+    "endorse",
+    "поддерживать, одобрять (кандидата)",
+    "The union decided to endorse the candidate.",
+    "C1"
+  ],
+  [
+    "endorsement",
+    "поддержка, одобрение",
+    "The campaign welcomed the celebrity's endorsement.",
+    "C1"
+  ],
+  [
+    "enforce",
+    "обеспечивать соблюдение (закона)",
+    "Police struggled to enforce the new rules.",
+    "C1"
+  ],
+  [
+    "enforcement",
+    "принуждение к исполнению (закона)",
+    "Law enforcement increased patrols in the area.",
+    "C1"
+  ],
+  [
+    "escalate",
+    "обостряться, эскалировать",
+    "Tensions between the two countries began to escalate.",
+    "C1"
+  ],
+  [
+    "establishment",
+    "истеблишмент",
+    "He criticised the political establishment.",
+    "C1"
+  ],
+  [
+    "evacuate",
+    "эвакуировать",
+    "Residents were told to evacuate the area.",
+    "C1"
+  ],
+  [
+    "execute",
+    "казнить",
+    "The prisoner was executed at dawn.",
+    "C1"
+  ],
+  [
+    "execution",
+    "казнь",
+    "The execution sparked protests around the world.",
+    "C1"
+  ],
+  [
+    "exile",
+    "изгнание, ссылка",
+    "The former leader lived in exile for twenty years.",
+    "C1"
+  ],
+  [
+    "exploitation",
+    "эксплуатация",
+    "The report exposed the exploitation of workers.",
+    "C1"
+  ],
+  [
+    "extremist",
+    "экстремист",
+    "The group was labelled an extremist organisation.",
+    "C1"
+  ],
+  [
+    "faction",
+    "фракция",
+    "The party split into two rival factions.",
+    "C1"
+  ],
+  [
+    "feminist",
+    "феминист(ка); феминистский",
+    "She's a leading feminist writer.",
+    "C1"
+  ],
+  [
+    "firearm",
+    "огнестрельное оружие",
+    "It's illegal to carry a firearm without a licence.",
+    "C1"
+  ],
+  [
+    "flee",
+    "бежать (спасаться)",
+    "Thousands fled the country during the conflict.",
+    "C1"
+  ],
+  [
+    "dissolve",
+    "распускать (парламент)",
+    "The president dissolved parliament and called new elections.",
+    "C1"
+  ],
+  [
+    "donor",
+    "жертвователь (благотворительность)",
+    "The charity relies on generous donors.",
+    "C1"
+  ],
+  [
+    "explosive",
+    "взрывчатка; взрывоопасный",
+    "Police found explosive material in the building.",
+    "C1"
+  ],
+  [
+    "genocide",
+    "геноцид",
+    "The tribunal ruled that genocide had taken place.",
+    "C1"
+  ],
+  [
+    "governance",
+    "управление (государством/организацией)",
+    "The report criticised the country's governance.",
+    "C1"
+  ],
+  [
+    "guerrilla",
+    "партизан",
+    "Guerrilla fighters controlled parts of the jungle.",
+    "C1"
+  ],
+  [
+    "harassment",
+    "домогательство, притеснение",
+    "The company introduced a policy against harassment.",
+    "C1"
+  ],
+  [
+    "high-profile",
+    "высокопоставленный, резонансный",
+    "It was a high-profile court case.",
+    "C1"
+  ],
+  [
+    "homeland",
+    "родина",
+    "Many refugees hope to return to their homeland.",
+    "C1"
+  ],
+  [
+    "hostage",
+    "заложник",
+    "The hostages were released after negotiations.",
+    "C1"
+  ],
+  [
+    "humanitarian",
+    "гуманитарный",
+    "Aid agencies sent humanitarian help to the region.",
+    "C1"
+  ],
+  [
+    "humanity",
+    "человечество",
+    "The crime was described as a crime against humanity.",
+    "C1"
+  ],
+  [
+    "ideological",
+    "идеологический",
+    "The two parties have deep ideological differences.",
+    "C1"
+  ],
+  [
+    "imprison",
+    "заключать в тюрьму",
+    "He was imprisoned for ten years.",
+    "C1"
+  ],
+  [
+    "imprisonment",
+    "тюремное заключение",
+    "The judge sentenced him to life imprisonment.",
+    "C1"
+  ],
+  [
+    "injustice",
+    "несправедливость",
+    "The film exposes a shocking injustice.",
+    "C1"
+  ],
+  [
+    "inmate",
+    "заключённый",
+    "The prison holds over five hundred inmates.",
+    "C1"
+  ],
+  [
+    "intervene",
+    "вмешиваться (в конфликт)",
+    "The UN intervened to stop the conflict.",
+    "C1"
+  ],
+  [
+    "intervention",
+    "вмешательство, интервенция",
+    "The military intervention ended the fighting.",
+    "C1"
+  ],
+  [
+    "investigator",
+    "следователь",
+    "Investigators are still looking into the case.",
+    "C1"
+  ],
+  [
+    "judicial",
+    "судебный",
+    "The country has an independent judicial system.",
+    "C1"
+  ],
+  [
+    "jurisdiction",
+    "юрисдикция",
+    "The case falls outside the court's jurisdiction.",
+    "C1"
+  ],
+  [
+    "kidnap",
+    "похищать (человека)",
+    "The gang kidnapped a local businessman.",
+    "C1"
+  ],
+  [
+    "kingdom",
+    "королевство",
+    "The kingdom was ruled by the same family for centuries.",
+    "C1"
+  ],
+  [
+    "legislative",
+    "законодательный",
+    "The legislative branch makes the country's laws.",
+    "C1"
+  ],
+  [
+    "legislature",
+    "законодательный орган",
+    "The bill was passed by the state legislature.",
+    "C1"
+  ],
+  [
+    "legitimate",
+    "законный, легитимный",
+    "The election was declared free and legitimate.",
+    "C1"
+  ],
+  [
+    "liberal",
+    "либеральный",
+    "The liberal party promised tax reforms.",
+    "C1"
+  ],
+  [
+    "liberation",
+    "освобождение",
+    "The city celebrated its liberation from occupation.",
+    "C1"
+  ],
+  [
+    "liberty",
+    "свобода",
+    "The constitution protects individual liberty.",
+    "C1"
+  ],
+  [
+    "lobby",
+    "лобби; лоббировать",
+    "Activists lobbied for stronger environmental laws.",
+    "C1"
+  ],
+  [
+    "magistrate",
+    "мировой судья",
+    "The case was heard by a local magistrate.",
+    "C1"
+  ],
+  [
+    "mandate",
+    "мандат, полномочия",
+    "The government won a strong mandate in the election.",
+    "C1"
+  ],
+  [
+    "march",
+    "марш, шествие; маршировать",
+    "Thousands joined the march for climate action.",
+    "C1"
+  ],
+  [
+    "massacre",
+    "резня, массовое убийство",
+    "The massacre shocked people around the world.",
+    "C1"
+  ],
+  [
+    "memorial",
+    "мемориал",
+    "A memorial was built for the victims of the war.",
+    "C1"
+  ],
+  [
+    "migration",
+    "миграция",
+    "The report examines patterns of migration in Europe.",
+    "C1"
+  ],
+  [
+    "militant",
+    "воинствующий; боевик",
+    "The militants took control of the town.",
+    "C1"
+  ],
+  [
+    "militia",
+    "ополчение, милиция",
+    "A local militia guarded the village.",
+    "C1"
+  ],
+  [
+    "ministry",
+    "министерство",
+    "The Ministry of Health announced new guidelines.",
+    "C1"
+  ],
+  [
+    "missile",
+    "ракета (военная)",
+    "The country tested a new type of missile.",
+    "C1"
+  ],
+  [
+    "mob",
+    "толпа",
+    "An angry mob gathered outside the courthouse.",
+    "C1"
+  ],
+  [
+    "mobilize",
+    "мобилизовать",
+    "The party mobilized thousands of volunteers.",
+    "C1"
+  ],
+  [
+    "moderate",
+    "умеренный",
+    "The moderate wing of the party opposed the reform.",
+    "C1"
+  ],
+  [
+    "monk",
+    "монах",
+    "The monks lived a simple life in the monastery.",
+    "C1"
+  ],
+  [
+    "municipal",
+    "муниципальный",
+    "The municipal council approved the new budget.",
+    "C1"
+  ],
+  [
+    "nationwide",
+    "общенациональный",
+    "The strike caused nationwide disruption.",
+    "C1"
+  ],
+  [
+    "naval",
+    "военно-морской",
+    "The country has a strong naval base on the coast.",
+    "C1"
+  ],
+  [
+    "nominate",
+    "номинировать, выдвигать",
+    "The party nominated her as their candidate.",
+    "C1"
+  ],
+  [
+    "nomination",
+    "номинация, выдвижение",
+    "He accepted the nomination for president.",
+    "C1"
+  ],
+  [
+    "nominee",
+    "номинант, кандидат",
+    "The nominee spoke at the ceremony.",
+    "C1"
+  ],
+  [
+    "overturn",
+    "отменять (решение)",
+    "The court overturned the earlier decision.",
+    "C1"
+  ],
+  [
+    "parish",
+    "приход (церковный)",
+    "The parish organised a fundraiser for the church roof.",
+    "C1"
+  ],
+  [
+    "parliamentary",
+    "парламентский",
+    "The country has a parliamentary system of government.",
+    "C1"
+  ],
+  [
+    "pastor",
+    "пастор",
+    "The pastor gave a moving sermon on Sunday.",
+    "C1"
+  ],
+  [
+    "patrol",
+    "патруль; патрулировать",
+    "Police patrol the neighbourhood every night.",
+    "C1"
+  ],
+  [
+    "petition",
+    "петиция",
+    "Thousands signed the petition against the new law.",
+    "C1"
+  ],
+  [
+    "plea",
+    "мольба; заявление (в суде)",
+    "He entered a plea of not guilty.",
+    "C1"
+  ],
+  [
+    "plead",
+    "умолять; признавать себя виновным/невиновным",
+    "She pleaded guilty to the charges.",
+    "C1"
+  ],
+  [
+    "poll",
+    "опрос общественного мнения",
+    "The latest poll shows the party losing support.",
+    "C1"
+  ],
+  [
+    "post-war",
+    "послевоенный",
+    "The country went through rapid growth in the post-war years.",
+    "C1"
+  ],
+  [
+    "preach",
+    "проповедовать",
+    "The priest preached about forgiveness.",
+    "C1"
+  ],
+  [
+    "precedent",
+    "прецедент",
+    "The ruling set an important legal precedent.",
+    "C1"
+  ],
+  [
+    "prejudice",
+    "предрассудок, предубеждение",
+    "The campaign aims to reduce racial prejudice.",
+    "C1"
+  ],
+  [
+    "premier",
+    "премьер-министр",
+    "The premier announced new economic reforms.",
+    "C1"
+  ],
+  [
+    "presidency",
+    "президентство",
+    "Her presidency lasted for two terms.",
+    "C1"
+  ],
+  [
+    "presidential",
+    "президентский",
+    "The presidential election takes place in November.",
+    "C1"
+  ],
+  [
+    "probe",
+    "расследование; расследовать",
+    "Officials launched a probe into the missing funds.",
+    "C1"
+  ],
+  [
+    "proceedings",
+    "судебное разбирательство",
+    "The court proceedings lasted several weeks.",
+    "C1"
+  ],
+  [
+    "proclaim",
+    "провозглашать",
+    "The country proclaimed its independence in 1960.",
+    "C1"
+  ],
+  [
+    "prosecute",
+    "преследовать по закону",
+    "The authorities decided not to prosecute him.",
+    "C1"
+  ],
+  [
+    "prosecution",
+    "судебное преследование, обвинение",
+    "The prosecution presented new evidence in court.",
+    "C1"
+  ],
+  [
+    "prosecutor",
+    "прокурор",
+    "The prosecutor called several witnesses.",
+    "C1"
+  ],
+  [
+    "protocol",
+    "протокол (дипломатический)",
+    "The countries signed a new trade protocol.",
+    "C1"
+  ],
+  [
+    "provision",
+    "положение (закона); обеспечение",
+    "The law includes a provision for disabled access.",
+    "C1"
+  ],
+  [
+    "radical",
+    "радикальный",
+    "The government introduced radical economic reforms.",
+    "C1"
+  ],
+  [
+    "raid",
+    "рейд, облава; совершать облаву",
+    "Police carried out a raid on the warehouse.",
+    "C1"
+  ],
+  [
+    "rally",
+    "митинг; сплачиваться",
+    "Supporters rallied outside the parliament building.",
+    "C1"
+  ],
+  [
+    "rape",
+    "изнасилование; насиловать",
+    "The court found him guilty of the crime.",
+    "C1"
+  ],
+  [
+    "rebel",
+    "повстанец",
+    "Rebel forces controlled the northern region.",
+    "C1"
+  ],
+  [
+    "reconstruction",
+    "восстановление, реконструкция",
+    "Reconstruction of the city began after the war.",
+    "C1"
+  ],
+  [
+    "referendum",
+    "референдум",
+    "The country held a referendum on the new constitution.",
+    "C1"
+  ],
+  [
+    "reform",
+    "реформа; реформировать",
+    "The government promised major education reform.",
+    "C1"
+  ],
+  [
+    "refuge",
+    "убежище",
+    "Many families sought refuge across the border.",
+    "C1"
+  ],
+  [
+    "regime",
+    "режим (политический)",
+    "The regime was overthrown after months of protests.",
+    "C1"
+  ],
+  [
+    "reign",
+    "правление; править",
+    "The king's reign lasted almost forty years.",
+    "C1"
+  ],
+  [
+    "representation",
+    "представительство",
+    "The group is calling for fairer political representation.",
+    "C1"
+  ],
+  [
+    "republic",
+    "республика",
+    "The country became a republic in 1949.",
+    "C1"
+  ],
+  [
+    "resistance",
+    "сопротивление",
+    "The resistance fought against the occupation.",
+    "C1"
+  ],
+  [
+    "retreat",
+    "отступление; отступать",
+    "The army was forced into retreat.",
+    "C1"
+  ],
+  [
+    "revolutionary",
+    "революционный",
+    "He was an important figure in the revolutionary movement.",
+    "C1"
+  ],
+  [
+    "rifle",
+    "винтовка",
+    "The soldier carried a rifle over his shoulder.",
+    "C1"
+  ],
+  [
+    "riot",
+    "массовые беспорядки",
+    "The protest turned into a riot after dark.",
+    "C1"
+  ],
+  [
+    "ruling",
+    "постановление (судебное)",
+    "The court's ruling surprised many observers.",
+    "C1"
+  ],
+  [
+    "sacred",
+    "священный",
+    "The site is considered sacred by local people.",
+    "C1"
+  ],
+  [
+    "saint",
+    "святой",
+    "The church is named after a local saint.",
+    "C1"
+  ],
+  [
+    "say",
+    "право голоса (в решении)",
+    "Citizens should have a say in how taxes are spent.",
+    "C1"
+  ],
+  [
+    "scrutiny",
+    "пристальное внимание, проверка",
+    "The deal came under close scrutiny from journalists.",
+    "C1"
+  ],
+  [
+    "secular",
+    "светский",
+    "The country has a secular government.",
+    "C1"
+  ],
+  [
+    "seize",
+    "захватывать",
+    "Police seized a large amount of illegal goods.",
+    "C1"
+  ],
+  [
+    "sin",
+    "грех",
+    "In many religions, lying is considered a sin.",
+    "C1"
+  ],
+  [
+    "slavery",
+    "рабство",
+    "Slavery was officially abolished in the country in 1833.",
+    "C1"
+  ],
+  [
+    "socialist",
+    "социалистический",
+    "The socialist party promised free healthcare for all.",
+    "C1"
+  ],
+  [
+    "solicitor",
+    "солиситор, юрист",
+    "She consulted a solicitor about the contract.",
+    "C1"
+  ],
+  [
+    "solidarity",
+    "солидарность",
+    "Workers showed solidarity by joining the strike.",
+    "C1"
+  ],
+  [
+    "sovereignty",
+    "суверенитет",
+    "The nation fought to protect its sovereignty.",
+    "C1"
+  ],
+  [
+    "spy",
+    "шпион; шпионить",
+    "He was accused of being a foreign spy.",
+    "C1"
+  ],
+  [
+    "stab",
+    "наносить удар ножом",
+    "He was stabbed during the robbery.",
+    "C1"
+  ],
+  [
+    "sue",
+    "подавать в суд",
+    "She decided to sue the company for damages.",
+    "C1"
+  ],
+  [
+    "summit",
+    "саммит",
+    "World leaders met at the climate summit.",
+    "C1"
+  ],
+  [
+    "suppress",
+    "подавлять",
+    "The government tried to suppress the protests.",
+    "C1"
+  ],
+  [
+    "supreme",
+    "верховный",
+    "The case went all the way to the supreme court.",
+    "C1"
+  ],
+  [
+    "surrender",
+    "сдаваться; капитуляция",
+    "The enemy troops surrendered after a long siege.",
+    "C1"
+  ],
+  [
+    "surveillance",
+    "слежка, наблюдение",
+    "The building is monitored by constant surveillance.",
+    "C1"
+  ],
+  [
+    "sword",
+    "меч",
+    "The knight carried an old sword.",
+    "C1"
+  ],
+  [
+    "testify",
+    "свидетельствовать (в суде)",
+    "She was called to testify in court.",
+    "C1"
+  ],
+  [
+    "torture",
+    "пытка; пытать",
+    "The report accused the regime of using torture.",
+    "C1"
+  ],
+  [
+    "transparency",
+    "прозрачность (напр. власти)",
+    "Voters are demanding more transparency from the government.",
+    "C1"
+  ],
+  [
+    "tribal",
+    "племенной",
+    "The country has strong tribal traditions.",
+    "C1"
+  ],
+  [
+    "turnout",
+    "явка (избирателей)",
+    "Voter turnout was higher than expected.",
+    "C1"
+  ],
+  [
+    "undermine",
+    "подрывать (авторитет)",
+    "The scandal undermined public trust in the government.",
+    "C1"
+  ],
+  [
+    "unify",
+    "объединять",
+    "The two states were unified in 1990.",
+    "C1"
+  ],
+  [
+    "uphold",
+    "поддерживать, соблюдать (закон)",
+    "The court upheld the original decision.",
+    "C1"
+  ],
+  [
+    "veteran",
+    "ветеран",
+    "The parade honoured war veterans.",
+    "C1"
+  ],
+  [
+    "violate",
+    "нарушать (закон, права)",
+    "The company was accused of violating labour laws.",
+    "C1"
+  ],
+  [
+    "violation",
+    "нарушение (закона, прав)",
+    "The report lists several human rights violations.",
+    "C1"
+  ],
+  [
+    "warfare",
+    "ведение войны",
+    "The book describes the horrors of modern warfare.",
+    "C1"
+  ],
+  [
+    "warrant",
+    "ордер (на арест); оправдывать",
+    "Police obtained a warrant to search the house.",
+    "C1"
+  ],
+  [
+    "warrior",
+    "воин",
+    "The statue shows an ancient warrior on horseback.",
+    "C1"
+  ],
+  [
+    "worship",
+    "поклонение, богослужение",
+    "People gathered at the temple for worship.",
+    "C1"
+  ],
+  [
+    "accuse",
+    "обвинять",
+    "He was accused of stealing money from the company.",
+    "B2"
+  ],
+  [
+    "aid",
+    "помощь; помогать",
+    "The government sent aid to the flooded region.",
+    "B2"
+  ],
+  [
+    "armed",
+    "вооружённый",
+    "Armed police guarded the building.",
+    "B2"
+  ],
+  [
+    "battle",
+    "сражаться; битва",
+    "The two sides battled for control of the city.",
+    "B2"
+  ],
+  [
+    "bullet",
+    "пуля",
+    "The bullet missed him by inches.",
+    "B2"
+  ],
+  [
+    "capture",
+    "захватывать (в плен)",
+    "Soldiers captured the town after a short fight.",
+    "B2"
+  ],
+  [
+    "civil",
+    "гражданский",
+    "The country was torn apart by civil war.",
+    "B2"
+  ],
+  [
+    "command",
+    "командование; приказывать",
+    "The general took command of the army.",
+    "B2"
+  ],
+  [
+    "conservative",
+    "консервативный",
+    "He holds fairly conservative political views.",
+    "B2"
+  ],
+  [
+    "debate",
+    "дебаты; спорить",
+    "The candidates debated live on television.",
+    "B2"
+  ],
+  [
+    "declare",
+    "объявлять, заявлять",
+    "The country declared independence in 1960.",
+    "B2"
+  ],
+  [
+    "defence",
+    "оборона, защита",
+    "The country increased spending on defence.",
+    "B2"
+  ],
+  [
+    "elect",
+    "избирать",
+    "She was elected mayor last year.",
+    "B2"
+  ],
+  [
+    "equal",
+    "равный (человек)",
+    "In a democracy, everyone is treated as an equal.",
+    "B2"
+  ],
+  [
+    "expose",
+    "разоблачать; подвергать (воздействию)",
+    "Journalists exposed corruption within the government.",
+    "B2"
+  ],
+  [
+    "free",
+    "освобождать",
+    "The hostages were freed after two days.",
+    "B2"
+  ],
+  [
+    "gang",
+    "банда",
+    "Police arrested several members of the gang.",
+    "B2"
+  ],
+  [
+    "govern",
+    "управлять (страной)",
+    "The country has been governed by the same party for years.",
+    "B2"
+  ],
+  [
+    "holy",
+    "святой, священный",
+    "The city is considered holy by three religions.",
+    "B2"
+  ],
+  [
+    "impose",
+    "вводить, навязывать (закон, налог)",
+    "The government imposed new taxes on fuel.",
+    "B2"
+  ],
+  [
+    "incident",
+    "инцидент",
+    "Police are investigating the incident.",
+    "B2"
+  ],
+  [
+    "investigation",
+    "расследование",
+    "The investigation lasted almost a year.",
+    "B2"
+  ],
+  [
+    "hearing",
+    "судебное слушание",
+    "The case will go to a hearing next month.",
+    "B2"
+  ],
+  [
+    "judgement",
+    "судебное решение",
+    "The court's judgement was announced today.",
+    "B2"
+  ],
+  [
+    "lord",
+    "лорд",
+    "The bill was debated in the House of Lords.",
+    "B2"
+  ],
+  [
+    "majority",
+    "большинство",
+    "The party won a clear majority in the election.",
+    "B2"
+  ],
+  [
+    "minority",
+    "меньшинство",
+    "The law protects the rights of minorities.",
+    "B2"
+  ],
+  [
+    "offence",
+    "правонарушение",
+    "He was charged with a minor offence.",
+    "B2"
+  ],
+  [
+    "oppose",
+    "противостоять, выступать против",
+    "Many local residents opposed the new road.",
+    "B2"
+  ],
+  [
+    "opposition",
+    "оппозиция",
+    "The opposition criticised the government's plan.",
+    "B2"
+  ],
+  [
+    "prime",
+    "премьер (министр); главный",
+    "The prime minister addressed the nation.",
+    "B2"
+  ],
+  [
+    "protection",
+    "защита",
+    "The law offers protection to whistleblowers.",
+    "B2"
+  ],
+  [
+    "mass",
+    "массовый (напр. массовые протесты)",
+    "Thousands took part in the mass protest.",
+    "B2"
+  ],
+  [
+    "representative",
+    "представитель",
+    "A representative from each country attended the summit.",
+    "B2"
+  ],
+  [
+    "shooting",
+    "стрельба",
+    "The shooting shocked the whole community.",
+    "B2"
+  ],
+  [
+    "slave",
+    "раб",
+    "The museum tells the story of former slaves.",
+    "B2"
+  ],
+  [
+    "suspect",
+    "подозреваемый; подозревать",
+    "Police arrested a suspect in connection with the robbery.",
+    "B2"
+  ],
+  [
+    "tank",
+    "танк",
+    "Tanks rolled through the streets during the coup.",
+    "B2"
+  ],
+  [
+    "threat",
+    "угроза",
+    "The country faces a growing security threat.",
+    "B2"
+  ],
+  [
+    "threaten",
+    "угрожать",
+    "He was arrested after threatening a police officer.",
+    "B2"
+  ],
+  [
+    "trial",
+    "судебный процесс",
+    "The trial is expected to last several weeks.",
+    "B2"
+  ],
+  [
+    "violence",
+    "насилие",
+    "The protest turned violent after dark.",
+    "B2"
+  ],
+  [
+    "bombing",
+    "бомбардировка",
+    "The bombing destroyed several buildings.",
+    "B2"
+  ],
+  [
+    "civilization",
+    "цивилизация",
+    "The ruins belong to an ancient civilization.",
+    "B2"
+  ],
+  [
+    "commander",
+    "командир",
+    "The commander gave the order to retreat.",
+    "B2"
+  ],
+  [
+    "conspiracy",
+    "заговор",
+    "He was accused of taking part in a conspiracy.",
+    "B2"
+  ],
+  [
+    "demonstration",
+    "демонстрация, митинг",
+    "Thousands joined the demonstration outside parliament.",
+    "B2"
+  ],
+  [
+    "destruction",
+    "разрушение",
+    "The war caused widespread destruction.",
+    "B2"
+  ],
+  [
+    "diverse",
+    "разнообразный (о обществе)",
+    "The city has a wonderfully diverse population.",
+    "B2"
+  ],
+  [
+    "diversity",
+    "многообразие",
+    "The company values diversity among its staff.",
+    "B2"
+  ],
+  [
+    "empire",
+    "империя",
+    "The empire once covered half the continent.",
+    "B2"
+  ],
+  [
+    "era",
+    "эпоха",
+    "The internet marked the start of a new era.",
+    "B2"
+  ],
+  [
+    "ethnic",
+    "этнический",
+    "The region is home to many ethnic groups.",
+    "B2"
+  ],
+  [
+    "exploit",
+    "эксплуатировать",
+    "The factory was accused of exploiting its workers.",
+    "B2"
+  ],
+  [
+    "federal",
+    "федеральный",
+    "The case will be heard in federal court.",
+    "B2"
+  ],
+  [
+    "fraud",
+    "мошенничество",
+    "He was found guilty of tax fraud.",
+    "B2"
+  ],
+  [
+    "gender",
+    "гендер, пол",
+    "The form asks for your name, age, and gender.",
+    "B2"
+  ],
+  [
+    "homeless",
+    "бездомный",
+    "The shelter helps homeless people find work.",
+    "B2"
+  ],
+  [
+    "hunger",
+    "голод (как проблема)",
+    "The charity works to end world hunger.",
+    "B2"
+  ],
+  [
+    "ID",
+    "удостоверение личности",
+    "You'll need photo ID to enter the building.",
+    "B2"
+  ],
+  [
+    "invade",
+    "вторгаться",
+    "The army invaded the neighbouring country.",
+    "B2"
+  ],
+  [
+    "invasion",
+    "вторжение",
+    "The invasion began early in the morning.",
+    "B2"
+  ],
+  [
+    "jail",
+    "тюрьма; сажать в тюрьму",
+    "He spent two years in jail.",
+    "B2"
+  ],
+  [
+    "mosque",
+    "мечеть",
+    "They prayed at the local mosque.",
+    "B2"
+  ],
+  [
+    "neutral",
+    "нейтральный",
+    "The country remained neutral during the war.",
+    "B2"
+  ],
+  [
+    "observer",
+    "наблюдатель",
+    "International observers monitored the election.",
+    "B2"
+  ],
+  [
+    "occupy",
+    "оккупировать, захватывать",
+    "Enemy forces occupied the city for months.",
+    "B2"
+  ],
+  [
+    "offender",
+    "правонарушитель",
+    "The programme helps young offenders find work.",
+    "B2"
+  ],
+  [
+    "progressive",
+    "прогрессивный",
+    "The party pushed for progressive tax reforms.",
+    "B2"
+  ],
+  [
+    "prohibit",
+    "запрещать",
+    "The law prohibits smoking in public places.",
+    "B2"
+  ],
+  [
+    "protester",
+    "протестующий",
+    "Protesters gathered outside the courthouse.",
+    "B2"
+  ],
+  [
+    "racial",
+    "расовый",
+    "The company was accused of racial discrimination.",
+    "B2"
+  ],
+  [
+    "racist",
+    "расист; расистский",
+    "He was fined for making racist comments.",
+    "B2"
+  ],
+  [
+    "regulate",
+    "регулировать (законом)",
+    "The industry is closely regulated by the government.",
+    "B2"
+  ],
+  [
+    "restrict",
+    "ограничивать",
+    "The new rules restrict how much you can withdraw.",
+    "B2"
+  ],
+  [
+    "restriction",
+    "ограничение",
+    "Travel restrictions were lifted last month.",
+    "B2"
+  ],
+  [
+    "rob",
+    "грабить",
+    "Two men robbed the bank in broad daylight.",
+    "B2"
+  ],
+  [
+    "robbery",
+    "ограбление",
+    "The robbery took place late at night.",
+    "B2"
+  ],
+  [
+    "penalty",
+    "штраф, наказание (юр.)",
+    "There's a heavy penalty for breaking the law.",
+    "B2"
+  ],
+  [
+    "scandal",
+    "скандал",
+    "The scandal forced the minister to resign.",
+    "B2"
+  ],
+  [
+    "seeker",
+    "просящий убежища (asylum seeker)",
+    "The charity supports asylum seekers.",
+    "B2"
+  ],
+  [
+    "settler",
+    "поселенец",
+    "The first settlers arrived over a century ago.",
+    "B2"
+  ],
+  [
+    "spokesman",
+    "официальный представитель (мужчина)",
+    "The spokesman denied the allegations.",
+    "B2"
+  ],
+  [
+    "spokesperson",
+    "официальный представитель",
+    "A spokesperson confirmed the news this morning.",
+    "B2"
+  ],
+  [
+    "spokeswoman",
+    "официальный представитель (женщина)",
+    "The spokeswoman read a short statement to reporters.",
+    "B2"
+  ],
+  [
+    "stance",
+    "позиция (по вопросу)",
+    "The party changed its stance on immigration.",
+    "B2"
+  ],
+  [
+    "temple",
+    "храм",
+    "Tourists visited the ancient temple.",
+    "B2"
+  ],
+  [
+    "territory",
+    "территория",
+    "The two countries disputed the border territory.",
+    "B2"
+  ],
+  [
+    "terror",
+    "ужас, террор",
+    "The attack spread terror through the city.",
+    "B2"
+  ],
+  [
+    "theft",
+    "кража",
+    "He was arrested for theft.",
+    "B2"
+  ],
+  [
+    "tribe",
+    "племя",
+    "The tribe has lived in the forest for generations.",
+    "B2"
+  ],
+  [
+    "troop",
+    "войска",
+    "Troops were sent to the border.",
+    "B2"
+  ],
+  [
+    "unite",
+    "объединять(ся)",
+    "The tragedy united the whole community.",
+    "B2"
+  ],
+  [
+    "unity",
+    "единство",
+    "The leader called for national unity.",
+    "B2"
+  ],
+  [
+    "ban",
+    "запрет; запрещать",
+    "The government banned smoking in public places.",
+    "B1"
+  ],
+  [
+    "battle",
+    "битва",
+    "The battle lasted for several days.",
+    "B1"
+  ],
+  [
+    "bomb",
+    "бомба; бомбить",
+    "A bomb exploded near the government building.",
+    "B1"
+  ],
+  [
+    "campaign",
+    "кампания; проводить кампанию",
+    "She's campaigning for better public transport.",
+    "B1"
+  ],
+  [
+    "enemy",
+    "враг",
+    "The two countries were once bitter enemies.",
+    "B1"
+  ],
+  [
+    "candidate",
+    "кандидат (на выборах)",
+    "Three candidates are running for mayor.",
+    "B1"
+  ],
+  [
+    "charge",
+    "обвинение (в суде)",
+    "He was charged with theft.",
+    "B1"
+  ],
+  [
+    "explode",
+    "взрываться",
+    "The bomb exploded without warning.",
+    "B1"
+  ],
+  [
+    "explosion",
+    "взрыв",
+    "The explosion could be heard for miles.",
+    "B1"
+  ],
+  [
+    "fighting",
+    "боевые действия, драка",
+    "Fighting broke out near the border.",
+    "B1"
+  ],
+  [
+    "flag",
+    "флаг",
+    "They raised the national flag at the ceremony.",
+    "B1"
+  ],
+  [
+    "global",
+    "глобальный",
+    "Climate change is a global problem.",
+    "B1"
+  ],
+  [
+    "guard",
+    "охранник; охранять",
+    "A guard stood outside the embassy.",
+    "B1"
+  ],
+  [
+    "innocent",
+    "невиновный",
+    "The jury found him innocent.",
+    "B1"
+  ],
+  [
+    "investigate",
+    "расследовать",
+    "Police are investigating the incident.",
+    "B1"
+  ],
+  [
+    "killing",
+    "убийство",
+    "The killing shocked the whole community.",
+    "B1"
+  ],
+  [
+    "force",
+    "вооружённые силы",
+    "The government sent in armed forces.",
+    "B1"
+  ],
+  [
+    "guilty",
+    "виновный (юридически)",
+    "He was found guilty of fraud.",
+    "B1"
+  ],
+  [
+    "intelligence",
+    "разведка (спецслужба)",
+    "The agency gathers intelligence on foreign threats.",
+    "B1"
+  ],
+  [
+    "murder",
+    "убийство; убивать",
+    "He was arrested on suspicion of murder.",
+    "B1"
+  ],
+  [
+    "pray",
+    "молиться",
+    "They prayed for peace during the ceremony.",
+    "B1"
+  ],
+  [
+    "prayer",
+    "молитва",
+    "The service began with a short prayer.",
+    "B1"
+  ],
+  [
+    "priest",
+    "священник",
+    "The priest led the funeral service.",
+    "B1"
+  ],
+  [
+    "prince",
+    "принц",
+    "The prince will one day become king.",
+    "B1"
+  ],
+  [
+    "princess",
+    "принцесса",
+    "The princess opened the new hospital wing.",
+    "B1"
+  ],
+  [
+    "royal",
+    "королевский",
+    "Crowds gathered to watch the royal wedding.",
+    "B1"
+  ],
+  [
+    "rule",
+    "править, управлять",
+    "The country was ruled by a king for centuries.",
+    "B1"
+  ],
+  [
+    "security",
+    "безопасность (государственная)",
+    "The president travels with tight security.",
+    "B1"
+  ],
+  [
+    "victim",
+    "жертва (преступления)",
+    "The charity supports victims of crime.",
+    "B1"
+  ],
+  [
+    "violent",
+    "жестокий, насильственный",
+    "The protest turned violent late at night.",
+    "B1"
+  ],
+  [
+    "will",
+    "завещание",
+    "She left everything to her children in her will.",
+    "B1"
+  ],
+  [
+    "release",
+    "освобождать (из тюрьмы); освобождение",
+    "The prisoners were released after the amnesty.",
+    "B1"
+  ],
+  [
+    "shoot",
+    "стрелять (из оружия)",
+    "The soldier was ordered not to shoot.",
+    "B1"
+  ],
+  [
+    "union",
+    "союз (государств)",
+    "The two states formed a political union.",
+    "B1"
+  ],
+  [
+    "fire",
+    "вести огонь, стрелять",
+    "Soldiers were ordered to hold their fire.",
+    "A1"
+  ],
+  [
+    "policeman",
+    "полицейский",
+    "A policeman stopped the car for speeding.",
+    "A1"
+  ],
+  [
+    "attack",
+    "атака, нападение; нападать",
+    "The city came under attack overnight.",
+    "A2"
+  ],
+  [
+    "case",
+    "судебное дело",
+    "The lawyer took on a difficult case.",
+    "A2"
+  ],
+  [
+    "evidence",
+    "доказательство, улика",
+    "Police found new evidence at the scene.",
+    "A2"
+  ],
+  [
+    "fight",
+    "борьба, драка; бороться, драться",
+    "The two countries fought for years over the border.",
+    "A2"
+  ],
+  [
+    "independent",
+    "независимый (о стране)",
+    "The country became independent in 1960.",
+    "A2"
+  ],
+  [
+    "kill",
+    "убивать",
+    "The disease killed thousands of people.",
+    "A2"
+  ],
+  [
+    "king",
+    "король",
+    "The king ruled the country for forty years.",
+    "A2"
+  ],
+  [
+    "human",
+    "права человека (human rights)",
+    "The organisation campaigns for human rights.",
+    "A2"
+  ],
+  [
+    "leader",
+    "лидер (страны, партии)",
+    "The party chose a new leader last month.",
+    "A2"
+  ],
+  [
+    "movement",
+    "движение (общественное)",
+    "The civil rights movement changed the country.",
+    "A2"
+  ],
+  [
+    "officer",
+    "офицер, должностное лицо",
+    "A customs officer checked their passports.",
+    "A2"
+  ],
+  [
+    "population",
+    "население",
+    "The city's population has doubled in ten years.",
+    "A2"
+  ],
+  [
+    "power",
+    "власть",
+    "The party has been in power for a decade.",
+    "A2"
+  ],
+  [
+    "public",
+    "общественность; общественный",
+    "The public demanded more transparency.",
+    "A2"
+  ],
+  [
+    "queen",
+    "королева",
+    "The queen opened the new hospital.",
+    "A2"
+  ],
+  [
+    "protect",
+    "защищать (права, окружающую среду)",
+    "New laws were passed to protect workers' rights.",
+    "A2"
+  ],
+  [
+    "state",
+    "государство",
+    "The state provides free healthcare for all citizens.",
+    "A2"
+  ],
+  [
+    "thief",
+    "вор",
+    "The thief was caught trying to leave the shop.",
+    "A2"
+  ],
+  [
+    "united",
+    "объединённый",
+    "The two parties remained united despite the crisis.",
+    "A2"
+  ],
+  [
+    "steal",
+    "красть",
+    "He was arrested for trying to steal a car.",
+    "A2"
+  ]
+]

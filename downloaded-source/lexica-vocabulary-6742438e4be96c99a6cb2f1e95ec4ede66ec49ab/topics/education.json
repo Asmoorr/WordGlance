@@ -1,0 +1,1352 @@
+[
+  [
+    "book",
+    "книга",
+    "She's reading a book about ancient history.",
+    "A1"
+  ],
+  [
+    "class",
+    "класс, урок",
+    "Our English class starts at nine.",
+    "A1"
+  ],
+  [
+    "classroom",
+    "классная комната",
+    "The classroom was quiet during the test.",
+    "A1"
+  ],
+  [
+    "college",
+    "колледж",
+    "He's studying engineering at college.",
+    "A1"
+  ],
+  [
+    "course",
+    "курс (обучения)",
+    "She signed up for an online course.",
+    "A1"
+  ],
+  [
+    "dictionary",
+    "словарь",
+    "Look the word up in a dictionary.",
+    "A1"
+  ],
+  [
+    "exam",
+    "экзамен",
+    "I have a maths exam tomorrow.",
+    "A1"
+  ],
+  [
+    "homework",
+    "домашнее задание",
+    "Have you finished your homework yet?",
+    "A1"
+  ],
+  [
+    "learn",
+    "учиться, изучать",
+    "She wants to learn Spanish this year.",
+    "A1"
+  ],
+  [
+    "lesson",
+    "урок",
+    "We had a great history lesson today.",
+    "A1"
+  ],
+  [
+    "library",
+    "библиотека",
+    "He studies at the library every afternoon.",
+    "A1"
+  ],
+  [
+    "school",
+    "школа",
+    "The children walk to school together.",
+    "A1"
+  ],
+  [
+    "skill",
+    "навык, умение",
+    "Communication is an important skill at work.",
+    "A1"
+  ],
+  [
+    "student",
+    "студент, учащийся",
+    "She's a student at the local university.",
+    "A1"
+  ],
+  [
+    "study",
+    "учёба; учиться, изучать",
+    "He studies biology at university.",
+    "A1"
+  ],
+  [
+    "subject",
+    "предмет (учебный)",
+    "Maths is her favourite subject.",
+    "A1"
+  ],
+  [
+    "teach",
+    "учить, преподавать",
+    "She teaches English to teenagers.",
+    "A1"
+  ],
+  [
+    "teacher",
+    "учитель",
+    "Our teacher explained the topic clearly.",
+    "A1"
+  ],
+  [
+    "test",
+    "тест, контрольная; тестировать",
+    "We have a spelling test on Friday.",
+    "A1"
+  ],
+  [
+    "university",
+    "университет",
+    "He's applying to several universities.",
+    "A1"
+  ],
+  [
+    "degree",
+    "учёная степень",
+    "She has a degree in economics.",
+    "A2"
+  ],
+  [
+    "education",
+    "образование",
+    "Good education opens many doors.",
+    "A2"
+  ],
+  [
+    "essay",
+    "эссе, сочинение",
+    "The essay is due next Monday.",
+    "A2"
+  ],
+  [
+    "lab",
+    "лаборатория (разг.)",
+    "They did the experiment in the school lab.",
+    "A2"
+  ],
+  [
+    "lecture",
+    "лекция; читать лекцию",
+    "The professor gave an interesting lecture.",
+    "A2"
+  ],
+  [
+    "professor",
+    "профессор",
+    "The professor answered all our questions.",
+    "A2"
+  ],
+  [
+    "research",
+    "исследование; исследовать",
+    "She's doing research on climate change.",
+    "A2"
+  ],
+  [
+    "researcher",
+    "исследователь",
+    "The researcher published her findings.",
+    "A2"
+  ],
+  [
+    "academic",
+    "академический, учебный",
+    "He has strong academic results this year.",
+    "B1"
+  ],
+  [
+    "analyse",
+    "анализировать",
+    "Students learn how to analyse data in this course.",
+    "B1"
+  ],
+  [
+    "analysis",
+    "анализ",
+    "Her analysis of the poem was very detailed.",
+    "B1"
+  ],
+  [
+    "assignment",
+    "задание (учебное)",
+    "The assignment is due by Friday.",
+    "B1"
+  ],
+  [
+    "campus",
+    "кампус (университетский городок)",
+    "There's a coffee shop right on campus.",
+    "B1"
+  ],
+  [
+    "examine",
+    "экзаменовать; исследовать",
+    "The essay examines the causes of the war.",
+    "B1"
+  ],
+  [
+    "grade",
+    "оценка (учебная)",
+    "She got a good grade on her essay.",
+    "B1"
+  ],
+  [
+    "graduate",
+    "выпускник; заканчивать (учёбу)",
+    "He will graduate from university next year.",
+    "B1"
+  ],
+  [
+    "laboratory",
+    "лаборатория",
+    "The chemistry class meets in the laboratory.",
+    "B1"
+  ],
+  [
+    "qualification",
+    "квалификация",
+    "You need a teaching qualification for this job.",
+    "B1"
+  ],
+  [
+    "qualified",
+    "квалифицированный",
+    "She's a qualified nurse.",
+    "B1"
+  ],
+  [
+    "academic",
+    "учёный, преподаватель вуза",
+    "Several academics attended the conference.",
+    "B2"
+  ],
+  [
+    "discipline",
+    "дисциплина (учебная / поведение)",
+    "Physics is a challenging discipline.",
+    "B2"
+  ],
+  [
+    "examination",
+    "экзамен, обследование",
+    "The final examination is in June.",
+    "B2"
+  ],
+  [
+    "grade",
+    "оценивать (работу)",
+    "The teacher is grading our essays this week.",
+    "B2"
+  ],
+  [
+    "pupil",
+    "ученик",
+    "The pupil answered every question correctly.",
+    "B2"
+  ],
+  [
+    "curriculum",
+    "учебная программа",
+    "The school introduced a new curriculum this year.",
+    "B2"
+  ],
+  [
+    "scholarship",
+    "стипендия",
+    "She won a scholarship to study abroad.",
+    "B2"
+  ],
+  [
+    "seminar",
+    "семинар",
+    "We discussed the article in today's seminar.",
+    "B2"
+  ],
+  [
+    "textbook",
+    "учебник",
+    "The textbook explains the topic clearly.",
+    "B2"
+  ],
+  [
+    "thesis",
+    "диссертация, тезис",
+    "He's writing his thesis on renewable energy.",
+    "B2"
+  ],
+  [
+    "educator",
+    "педагог",
+    "She has worked as an educator for twenty years.",
+    "C1"
+  ],
+  [
+    "faculty",
+    "факультет; преподавательский состав",
+    "He teaches at the faculty of law.",
+    "C1"
+  ],
+  [
+    "literacy",
+    "грамотность",
+    "The programme aims to improve literacy in children.",
+    "C1"
+  ],
+  [
+    "tuition",
+    "плата за обучение; обучение",
+    "University tuition is expensive in some countries.",
+    "C1"
+  ],
+  [
+    "undergraduate",
+    "студент (бакалавриата)",
+    "She's an undergraduate studying chemistry.",
+    "C1"
+  ],
+  [
+    "academy",
+    "академия",
+    "He trained at a football academy as a teenager.",
+    "C1"
+  ],
+  [
+    "admission",
+    "поступление, приём (в учебное заведение)",
+    "University admission depends on your final grades.",
+    "C1"
+  ],
+  [
+    "attendance",
+    "посещаемость",
+    "The teacher checks attendance every morning.",
+    "C1"
+  ],
+  [
+    "classification",
+    "классификация",
+    "The classification of species is a key part of biology.",
+    "C1"
+  ],
+  [
+    "correction",
+    "исправление, коррекция",
+    "She made a few corrections to her essay.",
+    "C1"
+  ],
+  [
+    "differentiate",
+    "различать",
+    "It's hard to differentiate between the two theories.",
+    "C1"
+  ],
+  [
+    "enrol",
+    "записываться (на курс)",
+    "She enrolled in an evening course last month.",
+    "C1"
+  ],
+  [
+    "guidance",
+    "руководство, наставление",
+    "Students get guidance from their tutors each week.",
+    "C1"
+  ],
+  [
+    "inclusion",
+    "инклюзия (образование)",
+    "The school is known for its focus on inclusion.",
+    "C1"
+  ],
+  [
+    "instruct",
+    "инструктировать, обучать",
+    "The manual instructs you step by step.",
+    "C1"
+  ],
+  [
+    "intellectual",
+    "интеллектуал",
+    "He surrounded himself with writers and intellectuals.",
+    "C1"
+  ],
+  [
+    "intermediate",
+    "промежуточный (уровень)",
+    "She's at an intermediate level in French.",
+    "C1"
+  ],
+  [
+    "mentor",
+    "наставник",
+    "Her mentor helped her plan her career.",
+    "C1"
+  ],
+  [
+    "methodology",
+    "методология",
+    "The report explains the research methodology.",
+    "C1"
+  ],
+  [
+    "orientation",
+    "ориентация, вводный курс",
+    "New students attend an orientation session in September.",
+    "C1"
+  ],
+  [
+    "philosopher",
+    "философ",
+    "The philosopher wrote about the meaning of happiness.",
+    "C1"
+  ],
+  [
+    "philosophical",
+    "философский",
+    "They had a philosophical discussion about free will.",
+    "C1"
+  ],
+  [
+    "principal",
+    "директор школы",
+    "The principal welcomed the new students.",
+    "C1"
+  ],
+  [
+    "specialized",
+    "специализированный",
+    "She works in a specialized field of medicine.",
+    "C1"
+  ],
+  [
+    "theology",
+    "теология, богословие",
+    "He studied theology at a religious college.",
+    "C1"
+  ],
+  [
+    "theoretical",
+    "теоретический",
+    "The course is mostly theoretical, with little practice.",
+    "C1"
+  ],
+  [
+    "transcript",
+    "стенограмма, транскрипт",
+    "You'll need your academic transcript for the application.",
+    "C1"
+  ],
+  [
+    "table",
+    "таблица (данных)",
+    "The results are shown in the table below.",
+    "A1"
+  ],
+  [
+    "root",
+    "корень (слова)",
+    "The word 'unhappy' has the root 'happy'.",
+    "B2"
+  ],
+  [
+    "text",
+    "текст (учебный, литературный)",
+    "We analysed the text in our literature class.",
+    "A1"
+  ],
+  [
+    "letter",
+    "буква (алфавита)",
+    "The word 'cat' has three letters.",
+    "A1"
+  ],
+  [
+    "cite",
+    "цитировать, ссылаться на",
+    "Make sure to cite your sources in the essay.",
+    "B2"
+  ],
+  [
+    "concentration",
+    "концентрация, сосредоточенность",
+    "Reading requires a lot of concentration.",
+    "B2"
+  ],
+  [
+    "concept",
+    "концепция, понятие",
+    "The teacher explained the basic concept clearly.",
+    "B2"
+  ],
+  [
+    "criterion",
+    "критерий",
+    "The main criterion for the award is originality.",
+    "B2"
+  ],
+  [
+    "demonstrate",
+    "демонстрировать",
+    "The teacher demonstrated how to solve the equation.",
+    "B2"
+  ],
+  [
+    "date",
+    "датировать(ся)",
+    "The building dates back to the 1800s.",
+    "B2"
+  ],
+  [
+    "emphasis",
+    "акцент, упор",
+    "The course puts a lot of emphasis on speaking skills.",
+    "B2"
+  ],
+  [
+    "emphasize",
+    "подчёркивать, акцентировать",
+    "The teacher emphasized the importance of practice.",
+    "B2"
+  ],
+  [
+    "evaluate",
+    "оценивать",
+    "Students are asked to evaluate their own progress.",
+    "B2"
+  ],
+  [
+    "finding",
+    "результат (исследования)",
+    "The study's findings were published last month.",
+    "B2"
+  ],
+  [
+    "illustrate",
+    "иллюстрировать, наглядно показывать",
+    "The diagram illustrates how the process works.",
+    "B2"
+  ],
+  [
+    "illustration",
+    "иллюстрация",
+    "The textbook is full of helpful illustrations.",
+    "B2"
+  ],
+  [
+    "institute",
+    "институт",
+    "She studied at a research institute in Paris.",
+    "B2"
+  ],
+  [
+    "institution",
+    "учреждение, институт",
+    "The university is a well-respected institution.",
+    "B2"
+  ],
+  [
+    "master",
+    "магистр; овладевать (навыком)",
+    "It took years to master the piano.",
+    "B2"
+  ],
+  [
+    "multiply",
+    "умножать",
+    "Students learn to multiply and divide in this class.",
+    "B2"
+  ],
+  [
+    "outline",
+    "план, набросок; обрисовывать",
+    "She wrote an outline before starting the essay.",
+    "B2"
+  ],
+  [
+    "participant",
+    "участник",
+    "Each participant received a certificate.",
+    "B2"
+  ],
+  [
+    "passage",
+    "отрывок (текста)",
+    "Read the passage carefully before answering.",
+    "B2"
+  ],
+  [
+    "philosophy",
+    "философия",
+    "He's studying philosophy at university.",
+    "B2"
+  ],
+  [
+    "preparation",
+    "подготовка",
+    "Good preparation is key to passing the exam.",
+    "B2"
+  ],
+  [
+    "register",
+    "регистрироваться; реестр",
+    "Students must register for the course by Friday.",
+    "B2"
+  ],
+  [
+    "sequence",
+    "последовательность",
+    "Put the events in the correct sequence.",
+    "B2"
+  ],
+  [
+    "session",
+    "занятие, сессия",
+    "The workshop includes a question and answer session.",
+    "B2"
+  ],
+  [
+    "certificate",
+    "сертификат, свидетельство",
+    "She received a certificate for finishing the course.",
+    "B2"
+  ],
+  [
+    "classify",
+    "классифицировать",
+    "Scientists classify animals into different groups.",
+    "B2"
+  ],
+  [
+    "comparative",
+    "сравнительный",
+    "The essay uses a comparative approach.",
+    "B2"
+  ],
+  [
+    "comprehensive",
+    "всеобъемлющий, полный",
+    "The course offers a comprehensive introduction to biology.",
+    "B2"
+  ],
+  [
+    "compulsory",
+    "обязательный (предмет)",
+    "Maths is a compulsory subject at this school.",
+    "B2"
+  ],
+  [
+    "elementary",
+    "элементарный, начальный",
+    "She teaches at an elementary school.",
+    "B2"
+  ],
+  [
+    "evaluation",
+    "оценка (напр. курса, работы)",
+    "The course ends with a final evaluation.",
+    "B2"
+  ],
+  [
+    "extract",
+    "отрывок (текста)",
+    "Read the extract and answer the questions below.",
+    "B2"
+  ],
+  [
+    "fraction",
+    "дробь (математика)",
+    "The class is learning how to add fractions.",
+    "B2"
+  ],
+  [
+    "fragment",
+    "фрагмент (текста)",
+    "Only a small fragment of the original text survives.",
+    "B2"
+  ],
+  [
+    "historian",
+    "историк",
+    "The historian gave a lecture on ancient Rome.",
+    "B2"
+  ],
+  [
+    "infer",
+    "делать вывод, заключать",
+    "From the data, we can infer that sales are rising.",
+    "B2"
+  ],
+  [
+    "intellectual",
+    "интеллектуальный",
+    "It was an intellectual discussion about ethics.",
+    "B2"
+  ],
+  [
+    "interpretation",
+    "интерпретация, толкование",
+    "There are several interpretations of the poem.",
+    "B2"
+  ],
+  [
+    "marker",
+    "маркер (фломастер)",
+    "She wrote the title on the board with a marker.",
+    "B2"
+  ],
+  [
+    "metaphor",
+    "метафора",
+    "The poem uses a metaphor to describe grief.",
+    "B2"
+  ],
+  [
+    "notebook",
+    "тетрадь, блокнот",
+    "He wrote the lecture notes in his notebook.",
+    "B2"
+  ],
+  [
+    "participation",
+    "участие",
+    "Class participation counts towards your final grade.",
+    "B2"
+  ],
+  [
+    "principal",
+    "основной, главный",
+    "Reading is the principal way children learn language.",
+    "B2"
+  ],
+  [
+    "questionnaire",
+    "анкета, опросник",
+    "Students filled out a questionnaire about the course.",
+    "B2"
+  ],
+  [
+    "revision",
+    "повторение материала (перед экзаменом)",
+    "She spent the weekend doing exam revision.",
+    "B2"
+  ],
+  [
+    "scholar",
+    "учёный",
+    "He's a respected scholar in his field.",
+    "B2"
+  ],
+  [
+    "workshop",
+    "семинар, мастер-класс",
+    "The school ran a writing workshop for students.",
+    "B2"
+  ],
+  [
+    "addition",
+    "сложение; дополнение",
+    "Children learn addition and subtraction in Year 2.",
+    "B1"
+  ],
+  [
+    "advanced",
+    "продвинутый (уровень)",
+    "She's taking an advanced maths class.",
+    "B1"
+  ],
+  [
+    "category",
+    "категория",
+    "The books are arranged into different categories.",
+    "B1"
+  ],
+  [
+    "comparison",
+    "сравнение",
+    "The essay draws a comparison between the two novels.",
+    "B1"
+  ],
+  [
+    "concentrate",
+    "сосредотачиваться",
+    "It's hard to concentrate with all this noise.",
+    "B1"
+  ],
+  [
+    "conclude",
+    "заключать, делать вывод",
+    "The report concludes that more research is needed.",
+    "B1"
+  ],
+  [
+    "conclusion",
+    "вывод, заключение",
+    "What conclusion did you reach after the experiment?",
+    "B1"
+  ],
+  [
+    "define",
+    "определять (значение)",
+    "Can you define what 'sustainability' means?",
+    "B1"
+  ],
+  [
+    "definition",
+    "определение",
+    "Look up the definition of the word in the dictionary.",
+    "B1"
+  ],
+  [
+    "diagram",
+    "диаграмма, схема",
+    "The diagram shows how the heart works.",
+    "B1"
+  ],
+  [
+    "educate",
+    "обучать, просвещать",
+    "The programme aims to educate people about recycling.",
+    "B1"
+  ],
+  [
+    "educated",
+    "образованный",
+    "She's a well-educated young woman.",
+    "B1"
+  ],
+  [
+    "educational",
+    "образовательный",
+    "The museum runs educational programmes for schools.",
+    "B1"
+  ],
+  [
+    "clause",
+    "придаточное предложение (грамматика)",
+    "Underline the main clause in the sentence.",
+    "B1"
+  ],
+  [
+    "journal",
+    "журнал (научный)",
+    "The study was published in a medical journal.",
+    "B1"
+  ],
+  [
+    "participate",
+    "участвовать",
+    "All students are encouraged to participate in class.",
+    "B1"
+  ],
+  [
+    "percentage",
+    "процент, процентное соотношение",
+    "What percentage of students passed the exam?",
+    "B1"
+  ],
+  [
+    "primary",
+    "начальный (об образовании)",
+    "She teaches at a primary school.",
+    "B1"
+  ],
+  [
+    "qualify",
+    "получать квалификацию",
+    "She qualified as a teacher three years ago.",
+    "B1"
+  ],
+  [
+    "presentation",
+    "доклад, презентация (учебная)",
+    "He gave a presentation on climate change.",
+    "B1"
+  ],
+  [
+    "reference",
+    "ссылка (на источник)",
+    "Include a full reference for each source you use.",
+    "B1"
+  ],
+  [
+    "revise",
+    "повторять материал (перед экзаменом)",
+    "She's revising for her chemistry exam.",
+    "B1"
+  ],
+  [
+    "secondary",
+    "среднее (образование)",
+    "He moved to secondary school last year.",
+    "B1"
+  ],
+  [
+    "summarize",
+    "подводить итог, суммировать",
+    "Summarize the main points in one paragraph.",
+    "B1"
+  ],
+  [
+    "summary",
+    "краткое содержание, резюме",
+    "Write a short summary of the article.",
+    "B1"
+  ],
+  [
+    "add",
+    "складывать (числа); добавлять",
+    "Add these two numbers together.",
+    "A1"
+  ],
+  [
+    "answer",
+    "ответ; отвечать",
+    "She raised her hand to answer the question.",
+    "A1"
+  ],
+  [
+    "compare",
+    "сравнивать",
+    "Compare the two essays and note the differences.",
+    "A1"
+  ],
+  [
+    "correct",
+    "правильный; исправлять",
+    "Is this the correct answer?",
+    "A1"
+  ],
+  [
+    "date",
+    "дата",
+    "Write today's date at the top of the page.",
+    "A1"
+  ],
+  [
+    "example",
+    "пример",
+    "Can you give me an example?",
+    "A1"
+  ],
+  [
+    "false",
+    "ложный, неверный (ответ)",
+    "Mark each statement as true or false.",
+    "A1"
+  ],
+  [
+    "fill",
+    "заполнять (форму)",
+    "Fill in the blanks with the correct word.",
+    "A1"
+  ],
+  [
+    "activity",
+    "учебное задание, упражнение",
+    "The teacher set a listening activity for the class.",
+    "A1"
+  ],
+  [
+    "final",
+    "выпускной, итоговый (экзамен)",
+    "The final exam is next Monday.",
+    "A1"
+  ],
+  [
+    "form",
+    "форма, вид",
+    "Fill in the application form carefully.",
+    "A1"
+  ],
+  [
+    "geography",
+    "география",
+    "We're studying rivers in geography this week.",
+    "A1"
+  ],
+  [
+    "group",
+    "группа (учебная)",
+    "Work in groups of four for this task.",
+    "A1"
+  ],
+  [
+    "history",
+    "история (предмет)",
+    "History was always her favourite subject.",
+    "A1"
+  ],
+  [
+    "list",
+    "список (учебный, дел)",
+    "Make a list of the key points.",
+    "A1"
+  ],
+  [
+    "mistake",
+    "ошибка",
+    "Everyone makes mistakes when learning a language.",
+    "A1"
+  ],
+  [
+    "page",
+    "страница",
+    "Turn to page ten in your textbook.",
+    "A1"
+  ],
+  [
+    "paper",
+    "бумага; реферат",
+    "Hand in your paper by Friday.",
+    "A1"
+  ],
+  [
+    "paragraph",
+    "абзац",
+    "Write a short paragraph about your holiday.",
+    "A1"
+  ],
+  [
+    "pen",
+    "ручка (для письма)",
+    "She wrote the answer with a blue pen.",
+    "A1"
+  ],
+  [
+    "pencil",
+    "карандаш",
+    "Use a pencil for the maths exam.",
+    "A1"
+  ],
+  [
+    "period",
+    "урок, период",
+    "We have two periods of English on Mondays.",
+    "A1"
+  ],
+  [
+    "phrase",
+    "фраза",
+    "Learn this useful phrase for the exam.",
+    "A1"
+  ],
+  [
+    "practice",
+    "практика, тренировка",
+    "Regular practice will improve your grammar.",
+    "A1"
+  ],
+  [
+    "practise",
+    "практиковать, тренировать",
+    "Practise these verbs every day.",
+    "A1"
+  ],
+  [
+    "prepare",
+    "готовиться (к экзамену)",
+    "She's preparing for her final exams.",
+    "A1"
+  ],
+  [
+    "question",
+    "вопрос",
+    "There were ten questions in the test.",
+    "A1"
+  ],
+  [
+    "read",
+    "читать",
+    "Read the passage carefully before answering.",
+    "A1"
+  ],
+  [
+    "reader",
+    "читатель",
+    "The textbook is designed for young readers.",
+    "A1"
+  ],
+  [
+    "reading",
+    "чтение",
+    "The reading section was the hardest part.",
+    "A1"
+  ],
+  [
+    "result",
+    "результат (экзамена)",
+    "She was pleased with her exam results.",
+    "A1"
+  ],
+  [
+    "spell",
+    "писать по буквам",
+    "Can you spell your surname, please?",
+    "A1"
+  ],
+  [
+    "spelling",
+    "правописание",
+    "His spelling has really improved this year.",
+    "A1"
+  ],
+  [
+    "topic",
+    "тема",
+    "Choose a topic for your essay.",
+    "A1"
+  ],
+  [
+    "writing",
+    "письмо, письменная речь",
+    "Her writing skills have improved a lot.",
+    "A1"
+  ],
+  [
+    "programme",
+    "учебная программа",
+    "The school offers a bilingual programme.",
+    "A1"
+  ],
+  [
+    "report",
+    "доклад, реферат",
+    "She wrote a report on climate change.",
+    "A1"
+  ],
+  [
+    "section",
+    "раздел (учебника)",
+    "The reading section has five texts.",
+    "A1"
+  ],
+  [
+    "write",
+    "писать (сочинение)",
+    "Write a short essay about your family.",
+    "A1"
+  ],
+  [
+    "number",
+    "число, номер; нумеровать",
+    "Write the page number at the bottom.",
+    "A1"
+  ],
+  [
+    "number",
+    "число, номер; нумеровать",
+    "Number each answer clearly.",
+    "A2"
+  ],
+  [
+    "attend",
+    "посещать (занятия)",
+    "All students must attend the lecture.",
+    "A2"
+  ],
+  [
+    "blank",
+    "пробел (в тексте); пустой",
+    "Fill in each blank with one word.",
+    "A2"
+  ],
+  [
+    "board",
+    "доска (школьная)",
+    "The teacher wrote the answer on the board.",
+    "A2"
+  ],
+  [
+    "circle",
+    "круг; обводить кружком",
+    "Circle the correct answer.",
+    "A2"
+  ],
+  [
+    "context",
+    "контекст",
+    "Try to guess the meaning from context.",
+    "A2"
+  ],
+  [
+    "count",
+    "считать (числа)",
+    "The children learned to count to twenty.",
+    "A2"
+  ],
+  [
+    "borrow",
+    "брать (книгу в библиотеке)",
+    "You can borrow up to five books at once.",
+    "A2"
+  ],
+  [
+    "copy",
+    "экземпляр (книги)",
+    "Everyone needs a copy of the handout.",
+    "A2"
+  ],
+  [
+    "error",
+    "ошибка (в тексте, расчёте)",
+    "There's a spelling error on the first page.",
+    "A2"
+  ],
+  [
+    "fail",
+    "проваливать(ся) (экзамен)",
+    "She failed the test and had to retake it.",
+    "A2"
+  ],
+  [
+    "gap",
+    "пробел, разрыв (в знаниях)",
+    "There's a big gap in his knowledge of grammar.",
+    "A2"
+  ],
+  [
+    "instruction",
+    "инструкция",
+    "Read the instructions before you start.",
+    "A2"
+  ],
+  [
+    "instructor",
+    "инструктор, преподаватель",
+    "Her driving instructor was very patient.",
+    "A2"
+  ],
+  [
+    "introduction",
+    "введение (в книге)",
+    "The introduction explains the aim of the study.",
+    "A2"
+  ],
+  [
+    "learning",
+    "обучение",
+    "Online learning has become very popular.",
+    "A2"
+  ],
+  [
+    "level",
+    "уровень (владения языком)",
+    "Her English level improved a lot this year.",
+    "A2"
+  ],
+  [
+    "field",
+    "область, сфера (деятельности)",
+    "She's an expert in her field.",
+    "A2"
+  ],
+  [
+    "mark",
+    "оценка; отмечать",
+    "The teacher marked all the essays over the weekend.",
+    "A2"
+  ],
+  [
+    "method",
+    "метод",
+    "This teaching method really works for beginners.",
+    "A2"
+  ],
+  [
+    "pass",
+    "сдать (экзамен)",
+    "She passed all her exams with good grades.",
+    "A2"
+  ],
+  [
+    "per cent",
+    "процент (в статистике)",
+    "Only ten per cent of students failed.",
+    "A2"
+  ],
+  [
+    "present",
+    "представлять (проект в классе)",
+    "Each student will present their project on Friday.",
+    "A2"
+  ],
+  [
+    "prize",
+    "приз, награда",
+    "She won a prize for the best essay.",
+    "A2"
+  ],
+  [
+    "pronounce",
+    "произносить",
+    "It's a difficult word to pronounce.",
+    "A2"
+  ],
+  [
+    "question",
+    "опрашивать, задавать вопросы",
+    "The teacher questioned the students about the text.",
+    "A2"
+  ],
+  [
+    "refer",
+    "ссылаться, обращаться к",
+    "Please refer to page five for more details.",
+    "A2"
+  ],
+  [
+    "source",
+    "источник (информации)",
+    "Always mention your source in an essay.",
+    "A2"
+  ],
+  [
+    "sheet",
+    "лист бумаги, рабочий лист",
+    "Complete the worksheet by the end of class.",
+    "A2"
+  ],
+  [
+    "square",
+    "квадрат",
+    "Draw a square with sides of five centimetres.",
+    "A2"
+  ],
+  [
+    "teaching",
+    "преподавание",
+    "She has ten years of teaching experience.",
+    "A2"
+  ],
+  [
+    "term",
+    "учебный семестр",
+    "Exams are held at the end of each term.",
+    "A2"
+  ],
+  [
+    "unit",
+    "раздел (учебника), юнит",
+    "We finished unit three yesterday.",
+    "A2"
+  ]
+]

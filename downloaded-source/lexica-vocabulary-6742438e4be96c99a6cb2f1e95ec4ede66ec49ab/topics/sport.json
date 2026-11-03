@@ -1,0 +1,1076 @@
+[
+  [
+    "ball",
+    "мяч",
+    "The dog ran after the ball.",
+    "A1"
+  ],
+  [
+    "club",
+    "клуб",
+    "He joined the local tennis club.",
+    "A1"
+  ],
+  [
+    "football",
+    "футбол",
+    "The kids play football in the park every weekend.",
+    "A1"
+  ],
+  [
+    "game",
+    "игра",
+    "It was an exciting game to watch.",
+    "A1"
+  ],
+  [
+    "hobby",
+    "хобби",
+    "Painting is her favourite hobby.",
+    "A1"
+  ],
+  [
+    "lose",
+    "проигрывать",
+    "Our team lost the match 2-1.",
+    "A1"
+  ],
+  [
+    "match (contest/correspond)",
+    "матч",
+    "We watched the football match together.",
+    "A1"
+  ],
+  [
+    "party",
+    "вечеринка",
+    "They threw a party for her birthday.",
+    "A1"
+  ],
+  [
+    "play",
+    "играть; игра",
+    "The children played in the garden all afternoon.",
+    "A1"
+  ],
+  [
+    "player",
+    "игрок",
+    "He's the best player on the team.",
+    "A1"
+  ],
+  [
+    "run",
+    "бегать",
+    "She runs five kilometres every morning.",
+    "A1"
+  ],
+  [
+    "sport",
+    "спорт",
+    "What's your favourite sport?",
+    "A1"
+  ],
+  [
+    "swim",
+    "плавать",
+    "They swim in the sea every summer.",
+    "A1"
+  ],
+  [
+    "swimming",
+    "плавание",
+    "Swimming is great exercise.",
+    "A1"
+  ],
+  [
+    "team",
+    "команда",
+    "Our team won the championship this year.",
+    "A1"
+  ],
+  [
+    "tennis",
+    "теннис",
+    "They play tennis every Saturday morning.",
+    "A1"
+  ],
+  [
+    "win",
+    "выигрывать",
+    "Do you think they'll win tonight?",
+    "A1"
+  ],
+  [
+    "athlete",
+    "спортсмен",
+    "She trains as a professional athlete.",
+    "A2"
+  ],
+  [
+    "basketball",
+    "баскетбол",
+    "He's really tall, so he plays basketball.",
+    "A2"
+  ],
+  [
+    "coach",
+    "тренер",
+    "The coach shouted instructions from the sideline.",
+    "A2"
+  ],
+  [
+    "compete",
+    "соревноваться",
+    "She'll compete in the finals next week.",
+    "A2"
+  ],
+  [
+    "competition",
+    "соревнование",
+    "The competition was fierce this year.",
+    "A2"
+  ],
+  [
+    "fan",
+    "болельщик, фанат",
+    "He's a huge fan of the local team.",
+    "A2"
+  ],
+  [
+    "goal",
+    "гол; ворота",
+    "She scored the winning goal in the last minute.",
+    "A2"
+  ],
+  [
+    "golf",
+    "гольф",
+    "My dad plays golf every Sunday.",
+    "A2"
+  ],
+  [
+    "hockey",
+    "хоккей",
+    "They play ice hockey in winter.",
+    "A2"
+  ],
+  [
+    "race (competition)",
+    "гонка, забег; состязаться в скорости",
+    "He won the race by two seconds.",
+    "A2"
+  ],
+  [
+    "run",
+    "пробежка",
+    "She went for a run before breakfast.",
+    "A2"
+  ],
+  [
+    "running",
+    "бег",
+    "Running helps him relax after work.",
+    "A2"
+  ],
+  [
+    "score",
+    "забивать (гол); счёт",
+    "He scored twice in the first half.",
+    "A2"
+  ],
+  [
+    "skiing",
+    "лыжный спорт",
+    "They go skiing in the Alps every winter.",
+    "A2"
+  ],
+  [
+    "coach",
+    "тренировать",
+    "She coaches the youth football team.",
+    "B1"
+  ],
+  [
+    "leisure",
+    "досуг, свободное время",
+    "He spends his leisure time reading and gardening.",
+    "B1"
+  ],
+  [
+    "race (people)",
+    "раса",
+    "The festival celebrates people of every race.",
+    "B1"
+  ],
+  [
+    "rugby",
+    "регби",
+    "Rugby is very popular in that country.",
+    "B1"
+  ],
+  [
+    "stadium",
+    "стадион",
+    "The stadium was full for the final.",
+    "B1"
+  ],
+  [
+    "supporter",
+    "болельщик, сторонник",
+    "Thousands of supporters travelled to the final.",
+    "B1"
+  ],
+  [
+    "swim",
+    "заплыв, купание",
+    "We went for a swim after the walk.",
+    "B1"
+  ],
+  [
+    "win",
+    "победа",
+    "It was a well-deserved win.",
+    "B1"
+  ],
+  [
+    "championship",
+    "чемпионат",
+    "They won the world championship last year.",
+    "B2"
+  ],
+  [
+    "marathon",
+    "марафон",
+    "She ran her first marathon last spring.",
+    "B2"
+  ],
+  [
+    "medal",
+    "медаль",
+    "He won a gold medal at the Olympics.",
+    "B2"
+  ],
+  [
+    "referee",
+    "судья (спортивный)",
+    "The referee gave a penalty in the last minute.",
+    "B2"
+  ],
+  [
+    "spectator",
+    "зритель",
+    "Thousands of spectators filled the stadium.",
+    "B2"
+  ],
+  [
+    "tournament",
+    "турнир",
+    "The tennis tournament starts next Monday.",
+    "B2"
+  ],
+  [
+    "trophy",
+    "трофей, кубок",
+    "The team lifted the trophy after the win.",
+    "C1"
+  ],
+  [
+    "bat",
+    "отбивать (мяч, в крикете/бейсболе)",
+    "He batted well in the second innings.",
+    "C1"
+  ],
+  [
+    "train",
+    "тренироваться; тренировать",
+    "She trains every day before the competition.",
+    "A2"
+  ],
+  [
+    "bat",
+    "бита (спортивная)",
+    "He picked up his bat and walked onto the pitch.",
+    "B2"
+  ],
+  [
+    "captain",
+    "капитан (команды)",
+    "She was chosen as team captain this season.",
+    "B1"
+  ],
+  [
+    "circuit",
+    "трасса, круг (спортивный)",
+    "The cars raced around the circuit at high speed.",
+    "B2"
+  ],
+  [
+    "court",
+    "корт, площадка (спортивная)",
+    "They played tennis on an outdoor court.",
+    "B1"
+  ],
+  [
+    "amateur",
+    "любитель, любительский",
+    "He's still an amateur boxer.",
+    "C1"
+  ],
+  [
+    "arena",
+    "арена",
+    "The concert was held in a huge arena.",
+    "C1"
+  ],
+  [
+    "bounce",
+    "отскакивать (о мяче)",
+    "The ball bounced off the wall.",
+    "C1"
+  ],
+  [
+    "casino",
+    "казино",
+    "They spent the evening at a casino.",
+    "C1"
+  ],
+  [
+    "contender",
+    "претендент, соперник",
+    "She's a strong contender for the title.",
+    "C1"
+  ],
+  [
+    "defensive",
+    "оборонительный, защитный",
+    "The team switched to a defensive strategy.",
+    "C1"
+  ],
+  [
+    "fixture",
+    "матч (по расписанию)",
+    "Saturday's fixture was cancelled due to rain.",
+    "C1"
+  ],
+  [
+    "gambling",
+    "азартные игры",
+    "He struggled with a gambling addiction.",
+    "C1"
+  ],
+  [
+    "gear",
+    "снаряжение",
+    "She packed her climbing gear for the trip.",
+    "C1"
+  ],
+  [
+    "lap",
+    "круг (на трассе)",
+    "He led the race for the final lap.",
+    "C1"
+  ],
+  [
+    "line-up",
+    "состав (команды)",
+    "The coach announced the starting line-up.",
+    "C1"
+  ],
+  [
+    "odds",
+    "шансы, ставки (в игре)",
+    "The odds were against the underdog team.",
+    "C1"
+  ],
+  [
+    "outing",
+    "прогулка, вылазка",
+    "They went on a fishing outing at the weekend.",
+    "C1"
+  ],
+  [
+    "pole",
+    "шест (для прыжков)",
+    "He cleared the bar in the pole vault.",
+    "C1"
+  ],
+  [
+    "punch",
+    "удар (кулаком); бить кулаком",
+    "He threw a quick punch during the match.",
+    "C1"
+  ],
+  [
+    "ranking",
+    "рейтинг",
+    "She rose in the world ranking after the win.",
+    "C1"
+  ],
+  [
+    "rod",
+    "удочка; стержень",
+    "He cast his fishing rod into the lake.",
+    "C1"
+  ],
+  [
+    "shoot",
+    "бросок (по воротам)",
+    "His shoot went just over the crossbar.",
+    "C1"
+  ],
+  [
+    "smash",
+    "сокрушительный удар (в теннисе); разбивать",
+    "She hit a powerful smash to win the point.",
+    "C1"
+  ],
+  [
+    "spin",
+    "вращение, кручение (мяча)",
+    "He put a lot of spin on the serve.",
+    "C1"
+  ],
+  [
+    "squad",
+    "команда, состав",
+    "The coach named his squad for the tournament.",
+    "C1"
+  ],
+  [
+    "substitute",
+    "запасной игрок; заменять",
+    "The coach brought on a substitute in the second half.",
+    "C1"
+  ],
+  [
+    "substitution",
+    "замена (игрока)",
+    "The manager made three substitutions before full time.",
+    "C1"
+  ],
+  [
+    "tackle",
+    "подкат, отбор мяча; решать (проблему)",
+    "He made a clean tackle to win the ball.",
+    "C1"
+  ],
+  [
+    "tactic",
+    "тактика",
+    "Their tactic was to play a slow game.",
+    "C1"
+  ],
+  [
+    "tactical",
+    "тактический",
+    "It was a smart tactical decision by the coach.",
+    "C1"
+  ],
+  [
+    "top",
+    "возглавлять (рейтинг)",
+    "Her team topped the league this season.",
+    "C1"
+  ],
+  [
+    "toss",
+    "подбрасывать (монету, мяч)",
+    "They tossed a coin to decide who would start.",
+    "C1"
+  ],
+  [
+    "swing",
+    "свинг (в гольфе)",
+    "He practised his golf swing for hours.",
+    "C1"
+  ],
+  [
+    "beat",
+    "побеждать, обыгрывать",
+    "She beat her personal record in the race.",
+    "B2"
+  ],
+  [
+    "bet",
+    "ставка; держать пари",
+    "He bet his friend ten pounds on the result.",
+    "B2"
+  ],
+  [
+    "catch",
+    "улов; ловить",
+    "The goalkeeper made an incredible catch.",
+    "B2"
+  ],
+  [
+    "contest",
+    "соревнование; оспаривать",
+    "The two players contested the final for over an hour.",
+    "B2"
+  ],
+  [
+    "defeat",
+    "поражение; побеждать",
+    "The team suffered a heavy defeat last night.",
+    "B2"
+  ],
+  [
+    "defend",
+    "защищать(ся)",
+    "It's her job to defend the goal.",
+    "B2"
+  ],
+  [
+    "dominate",
+    "доминировать",
+    "The champion dominated the match from start to finish.",
+    "B2"
+  ],
+  [
+    "league",
+    "лига",
+    "The team is top of the league this season.",
+    "B2"
+  ],
+  [
+    "mount",
+    "садиться верхом; устанавливать",
+    "He mounted the horse and rode off.",
+    "B2"
+  ],
+  [
+    "opponent",
+    "соперник",
+    "She easily beat her opponent in the final.",
+    "B2"
+  ],
+  [
+    "pace",
+    "темп; идти в ногу",
+    "The runners kept a steady pace throughout the race.",
+    "B2"
+  ],
+  [
+    "pitch",
+    "игровое поле",
+    "The players walked onto the pitch to loud cheers.",
+    "B2"
+  ],
+  [
+    "rank",
+    "ранг, место в рейтинге; ранжировать",
+    "He's ranked among the top ten players in the world.",
+    "B2"
+  ],
+  [
+    "round",
+    "раунд",
+    "She won the first round easily.",
+    "B2"
+  ],
+  [
+    "shot",
+    "удар, бросок (в игре)",
+    "He took a shot at goal from outside the box.",
+    "B2"
+  ],
+  [
+    "slope",
+    "склон (горнолыжный)",
+    "They spent the day skiing on the slopes.",
+    "B2"
+  ],
+  [
+    "reserve",
+    "запасной игрок",
+    "He came on as a reserve in the second half.",
+    "B2"
+  ],
+  [
+    "slide",
+    "горка (детская)",
+    "The kids played on the slide in the park.",
+    "B2"
+  ],
+  [
+    "stand",
+    "трибуна",
+    "We watched the match from the north stand.",
+    "B2"
+  ],
+  [
+    "time",
+    "засекать время",
+    "The coach timed each runner over the final lap.",
+    "B2"
+  ],
+  [
+    "track",
+    "дорожка, трек",
+    "The runners lined up on the track.",
+    "B2"
+  ],
+  [
+    "try",
+    "попытка, зачётная попытка (регби)",
+    "He scored a try in the last minute of the match.",
+    "B2"
+  ],
+  [
+    "victory",
+    "победа",
+    "It was a comfortable victory for the home team.",
+    "B2"
+  ],
+  [
+    "arrow",
+    "стрела",
+    "The archer aimed the arrow carefully at the target.",
+    "B2"
+  ],
+  [
+    "cheer",
+    "подбадривать, приветствовать криками",
+    "The crowd cheered loudly as the team scored.",
+    "B2"
+  ],
+  [
+    "cue",
+    "кий (бильярд)",
+    "He picked up his cue and lined up the shot.",
+    "B2"
+  ],
+  [
+    "defender",
+    "защитник (в игре)",
+    "The defender blocked the shot at the last moment.",
+    "B2"
+  ],
+  [
+    "dive",
+    "нырять; нырок",
+    "The goalkeeper made a great dive to save the ball.",
+    "B2"
+  ],
+  [
+    "helmet",
+    "шлем",
+    "Cyclists should always wear a helmet.",
+    "B2"
+  ],
+  [
+    "kit",
+    "спортивная форма, комплект",
+    "The team wore a new kit for the final.",
+    "B2"
+  ],
+  [
+    "martial",
+    "боевой (martial arts)",
+    "He's been practising martial arts since he was a child.",
+    "B2"
+  ],
+  [
+    "membership",
+    "членство (в клубе)",
+    "She paid for a year's gym membership.",
+    "B2"
+  ],
+  [
+    "penalty",
+    "пенальти, штраф (в игре)",
+    "The referee awarded a penalty in the final minute.",
+    "B2"
+  ],
+  [
+    "puzzle",
+    "головоломка",
+    "They spent the evening doing a jigsaw puzzle.",
+    "B2"
+  ],
+  [
+    "rival",
+    "соперник; соперничающий",
+    "The two rival teams have a long history.",
+    "B2"
+  ],
+  [
+    "sporting",
+    "спортивный",
+    "It was a great sporting achievement for the club.",
+    "B2"
+  ],
+  [
+    "tackle",
+    "подкат (в игре); тащить",
+    "He tackled the striker just outside the box.",
+    "B2"
+  ],
+  [
+    "champion",
+    "чемпион",
+    "She became the national champion last year.",
+    "B1"
+  ],
+  [
+    "climb",
+    "восхождение, подъём",
+    "It was a difficult climb to the summit.",
+    "B1"
+  ],
+  [
+    "competitor",
+    "участник соревнования, конкурент",
+    "Only three competitors made it to the final.",
+    "B1"
+  ],
+  [
+    "competitive",
+    "конкурентный, соревновательный",
+    "He's always been very competitive.",
+    "B1"
+  ],
+  [
+    "block",
+    "блокировать (удар, бросок)",
+    "The keeper made a great block to save the goal.",
+    "B1"
+  ],
+  [
+    "kick",
+    "удар ногой; бить ногой",
+    "He kicked the ball straight into the net.",
+    "B1"
+  ],
+  [
+    "lead",
+    "лидерство, преимущество",
+    "They took the lead in the final minute.",
+    "B1"
+  ],
+  [
+    "net",
+    "сетка, сеть (в игре)",
+    "The ball hit the back of the net.",
+    "B1"
+  ],
+  [
+    "outdoor",
+    "уличный, на свежем воздухе",
+    "They have an outdoor swimming pool.",
+    "B1"
+  ],
+  [
+    "pass",
+    "пас, передача (мяча)",
+    "She made a perfect pass to her teammate.",
+    "B1"
+  ],
+  [
+    "racing",
+    "гонки",
+    "He's a big fan of motor racing.",
+    "B1"
+  ],
+  [
+    "qualify",
+    "квалифицироваться (в соревновании)",
+    "The team qualified for the final round.",
+    "B1"
+  ],
+  [
+    "rope",
+    "верёвка, канат",
+    "The climber gripped the rope tightly.",
+    "B1"
+  ],
+  [
+    "shoot",
+    "бить по воротам; стрелять",
+    "He shot the ball into the top corner.",
+    "B1"
+  ],
+  [
+    "head",
+    "бить головой (мяч)",
+    "She headed the ball into the goal.",
+    "B1"
+  ],
+  [
+    "roll",
+    "перекатываться, кувырок",
+    "The ball rolled off the pitch.",
+    "B1"
+  ],
+  [
+    "activity",
+    "занятие, деятельность",
+    "Swimming is a great physical activity.",
+    "A1"
+  ],
+  [
+    "climb",
+    "взбираться, лазать",
+    "They climbed to the top of the hill.",
+    "A1"
+  ],
+  [
+    "final",
+    "финал (соревнования)",
+    "They lost in the final match of the tournament.",
+    "A1"
+  ],
+  [
+    "centre",
+    "спортивный центр",
+    "There's a new sports centre near the station.",
+    "A1"
+  ],
+  [
+    "join",
+    "вступать (в клуб)",
+    "She joined the local tennis club.",
+    "A1"
+  ],
+  [
+    "member",
+    "участник, член (клуба)",
+    "He's a member of the football team.",
+    "A1"
+  ],
+  [
+    "pool",
+    "бассейн",
+    "They swam in the hotel's outdoor pool.",
+    "A1"
+  ],
+  [
+    "walk",
+    "ходьба; гулять",
+    "We went for a walk after dinner.",
+    "A1"
+  ],
+  [
+    "practice",
+    "тренировка (спортивная)",
+    "Football practice starts at five today.",
+    "A1"
+  ],
+  [
+    "practise",
+    "тренироваться",
+    "She practises the piano every evening.",
+    "A1"
+  ],
+  [
+    "ride",
+    "кататься (на велосипеде, лошади)",
+    "He rides his bike to school every day.",
+    "A1"
+  ],
+  [
+    "baseball",
+    "бейсбол",
+    "They watched a baseball game at the stadium.",
+    "A2"
+  ],
+  [
+    "beat",
+    "побеждать, обыгрывать",
+    "Our team beat theirs by two goals.",
+    "A2"
+  ],
+  [
+    "catch",
+    "ловить",
+    "He caught the ball with one hand.",
+    "A2"
+  ],
+  [
+    "equipment",
+    "снаряжение, оборудование",
+    "You'll need the right equipment for climbing.",
+    "A2"
+  ],
+  [
+    "cross",
+    "навес, пас поперёк поля",
+    "He crossed the ball into the box.",
+    "A2"
+  ],
+  [
+    "field",
+    "поле (игровое)",
+    "The players ran onto the field.",
+    "A2"
+  ],
+  [
+    "final",
+    "финал",
+    "They reached the final of the competition.",
+    "A2"
+  ],
+  [
+    "finish",
+    "финиш",
+    "She was the first to cross the finish line.",
+    "A2"
+  ],
+  [
+    "fishing",
+    "рыбалка",
+    "He loves going fishing at the weekend.",
+    "A2"
+  ],
+  [
+    "hit",
+    "удар; ударять",
+    "She hit the ball over the fence.",
+    "A2"
+  ],
+  [
+    "jump",
+    "прыжок; прыгать",
+    "He jumped over the fence easily.",
+    "A2"
+  ],
+  [
+    "fight",
+    "бой (боксёрский)",
+    "The boxers had a tough fight last night.",
+    "A2"
+  ],
+  [
+    "gold",
+    "золотая медаль",
+    "She won a gold medal at the Olympics.",
+    "A2"
+  ],
+  [
+    "instructor",
+    "инструктор (по фитнесу)",
+    "The gym instructor showed her the right technique.",
+    "A2"
+  ],
+  [
+    "lift",
+    "поднимать (тяжести)",
+    "He can lift very heavy weights.",
+    "A2"
+  ],
+  [
+    "movement",
+    "движение (тела)",
+    "The dancer's movements were smooth and graceful.",
+    "A2"
+  ],
+  [
+    "pass",
+    "пасовать, отдавать пас",
+    "He passed the ball to his teammate.",
+    "A2"
+  ],
+  [
+    "runner",
+    "бегун",
+    "The runner crossed the line in record time.",
+    "A2"
+  ],
+  [
+    "sailing",
+    "парусный спорт",
+    "They spent the weekend sailing on the lake.",
+    "A2"
+  ],
+  [
+    "record",
+    "рекорд",
+    "She broke the world record for the 100 metres.",
+    "A2"
+  ],
+  [
+    "serve",
+    "подавать (мяч)",
+    "She served the ball hard to win the point.",
+    "A2"
+  ],
+  [
+    "ski",
+    "кататься на лыжах; лыжный",
+    "We went skiing in the Alps last winter.",
+    "A2"
+  ],
+  [
+    "soccer",
+    "футбол (амер.)",
+    "He plays soccer for his university team.",
+    "A2"
+  ],
+  [
+    "start",
+    "старт",
+    "The race had a slow start.",
+    "A2"
+  ],
+  [
+    "season",
+    "сезон (спортивный)",
+    "The football season starts in August.",
+    "A2"
+  ],
+  [
+    "silver",
+    "серебряная медаль",
+    "She won the silver medal in the final.",
+    "A2"
+  ],
+  [
+    "throw",
+    "бросать",
+    "He threw the ball to first base.",
+    "A2"
+  ],
+  [
+    "track",
+    "трек, дорожка",
+    "The runners lined up on the track.",
+    "A2"
+  ],
+  [
+    "trainer",
+    "тренер",
+    "Her personal trainer helped her get fit.",
+    "A2"
+  ],
+  [
+    "training",
+    "тренировка",
+    "The team has training every Tuesday.",
+    "A2"
+  ],
+  [
+    "winner",
+    "победитель",
+    "The winner received a large trophy.",
+    "A2"
+  ],
+  [
+    "tie",
+    "сыграть вничью; ничья",
+    "The match ended in a tie.",
+    "A2"
+  ],
+  [
+    "top",
+    "верхняя строчка (рейтинга)",
+    "The team finished top of the league.",
+    "A2"
+  ],
+  [
+    "cycle",
+    "ездить на велосипеде; цикл",
+    "She goes for a long cycle every Sunday.",
+    "A2"
+  ]
+]

@@ -1,0 +1,1233 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Лексика · тренажёр слов</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:wght@400;500;600&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<style>
+  :root{
+    --bg:#14181F;
+    --panel:#1C222C;
+    --card:#212836;
+    --ink:#F2EFE9;
+    --ink-dim:#A7ACB6;
+    --ink-faint:#6E7280;
+    --amber:#E8A33D;
+    --amber-dim:#4A3A1E;
+    --teal:#4FB3A9;
+    --teal-dim:#173330;
+    --coral:#E4685E;
+    --coral-dim:#3C1E1B;
+    --line:#2E3542;
+    --radius:14px;
+    --font-display:'Fraunces', serif;
+    --font-body:'Inter', sans-serif;
+    --font-mono:'IBM Plex Mono', monospace;
+  }
+  *{box-sizing:border-box;}
+  body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--font-body);}
+  .app{max-width:560px;margin:0 auto;padding:28px 20px 60px;}
+
+  .top{display:flex;align-items:baseline;justify-content:space-between;margin-bottom:6px;}
+  .top-left{display:flex;align-items:baseline;gap:12px;}
+  .back-btn{display:none;background:none;border:none;color:var(--ink-faint);font-family:var(--font-body);font-size:13px;font-weight:500;cursor:pointer;padding:0;}
+  .back-btn:hover{color:var(--amber);}
+  .back-btn.show{display:inline-block;}
+  .brand{font-family:var(--font-display);font-size:26px;font-weight:600;letter-spacing:.2px;}
+  .brand span{color:var(--amber);}
+  .streak{font-family:var(--font-mono);font-size:13px;color:var(--ink-dim);display:flex;align-items:center;gap:6px;}
+  .streak b{color:var(--amber);font-weight:500;}
+  .sub{color:var(--ink-faint);font-size:14px;margin:0 0 24px;}
+
+  .nav{display:flex;gap:6px;background:var(--panel);border-radius:12px;padding:4px;margin-bottom:24px;}
+  .nav button{flex:1;background:transparent;border:none;color:var(--ink-faint);font-family:var(--font-body);font-size:14px;font-weight:500;padding:9px 8px;border-radius:9px;cursor:pointer;transition:background .15s,color .15s;}
+  .nav button.active{background:var(--card);color:var(--ink);}
+
+  .screen{display:none;}
+  .screen.active{display:block;}
+
+  /* ---- home / lamp signature ---- */
+  .lamp-card{position:relative;background:radial-gradient(140px 100px at 50% 0%, rgba(232,163,61,.14), transparent 70%), var(--panel);border:1px solid var(--line);border-radius:20px;padding:34px 26px 26px;text-align:center;margin-bottom:22px;}
+  .lamp-card:before{content:"";position:absolute;top:0;left:50%;transform:translateX(-50%);width:6px;height:6px;border-radius:50%;background:var(--amber);box-shadow:0 0 14px 4px rgba(232,163,61,.55);}
+  .lamp-word{font-family:var(--font-display);font-size:15px;color:var(--ink-faint);margin:10px 0 4px;}
+  .lamp-count{font-family:var(--font-display);font-size:44px;font-weight:600;margin:0;}
+  .lamp-label{font-size:13px;color:var(--ink-faint);margin-top:4px;}
+  .start-btn{margin-top:20px;width:100%;background:var(--amber);color:#241804;border:none;font-family:var(--font-body);font-weight:600;font-size:15px;padding:13px;border-radius:11px;cursor:pointer;}
+  .start-btn:active{transform:scale(.98);}
+  .start-btn:disabled{background:var(--line);color:var(--ink-faint);cursor:not-allowed;}
+
+  .stat-row{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:10px;}
+  .stat{background:var(--panel);border-radius:12px;padding:14px 16px;}
+  .stat b{display:block;font-family:var(--font-mono);font-size:20px;font-weight:500;}
+  .stat span{font-size:12px;color:var(--ink-faint);}
+
+  /* ---- quiz ---- */
+  .progress-bar{height:3px;background:var(--line);border-radius:2px;overflow:hidden;margin-bottom:26px;}
+  .progress-fill{height:100%;background:var(--amber);transition:width .25s;}
+  .index-card{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:36px 26px;text-align:center;position:relative;margin-bottom:18px;}
+  .index-card:before{content:"";position:absolute;left:22px;top:0;bottom:0;width:1px;background:repeating-linear-gradient(to bottom, transparent 0 6px, var(--line) 6px 7px);}
+  .qword{font-family:var(--font-display);font-size:32px;font-weight:600;}
+  .qhint-wrap{display:flex;align-items:center;justify-content:center;gap:6px;margin-top:8px;}
+  .qhint{font-size:13px;color:var(--ink-faint);cursor:pointer;transition:color .15s;}
+  .qhint:hover{color:var(--ink-dim);}
+  .qhint-edit-btn{background:none;border:none;color:var(--ink-faint);cursor:pointer;font-size:12px;padding:2px 4px;border-radius:4px;opacity:0.6;transition:opacity .15s,color .15s;}
+  .qhint-edit-btn:hover{opacity:1;color:var(--amber);}
+  .qhint-edit-box{margin-top:10px;text-align:left;}
+  .qhint-edit-box textarea{width:100%;box-sizing:border-box;background:var(--bg);border:1px solid var(--line);border-radius:8px;color:var(--ink);font-family:var(--font-body);font-size:13px;padding:8px 10px;resize:vertical;min-height:48px;}
+  .qhint-edit-box textarea:focus{outline:none;border-color:var(--amber);}
+  .qhint-actions{display:flex;gap:6px;margin-top:6px;justify-content:center;}
+  .qhint-actions button{font-family:var(--font-body);font-size:12px;font-weight:500;border-radius:6px;padding:5px 10px;cursor:pointer;border:1px solid var(--line);background:var(--panel);color:var(--ink-dim);}
+  .qhint-actions button.save{background:var(--amber-dim);color:var(--amber);border-color:var(--amber);}
+  .qhint-tag{font-size:10px;color:var(--amber);margin-left:6px;font-weight:500;}
+  .options{display:flex;flex-direction:column;gap:10px;}
+  .opt{background:var(--panel);border:1px solid var(--line);color:var(--ink);font-family:var(--font-body);font-size:15px;text-align:left;padding:14px 16px;border-radius:11px;cursor:pointer;}
+  .opt:active{transform:scale(.99);}
+  .opt.correct{background:var(--teal-dim);border-color:var(--teal);color:var(--teal);}
+  .opt.wrong{background:var(--coral-dim);border-color:var(--coral);color:var(--coral);}
+  .opt:disabled{cursor:default;}
+  .next-btn{margin-top:16px;width:100%;background:var(--card);border:1px solid var(--line);color:var(--ink);font-family:var(--font-body);font-weight:500;font-size:15px;padding:13px;border-radius:11px;cursor:pointer;display:none;}
+
+  .result{text-align:center;padding:20px 0;}
+  .result b{font-family:var(--font-display);font-size:40px;display:block;}
+  .result p{color:var(--ink-faint);font-size:14px;}
+
+  /* ---- words screen ---- */
+  .add-form{background:var(--panel);border-radius:14px;padding:16px;margin-bottom:20px;}
+  .add-form h3{margin:0 0 12px;font-size:14px;font-weight:500;color:var(--ink-dim);}
+  .row2{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-bottom:8px;}
+  input[type=text]{width:100%;background:var(--card);border:1px solid var(--line);color:var(--ink);font-family:var(--font-body);font-size:14px;padding:10px 12px;border-radius:9px;}
+  input[type=text]:focus{outline:none;border-color:var(--amber);}
+  .add-btn{width:100%;background:var(--teal-dim);color:var(--teal);border:1px solid var(--teal);font-family:var(--font-body);font-weight:500;font-size:14px;padding:11px;border-radius:9px;cursor:pointer;margin-top:2px;}
+
+  .wlist-head{font-size:13px;color:var(--ink-faint);margin:18px 0 8px;}
+  .wrow{display:flex;align-items:center;justify-content:space-between;gap:10px;padding:11px 4px;border-bottom:1px solid var(--line);}
+  .wrow .w-en{font-weight:500;font-size:14px;}
+  .wrow .w-ru{color:var(--ink-faint);font-size:13px;}
+  .wrow .mastery{display:flex;gap:3px;margin-left:auto;margin-right:8px;}
+  .dot{width:6px;height:6px;border-radius:50%;background:var(--line);}
+  .dot.on{background:var(--teal);}
+  .del{background:none;border:none;color:var(--ink-faint);cursor:pointer;font-size:16px;padding:2px 6px;}
+  .del:hover{color:var(--coral);}
+
+  .empty{color:var(--ink-faint);font-size:14px;text-align:center;padding:30px 10px;}
+
+  .ex-card{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:30px 26px 26px;text-align:center;margin-bottom:16px;}
+  .ex-en{font-family:var(--font-display);font-size:28px;font-weight:600;}
+  .ex-ru{color:var(--ink-dim);font-size:15px;margin-top:6px;}
+  .ex-count{font-family:var(--font-mono);font-size:12px;color:var(--ink-faint);margin-bottom:14px;}
+  textarea{width:100%;background:var(--panel);border:1px solid var(--line);color:var(--ink);font-family:var(--font-body);font-size:14px;padding:12px;border-radius:11px;resize:vertical;min-height:74px;line-height:1.5;}
+  textarea:focus{outline:none;border-color:var(--amber);}
+  .ex-btn-row{display:flex;gap:8px;margin-top:10px;}
+  .ex-save{flex:2;background:var(--teal-dim);color:var(--teal);border:1px solid var(--teal);font-family:var(--font-body);font-weight:500;font-size:14px;padding:12px;border-radius:10px;cursor:pointer;}
+  .ex-skip{flex:1;background:transparent;color:var(--ink-faint);border:1px solid var(--line);font-family:var(--font-body);font-size:14px;padding:12px;border-radius:10px;cursor:pointer;}
+  .ex-saved-tag{font-size:12px;color:var(--teal);margin-top:10px;display:none;}
+  .has-note{color:var(--amber);margin-left:6px;font-size:12px;}
+
+  .toggle-row{display:flex;align-items:center;justify-content:space-between;background:var(--panel);padding:12px 16px;border-radius:12px;margin-bottom:18px;}
+  .toggle-row span{font-size:14px;}
+  .switch{position:relative;width:42px;height:24px;background:var(--line);border-radius:12px;cursor:pointer;flex-shrink:0;}
+  .switch:before{content:"";position:absolute;top:2px;left:2px;width:20px;height:20px;border-radius:50%;background:var(--ink);transition:transform .15s;}
+  .switch.on{background:var(--amber-dim);}
+  .switch.on:before{background:var(--amber);transform:translateX(18px);}
+
+  .topic-scroll{display:flex;gap:7px;overflow-x:auto;padding-bottom:14px;margin-bottom:6px;-webkit-overflow-scrolling:touch;scrollbar-width:none;}
+  .topic-scroll::-webkit-scrollbar{display:none;}
+  .topic-pill{flex:0 0 auto;background:var(--panel);border:1px solid var(--line);color:var(--ink-dim);font-family:var(--font-body);font-size:13px;font-weight:500;padding:8px 14px;border-radius:999px;cursor:pointer;white-space:nowrap;transition:background .15s,color .15s,border-color .15s;}
+  .topic-pill.active{background:var(--amber-dim);color:var(--amber);border-color:var(--amber);}
+  .topic-pill .count{color:var(--ink-faint);font-family:var(--font-mono);font-size:11px;margin-left:5px;}
+  .topic-pill.active .count{color:var(--amber);opacity:.7;}
+
+  .level-scroll{margin-bottom:14px;}
+  .level-pill{padding:6px 12px;font-size:12px;}
+  .level-pill.lvl-active-A1, .level-pill.lvl-active-A2{background:rgba(122,181,120,.16);color:#a6d6a0;border-color:rgba(122,181,120,.4);}
+  .level-pill.lvl-active-B1, .level-pill.lvl-active-B2{background:rgba(224,178,90,.18);color:var(--amber);border-color:var(--amber);}
+  .level-pill.lvl-active-C1, .level-pill.lvl-active-C2{background:rgba(214,120,96,.18);color:#e08a6f;border-color:#e08a6f;}
+
+  .lvl-badge{display:inline-block;font-family:var(--font-mono);font-size:10px;font-weight:600;letter-spacing:.03em;padding:2px 6px;border-radius:5px;vertical-align:middle;line-height:1.5;}
+  .lvl-A1{background:rgba(122,181,120,.16);color:#8fca8c;}
+  .lvl-A2{background:rgba(122,181,120,.16);color:#a6d6a0;}
+  .lvl-B1{background:rgba(224,178,90,.18);color:var(--amber);}
+  .lvl-B2{background:rgba(224,178,90,.18);color:#e0b25a;}
+  .lvl-C1{background:rgba(214,120,96,.18);color:#e08a6f;}
+  .lvl-C2{background:rgba(214,120,96,.18);color:#e08a6f;}
+  .w-en .lvl-badge, .qword + .lvl-badge{margin-left:8px;}
+
+  .wrow-wrap{border-bottom:1px solid var(--line);}
+  .wrow-wrap .wrow{border-bottom:none;cursor:pointer;}
+  .wrow-wrap.expanded .wrow{background:var(--panel);}
+  .example-panel{display:none;padding:2px 4px 14px;}
+  .wrow-wrap.expanded .example-panel{display:block;}
+  .example-panel .ex-label{font-size:11px;color:var(--ink-faint);text-transform:uppercase;letter-spacing:.04em;margin-bottom:6px;}
+  .example-panel textarea{width:100%;box-sizing:border-box;background:var(--bg);border:1px solid var(--line);border-radius:8px;color:var(--ink);font-family:var(--font-body);font-size:13px;padding:8px 10px;resize:vertical;min-height:52px;}
+  .example-panel textarea:focus{outline:none;border-color:var(--amber);}
+  .example-actions{display:flex;gap:8px;margin-top:8px;}
+  .example-actions button{font-family:var(--font-body);font-size:12px;font-weight:500;border-radius:7px;padding:6px 12px;cursor:pointer;border:1px solid var(--line);background:var(--bg);color:var(--ink-dim);}
+  .example-actions .ex-save-btn{background:var(--amber-dim);color:var(--amber);border-color:var(--amber);}
+  .example-actions .ex-reset-btn{display:none;}
+  .example-actions .ex-reset-btn.show{display:inline-block;}
+  .example-custom-tag{font-size:10px;color:var(--amber);margin-left:6px;font-weight:500;}
+</style>
+</head>
+<body>
+<div class="app">
+
+  <div class="top">
+    <div class="top-left">
+      <button class="back-btn" id="backBtn" aria-label="назад">← назад</button>
+      <div class="brand">лекси<span>ка</span></div>
+    </div>
+    <div class="streak"><span id="streakOut">—</span></div>
+  </div>
+  <p class="sub">тренажёр английской лексики уровня B2–C1</p>
+
+  <div class="nav">
+    <button class="active" data-screen="home">тренировка</button>
+    <button data-screen="words">мои слова</button>
+    <button data-screen="ai">проверка текста</button>
+    <button data-screen="progress">прогресс</button>
+  </div>
+
+  <!-- HOME -->
+  <div class="screen active" id="screen-home">
+    <div class="topic-scroll" id="topicScroll"></div>
+    <div class="topic-scroll level-scroll" id="levelScroll"></div>
+
+    <div class="toggle-row">
+      <span>en → ru</span>
+      <div class="switch" id="dirSwitch"></div>
+      <span>ru → en</span>
+    </div>
+
+    <div class="lamp-card">
+      <div class="lamp-word">сегодня в работе</div>
+      <p class="lamp-count" id="poolCount">0</p>
+      <div class="lamp-label">слов в словаре</div>
+      <button class="start-btn" id="startBtn">начать тест · 10 слов</button>
+    </div>
+
+    <div class="stat-row">
+      <div class="stat"><b id="homeAccuracy">—</b><span>точность за всё время</span></div>
+      <div class="stat"><b id="homeWeak">—</b><span>слова на повторении</span></div>
+    </div>
+ <!-- ОБЛАЧНЫЙ АККАУНТ -->
+<div id="authCard" style="margin-top:24px;padding:16px;background:var(--card);border:1px solid var(--border);border-radius:12px;">
+  <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:8px;">
+    <div style="font-weight:600;font-size:14px;display:flex;align-items:center;gap:6px;">
+      <span>☁️ Личный кабинет</span>
+    </div>
+    <div id="authBadge" style="font-size:11px;padding:2px 8px;border-radius:20px;background:var(--panel);color:var(--ink-faint);">офлайн</div>
+  </div>
+
+  <div id="authLoggedOut">
+    <p style="font-size:12px;color:var(--ink-faint);line-height:1.4;margin-bottom:12px;">
+      Войдите по почте и паролю, чтобы прогресс автоматически сохранялся в облаке и был доступен с любого устройства.
+    </p>
+    <div style="display:flex;flex-direction:column;gap:8px;">
+      <input type="email" id="authEmail" placeholder="Email" style="padding:8px 12px;background:var(--panel);border:1px solid var(--border);border-radius:8px;font-size:13px;color:var(--ink);outline:none;">
+      <input type="password" id="authPassword" placeholder="Пароль (от 6 символов)" style="padding:8px 12px;background:var(--panel);border:1px solid var(--border);border-radius:8px;font-size:13px;color:var(--ink);outline:none;">
+      <div style="display:flex;gap:8px;">
+        <button id="btnSignIn" style="flex:1;padding:8px;background:var(--accent);color:#fff;border:none;border-radius:8px;font-size:13px;cursor:pointer;">Войти</button>
+        <button id="btnSignUp" style="flex:1;padding:8px;background:var(--panel);border:1px solid var(--border);border-radius:8px;font-size:13px;color:var(--ink);cursor:pointer;">Регистрация</button>
+      </div>
+    </div>
+  </div>
+
+  <div id="authLoggedIn" style="display:none;">
+    <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:10px;">
+      <span id="authUserEmail" style="font-size:13px;color:var(--ink);font-weight:500;"></span>
+      <button id="btnSignOut" style="padding:4px 10px;background:transparent;border:1px solid var(--border);border-radius:6px;font-size:11px;color:var(--ink-faint);cursor:pointer;">Выйти</button>
+    </div>
+    <div style="font-size:12px;color:var(--ink-faint);display:flex;align-items:center;gap:6px;">
+      <span style="display:inline-block;width:8px;height:8px;background:#4ade80;border-radius:50%;"></span>
+      <span>Синхронизация с облаком активна</span>
+    </div>
+  </div>
+
+  <div id="authMsg" style="font-size:12px;color:#e06c75;margin-top:8px;display:none;"></div>
+</div>
+    <div style="margin-top:28px;padding:16px;background:var(--card);border:1px solid var(--border);border-radius:12px;">
+  <div style="font-weight:600;font-size:14px;margin-bottom:6px;">💾 Резервная копия прогресса</div>
+  <div style="font-size:12px;color:var(--ink-faint);line-height:1.4;margin-bottom:12px;">
+    Прогресс сохраняется в браузере. Вы также можете скачать резервную копию или восстановить данные на другом устройстве.
+  </div>
+  <div style="display:flex;gap:8px;flex-wrap:wrap;">
+    <button id="btnExportBackup" style="flex:1;min-width:140px;padding:8px 12px;background:var(--panel);border:1px solid var(--border);border-radius:8px;font-size:13px;color:var(--ink);cursor:pointer;">📥 Скачать бэкап</button>
+    <button id="btnImportBackup" style="flex:1;min-width:140px;padding:8px 12px;background:var(--panel);border:1px solid var(--border);border-radius:8px;font-size:13px;color:var(--ink);cursor:pointer;">📤 Восстановить из файла</button>
+    <input type="file" id="backupFileInput" accept=".json" style="display:none;">
+  </div>
+  <div id="backupNotice" style="font-size:12px;color:var(--accent);margin-top:8px;display:none;"></div>
+</div>
+  </div>
+
+  <!-- QUIZ -->
+  <div class="screen" id="screen-quiz">
+    <div class="progress-bar"><div class="progress-fill" id="progFill" style="width:0%"></div></div>
+    <div class="index-card">
+      <div class="qword" id="qWord">—</div>
+      <span class="lvl-badge" id="qLevel" style="display:none;"></span>
+      <div class="qhint-wrap" id="qHintWrap">
+        <div class="qhint" id="qHint"></div>
+        <button class="qhint-edit-btn" id="qHintEditBtn" title="Изменить пример">✏️</button>
+      </div>
+      <div class="qhint-edit-box" id="qHintEditBox" style="display:none;">
+        <textarea id="qHintInput" placeholder="Введите свой пример со словом..."></textarea>
+        <div class="qhint-actions">
+          <button type="button" class="save" id="qHintSave">сохранить</button>
+          <button type="button" class="reset" id="qHintReset" style="display:none;">сбросить</button>
+          <button type="button" class="cancel" id="qHintCancel">отмена</button>
+        </div>
+      </div>
+    </div>
+    <div class="options" id="qOptions"></div>
+    <button class="next-btn" id="nextBtn">дальше →</button>
+  </div>
+
+  <!-- QUIZ RESULT -->
+  <div class="screen" id="screen-result">
+    <div class="result">
+      <b id="resScore">—</b>
+      <p id="resSub">верных ответов</p>
+    </div>
+    <button class="start-btn" id="restartBtn">тренировать ещё раз</button>
+  </div>
+
+  <!-- WORDS -->
+  <div class="screen" id="screen-words">
+    <div class="add-form">
+      <h3>добавить слово</h3>
+      <div class="row2">
+        <input type="text" id="inEn" placeholder="английское слово">
+        <input type="text" id="inRu" placeholder="перевод">
+      </div>
+      <input type="text" id="inEx" placeholder="пример предложения (необязательно)">
+      <button class="add-btn" id="addWordBtn" style="margin-top:8px;">добавить в словарь</button>
+    </div>
+    <div class="wlist-head" id="wlistHead">мои слова</div>
+    <div id="customList"></div>
+  </div>
+
+  <!-- PROGRESS -->
+  
+  <!-- SCREEN AI CHECK -->
+  <div class="screen" id="screen-ai">
+    <div class="card" style="margin-bottom:16px;">
+      <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:12px;">
+        <span style="font-size:15px;font-weight:600;color:var(--ink);display:flex;align-items:center;gap:8px;">
+          🤖 Разбор текста с Llama 3.3
+        </span>
+        <span style="font-size:11px;padding:3px 8px;border-radius:12px;background:var(--teal-dim);color:var(--teal);">онлайн</span>
+      </div>
+      <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px;">
+        <label for="aiTextInput" style="font-size:13px;color:var(--ink-dim);">Ваш текст на английском:</label>
+        <span id="aiTextCount" style="font-size:11px;color:var(--ink-faint);">0 слов</span>
+      </div>
+      <textarea id="aiTextInput" rows="5" placeholder="Напишите или вставьте предложения на английском (эссе, email, тренировочные фразы)..." style="width:100%;box-sizing:border-box;background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:12px;color:var(--ink);font-size:14px;font-family:inherit;resize:vertical;line-height:1.5;"></textarea>
+      <div style="display:flex;gap:8px;margin-top:12px;">
+        <button id="aiCheckBtn" style="flex:1;background:var(--amber);color:#241804;border:none;border-radius:8px;padding:12px;font-weight:600;font-size:14px;cursor:pointer;display:flex;align-items:center;justify-content:center;gap:6px;">
+          <span>✨ Проверить с Llama 3.3</span>
+        </button>
+        <button id="aiClearBtn" style="background:var(--panel);color:var(--ink-dim);border:1px solid var(--line);border-radius:8px;padding:12px 16px;font-size:13px;cursor:pointer;">Очистить</button>
+      </div>
+      <div id="aiStatusMsg" style="display:none;margin-top:12px;font-size:13px;text-align:center;"></div>
+    </div>
+
+    <!-- AI RESULT CONTAINER -->
+    <div id="aiResultBox" style="display:none;">
+      <!-- LEVEL & SUMMARY -->
+      <div class="card" style="margin-bottom:16px;display:flex;align-items:center;gap:14px;">
+        <div id="aiResultCefr" style="font-size:18px;font-weight:700;padding:8px 14px;border-radius:10px;background:var(--teal-dim);color:var(--teal);border:1px solid var(--teal);">B1</div>
+        <div style="flex:1;">
+          <div style="font-size:12px;color:var(--ink-faint);text-transform:uppercase;letter-spacing:0.5px;">Оценка уровня</div>
+          <div id="aiResultOverall" style="font-size:13px;color:var(--ink);margin-top:2px;"></div>
+        </div>
+      </div>
+
+      <!-- CORRECTED VERSION -->
+      <div class="card" style="margin-bottom:16px;">
+        <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px;">
+          <span style="font-size:13px;font-weight:600;color:var(--teal);">✏️ Исправленная версия</span>
+          <button id="aiCopyCorrectedBtn" style="background:var(--panel);border:1px solid var(--line);color:var(--ink-dim);border-radius:6px;padding:4px 10px;font-size:11px;cursor:pointer;">Скопировать</button>
+        </div>
+        <div id="aiResultCorrected" style="font-size:14px;color:var(--ink);line-height:1.6;background:var(--panel);padding:12px;border-radius:8px;border:1px solid var(--line);white-space:pre-wrap;"></div>
+      </div>
+
+      <!-- ERRORS EXPLANATION -->
+      <div class="card" style="margin-bottom:16px;">
+        <div style="font-size:13px;font-weight:600;color:var(--coral);margin-bottom:10px;">💡 Разбор ошибок и правил</div>
+        <div id="aiResultErrors" style="display:flex;flex-direction:column;gap:10px;"></div>
+      </div>
+
+      <!-- NATIVE SUGGESTION -->
+      <div class="card" style="margin-bottom:16px;">
+        <div style="font-size:13px;font-weight:600;color:var(--amber);margin-bottom:8px;">🌟 Как сказал бы носитель (Sound like a Native)</div>
+        <div id="aiResultNative" style="font-size:14px;color:var(--ink);line-height:1.6;background:var(--panel);padding:12px;border-radius:8px;border:1px solid var(--line);font-style:italic;"></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="screen" id="screen-progress">
+    <div class="stat-row">
+      <div class="stat"><b id="pTotal">0</b><span>всего попыток</span></div>
+      <div class="stat"><b id="pAcc">—</b><span>точность</span></div>
+    </div>
+    <div class="stat-row">
+      <div class="stat"><b id="pMastered">0</b><span>слов выучено</span></div>
+      <div class="stat"><b id="pSessions">0</b><span>сессий пройдено</span></div>
+    </div>
+    <div class="wlist-head">сложные слова (чаще всего с ошибками)</div>
+    <div id="hardList"></div>
+   
+
+  </div>
+
+</div>
+
+<script>
+const TOPICS = [
+  {id:"academic", label:"Академическая лексика"},
+  {id:"animals", label:"Животные"},
+  {id:"appearance", label:"Внешность"},
+  {id:"people", label:"Люди и семья"},
+  {id:"health", label:"Здоровье"},
+  {id:"notions", label:"Эмоции и понятия"},
+  {id:"homes", label:"Дом и жильё"},
+  {id:"food", label:"Еда и напитки"},
+  {id:"education", label:"Образование"},
+  {id:"work", label:"Работа и бизнес"},
+  {id:"travel", label:"Путешествия"},
+  {id:"nature", label:"Природа"},
+  {id:"science", label:"Наука и технологии"},
+  {id:"communication", label:"Общение"},
+  {id:"politics", label:"Политика и общество"},
+  {id:"culture", label:"Культура"},
+  {id:"sport", label:"Спорт и досуг"}
+];
+
+const BUILTIN_WORDS = [];
+const loadedTopics = {};
+
+async function loadTopicWords(topicId) {
+  if (loadedTopics[topicId]) return loadedTopics[topicId];
+  try {
+    const res = await fetch(`topics/${topicId}.json`);
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const data = await res.json();
+    loadedTopics[topicId] = data;
+    return data;
+  } catch (err) {
+    console.warn(`Не удалось загрузить тему ${topicId}:`, err);
+    return [];
+  }
+}
+
+async function loadAllBuiltinWords() {
+  BUILTIN_WORDS.length = 0;
+  let _bid = 0;
+  const promises = TOPICS.map(async (t) => {
+    const words = await loadTopicWords(t.id);
+    return { topicId: t.id, words };
+  });
+  const results = await Promise.all(promises);
+  results.forEach(({ topicId, words }) => {
+    words.forEach(w => {
+      BUILTIN_WORDS.push({
+        id: "b" + (_bid++),
+        en: w[0],
+        ru: w[1],
+        ex: w[2],
+        level: w[3] || "",
+        topic: topicId,
+        builtin: true
+      });
+    });
+  });
+}
+
+let customWords = [];
+let customExamples = {};
+let wordStats = {};
+let sessions = [];
+let direction = "en-ru";
+let selectedTopic = "all";
+let selectedLevel = "all";
+
+let quizQueue = [];
+let quizIndex = 0;
+let quizCorrect = 0;
+let quizAnswered = false;
+
+async function loadJSON(key, fallback) {
+  try {
+    if (typeof localStorage !== "undefined") {
+      const v = localStorage.getItem("lexica_" + key) ?? localStorage.getItem(key);
+      if (v !== null) return JSON.parse(v);
+    }
+    return fallback;
+  } catch (e) {
+    return fallback;
+  }
+}
+
+async function saveJSON(key, val) {
+  try {
+    if (typeof localStorage !== "undefined") {
+      localStorage.setItem("lexica_" + key, JSON.stringify(val));
+    }
+  } catch (e) {
+    console.error("Storage error:", e);
+  }
+}
+
+
+function allWords(){
+  let base = selectedTopic==="all" ? BUILTIN_WORDS : BUILTIN_WORDS.filter(w=>w.topic===selectedTopic);
+  if(selectedLevel!=="all") base = base.filter(w=>w.level===selectedLevel);
+  const custom = selectedLevel==="all" ? customWords : [];
+  return base.concat(custom);
+}
+function statFor(id){
+  if(!wordStats[id]) wordStats[id] = {correct:0, wrong:0};
+  return wordStats[id];
+}
+function masteryLevel(id){
+  const s = statFor(id);
+  const net = s.correct - s.wrong;
+  if(s.correct===0 && s.wrong===0) return 0;
+  return Math.max(0, Math.min(4, net+1));
+}
+
+function pickQuizWords(n){
+  const pool = allWords();
+  const weighted = pool.map(w=>{
+    const s = statFor(w.id);
+    const weight = 5 - Math.min(4, s.correct - s.wrong + 2);
+    return {w, weight: Math.max(1, weight)};
+  });
+  const bag = [];
+  weighted.forEach(item=>{ for(let i=0;i<item.weight;i++) bag.push(item.w); });
+  const chosen = [];
+  const usedIds = new Set();
+  let guard = 0;
+  while(chosen.length < Math.min(n, pool.length) && guard < 2000){
+    guard++;
+    const pick = bag[Math.floor(Math.random()*bag.length)];
+    if(!usedIds.has(pick.id)){ chosen.push(pick); usedIds.add(pick.id); }
+  }
+  return chosen;
+}
+
+function buildOptions(correctWord){
+  const pool = allWords().filter(w=>w.id!==correctWord.id);
+  const shuffled = pool.slice().sort(()=>Math.random()-0.5);
+  const distractors = shuffled.slice(0,3);
+  const options = distractors.concat([correctWord]).sort(()=>Math.random()-0.5);
+  return options;
+}
+
+function showScreen(name){
+  document.querySelectorAll(".screen").forEach(s=>s.classList.remove("active"));
+  document.getElementById("screen-"+name).classList.add("active");
+  document.querySelectorAll(".nav button").forEach(b=>{
+    b.classList.toggle("active", b.dataset.screen===name);
+  });
+  document.getElementById("backBtn").classList.toggle("show", name!=="home");
+  if(name==="words") renderWordsScreen();
+  if(name==="progress") renderProgressScreen();
+  if(name==="home") renderHome();
+}
+
+function renderTopicPills(){
+  const box = document.getElementById("topicScroll");
+  box.innerHTML = "";
+  const allBtn = document.createElement("button");
+  allBtn.className = "topic-pill" + (selectedTopic==="all" ? " active" : "");
+  allBtn.innerHTML = "все темы <span class=\"count\">"+ (BUILTIN_WORDS.length+customWords.length) +"</span>";
+  allBtn.addEventListener("click", ()=> setTopic("all"));
+  box.appendChild(allBtn);
+  TOPICS.forEach(t=>{
+    const n = BUILTIN_WORDS.filter(w=>w.topic===t.id).length;
+    const btn = document.createElement("button");
+    btn.className = "topic-pill" + (selectedTopic===t.id ? " active" : "");
+    btn.innerHTML = escapeHtml(t.label) + " <span class=\"count\">"+n+"</span>";
+    btn.addEventListener("click", ()=> setTopic(t.id));
+    box.appendChild(btn);
+  });
+}
+
+function renderLevelPills(){
+  const box = document.getElementById("levelScroll");
+  box.innerHTML = "";
+  const levels = ["A1","A2","B1","B2","C1"];
+  const pool = selectedTopic==="all" ? BUILTIN_WORDS : BUILTIN_WORDS.filter(w=>w.topic===selectedTopic);
+  const allBtn = document.createElement("button");
+  allBtn.className = "topic-pill level-pill" + (selectedLevel==="all" ? " active" : "");
+  allBtn.innerHTML = "все уровни <span class=\"count\">"+pool.length+"</span>";
+  allBtn.addEventListener("click", ()=> setLevel("all"));
+  box.appendChild(allBtn);
+  levels.forEach(lvl=>{
+    const n = pool.filter(w=>w.level===lvl).length;
+    if(n===0) return;
+    const btn = document.createElement("button");
+    btn.className = "topic-pill level-pill" + (selectedLevel===lvl ? " active lvl-active-"+lvl : "");
+    btn.innerHTML = lvl + " <span class=\"count\">"+n+"</span>";
+    btn.addEventListener("click", ()=> setLevel(lvl));
+    box.appendChild(btn);
+  });
+}
+
+async function setLevel(id){
+  selectedLevel = id;
+  await saveJSON("selected-level", selectedLevel);
+  renderLevelPills();
+  renderHome();
+  if(document.getElementById("screen-words").classList.contains("active")) renderWordsScreen();
+}
+
+async function setTopic(id){
+  selectedTopic = id;
+  await saveJSON("selected-topic", selectedTopic);
+  renderTopicPills();
+  renderLevelPills();
+  renderHome();
+  if(document.getElementById("screen-words").classList.contains("active")) renderWordsScreen();
+}
+
+function renderHome(){
+  renderTopicPills();
+  renderLevelPills();
+  document.getElementById("poolCount").textContent = allWords().length;
+  const startBtn = document.getElementById("startBtn");
+  if(allWords().length < 4){
+    startBtn.disabled = true;
+    startBtn.textContent = "нужно хотя бы 4 слова";
+  } else {
+    startBtn.disabled = false;
+    startBtn.textContent = "начать тест · " + Math.min(10, allWords().length) + " слов";
+  }
+  let totalC=0, totalW=0;
+  Object.values(wordStats).forEach(s=>{ totalC+=s.correct; totalW+=s.wrong; });
+  const total = totalC+totalW;
+  document.getElementById("homeAccuracy").textContent = total? Math.round(totalC/total*100)+"%" : "—";
+  const weak = allWords().filter(w=>{ const s=statFor(w.id); return s.wrong>s.correct; }).length;
+  document.getElementById("homeWeak").textContent = weak;
+  document.getElementById("streakOut").innerHTML = "сессий: <b>"+sessions.length+"</b>";
+}
+
+function exampleFor(w){
+  return (customExamples[w.id] && customExamples[w.id].trim()) ? customExamples[w.id] : (w.ex || "");
+}
+
+function renderWordsScreen(){
+  document.getElementById("wlistHead").textContent = "мои слова · " + allWords().length;
+  const list = document.getElementById("customList");
+  list.innerHTML = "";
+  if(customWords.length===0 && BUILTIN_WORDS.length===0){
+    list.innerHTML = '<div class="empty">пока пусто</div>';
+  }
+  allWords().forEach(w=>{
+    const wrap = document.createElement("div");
+    wrap.className = "wrow-wrap";
+    wrap.dataset.id = w.id;
+
+    const row = document.createElement("div");
+    row.className = "wrow";
+    const level = masteryLevel(w.id);
+    let dots = "";
+    for(let i=0;i<4;i++) dots += '<div class="dot'+(i<level?' on':'')+'"></div>';
+    const isCustomEx = !!(customExamples[w.id] && customExamples[w.id].trim());
+    row.innerHTML = '<div><div class="w-en">'+escapeHtml(w.en)+' '+levelBadge(w.level)+(isCustomEx?'<span class="example-custom-tag">свой пример</span>':'')+'</div><div class="w-ru">'+escapeHtml(w.ru)+'</div></div>'+
+      '<div class="mastery">'+dots+'</div>' +
+      (w.builtin? '' : '<button class="del" data-id="'+w.id+'">×</button>');
+
+    const panel = document.createElement("div");
+    panel.className = "example-panel";
+    const currentEx = exampleFor(w);
+    panel.innerHTML =
+      '<div class="ex-label">пример-предложение</div>' +
+      '<textarea placeholder="например: I use this word every day.">'+escapeHtml(currentEx)+'</textarea>' +
+      '<div class="example-actions">' +
+        '<button class="ex-save-btn">сохранить</button>' +
+        '<button class="ex-reset-btn'+(isCustomEx?' show':'')+'">сбросить к исходному</button>' +
+      '</div>';
+
+    wrap.appendChild(row);
+    wrap.appendChild(panel);
+    list.appendChild(wrap);
+
+    row.addEventListener("click", (e)=>{
+      if(e.target.closest(".del")) return;
+      wrap.classList.toggle("expanded");
+    });
+
+    const textarea = panel.querySelector("textarea");
+    textarea.addEventListener("click", e=> e.stopPropagation());
+    panel.addEventListener("click", e=> e.stopPropagation());
+
+    panel.querySelector(".ex-save-btn").addEventListener("click", async ()=>{
+      const val = textarea.value.trim();
+      if(val && val !== (w.ex||"")){
+        customExamples[w.id] = val;
+      } else {
+        delete customExamples[w.id];
+      }
+      await saveJSON("custom-examples", customExamples);
+      renderWordsScreen();
+    });
+
+    panel.querySelector(".ex-reset-btn").addEventListener("click", async ()=>{
+      delete customExamples[w.id];
+      await saveJSON("custom-examples", customExamples);
+      renderWordsScreen();
+    });
+  });
+  list.querySelectorAll(".del").forEach(btn=>{
+    btn.addEventListener("click", async (e)=>{
+      e.stopPropagation();
+      const id = btn.dataset.id;
+      customWords = customWords.filter(w=>w.id!==id);
+      delete wordStats[id];
+      await saveJSON("custom-words", customWords);
+      await saveJSON("word-stats", wordStats);
+      renderWordsScreen();
+      renderHome();
+    });
+  });
+}
+
+function renderProgressScreen(){
+  let totalC=0, totalW=0;
+  Object.values(wordStats).forEach(s=>{ totalC+=s.correct; totalW+=s.wrong; });
+  const total = totalC+totalW;
+  document.getElementById("pTotal").textContent = total;
+  document.getElementById("pAcc").textContent = total? Math.round(totalC/total*100)+"%" : "—";
+  document.getElementById("pMastered").textContent = allWords().filter(w=>masteryLevel(w.id)===4).length;
+  document.getElementById("pSessions").textContent = sessions.length;
+
+  const hard = allWords()
+    .map(w=>({w, s:statFor(w.id)}))
+    .filter(x=>x.s.wrong>0)
+    .sort((a,b)=> (b.s.wrong-b.s.correct) - (a.s.wrong-a.s.correct))
+    .slice(0,8);
+  const box = document.getElementById("hardList");
+  box.innerHTML = "";
+  if(hard.length===0){
+    box.innerHTML = '<div class="empty">пока нет данных об ошибках — начните тренировку</div>';
+  }
+  hard.forEach(x=>{
+    const row = document.createElement("div");
+    row.className = "wrow";
+    row.innerHTML = '<div><div class="w-en">'+escapeHtml(x.w.en)+' '+levelBadge(x.w.level)+'</div><div class="w-ru">'+escapeHtml(x.w.ru)+'</div></div>'+
+      '<div class="w-ru">✓'+x.s.correct+' · ✗'+x.s.wrong+'</div>';
+    box.appendChild(row);
+  });
+}
+
+function escapeHtml(str){
+  const d = document.createElement("div");
+  d.textContent = str;
+  return d.innerHTML;
+}
+
+function levelBadge(level){
+  if(!level) return "";
+  return '<span class="lvl-badge lvl-'+level+'">'+level+'</span>';
+}
+
+function startQuiz(){
+  quizQueue = pickQuizWords(10);
+  quizIndex = 0;
+  quizCorrect = 0;
+  showScreen("quiz");
+  renderQuizStep();
+}
+
+function renderQuizStep(){
+  quizAnswered = false;
+  const total = quizQueue.length;
+  document.getElementById("progFill").style.width = Math.round(quizIndex/total*100)+"%";
+  const w = quizQueue[quizIndex];
+  const askEnglish = direction==="en-ru";
+  document.getElementById("qWord").textContent = askEnglish? w.en : w.ru;
+  const qLevel = document.getElementById("qLevel");
+  if(w.level){ qLevel.textContent = w.level; qLevel.className = "lvl-badge lvl-"+w.level; qLevel.style.display = "inline-block"; }
+  else { qLevel.style.display = "none"; }
+  const isCustomEx = !!(customExamples[w.id] && customExamples[w.id].trim());
+  const hintEl = document.getElementById("qHint");
+  const editBtn = document.getElementById("qHintEditBtn");
+  const editBox = document.getElementById("qHintEditBox");
+  const wrapEl = document.getElementById("qHintWrap");
+  editBox.style.display = "none";
+  wrapEl.style.display = "flex";
+
+  if(askEnglish){
+    hintEl.innerHTML = escapeHtml(exampleFor(w)) + (isCustomEx ? '<span class="qhint-tag">свой пример</span>' : '');
+    editBtn.style.display = "inline-block";
+  } else {
+    hintEl.textContent = "выберите перевод";
+    editBtn.style.display = "none";
+  }
+  const options = buildOptions(w);
+  const box = document.getElementById("qOptions");
+  box.innerHTML = "";
+  options.forEach(opt=>{
+    const btn = document.createElement("button");
+    btn.className = "opt";
+    btn.textContent = askEnglish ? opt.ru : opt.en;
+    btn.addEventListener("click", ()=>answerQuiz(btn, opt, w));
+    box.appendChild(btn);
+  });
+  document.getElementById("nextBtn").style.display = "none";
+}
+
+async function answerQuiz(btn, chosen, correctWord){
+  if(quizAnswered) return;
+  quizAnswered = true;
+  const isCorrect = chosen.id === correctWord.id;
+  const s = statFor(correctWord.id);
+  if(isCorrect){ s.correct++; quizCorrect++; } else { s.wrong++; }
+  document.querySelectorAll(".opt").forEach(o=>{ o.disabled = true; });
+  const options = document.querySelectorAll(".opt");
+  options.forEach(o=>{
+    if(o===btn && isCorrect) o.classList.add("correct");
+    if(o===btn && !isCorrect) o.classList.add("wrong");
+    if(o!==btn && o.textContent === (direction==="en-ru"? correctWord.ru : correctWord.en)) o.classList.add("correct");
+  });
+  await saveJSON("word-stats", wordStats);
+  document.getElementById("nextBtn").style.display = "block";
+}
+
+function nextQuizStep(){
+  quizIndex++;
+  if(quizIndex >= quizQueue.length){
+    finishQuiz();
+  } else {
+    renderQuizStep();
+  }
+}
+
+async function finishQuiz(){
+  document.getElementById("progFill").style.width = "100%";
+  sessions.push({date:new Date().toISOString(), score:quizCorrect, total:quizQueue.length});
+  await saveJSON("sessions", sessions);
+  document.getElementById("resScore").textContent = quizCorrect+" / "+quizQueue.length;
+  const pct = Math.round(quizCorrect/quizQueue.length*100);
+  document.getElementById("resSub").textContent = "верных ответов · "+pct+"%";
+  showScreen("result");
+}
+
+document.querySelectorAll(".nav button").forEach(btn=>{
+  btn.addEventListener("click", ()=> showScreen(btn.dataset.screen));
+});
+document.getElementById("startBtn").addEventListener("click", startQuiz);
+document.getElementById("restartBtn").addEventListener("click", startQuiz);
+document.getElementById("backBtn").addEventListener("click", ()=> showScreen("home"));
+document.getElementById("nextBtn").addEventListener("click", nextQuizStep);
+
+function openQuizExampleEdit(){
+  const w = quizQueue[quizIndex];
+  if(!w) return;
+  const currentEx = exampleFor(w);
+  const isCustomEx = !!(customExamples[w.id] && customExamples[w.id].trim());
+  document.getElementById("qHintInput").value = currentEx;
+  document.getElementById("qHintReset").style.display = isCustomEx ? "inline-block" : "none";
+  document.getElementById("qHintWrap").style.display = "none";
+  document.getElementById("qHintEditBox").style.display = "block";
+  document.getElementById("qHintInput").focus();
+}
+
+function closeQuizExampleEdit(){
+  document.getElementById("qHintEditBox").style.display = "none";
+  document.getElementById("qHintWrap").style.display = "flex";
+}
+
+document.getElementById("qHintEditBtn").addEventListener("click", openQuizExampleEdit);
+document.getElementById("qHint").addEventListener("click", ()=>{
+  if(direction === "en-ru") openQuizExampleEdit();
+});
+
+document.getElementById("qHintCancel").addEventListener("click", closeQuizExampleEdit);
+
+document.getElementById("qHintSave").addEventListener("click", async ()=>{
+  const w = quizQueue[quizIndex];
+  if(!w) return;
+  const val = document.getElementById("qHintInput").value.trim();
+  if(val && val !== (w.ex || "")){
+    customExamples[w.id] = val;
+  } else {
+    delete customExamples[w.id];
+  }
+  await saveJSON("custom-examples", customExamples);
+  closeQuizExampleEdit();
+  const isCustomEx = !!(customExamples[w.id] && customExamples[w.id].trim());
+  document.getElementById("qHint").innerHTML = escapeHtml(exampleFor(w)) + (isCustomEx ? '<span class="qhint-tag">свой пример</span>' : '');
+});
+
+document.getElementById("qHintReset").addEventListener("click", async ()=>{
+  const w = quizQueue[quizIndex];
+  if(!w) return;
+  delete customExamples[w.id];
+  await saveJSON("custom-examples", customExamples);
+  closeQuizExampleEdit();
+  document.getElementById("qHint").innerHTML = escapeHtml(exampleFor(w));
+});
+
+document.getElementById("dirSwitch").addEventListener("click", ()=>{
+  direction = direction==="en-ru" ? "ru-en" : "en-ru";
+  document.getElementById("dirSwitch").classList.toggle("on", direction==="ru-en");
+  saveJSON("direction", direction);
+});
+
+document.getElementById("addWordBtn").addEventListener("click", async ()=>{
+  const en = document.getElementById("inEn").value.trim();
+  const ru = document.getElementById("inRu").value.trim();
+  const ex = document.getElementById("inEx").value.trim();
+  if(!en || !ru) return;
+  const id = "c"+Date.now();
+  customWords.push({id, en, ru, ex, builtin:false});
+  await saveJSON("custom-words", customWords);
+  document.getElementById("inEn").value = "";
+  document.getElementById("inRu").value = "";
+  document.getElementById("inEx").value = "";
+  renderWordsScreen();
+  renderHome();
+});
+
+async function init(){
+  await loadAllBuiltinWords();
+  customWords = await loadJSON("custom-words", []);
+  customExamples = await loadJSON("custom-examples", {});
+  wordStats = await loadJSON("word-stats", {});
+  sessions = await loadJSON("sessions", []);
+  direction = await loadJSON("direction", "en-ru");
+  selectedTopic = await loadJSON("selected-topic", "all");
+  selectedLevel = await loadJSON("selected-level", "all");
+  document.getElementById("dirSwitch").classList.toggle("on", direction==="ru-en");
+  renderHome();
+}
+init();
+  const btnExport = document.getElementById("btnExportBackup");
+const btnImport = document.getElementById("btnImportBackup");
+const fileInput = document.getElementById("backupFileInput");
+const backupNotice = document.getElementById("backupNotice");
+
+if (btnExport) {
+  btnExport.addEventListener("click", () => {
+    const backup = {
+      wordStats: wordStats || {},
+      customWords: customWords || [],
+      customExamples: customExamples || {},
+      sessions: sessions || []
+    };
+    const blob = new Blob([JSON.stringify(backup, null, 2)], { type: "application/json" });
+    const a = document.createElement("a");
+    a.href = URL.createObjectURL(blob);
+    a.download = `lexica_progress_${new Date().toISOString().slice(0, 10)}.json`;
+    a.click();
+  });
+}
+
+if (btnImport && fileInput) {
+  btnImport.addEventListener("click", () => fileInput.click());
+  fileInput.addEventListener("change", async (e) => {
+    const file = e.target.files && e.target.files[0];
+    if (!file) return;
+    try {
+      const data = JSON.parse(await file.text());
+      if (data.wordStats) { wordStats = Object.assign(wordStats, data.wordStats); await saveJSON("word-stats", wordStats); }
+      if (data.customWords) { customWords = data.customWords; await saveJSON("custom-words", customWords); }
+      if (data.customExamples) { customExamples = Object.assign(customExamples, data.customExamples); await saveJSON("custom-examples", customExamples); }
+      renderStats();
+      renderWords();
+      if (backupNotice) { backupNotice.textContent = "Прогресс успешно загружен!"; backupNotice.style.display = "block"; }
+    } catch (err) {
+      alert("Ошибка чтения файла бэкапа");
+    }
+    fileInput.value = "";
+  });
+}
+// === SUPABASE CLOUD SYNC ===
+const SUPABASE_URL = "https://mlyqaexwsvfmshzvegze.supabase.co";
+const SUPABASE_KEY = "sb_publishable_60Sb2ezDOETcbwLxF86CBw_pcgDOQQP";
+const sb = (typeof window.supabase !== "undefined") ? window.supabase.createClient(SUPABASE_URL, SUPABASE_KEY) : null;
+
+let currentUser = null;
+let cloudSyncTimeout = null;
+
+function showAuthMsg(msg, isError = true) {
+  const el = document.getElementById("authMsg");
+  if (!el) return;
+  el.textContent = msg;
+  el.style.color = isError ? "#e06c75" : "var(--accent)";
+  el.style.display = "block";
+  setTimeout(() => { el.style.display = "none"; }, 5000);
+}
+
+function updateAuthUI(user) {
+  currentUser = user;
+  const loggedOut = document.getElementById("authLoggedOut");
+  const loggedIn = document.getElementById("authLoggedIn");
+  const badge = document.getElementById("authBadge");
+  const emailOut = document.getElementById("authUserEmail");
+
+  if (user) {
+    if (loggedOut) loggedOut.style.display = "none";
+    if (loggedIn) loggedIn.style.display = "block";
+    if (badge) { badge.textContent = "облако 🟢"; badge.style.color = "#4ade80"; }
+    if (emailOut) emailOut.textContent = user.email;
+  } else {
+    if (loggedOut) loggedOut.style.display = "block";
+    if (loggedIn) loggedIn.style.display = "none";
+    if (badge) { badge.textContent = "офлайн"; badge.style.color = "var(--ink-faint)"; }
+  }
+}
+
+// Загрузка прогресса из облака и объединение с локальным
+async function syncFromCloud(userId) {
+  if (!sb || !userId) return;
+  try {
+    const { data, error } = await sb
+      .from("user_progress")
+      .select("*")
+      .eq("user_id", userId)
+      .maybeSingle();
+
+    if (error) throw error;
+
+    if (data) {
+      if (data.word_stats) wordStats = Object.assign(wordStats, data.word_stats);
+      if (data.custom_examples) customExamples = Object.assign(customExamples, data.custom_examples);
+      if (Array.isArray(data.custom_words)) {
+        const ids = new Set(customWords.map(w => w.id));
+        data.custom_words.forEach(w => { if (!ids.has(w.id)) customWords.push(w); });
+      }
+      if (Array.isArray(data.sessions)) sessions = sessions.concat(data.sessions);
+
+      // Сохраняем объединённые данные обратно в localStorage
+      localStorage.setItem("lexica_word-stats", JSON.stringify(wordStats));
+      localStorage.setItem("lexica_custom-examples", JSON.stringify(customExamples));
+      localStorage.setItem("lexica_custom-words", JSON.stringify(customWords));
+      localStorage.setItem("lexica_sessions", JSON.stringify(sessions));
+
+      renderStats();
+      renderWords();
+    } else {
+      // Первое сохранение в облако
+      triggerCloudSave();
+    }
+  } catch (err) {
+    console.warn("Cloud sync load error:", err);
+  }
+}
+
+// Сохранение в облако (с задержкой 1.5 сек, чтобы не перегружать запросами)
+function triggerCloudSave() {
+  if (!sb || !currentUser) return;
+  clearTimeout(cloudSyncTimeout);
+  cloudSyncTimeout = setTimeout(async () => {
+    try {
+      const payload = {
+        user_id: currentUser.id,
+        word_stats: wordStats,
+        custom_words: customWords,
+        custom_examples: customExamples,
+        sessions: sessions,
+        updated_at: new Date().toISOString()
+      };
+      await sb.from("user_progress").upsert(payload);
+    } catch (err) {
+      console.warn("Cloud save error:", err);
+    }
+  }, 1500);
+}
+
+// Хук в saveJSON для фоновой отправки в облако
+const originalSaveJSON = saveJSON;
+saveJSON = async function(key, val) {
+  await originalSaveJSON(key, val);
+  triggerCloudSave();
+};
+
+// Обработчики кнопок входа / регистрации / выхода
+document.addEventListener("DOMContentLoaded", async () => {
+  if (!sb) return;
+
+  const { data: { session } } = await sb.auth.getSession();
+  if (session?.user) {
+    updateAuthUI(session.user);
+    syncFromCloud(session.user.id);
+  }
+
+  sb.auth.onAuthStateChange(async (event, session) => {
+    if (session?.user) {
+      updateAuthUI(session.user);
+      syncFromCloud(session.user.id);
+    } else {
+      updateAuthUI(null);
+    }
+  });
+
+  const btnIn = document.getElementById("btnSignIn");
+  const btnUp = document.getElementById("btnSignUp");
+  const btnOut = document.getElementById("btnSignOut");
+  const emailInput = document.getElementById("authEmail");
+  const passInput = document.getElementById("authPassword");
+
+  if (btnIn) {
+    btnIn.addEventListener("click", async () => {
+      const email = emailInput.value.trim();
+      const password = passInput.value;
+      if (!email || !password) return showAuthMsg("Заполните email и пароль");
+      const { error } = await sb.auth.signInWithPassword({ email, password });
+      if (error) showAuthMsg(error.message);
+      else showAuthMsg("Вы успешно вошли!", false);
+    });
+  }
+
+  if (btnUp) {
+    btnUp.addEventListener("click", async () => {
+      const email = emailInput.value.trim();
+      const password = passInput.value;
+      if (!email || password.length < 6) return showAuthMsg("Пароль должен быть от 6 символов");
+      const { error } = await sb.auth.signUp({ email, password });
+      if (error) showAuthMsg(error.message);
+      else showAuthMsg("Регистрация успешна! Проверьте почту для подтверждения или войдите.", false);
+    });
+  }
+
+  if (btnOut) {
+    btnOut.addEventListener("click", async () => {
+      await sb.auth.signOut();
+    });
+  }
+});
+
+// -------------------------------------------------------------
+// AI GRAMMAR CHECK (/api/check via Vercel & Llama 3.3)
+// -------------------------------------------------------------
+function initAiCheck() {
+  const textInput = document.getElementById("aiTextInput");
+  const textCount = document.getElementById("aiTextCount");
+  const checkBtn = document.getElementById("aiCheckBtn");
+  const clearBtn = document.getElementById("aiClearBtn");
+  const statusMsg = document.getElementById("aiStatusMsg");
+  const resultBox = document.getElementById("aiResultBox");
+
+  if (!textInput || !checkBtn) return;
+
+  textInput.addEventListener("input", () => {
+    const txt = textInput.value.trim();
+    const words = txt ? txt.split(/\s+/).length : 0;
+    textCount.textContent = words + (words === 1 ? " слово" : (words >= 2 && words <= 4 ? " слова" : " слов"));
+  });
+
+  clearBtn.addEventListener("click", () => {
+    textInput.value = "";
+    textCount.textContent = "0 слов";
+    resultBox.style.display = "none";
+    statusMsg.style.display = "none";
+  });
+
+  checkBtn.addEventListener("click", async () => {
+    const text = textInput.value.trim();
+    if (!text) {
+      alert("Введите английский текст для проверки.");
+      textInput.focus();
+      return;
+    }
+
+    checkBtn.disabled = true;
+    checkBtn.style.opacity = "0.6";
+    statusMsg.style.display = "block";
+    statusMsg.style.color = "var(--amber)";
+    statusMsg.textContent = "⏳ Анализирую текст с помощью Llama 3.3...";
+    resultBox.style.display = "none";
+
+    try {
+      const response = await fetch("/api/check", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ text })
+      });
+
+      const data = await response.json();
+      if (!response.ok) {
+        throw new Error(data.error || `Ошибка сервера (${response.status})`);
+      }
+
+      renderAiResult(data);
+      statusMsg.style.display = "none";
+    } catch (err) {
+      console.error(err);
+      statusMsg.style.display = "block";
+      statusMsg.style.color = "var(--coral)";
+      statusMsg.textContent = "❌ " + err.message;
+    } finally {
+      checkBtn.disabled = false;
+      checkBtn.style.opacity = "1";
+    }
+  });
+
+  const copyBtn = document.getElementById("aiCopyCorrectedBtn");
+  if (copyBtn) {
+    copyBtn.addEventListener("click", () => {
+      const text = document.getElementById("aiResultCorrected").textContent;
+      navigator.clipboard.writeText(text).then(() => {
+        copyBtn.textContent = "✓ Скопировано!";
+        setTimeout(() => copyBtn.textContent = "Скопировать", 2000);
+      });
+    });
+  }
+}
+
+function renderAiResult(data) {
+  const resultBox = document.getElementById("aiResultBox");
+  const cefrEl = document.getElementById("aiResultCefr");
+  const overallEl = document.getElementById("aiResultOverall");
+  const correctedEl = document.getElementById("aiResultCorrected");
+  const errorsContainer = document.getElementById("aiResultErrors");
+  const nativeEl = document.getElementById("aiResultNative");
+
+  cefrEl.textContent = data.cefr || "B1";
+  overallEl.textContent = data.overall || "Текст проверен.";
+  correctedEl.textContent = data.corrected || "";
+  nativeEl.textContent = data.natural || "—";
+
+  errorsContainer.innerHTML = "";
+  if (!data.errors || data.errors.length === 0) {
+    errorsContainer.innerHTML = `<div style="font-size:13px;color:var(--teal);padding:8px 12px;background:var(--teal-dim);border-radius:6px;">🎉 Ошибок не найдено! Отличная работа.</div>`;
+  } else {
+    data.errors.forEach((err) => {
+      const item = document.createElement("div");
+      item.style.background = "var(--panel)";
+      item.style.border = "1px solid var(--line)";
+      item.style.borderRadius = "8px";
+      item.style.padding = "10px 12px";
+      item.innerHTML = `
+        <div style="display:flex;gap:8px;align-items:center;font-size:13px;margin-bottom:4px;flex-wrap:wrap;">
+          <span style="color:var(--coral);text-decoration:line-through;">${escapeHtml(err.original || "")}</span>
+          <span style="color:var(--ink-faint);">➔</span>
+          <span style="color:var(--teal);font-weight:600;">${escapeHtml(err.correction || "")}</span>
+        </div>
+        <div style="font-size:12px;color:var(--ink-dim);line-height:1.4;">${escapeHtml(err.explanation || "")}</div>
+      `;
+      errorsContainer.appendChild(item);
+    });
+  }
+
+  resultBox.style.display = "block";
+  resultBox.scrollIntoView({ behavior: "smooth" });
+}
+
+if (document.readyState === "loading") {
+  document.addEventListener("DOMContentLoaded", initAiCheck);
+} else {
+  initAiCheck();
+}
+
+</script>
+</body>
+</html>

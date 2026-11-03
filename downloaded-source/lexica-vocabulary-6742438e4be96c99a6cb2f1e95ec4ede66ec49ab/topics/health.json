@@ -1,0 +1,1718 @@
+[
+  [
+    "arm",
+    "рука (от плеча до кисти)",
+    "She broke her arm while skiing.",
+    "A1"
+  ],
+  [
+    "back",
+    "спина; назад",
+    "My back hurts after sitting all day.",
+    "A1"
+  ],
+  [
+    "body",
+    "тело",
+    "Regular exercise is good for the body.",
+    "A1"
+  ],
+  [
+    "die",
+    "умирать",
+    "He died peacefully in his sleep.",
+    "A1"
+  ],
+  [
+    "diet",
+    "диета, питание",
+    "She's on a low-sugar diet.",
+    "A1"
+  ],
+  [
+    "doctor",
+    "врач",
+    "The doctor examined the patient carefully.",
+    "A1"
+  ],
+  [
+    "ear",
+    "ухо",
+    "He has an infection in his ear.",
+    "A1"
+  ],
+  [
+    "exercise",
+    "упражнение; заниматься спортом",
+    "Try to exercise for thirty minutes a day.",
+    "A1"
+  ],
+  [
+    "eye",
+    "глаз",
+    "She has bright blue eyes.",
+    "A1"
+  ],
+  [
+    "foot",
+    "стопа, нога",
+    "He hurt his foot playing football.",
+    "A1"
+  ],
+  [
+    "gym",
+    "спортзал",
+    "I go to the gym three times a week.",
+    "A1"
+  ],
+  [
+    "hand",
+    "рука (кисть)",
+    "Wash your hands before you eat.",
+    "A1"
+  ],
+  [
+    "head",
+    "голова",
+    "She had a bad pain in her head.",
+    "A1"
+  ],
+  [
+    "health",
+    "здоровье",
+    "Smoking is bad for your health.",
+    "A1"
+  ],
+  [
+    "healthy",
+    "здоровый",
+    "Eating vegetables keeps you healthy.",
+    "A1"
+  ],
+  [
+    "hospital",
+    "больница",
+    "He was taken to hospital after the accident.",
+    "A1"
+  ],
+  [
+    "leg",
+    "нога (от бедра до стопы)",
+    "She broke her leg last winter.",
+    "A1"
+  ],
+  [
+    "mouth",
+    "рот",
+    "Open your mouth, please, said the dentist.",
+    "A1"
+  ],
+  [
+    "nose",
+    "нос",
+    "He has a cold and a blocked nose.",
+    "A1"
+  ],
+  [
+    "nurse",
+    "медсестра/медбрат",
+    "The nurse checked his temperature.",
+    "A1"
+  ],
+  [
+    "sick",
+    "больной",
+    "She stayed home because she felt sick.",
+    "A1"
+  ],
+  [
+    "tooth",
+    "зуб",
+    "I have a bad toothache.",
+    "A1"
+  ],
+  [
+    "ankle",
+    "лодыжка",
+    "She twisted her ankle running down the stairs.",
+    "A2"
+  ],
+  [
+    "birth",
+    "рождение",
+    "The baby's birth was announced on social media.",
+    "A2"
+  ],
+  [
+    "blood",
+    "кровь",
+    "The doctor took a blood sample.",
+    "A2"
+  ],
+  [
+    "bone",
+    "кость",
+    "X-rays showed no broken bones.",
+    "A2"
+  ],
+  [
+    "brain",
+    "мозг",
+    "The brain controls the whole body.",
+    "A2"
+  ],
+  [
+    "dead",
+    "мёртвый",
+    "The old tree in the garden is dead.",
+    "A2"
+  ],
+  [
+    "death",
+    "смерть",
+    "His death shocked the whole town.",
+    "A2"
+  ],
+  [
+    "dentist",
+    "стоматолог",
+    "I have an appointment with the dentist tomorrow.",
+    "A2"
+  ],
+  [
+    "disease",
+    "болезнь",
+    "The disease spread quickly through the region.",
+    "A2"
+  ],
+  [
+    "drug",
+    "лекарство; наркотик",
+    "The doctor prescribed a new drug for his condition.",
+    "A2"
+  ],
+  [
+    "finger",
+    "палец (руки)",
+    "She cut her finger while cooking.",
+    "A2"
+  ],
+  [
+    "flu",
+    "грипп",
+    "He's off work with the flu.",
+    "A2"
+  ],
+  [
+    "headache",
+    "головная боль",
+    "I have a terrible headache today.",
+    "A2"
+  ],
+  [
+    "heart",
+    "сердце",
+    "Her heart was beating fast after the run.",
+    "A2"
+  ],
+  [
+    "hurt",
+    "причинять боль; ушибленный, обиженный",
+    "Does it hurt when you move your arm?",
+    "A2"
+  ],
+  [
+    "ill",
+    "больной",
+    "She's been ill for a week.",
+    "A2"
+  ],
+  [
+    "illness",
+    "болезнь",
+    "He recovered fully after his illness.",
+    "A2"
+  ],
+  [
+    "injury",
+    "травма",
+    "The player suffered a knee injury.",
+    "A2"
+  ],
+  [
+    "knee",
+    "колено",
+    "He fell and hurt his knee.",
+    "A2"
+  ],
+  [
+    "medicine",
+    "лекарство; медицина",
+    "Take this medicine twice a day.",
+    "A2"
+  ],
+  [
+    "neck",
+    "шея",
+    "She has a stiff neck this morning.",
+    "A2"
+  ],
+  [
+    "pain",
+    "боль",
+    "He felt a sharp pain in his chest.",
+    "A2"
+  ],
+  [
+    "patient",
+    "пациент",
+    "The patient was resting after the operation.",
+    "A2"
+  ],
+  [
+    "physical",
+    "физический",
+    "The job requires a lot of physical work.",
+    "A2"
+  ],
+  [
+    "shoulder",
+    "плечо",
+    "He carried the bag on his shoulder.",
+    "A2"
+  ],
+  [
+    "stomach",
+    "живот, желудок",
+    "She had a stomach ache after lunch.",
+    "A2"
+  ],
+  [
+    "virus",
+    "вирус",
+    "The virus causes fever and a cough.",
+    "A2"
+  ],
+  [
+    "breath",
+    "дыхание, вдох",
+    "Take a deep breath before you speak.",
+    "B1"
+  ],
+  [
+    "breathe",
+    "дышать",
+    "It's hard to breathe in this smoke.",
+    "B1"
+  ],
+  [
+    "breathing",
+    "дыхание",
+    "His breathing became slower as he relaxed.",
+    "B1"
+  ],
+  [
+    "chest",
+    "грудная клетка",
+    "He felt tightness in his chest.",
+    "B1"
+  ],
+  [
+    "fitness",
+    "физическая форма, фитнес",
+    "She's really focused on her fitness this year.",
+    "B1"
+  ],
+  [
+    "injure",
+    "травмировать",
+    "He injured his back lifting the box.",
+    "B1"
+  ],
+  [
+    "injured",
+    "травмированный, раненый",
+    "Two passengers were slightly injured in the crash.",
+    "B1"
+  ],
+  [
+    "mental",
+    "психический, умственный",
+    "Mental health is just as important as physical health.",
+    "B1"
+  ],
+  [
+    "muscle",
+    "мышца",
+    "He pulled a muscle in his leg.",
+    "B1"
+  ],
+  [
+    "symptom",
+    "симптом",
+    "A high temperature is a common symptom of flu.",
+    "B1"
+  ],
+  [
+    "throat",
+    "горло",
+    "She has a sore throat and a cough.",
+    "B1"
+  ],
+  [
+    "toe",
+    "палец (ноги)",
+    "He stubbed his toe on the table.",
+    "B1"
+  ],
+  [
+    "tongue",
+    "язык (орган)",
+    "The doctor asked him to stick out his tongue.",
+    "B1"
+  ],
+  [
+    "treat",
+    "лечить",
+    "The clinic treats patients with skin conditions.",
+    "B1"
+  ],
+  [
+    "treatment",
+    "лечение",
+    "The new treatment showed good results.",
+    "B1"
+  ],
+  [
+    "bacteria",
+    "бактерии",
+    "These bacteria can cause food poisoning.",
+    "B2"
+  ],
+  [
+    "cancer",
+    "рак (болезнь)",
+    "Early diagnosis improves the chances against cancer.",
+    "B2"
+  ],
+  [
+    "cure",
+    "вылечить; лекарство, исцеление",
+    "Scientists are working to cure the disease.",
+    "B2"
+  ],
+  [
+    "hurt",
+    "боль, обида",
+    "His words caused her a lot of hurt.",
+    "B2"
+  ],
+  [
+    "infection",
+    "инфекция",
+    "The wound became infected within a day.",
+    "B2"
+  ],
+  [
+    "lung",
+    "лёгкое",
+    "Smoking damages the lungs over time.",
+    "B2"
+  ],
+  [
+    "nerve",
+    "нерв",
+    "The injury damaged a nerve in his arm.",
+    "B2"
+  ],
+  [
+    "pregnant",
+    "беременная",
+    "She's six months pregnant.",
+    "B2"
+  ],
+  [
+    "psychologist",
+    "психолог",
+    "She sees a psychologist once a week.",
+    "B2"
+  ],
+  [
+    "psychology",
+    "психология",
+    "He's studying psychology at university.",
+    "B2"
+  ],
+  [
+    "recover",
+    "выздоравливать",
+    "It took him months to recover from the surgery.",
+    "B2"
+  ],
+  [
+    "surgery",
+    "операция, хирургия",
+    "She needs surgery to fix her knee.",
+    "B2"
+  ],
+  [
+    "therapy",
+    "терапия",
+    "He started therapy after the accident.",
+    "B2"
+  ],
+  [
+    "vitamin",
+    "витамин",
+    "Oranges are rich in vitamin C.",
+    "B2"
+  ],
+  [
+    "wound",
+    "рана; ранить",
+    "The wound on his arm was deep.",
+    "B2"
+  ],
+  [
+    "addiction",
+    "зависимость (наркотическая и т.п.)",
+    "He got help to overcome his addiction.",
+    "B2"
+  ],
+  [
+    "clinic",
+    "клиника",
+    "The clinic offers free health checks.",
+    "B2"
+  ],
+  [
+    "disability",
+    "инвалидность",
+    "The building is accessible for people with disability.",
+    "B2"
+  ],
+  [
+    "disabled",
+    "с инвалидностью",
+    "The car park has spaces for disabled drivers.",
+    "B2"
+  ],
+  [
+    "elbow",
+    "локоть",
+    "She leaned her elbow on the table.",
+    "B2"
+  ],
+  [
+    "fever",
+    "жар, лихорадка",
+    "The child had a high fever last night.",
+    "B2"
+  ],
+  [
+    "healthcare",
+    "здравоохранение",
+    "The country has free public healthcare.",
+    "B2"
+  ],
+  [
+    "hip",
+    "бедро (тазобедренная область)",
+    "He had a hip replacement last year.",
+    "B2"
+  ],
+  [
+    "medication",
+    "лекарство, медикамент",
+    "She takes medication for her blood pressure.",
+    "B2"
+  ],
+  [
+    "nursing",
+    "связанный с уходом за больными",
+    "She works in a nursing home.",
+    "B2"
+  ],
+  [
+    "nutrition",
+    "питание, диетология",
+    "Good nutrition helps children grow well.",
+    "B2"
+  ],
+  [
+    "obesity",
+    "ожирение",
+    "Obesity is a growing health concern.",
+    "B2"
+  ],
+  [
+    "pill",
+    "таблетка",
+    "Take one pill after breakfast.",
+    "B2"
+  ],
+  [
+    "protein",
+    "белок",
+    "Fish and eggs are good sources of protein.",
+    "B2"
+  ],
+  [
+    "psychological",
+    "психологический",
+    "The stress had a psychological effect on her.",
+    "B2"
+  ],
+  [
+    "recovery",
+    "выздоровление",
+    "His recovery from the surgery went smoothly.",
+    "B2"
+  ],
+  [
+    "skull",
+    "череп",
+    "The helmet protects the skull in a fall.",
+    "B2"
+  ],
+  [
+    "surgeon",
+    "хирург",
+    "The surgeon operated for three hours.",
+    "B2"
+  ],
+  [
+    "therapist",
+    "терапевт (психотерапевт)",
+    "She talks to a therapist about her anxiety.",
+    "B2"
+  ],
+  [
+    "thumb",
+    "большой палец (руки)",
+    "He hurt his thumb closing the door.",
+    "B2"
+  ],
+  [
+    "wrist",
+    "запястье",
+    "She wears a watch on her wrist.",
+    "B2"
+  ],
+  [
+    "acute",
+    "острый (о болезни)",
+    "He was rushed to hospital with acute appendicitis.",
+    "C1"
+  ],
+  [
+    "bleed",
+    "кровоточить",
+    "The cut on his hand started to bleed.",
+    "C1"
+  ],
+  [
+    "chronic",
+    "хронический",
+    "She suffers from a chronic back condition.",
+    "C1"
+  ],
+  [
+    "clinical",
+    "клинический",
+    "The drug passed all clinical trials.",
+    "C1"
+  ],
+  [
+    "counselling",
+    "консультирование (психологическое)",
+    "The school offers free counselling for students.",
+    "C1"
+  ],
+  [
+    "counsellor",
+    "консультант, психолог-консультант",
+    "She works as a school counsellor.",
+    "C1"
+  ],
+  [
+    "diagnose",
+    "диагностировать",
+    "The doctor diagnosed him with asthma.",
+    "C1"
+  ],
+  [
+    "diagnosis",
+    "диагноз",
+    "The diagnosis confirmed a mild infection.",
+    "C1"
+  ],
+  [
+    "epidemic",
+    "эпидемия",
+    "The flu epidemic hit the city hard this winter.",
+    "C1"
+  ],
+  [
+    "infect",
+    "заражать",
+    "The virus can infect people quickly.",
+    "C1"
+  ],
+  [
+    "injection",
+    "укол, инъекция",
+    "The nurse gave him an injection.",
+    "C1"
+  ],
+  [
+    "kidney",
+    "почка (орган)",
+    "One of his kidneys was damaged in the accident.",
+    "C1"
+  ],
+  [
+    "liver",
+    "печень",
+    "Alcohol can damage the liver.",
+    "C1"
+  ],
+  [
+    "physician",
+    "врач-терапевт",
+    "See your physician if the symptoms continue.",
+    "C1"
+  ],
+  [
+    "pregnancy",
+    "беременность",
+    "She felt tired during the early pregnancy.",
+    "C1"
+  ],
+  [
+    "prescribe",
+    "прописывать (лекарство)",
+    "The doctor prescribed antibiotics for the infection.",
+    "C1"
+  ],
+  [
+    "prescription",
+    "рецепт (на лекарство)",
+    "You'll need a prescription for that medicine.",
+    "C1"
+  ],
+  [
+    "spine",
+    "позвоночник",
+    "The fall injured his spine.",
+    "C1"
+  ],
+  [
+    "vein",
+    "вена",
+    "The nurse found a vein for the blood test.",
+    "C1"
+  ],
+  [
+    "test",
+    "анализ, обследование (мед.)",
+    "The doctor ordered a blood test.",
+    "A1"
+  ],
+  [
+    "energy",
+    "энергия, бодрость (о человеке)",
+    "She always has so much energy in the mornings.",
+    "A2"
+  ],
+  [
+    "abortion",
+    "аборт",
+    "The clinic offers counselling before an abortion.",
+    "C1"
+  ],
+  [
+    "adverse",
+    "неблагоприятный (напр. о побочном эффекте)",
+    "The medicine can cause adverse effects in some patients.",
+    "C1"
+  ],
+  [
+    "appetite",
+    "аппетит",
+    "She lost her appetite after the illness.",
+    "C1"
+  ],
+  [
+    "abuse",
+    "злоупотребление (напр. наркотиками)",
+    "The clinic treats people struggling with drug abuse.",
+    "C1"
+  ],
+  [
+    "administer",
+    "давать, вводить (лекарство)",
+    "The nurse administered the injection carefully.",
+    "C1"
+  ],
+  [
+    "breakdown",
+    "нервный срыв",
+    "He had a breakdown after months of stress.",
+    "C1"
+  ],
+  [
+    "circulation",
+    "кровообращение",
+    "Exercise improves blood circulation.",
+    "C1"
+  ],
+  [
+    "cognitive",
+    "когнитивный",
+    "The test measures cognitive skills like memory.",
+    "C1"
+  ],
+  [
+    "complication",
+    "осложнение",
+    "The surgery went well, with no complications.",
+    "C1"
+  ],
+  [
+    "crawl",
+    "ползать",
+    "The baby has just learned to crawl.",
+    "C1"
+  ],
+  [
+    "deficiency",
+    "дефицит, недостаток (напр. витаминов)",
+    "A vitamin D deficiency can cause tiredness.",
+    "C1"
+  ],
+  [
+    "circulate",
+    "циркулировать (о крови)",
+    "Blood circulates through the body constantly.",
+    "C1"
+  ],
+  [
+    "conceive",
+    "зачать (ребёнка)",
+    "They tried for two years before they could conceive.",
+    "C1"
+  ],
+  [
+    "conception",
+    "зачатие",
+    "The clinic offers advice on conception and fertility.",
+    "C1"
+  ],
+  [
+    "deteriorate",
+    "ухудшаться",
+    "His health deteriorated quickly after the diagnosis.",
+    "C1"
+  ],
+  [
+    "discharge",
+    "выписывать (из больницы)",
+    "She was discharged from hospital after three days.",
+    "C1"
+  ],
+  [
+    "donor",
+    "донор",
+    "He became a blood donor after his recovery.",
+    "C1"
+  ],
+  [
+    "dose",
+    "доза",
+    "Take a small dose of the medicine twice a day.",
+    "C1"
+  ],
+  [
+    "drown",
+    "тонуть",
+    "The lifeguard prevented the swimmer from drowning.",
+    "C1"
+  ],
+  [
+    "fatal",
+    "смертельный",
+    "The accident could have been fatal.",
+    "C1"
+  ],
+  [
+    "fibre",
+    "клетчатка",
+    "Whole grains are a good source of fibre.",
+    "C1"
+  ],
+  [
+    "fit",
+    "приступ (напр. кашля)",
+    "He had a coughing fit during the meeting.",
+    "C1"
+  ],
+  [
+    "dumb",
+    "немой",
+    "The disease left him temporarily unable to speak.",
+    "C1"
+  ],
+  [
+    "flesh",
+    "плоть",
+    "The wound was deep enough to reach the flesh.",
+    "C1"
+  ],
+  [
+    "fluid",
+    "жидкость (в организме)",
+    "The doctor drained fluid from his knee.",
+    "C1"
+  ],
+  [
+    "gut",
+    "кишечник",
+    "A healthy gut helps with digestion.",
+    "C1"
+  ],
+  [
+    "hazard",
+    "опасность, риск",
+    "Smoking is a serious health hazard.",
+    "C1"
+  ],
+  [
+    "incidence",
+    "заболеваемость, частота случаев",
+    "The incidence of the disease has fallen this year.",
+    "C1"
+  ],
+  [
+    "inhibit",
+    "подавлять, тормозить (реакцию)",
+    "The drug inhibits the growth of bacteria.",
+    "C1"
+  ],
+  [
+    "inject",
+    "вводить инъекцией",
+    "The nurse injected the medicine into his arm.",
+    "C1"
+  ],
+  [
+    "intake",
+    "потребление (пищи, калорий)",
+    "Doctors recommend reducing your salt intake.",
+    "C1"
+  ],
+  [
+    "flexibility",
+    "гибкость (тела)",
+    "Yoga improves flexibility and balance.",
+    "C1"
+  ],
+  [
+    "generic",
+    "непатентованный (о лекарстве)",
+    "The generic version of the drug is much cheaper.",
+    "C1"
+  ],
+  [
+    "lethal",
+    "смертельный, летальный",
+    "The dose was strong enough to be lethal.",
+    "C1"
+  ],
+  [
+    "limb",
+    "конечность",
+    "The accident left him with a badly injured limb.",
+    "C1"
+  ],
+  [
+    "mask",
+    "маска",
+    "Doctors wear a mask during surgery.",
+    "C1"
+  ],
+  [
+    "meditation",
+    "медитация",
+    "She practises meditation to reduce stress.",
+    "C1"
+  ],
+  [
+    "oral",
+    "устный; ротовой (мед.)",
+    "The dentist checked her oral health.",
+    "C1"
+  ],
+  [
+    "outbreak",
+    "вспышка (болезни)",
+    "The hospital reported a small outbreak of flu.",
+    "C1"
+  ],
+  [
+    "practitioner",
+    "практикующий врач",
+    "Her doctor is a general practitioner.",
+    "C1"
+  ],
+  [
+    "prevalence",
+    "распространённость (болезни)",
+    "The prevalence of the disease varies by region.",
+    "C1"
+  ],
+  [
+    "prevention",
+    "профилактика, предотвращение",
+    "Prevention is often better than treatment.",
+    "C1"
+  ],
+  [
+    "protective",
+    "защитный",
+    "Wear protective gloves when handling chemicals.",
+    "C1"
+  ],
+  [
+    "psychiatric",
+    "психиатрический",
+    "He received psychiatric care after the accident.",
+    "C1"
+  ],
+  [
+    "pulse",
+    "пульс",
+    "The nurse checked his pulse every hour.",
+    "C1"
+  ],
+  [
+    "rehabilitation",
+    "реабилитация",
+    "He's undergoing rehabilitation after his injury.",
+    "C1"
+  ],
+  [
+    "remedy",
+    "средство, лекарство",
+    "Honey and lemon is a common remedy for a sore throat.",
+    "C1"
+  ],
+  [
+    "removal",
+    "удаление (мед.)",
+    "The surgery involved the removal of a small tumour.",
+    "C1"
+  ],
+  [
+    "revive",
+    "приводить в чувство, оживлять",
+    "Doctors managed to revive the patient.",
+    "C1"
+  ],
+  [
+    "robust",
+    "крепкий, устойчивый",
+    "She has a robust immune system.",
+    "C1"
+  ],
+  [
+    "strain",
+    "напряжение, растяжение",
+    "He suffered a muscle strain during training.",
+    "C1"
+  ],
+  [
+    "stumble",
+    "спотыкаться",
+    "She stumbled and hurt her ankle.",
+    "C1"
+  ],
+  [
+    "suck",
+    "сосать",
+    "The baby began to suck on the bottle.",
+    "C1"
+  ],
+  [
+    "suicide",
+    "самоубийство",
+    "The helpline offers support to people at risk of suicide.",
+    "C1"
+  ],
+  [
+    "supplement",
+    "пищевая добавка",
+    "She takes a vitamin supplement every morning.",
+    "C1"
+  ],
+  [
+    "surgical",
+    "хирургический",
+    "The surgical team worked for six hours.",
+    "C1"
+  ],
+  [
+    "syndrome",
+    "синдром",
+    "He was diagnosed with a rare syndrome.",
+    "C1"
+  ],
+  [
+    "toxic",
+    "токсичный",
+    "The chemicals are toxic if inhaled.",
+    "C1"
+  ],
+  [
+    "trauma",
+    "травма (психологическая)",
+    "She's still recovering from the trauma of the accident.",
+    "C1"
+  ],
+  [
+    "ward",
+    "больничная палата",
+    "He was moved to a private ward after surgery.",
+    "C1"
+  ],
+  [
+    "well-being",
+    "благополучие",
+    "Sleep is essential for mental well-being.",
+    "C1"
+  ],
+  [
+    "workout",
+    "тренировка",
+    "She does a quick workout every morning.",
+    "C1"
+  ],
+  [
+    "stem",
+    "стволовая клетка (stem cell)",
+    "Scientists are researching stem cell treatments.",
+    "C1"
+  ],
+  [
+    "terminal",
+    "неизлечимый, смертельный",
+    "He was diagnosed with a terminal illness.",
+    "C1"
+  ],
+  [
+    "twist",
+    "растяжение (twist an ankle)",
+    "She twisted her ankle running down the stairs.",
+    "C1"
+  ],
+  [
+    "blind",
+    "слепой",
+    "He has been blind since birth.",
+    "B2"
+  ],
+  [
+    "breast",
+    "грудь",
+    "The clinic offers regular breast screenings.",
+    "B2"
+  ],
+  [
+    "burn",
+    "ожог",
+    "She got a small burn from the hot pan.",
+    "B2"
+  ],
+  [
+    "collapse",
+    "коллапс; рушиться",
+    "He collapsed suddenly during the match.",
+    "B2"
+  ],
+  [
+    "conscious",
+    "находящийся в сознании",
+    "The patient was conscious throughout the procedure.",
+    "B2"
+  ],
+  [
+    "crisis",
+    "кризис (напр. midlife crisis)",
+    "He went through a health crisis in his forties.",
+    "B2"
+  ],
+  [
+    "harm",
+    "вред; вредить",
+    "Too much sun can harm your skin.",
+    "B2"
+  ],
+  [
+    "harmful",
+    "вредный",
+    "Smoking is extremely harmful to your lungs.",
+    "B2"
+  ],
+  [
+    "hearing",
+    "слух (способность слышать)",
+    "Her hearing has got worse with age.",
+    "B2"
+  ],
+  [
+    "organ",
+    "орган (тела)",
+    "The heart is one of the body's most important organs.",
+    "B2"
+  ],
+  [
+    "positive",
+    "положительный (результат теста)",
+    "The test came back positive.",
+    "B2"
+  ],
+  [
+    "procedure",
+    "процедура (медицинская)",
+    "It's a simple procedure that takes about an hour.",
+    "B2"
+  ],
+  [
+    "rescue",
+    "спасение; спасать",
+    "Paramedics arrived quickly to rescue the injured man.",
+    "B2"
+  ],
+  [
+    "routine",
+    "плановый, рутинный",
+    "She went in for a routine check-up.",
+    "B2"
+  ],
+  [
+    "screen",
+    "обследовать, проверять (на болезнь)",
+    "Doctors screen all newborns for the condition.",
+    "B2"
+  ],
+  [
+    "severe",
+    "сильный, тяжёлый (о боли, болезни)",
+    "He was rushed to hospital with severe chest pain.",
+    "B2"
+  ],
+  [
+    "slip",
+    "поскользнуться",
+    "She slipped on the wet floor and hurt her wrist.",
+    "B2"
+  ],
+  [
+    "specialist",
+    "специалист (врач)",
+    "The GP referred her to a specialist.",
+    "B2"
+  ],
+  [
+    "shot",
+    "укол, прививка",
+    "The nurse gave him a flu shot.",
+    "B2"
+  ],
+  [
+    "stiff",
+    "скованный, затёкший (о мышцах)",
+    "His neck felt stiff after the long flight.",
+    "B2"
+  ],
+  [
+    "stretch",
+    "растягивать(ся), делать растяжку",
+    "Always stretch before you go for a run.",
+    "B2"
+  ],
+  [
+    "unconscious",
+    "находящийся без сознания",
+    "He was unconscious when the paramedics arrived.",
+    "B2"
+  ],
+  [
+    "tear",
+    "слеза",
+    "A tear rolled down her cheek.",
+    "B2"
+  ],
+  [
+    "vital",
+    "жизненно важный",
+    "Sleep is vital for good health.",
+    "B2"
+  ],
+  [
+    "AIDS",
+    "СПИД",
+    "The charity raises money for AIDS research.",
+    "B2"
+  ],
+  [
+    "ambulance",
+    "скорая помощь",
+    "They called an ambulance immediately.",
+    "B2"
+  ],
+  [
+    "balanced",
+    "сбалансированный",
+    "A balanced diet includes plenty of fruit and vegetables.",
+    "B2"
+  ],
+  [
+    "beneficial",
+    "полезный, благотворный",
+    "Regular exercise is beneficial for your heart.",
+    "B2"
+  ],
+  [
+    "cheek",
+    "щека",
+    "She kissed him gently on the cheek.",
+    "B2"
+  ],
+  [
+    "deadly",
+    "смертельный, смертоносный",
+    "The disease can be deadly if untreated.",
+    "B2"
+  ],
+  [
+    "disorder",
+    "расстройство (психическое, физическое)",
+    "He was diagnosed with an anxiety disorder.",
+    "B2"
+  ],
+  [
+    "exposure",
+    "воздействие, подверженность (напр. солнцу)",
+    "Long exposure to the sun can damage your skin.",
+    "B2"
+  ],
+  [
+    "heal",
+    "заживать, исцелять",
+    "The wound took several weeks to heal.",
+    "B2"
+  ],
+  [
+    "immune",
+    "иммунный",
+    "A healthy diet strengthens your immune system.",
+    "B2"
+  ],
+  [
+    "isolate",
+    "изолировать",
+    "Patients with the virus were isolated from others.",
+    "B2"
+  ],
+  [
+    "joint",
+    "сустав",
+    "Her knee joint was badly swollen.",
+    "B2"
+  ],
+  [
+    "palm",
+    "ладонь",
+    "The doctor pressed gently on the palm of his hand.",
+    "B2"
+  ],
+  [
+    "relieve",
+    "облегчать (боль)",
+    "The tablets should relieve the pain quickly.",
+    "B2"
+  ],
+  [
+    "restore",
+    "восстанавливать (здоровье, силы)",
+    "The treatment helped restore her strength.",
+    "B2"
+  ],
+  [
+    "scratch",
+    "царапина; царапать",
+    "The cat left a small scratch on his arm.",
+    "B2"
+  ],
+  [
+    "screening",
+    "медицинское обследование",
+    "She goes for a screening every year.",
+    "B2"
+  ],
+  [
+    "starve",
+    "голодать",
+    "The prisoners were starved during the war.",
+    "B2"
+  ],
+  [
+    "stroke",
+    "инсульт",
+    "He suffered a stroke last winter.",
+    "B2"
+  ],
+  [
+    "swallow",
+    "глотать",
+    "It hurt to swallow because of the sore throat.",
+    "B2"
+  ],
+  [
+    "testing",
+    "тестирование, обследование",
+    "Regular testing helps catch the disease early.",
+    "B2"
+  ],
+  [
+    "tissue",
+    "ткань (биологическая); салфетка",
+    "The scan showed damage to the tissue.",
+    "B2"
+  ],
+  [
+    "age",
+    "стареть",
+    "He seems to have aged a lot this year.",
+    "B1"
+  ],
+  [
+    "bend",
+    "наклоняться, сгибать(ся)",
+    "Bend your knees slightly before you lift.",
+    "B1"
+  ],
+  [
+    "cut",
+    "порез",
+    "She got a small cut on her finger.",
+    "B1"
+  ],
+  [
+    "drunk",
+    "пьяный",
+    "He was too drunk to drive home.",
+    "B1"
+  ],
+  [
+    "emergency",
+    "чрезвычайная ситуация",
+    "Call an ambulance, this is an emergency.",
+    "B1"
+  ],
+  [
+    "appointment",
+    "запись к врачу",
+    "She has a dentist appointment tomorrow.",
+    "B1"
+  ],
+  [
+    "balance",
+    "равновесие",
+    "The illness affected his sense of balance.",
+    "B1"
+  ],
+  [
+    "bite",
+    "укус (насекомого, животного)",
+    "The insect bite made her arm swell.",
+    "B1"
+  ],
+  [
+    "needle",
+    "игла, шприц",
+    "The nurse used a small needle for the injection.",
+    "B1"
+  ],
+  [
+    "operation",
+    "операция (медицинская)",
+    "He had an operation on his knee last month.",
+    "B1"
+  ],
+  [
+    "painful",
+    "болезненный",
+    "The injury was very painful.",
+    "B1"
+  ],
+  [
+    "poison",
+    "яд; отравлять",
+    "The chemical is a dangerous poison.",
+    "B1"
+  ],
+  [
+    "pressure",
+    "давление (кровяное)",
+    "The doctor checked his blood pressure.",
+    "B1"
+  ],
+  [
+    "safety",
+    "безопасность",
+    "Always follow basic safety rules in the lab.",
+    "B1"
+  ],
+  [
+    "scan",
+    "сканировать (медицинское обследование)",
+    "Doctors scanned his chest to check for damage.",
+    "B1"
+  ],
+  [
+    "sex",
+    "пол (мужской/женский)",
+    "The form asks for your age and sex.",
+    "B1"
+  ],
+  [
+    "sexual",
+    "половой, сексуальный",
+    "The clinic offers advice on sexual health.",
+    "B1"
+  ],
+  [
+    "spread",
+    "распространяться (о болезни)",
+    "The infection spread quickly through the ward.",
+    "B1"
+  ],
+  [
+    "suffer",
+    "страдать (от болезни)",
+    "She suffers from severe headaches.",
+    "B1"
+  ],
+  [
+    "weigh",
+    "весить, взвешивать",
+    "The nurse weighed the baby at every visit.",
+    "B1"
+  ],
+  [
+    "sample",
+    "образец (анализа)",
+    "The nurse took a blood sample for testing.",
+    "B1"
+  ],
+  [
+    "sight",
+    "зрение",
+    "His sight got worse as he got older.",
+    "B1"
+  ],
+  [
+    "strength",
+    "физическая сила",
+    "Physiotherapy helped rebuild strength in his leg.",
+    "B1"
+  ],
+  [
+    "cold",
+    "простуда",
+    "She's got a bad cold and a sore throat.",
+    "A1"
+  ],
+  [
+    "fall",
+    "падение; падать",
+    "Be careful not to fall on the ice.",
+    "A1"
+  ],
+  [
+    "cut",
+    "порезать(ся)",
+    "He cut his finger while chopping vegetables.",
+    "A1"
+  ],
+  [
+    "hear",
+    "слышать",
+    "Can you hear me clearly?",
+    "A1"
+  ],
+  [
+    "routine",
+    "распорядок дня, рутина",
+    "She has a strict morning exercise routine.",
+    "A1"
+  ],
+  [
+    "sleep",
+    "спать",
+    "I didn't sleep well last night.",
+    "A1"
+  ],
+  [
+    "wake",
+    "просыпаться",
+    "He usually wakes up at six.",
+    "A1"
+  ],
+  [
+    "relax",
+    "расслаблять(ся) физически",
+    "The massage helped her muscles relax.",
+    "A1"
+  ],
+  [
+    "strong",
+    "физически сильный, крепкий",
+    "You need to be strong to carry that box.",
+    "A1"
+  ],
+  [
+    "alive",
+    "живой",
+    "The doctors kept him alive through the night.",
+    "A2"
+  ],
+  [
+    "asleep",
+    "спящий",
+    "The baby was fast asleep by eight.",
+    "A2"
+  ],
+  [
+    "burn",
+    "ожог; обжигать(ся)",
+    "Be careful, the pan is hot and will burn you.",
+    "A2"
+  ],
+  [
+    "care",
+    "забота, уход; заботиться",
+    "She takes great care of her elderly parents.",
+    "A2"
+  ],
+  [
+    "cigarette",
+    "сигарета",
+    "He gave up smoking cigarettes last year.",
+    "A2"
+  ],
+  [
+    "condition",
+    "состояние (здоровья)",
+    "He was in a serious condition after the accident.",
+    "A2"
+  ],
+  [
+    "attack",
+    "приступ (болезни)",
+    "He suffered a heart attack at fifty.",
+    "A2"
+  ],
+  [
+    "broken",
+    "сломанный (о кости)",
+    "She has a broken arm from the fall.",
+    "A2"
+  ],
+  [
+    "female",
+    "женский (пол)",
+    "The clinic offers advice on female health.",
+    "A2"
+  ],
+  [
+    "fit",
+    "в хорошей физической форме; быть впору",
+    "She exercises every day to stay fit.",
+    "A2"
+  ],
+  [
+    "fall",
+    "падение (травма)",
+    "He had a bad fall and hurt his knee.",
+    "A2"
+  ],
+  [
+    "male",
+    "мужской (пол)",
+    "The illness is more common in males.",
+    "A2"
+  ],
+  [
+    "medical",
+    "медицинский",
+    "She needed urgent medical attention.",
+    "A2"
+  ],
+  [
+    "prevent",
+    "предотвращать (болезнь)",
+    "Washing your hands helps prevent infection.",
+    "A2"
+  ],
+  [
+    "rest (sleep/relax)",
+    "отдых; отдыхать",
+    "The doctor told him to get plenty of rest.",
+    "A2"
+  ],
+  [
+    "safe",
+    "безопасный для здоровья",
+    "It's not safe to eat food after this date.",
+    "A2"
+  ],
+  [
+    "sleep",
+    "сон",
+    "She hasn't had much sleep this week.",
+    "A2"
+  ],
+  [
+    "smoke",
+    "дым; курить",
+    "He's been trying to quit smoking.",
+    "A2"
+  ],
+  [
+    "smoking",
+    "курение",
+    "Smoking is banned in most public places.",
+    "A2"
+  ],
+  [
+    "weak",
+    "слабый (физически)",
+    "He still felt weak after the illness.",
+    "A2"
+  ],
+  [
+    "temperature",
+    "температура тела",
+    "The nurse took his temperature.",
+    "A2"
+  ],
+  [
+    "stress",
+    "стресс; подчёркивать",
+    "Too much stress can affect your health.",
+    "A2"
+  ]
+]
