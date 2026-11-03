@@ -1,83 +1,124 @@
-﻿# WordGlance
+<div align="center">
+
+![Красная волна WordGlance](docs/assets/header.svg)
+
+# ◉_◉ WordGlance
+
+### Маленькое слово. Четыре часа на знакомство.
 
 Английское слово и глазки на панели задач через Windhawk.
 
-## Запуск
+[![Windows](docs/assets/badge-windows.svg)](#start) [![3 052 слова уровней B1–C1](docs/assets/badge-words.svg)](#vocabulary) [![Новое слово каждые 4 часа](docs/assets/badge-interval.svg)](#vocabulary) [![Ctrl+Alt+Win+W](docs/assets/badge-hotkey.svg)](#cambridge)
+
+**[Запуск](#start)** · **[Windhawk](#windhawk)** · **[Cambridge](#cambridge)** · **[Автозапуск](#autostart)** · **[ИИ-агенту](#agent-install)**
+
+◔_◔ ────────── ◉_◉ ────────── ᵔ_ᵔ ────────── －_－
+
+</div>
+
+---
+
+<a id="start"></a>
+
+## 🚀 Запуск
+
 1. Закройте окно прежнего помощника, если он использует порт 18743.
-2. Запустите Start.cmd. Окно можно свернуть, закрытие останавливает помощник.
-3. Откройте Open-Page.cmd или http://127.0.0.1:18743/ в браузере.
-index.html — шаблон; при прямом открытии файла подстановки не вычисляются.
+2. Запустите `Start.cmd`. Окно можно свернуть, закрытие останавливает помощник.
+3. Откройте `Open-Page.cmd` или http://127.0.0.1:18743/ в браузере.
+
+`index.html` — шаблон; при прямом открытии файла подстановки не вычисляются.
 Браузер можно закрыть: помощник продолжит отдавать HTML для Windhawk.
 
-## Словарь
+<a id="vocabulary"></a>
+
+## 📚 Словарь
+
 3052 уникальных слова с переводами: B1 — 636, B2 — 1171, C1 — 1245.
 Источник: lexica-vocabulary; уровни дополнительно сверены с выгрузкой Oxford 3000/5000.
-Адреса и версии — SOURCES.md. Это сторонние переводы, не переводы Cambridge.
+Адреса и версии — `SOURCES.md`. Это сторонние переводы, не переводы Cambridge.
 Уровень зависит от значения и части речи. В Cambridge он может отличаться.
 Порядок перемешан, смена по часам компьютера в 00, 04, 08, 12, 16, 20.
 Внутри интервала слово одинаково и после перезапуска. Цикл примерно 509 дней.
 После загрузки интернет нужен только для Cambridge.
 
-## Windhawk: HTML
+<a id="windhawk"></a>
+
+## ⚙️ Windhawk: HTML
+
 Taskbar Clock Customization → Settings → Web content items.
 Замените ПЕРВЫЙ существующий источник:
+
 - URL: http://127.0.0.1:18743/
 - Block start: пусто
-- Start: <clock-combined>
-- End: </clock-combined>
+- Start: `<clock-combined>`
+- End: `</clock-combined>`
 - Content mode: HTML
 - Maximum length: 50
 
 ВТОРОЙ источник:
+
 - URL: http://127.0.0.1:18743/
 - Block start: пусто
-- Start: <clock-meaning>
-- End: </clock-meaning>
+- Start: `<clock-meaning>`
+- End: `</clock-meaning>`
 - Content mode: HTML
 - Maximum length: 300
 
-Bottom line: %web1%
-Tooltip extra line: %web2_full%
-Web content update interval: 1 (минута).
+**Основные настройки часов:**
+
+- Bottom line: `%web1%`
+- Tooltip extra line: `%web2_full%`
+- Web content update interval: 1 (минута).
+
 Верхнюю строку оставьте своей.
 Номера зависят от порядка источников, поэтому замените старые первые два.
-Уберите %weather% и лишние %webN% из всех строк и подсказки.
+Уберите `%weather%` и лишние `%webN%` из всех строк и подсказки.
 На границе четырёхчасового интервала возможна задержка до минуты.
 
-Для одного слова: границы <clock-word> и </clock-word>.
-Для глазок: <clock-eyes> и </clock-eyes>.
+Для одного слова: границы `<clock-word>` и `</clock-word>`.
+Для глазок: `<clock-eyes>` и `</clock-eyes>`.
 Старые адреса /word, /meaning, /combined и /eyes продолжают работать:
 для них Content mode Plain text, все три границы пустые.
 
-## Почему мод может читать эту страницу
+<a id="how-it-works"></a>
+
+## 🔎 Почему мод может читать эту страницу
+
 Помощник подставляет данные в HTML ДО отправки ответа.
 Мод находит фрагмент между буквальными границами и декодирует HTML.
 JavaScript и открытый браузер не нужны. Слушается только 127.0.0.1.
 Проверка воспроизводит алгоритм ExtractWebContent из исходного кода мода.
 
-## Cambridge и Ctrl+Alt+Win+W
-Кнопка страницы и Open-Cambridge.cmd открывают текущее слово.
+<a id="cambridge"></a>
+
+## 📖 Cambridge и `Ctrl+Alt+Win+W`
+
+Кнопка страницы и `Open-Cambridge.cmd` открывают текущее слово.
 Адрес /cambridge отвечает HTTP 302 на официальный поиск Cambridge.
 
-Сочетание Ctrl+Alt+Win+W зарегистрировано отдельным фоновым обработчиком:
-Hotkey-Listener.ps1 + WindowsHotkey.cs. Он использует Windows RegisterHotKey
+Сочетание `Ctrl+Alt+Win+W` зарегистрировано отдельным фоновым обработчиком:
+`Hotkey-Listener.ps1` + `WindowsHotkey.cs`. Он использует Windows RegisterHotKey
 с модификаторами Ctrl, Alt и Win (без Shift). Удержание клавиши не открывает
 несколько вкладок благодаря MOD_NOREPEAT.
 
 Обычный ярлык .lnk не поддерживает Win. Ярлык WordGlance Cambridge на рабочем
 столе сохранён только для ручного открытия, его поле горячей клавиши очищено.
-Enable-Hotkey.ps1 обновляет этот ярлык и запускает задачу обработчика.
+`Enable-Hotkey.ps1` обновляет этот ярлык и запускает задачу обработчика.
 Повторные экземпляры обработчика исключены задачей и mutex сеанса.
 
 Сочетание действует из других приложений в текущем сеансе пользователя.
 Обработчик и сервер должны работать. На экране блокировки сочетание не действует.
 Если регистрация не удалась из-за конфликта, задача завершится ошибкой,
-а причина будет в logs/hotkey.log; чужое сочетание не переназначается.
+а причина будет в `logs/hotkey.log`; чужое сочетание не переназначается.
 
-## Установленный автозапуск
+<a id="autostart"></a>
+
+## 🌙 Установленный автозапуск
+
 Две задачи в корневой папке Планировщика Windows:
+
 - WordGlance — слова и глазки в фоне: скрытый постоянный сервер, вход пользователя + 5 секунд.
-- WordGlance — горячая клавиша Cambridge: скрытый постоянный обработчик Ctrl+Alt+Win+W, вход пользователя + 20 секунд.
+- WordGlance — горячая клавиша Cambridge: скрытый постоянный обработчик `Ctrl+Alt+Win+W`, вход пользователя + 20 секунд.
 
 Обе задачи работают от обычного пользователя, разрешены от батареи и
 перезапускаются при сбое. Повторные экземпляры не запускаются.
@@ -85,10 +126,13 @@ Enable-Hotkey.ps1 обновляет этот ярлык и запускает �
 означает «задача выполняется», а не ошибку.
 Отдельные задания на каждые четыре часа не нужны.
 
-Журнал сервера: logs/background.log.
-Журнал клавиши: logs/hotkey.log.
-Подтверждение регистрации: logs/hotkey-status.json (проверь также PID процесса).
-Register-Autostart.ps1 создаёт/обновляет задачи для текущего пользователя
+Журнал сервера: `logs/background.log`.
+
+Журнал клавиши: `logs/hotkey.log`.
+
+Подтверждение регистрации: `logs/hotkey-status.json` (проверь также PID процесса).
+
+`Register-Autostart.ps1` создаёт/обновляет задачи для текущего пользователя
 и снимает старое сочетание с собственного ярлыка.
 После установки запусти обе задачи; сервер не требует перезапуска при
 изменении только HTML.
@@ -96,37 +140,71 @@ Register-Autostart.ps1 создаёт/обновляет задачи для т�
 Для остановки клавиши заверши вторую задачу в Планировщике.
 Для отключения автозапуска отключи соответствующую задачу.
 
-## Ручной автозапуск для других компьютеров
+<a id="other-computers"></a>
+
+## 💻 Ручной автозапуск для других компьютеров
+
 Не добавляйте ярлык в Автозагрузку на этом компьютере: Планировщик уже настроен.
-Создайте ярлык Start.cmd, задайте окно «Свернутое в значок».
+Создайте ярлык `Start.cmd`, задайте окно «Свернутое в значок».
 Win+R → shell:startup → поместите туда ярлык.
 
-## Файлы
-index.html — шаблон страницы; clock-helper.ps1 — помощник; words.csv — словарь.
-Start.cmd / Open-Page.cmd / Open-Cambridge.cmd — запуск и открытие страниц.
-Enable-Hotkey.ps1 / Enable-Hotkey.cmd — настройка ручного ярлыка и запуск задачи клавиши. Hotkey-Listener.ps1 / WindowsHotkey.cs — регистрация Ctrl+Alt+Win+W.
-SOURCES.md — происхождение данных; tests — проверки и результаты.
-source-oxford.json, downloaded-source, translation-source.zip — скачанные данные.
-archive — первая версия. preview.jpg — проверенный внешний вид.
+<a id="files"></a>
 
-Все файлы проекта собраны в C:\Programming\2026\WordGlance.
+## 🗂️ Файлы
+
+`index.html` — шаблон страницы; `clock-helper.ps1` — помощник; `words.csv` — словарь.
+
+`Start.cmd` / `Open-Page.cmd` / `Open-Cambridge.cmd` — запуск и открытие страниц.
+
+`Enable-Hotkey.ps1` / `Enable-Hotkey.cmd` — настройка ручного ярлыка и запуск задачи клавиши. `Hotkey-Listener.ps1` / `WindowsHotkey.cs` — регистрация `Ctrl+Alt+Win+W`.
+
+`SOURCES.md` — происхождение данных; tests — проверки и результаты.
+
+`source-oxford.json`, downloaded-source, `translation-source.zip` — скачанные данные.
+
+archive — первая версия. `preview.jpg` — проверенный внешний вид.
+
+Все файлы проекта собраны в `C:\Programming\2026\WordGlance`.
+
 Исходные файлы в папке visualizations сохранены как резервная копия.
 
-## Проверки
+<a id="checks"></a>
+
+## 🧪 Проверки
+
 В одном окне:
+
+```powershell
 powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\clock-helper.ps1 -Port 18744
+```
+
 В другом:
+
+```powershell
 powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\tests\Verify.ps1 -Port 18744
+```
 
 Проверены словарь, смена слова, глаза, HTML для User-Agent WindhawkMod,
 извлечение границами, старые маршруты, перенаправление Cambridge.
 Фактическая конфигурация интерфейса Windhawk не изменялась и не проверялась.
-Свойства ручного ярлыка и успешная регистрация Ctrl+Alt+Win+W проверяются отдельно от HTTP. См. tests/Verify-Hotkey.ps1.
+Свойства ручного ярлыка и успешная регистрация `Ctrl+Alt+Win+W` проверяются отдельно от HTTP. См. `tests/Verify-Hotkey.ps1`.
 
+<a id="agent-install"></a>
 
+## 🤖 Установка ИИ-агентом
 
-## Установка ИИ-агентом
 Инструкция установки, настройки Windhawk, фоновых задач и проверки результата: [AGENTS.md](AGENTS.md).
 
+Проверка 3 ноября 2026: `Ctrl+Alt+Win+W` успешно зарегистрировано Windows, нажатие из Проводника обработано; запрос открытия Cambridge подтверждён журналом. Обе фоновые задачи работают. Результат: `tests/hotkey-ui-result.json`.
 
-Проверка 3 ноября 2026: Ctrl+Alt+Win+W успешно зарегистрировано Windows, нажатие из Проводника обработано; запрос открытия Cambridge подтверждён журналом. Обе фоновые задачи работают. Результат: tests/hotkey-ui-result.json.
+---
+
+<div align="center">
+
+**WordGlance** · слово под часами, Cambridge под рукой.
+
+[Инструкция ИИ-агенту](AGENTS.md) · [Источники словаря](SOURCES.md)
+
+![Красная волна WordGlance](docs/assets/footer.svg)
+
+</div>
